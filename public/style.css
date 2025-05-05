@@ -1,0 +1,147 @@
+body {
+    margin: 0;
+    padding: 0;
+    --theme-color: #701570;
+}
+
+h3 {
+  text-align: center;
+  font-weight: bold;
+}
+.list-group-item {
+  border-radius: 0.75rem;
+  margin-bottom: 0.5rem;
+  transition: background-color 0.3s ease;
+}
+.list-group-item:hover {
+  background-color: #f0f0f0;
+}
+
+#map {
+  width: 100%;
+  height: 100vh;
+}
+.icon-gray {
+  filter: grayscale(100%) ;
+}
+.info {
+  color: #333;
+  background: white;
+  padding: 10px;
+  border: 1px solid #5d5d5d;
+  border-radius: 4px;
+  width: 72px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.info p {
+  padding: 0;
+  margin: 0 0 2px 0;
+  font-weight: bold;
+}
+.legend {
+  line-height: 18px;
+}
+.progressValue {
+  font-size: 25px;
+  line-height: 1;
+  margin: 0;
+}
+.legend-inner-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.legend-gradient {
+  background: linear-gradient(to top,
+    #ffffff,
+    #f0dcf5,
+    #dcb4eb,
+    #b96ed2,
+    #8c32a5,
+    #701570
+  );
+  height: 100px;
+  width: 20px;
+}
+.legend-labels {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100px; /* same as legend-gradient */
+  margin-left: 10px;
+}
+.legend-labels span {
+  text-align: left;
+}
+
+
+
+/* leaflet-locatecontrol 現在地ボタンの色調整 */
+.leaflet-control-locate a {
+  background-color: white !important;
+  color: #66b3ff !important;
+  border: 1px solid #66b3ff !important;
+}
+.leaflet-control-locate.active a,
+.leaflet-control-locate.active-follow a {
+  background-color: white !important;
+  color: #66b3ff !important;
+  border: 1px solid #66b3ff !important;
+}
+
+.mode-toggle {
+  position: relative;
+  display: flex;
+  border: 2px solid var(--theme-color);
+  border-radius: 8px;
+  overflow: hidden;
+  width: 100%;
+  height: 40px;
+}
+
+.toggle-button {
+  flex: 1;
+  background: none;
+  border: 1px solid var(--theme-color);
+  font-size: 0.95rem;
+  z-index: 1;
+  color: var(--theme-color);
+  transition: color 0.3s ease;
+}
+
+.toggle-button.active {
+  background-color: var(--theme-color);
+  color: #fff;
+}
+
+.toggle-indicator {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 50%;
+  background-color: var(--theme-color);
+  transition: transform 0.3s ease;
+  z-index: 0;
+}
+
+.mode-left .toggle-indicator {
+  transform: translateX(0%);
+}
+
+.mode-right .toggle-indicator {
+  transform: translateX(100%);
+}
+
+@media (max-width: 767px) {
+  .info {
+    padding: 7px;
+  }
+  .legend {
+    margin-bottom: 50px !important;
+  }
+  .progressValue {
+    font-size: 25px;
+  }
+}

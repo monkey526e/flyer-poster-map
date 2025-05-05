@@ -1,0 +1,767 @@
+[
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "南台1丁目",
+    "flyer_count": 0,
+    "households": 793,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "南台2丁目",
+    "flyer_count": 0,
+    "households": 3339,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "南台3丁目",
+    "flyer_count": 0,
+    "households": 3226,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "南台4丁目",
+    "flyer_count": 0,
+    "households": 2622,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "南台5丁目",
+    "flyer_count": 0,
+    "households": 2630,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "弥生町1丁目",
+    "flyer_count": 0,
+    "households": 4278,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "弥生町2丁目",
+    "flyer_count": 0,
+    "households": 3595,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "弥生町3丁目",
+    "flyer_count": 0,
+    "households": 1876,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "弥生町4丁目",
+    "flyer_count": 0,
+    "households": 2074,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "弥生町5丁目",
+    "flyer_count": 0,
+    "households": 2133,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "弥生町6丁目",
+    "flyer_count": 0,
+    "households": 943,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "本町1丁目",
+    "flyer_count": 0,
+    "households": 2502,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "本町2丁目",
+    "flyer_count": 400,
+    "households": 3192,
+    "flyer_progress": 0.12531328320802004
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "本町3丁目",
+    "flyer_count": 0,
+    "households": 3775,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "本町4丁目",
+    "flyer_count": 400,
+    "households": 4882,
+    "flyer_progress": 1
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "本町5丁目",
+    "flyer_count": 0,
+    "households": 2598,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "本町6丁目",
+    "flyer_count": 0,
+    "households": 3211,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "中央1丁目",
+    "flyer_count": 0,
+    "households": 4077,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "中央2丁目",
+    "flyer_count": 0,
+    "households": 4144,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "中央3丁目",
+    "flyer_count": 0,
+    "households": 3724,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "中央4丁目",
+    "flyer_count": 0,
+    "households": 4428,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "中央5丁目",
+    "flyer_count": 0,
+    "households": 3660,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "東中野1丁目",
+    "flyer_count": 0,
+    "households": 4709,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "東中野2丁目",
+    "flyer_count": 0,
+    "households": 2763,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "東中野3丁目",
+    "flyer_count": 0,
+    "households": 2253,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "東中野4丁目",
+    "flyer_count": 0,
+    "households": 3041,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "東中野5丁目",
+    "flyer_count": 0,
+    "households": 2906,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "中野1丁目",
+    "flyer_count": 0,
+    "households": 3872,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "中野2丁目",
+    "flyer_count": 0,
+    "households": 1560,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "中野3丁目",
+    "flyer_count": 0,
+    "households": 3997,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "中野4丁目",
+    "flyer_count": 0,
+    "households": 888,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "中野5丁目",
+    "flyer_count": 0,
+    "households": 4620,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "中野6丁目",
+    "flyer_count": 0,
+    "households": 2249,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "上高田1丁目",
+    "flyer_count": 0,
+    "households": 3494,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "上高田2丁目",
+    "flyer_count": 0,
+    "households": 3339,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "上高田3丁目",
+    "flyer_count": 0,
+    "households": 2161,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "上高田4丁目",
+    "flyer_count": 0,
+    "households": 2361,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "上高田5丁目",
+    "flyer_count": 0,
+    "households": 1996,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "新井1丁目",
+    "flyer_count": 0,
+    "households": 3053,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "新井2丁目",
+    "flyer_count": 0,
+    "households": 3413,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "新井3丁目",
+    "flyer_count": 0,
+    "households": 1697,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "新井4丁目",
+    "flyer_count": 200,
+    "households": 1940,
+    "flyer_progress": 0.10309278350515463
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "新井5丁目",
+    "flyer_count": 0,
+    "households": 1628,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "沼袋1丁目",
+    "flyer_count": 0,
+    "households": 2294,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "沼袋2丁目",
+    "flyer_count": 0,
+    "households": 2318,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "沼袋3丁目",
+    "flyer_count": 0,
+    "households": 2067,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "沼袋4丁目",
+    "flyer_count": 0,
+    "households": 2099,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "松が丘1丁目",
+    "flyer_count": 0,
+    "households": 2044,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "松が丘2丁目",
+    "flyer_count": 0,
+    "households": 1904,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "江原町1丁目",
+    "flyer_count": 0,
+    "households": 1799,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "江原町2丁目",
+    "flyer_count": 0,
+    "households": 1906,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "江原町3丁目",
+    "flyer_count": 0,
+    "households": 1534,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "江古田1丁目",
+    "flyer_count": 0,
+    "households": 1668,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "江古田2丁目",
+    "flyer_count": 0,
+    "households": 1547,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "江古田3丁目",
+    "flyer_count": 0,
+    "households": 1604,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "江古田4丁目",
+    "flyer_count": 0,
+    "households": 2649,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "丸山1丁目",
+    "flyer_count": 0,
+    "households": 1135,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "丸山2丁目",
+    "flyer_count": 0,
+    "households": 1657,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "野方1丁目",
+    "flyer_count": 0,
+    "households": 3154,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "野方2丁目",
+    "flyer_count": 0,
+    "households": 3000,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "野方3丁目",
+    "flyer_count": 0,
+    "households": 1561,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "野方4丁目",
+    "flyer_count": 0,
+    "households": 2095,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "野方5丁目",
+    "flyer_count": 0,
+    "households": 1386,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "野方6丁目",
+    "flyer_count": 0,
+    "households": 2277,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "大和町1丁目",
+    "flyer_count": 0,
+    "households": 3350,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "大和町2丁目",
+    "flyer_count": 0,
+    "households": 1990,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "大和町3丁目",
+    "flyer_count": 0,
+    "households": 2316,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "大和町4丁目",
+    "flyer_count": 0,
+    "households": 2093,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "若宮1丁目",
+    "flyer_count": 0,
+    "households": 2592,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "若宮2丁目",
+    "flyer_count": 0,
+    "households": 2290,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "若宮3丁目",
+    "flyer_count": 0,
+    "households": 2976,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "白鷺1丁目",
+    "flyer_count": 0,
+    "households": 2217,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "白鷺2丁目",
+    "flyer_count": 0,
+    "households": 2360,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "白鷺3丁目",
+    "flyer_count": 0,
+    "households": 1750,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "鷺宮1丁目",
+    "flyer_count": 0,
+    "households": 1736,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "鷺宮2丁目",
+    "flyer_count": 0,
+    "households": 832,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "鷺宮3丁目",
+    "flyer_count": 0,
+    "households": 2499,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "鷺宮4丁目",
+    "flyer_count": 0,
+    "households": 1983,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "鷺宮5丁目",
+    "flyer_count": 0,
+    "households": 1207,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "鷺宮6丁目",
+    "flyer_count": 0,
+    "households": 1804,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "上鷺宮1丁目",
+    "flyer_count": 0,
+    "households": 1276,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "上鷺宮2丁目",
+    "flyer_count": 0,
+    "households": 1384,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "上鷺宮3丁目",
+    "flyer_count": 0,
+    "households": 1161,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "上鷺宮4丁目",
+    "flyer_count": 0,
+    "households": 1244,
+    "flyer_progress": 0.0
+  },
+  {
+    "city_name": "中野区",
+    "candidate_family": "奥本",
+    "version": 1,
+    "area_name": "上鷺宮5丁目",
+    "flyer_count": 0,
+    "households": 1693,
+    "flyer_progress": 0.0
+  }
+]

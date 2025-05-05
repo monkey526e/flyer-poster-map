@@ -1,0 +1,338 @@
+[
+  {
+    "candidate_id": 1,
+    "name": "柳澤 誉之",
+    "furigana": "",
+    "city": "千代田区",
+    "district": "千代田区",
+    "name_senkyo": "柳澤 誉之"
+  },
+  {
+    "candidate_id": 2,
+    "name": "天野 こころ",
+    "furigana": "",
+    "city": "中央区",
+    "district": "中央区",
+    "name_senkyo": "天野 こころ"
+  },
+  {
+    "candidate_id": 3,
+    "name": "平良 雄大",
+    "furigana": "たいら　ゆうだい",
+    "city": "新宿区",
+    "district": "新宿区",
+    "name_senkyo": "平良 雄大"
+  },
+  {
+    "candidate_id": 4,
+    "name": "弘田 敏康",
+    "furigana": "ひろた　としやす",
+    "city": "新宿区",
+    "district": "新宿区",
+    "name_senkyo": "弘田 敏康"
+  },
+  {
+    "candidate_id": 5,
+    "name": "岩崎 朗",
+    "furigana": "いわさき　あきら",
+    "city": "台東区",
+    "district": "台東区",
+    "name_senkyo": "岩崎 朗"
+  },
+  {
+    "candidate_id": 6,
+    "name": "坪田 幸典",
+    "furigana": "",
+    "city": "墨田区",
+    "district": "墨田区",
+    "name_senkyo": "坪田 幸典"
+  },
+  {
+    "candidate_id": 7,
+    "name": "岡本 悠司",
+    "furigana": "",
+    "city": "品川区",
+    "district": "品川区",
+    "name_senkyo": "岡本 悠司"
+  },
+  {
+    "candidate_id": 8,
+    "name": "松尾 祐樹",
+    "furigana": "",
+    "city": "目黒区",
+    "district": "目黒区",
+    "name_senkyo": "松尾 祐樹"
+  },
+  {
+    "candidate_id": 9,
+    "name": "加藤 哲雄",
+    "furigana": "",
+    "city": "大田区",
+    "district": "大田区",
+    "name_senkyo": "加藤 哲雄"
+  },
+  {
+    "candidate_id": 10,
+    "name": "山下 興一",
+    "furigana": "",
+    "city": "大田区",
+    "district": "大田区",
+    "name_senkyo": "山下 興一"
+  },
+  {
+    "candidate_id": 11,
+    "name": "久禮 義継",
+    "furigana": "",
+    "city": "世田谷区",
+    "district": "世田谷区",
+    "name_senkyo": "久禮 義継"
+  },
+  {
+    "candidate_id": 12,
+    "name": "鳥海 彩",
+    "furigana": "",
+    "city": "世田谷区",
+    "district": "世田谷区",
+    "name_senkyo": "鳥海 彩"
+  },
+  {
+    "candidate_id": 13,
+    "name": "萩原 崇",
+    "furigana": "",
+    "city": "渋谷区",
+    "district": "渋谷区",
+    "name_senkyo": "萩原 崇"
+  },
+  {
+    "candidate_id": 14,
+    "name": "奥本 和樹",
+    "furigana": "おくもと　かずき",
+    "city": "中野区",
+    "district": "中野区",
+    "name_senkyo": "奥本 和樹"
+  },
+  {
+    "candidate_id": 15,
+    "name": "青柳 充哉",
+    "furigana": "あおやぎ　みつや",
+    "city": "杉並区",
+    "district": "杉並区",
+    "name_senkyo": "青柳 充哉"
+  },
+  {
+    "candidate_id": 16,
+    "name": "小澄 健士郎",
+    "furigana": "こすみ　けんしろう",
+    "city": "杉並区",
+    "district": "杉並区",
+    "name_senkyo": "小澄 健士郎"
+  },
+  {
+    "candidate_id": 17,
+    "name": "増田 義彦",
+    "furigana": "ますだ　よしひこ",
+    "city": "杉並区",
+    "district": "杉並区",
+    "name_senkyo": "増田 義彦"
+  },
+  {
+    "candidate_id": 18,
+    "name": "中村 幸信",
+    "furigana": "",
+    "city": "豊島区",
+    "district": "豊島区",
+    "name_senkyo": "中村 幸信"
+  },
+  {
+    "candidate_id": 19,
+    "name": "南 貴大",
+    "furigana": "みなみ　たかひろ",
+    "city": "荒川区",
+    "district": "荒川区",
+    "name_senkyo": "南 貴大"
+  },
+  {
+    "candidate_id": 20,
+    "name": "船本 優月",
+    "furigana": "",
+    "city": "板橋区",
+    "district": "板橋区",
+    "name_senkyo": "船本 優月"
+  },
+  {
+    "candidate_id": 21,
+    "name": "上間 貴子",
+    "furigana": "",
+    "city": "練馬区",
+    "district": "練馬区",
+    "name_senkyo": "上間 貴子"
+  },
+  {
+    "candidate_id": 22,
+    "name": "恵良 康寛",
+    "furigana": "",
+    "city": "足立区",
+    "district": "足立区",
+    "name_senkyo": "恵良 康寛"
+  },
+  {
+    "candidate_id": 23,
+    "name": "片岡 宏誌",
+    "furigana": "",
+    "city": "足立区",
+    "district": "足立区",
+    "name_senkyo": "片岡 宏誌"
+  },
+  {
+    "candidate_id": 24,
+    "name": "岩見 奈津代",
+    "furigana": "",
+    "city": "葛飾区",
+    "district": "葛飾区",
+    "name_senkyo": "岩見 奈津代"
+  },
+  {
+    "candidate_id": 25,
+    "name": "福岡 奈津美",
+    "furigana": "",
+    "city": "江戸川区",
+    "district": "江戸川区",
+    "name_senkyo": "福岡 奈津美"
+  },
+  {
+    "candidate_id": 26,
+    "name": "須浪 薫",
+    "furigana": "",
+    "city": "八王子市",
+    "district": "八王子市",
+    "name_senkyo": "須浪 薫"
+  },
+  {
+    "candidate_id": 27,
+    "name": "尾花山 和哉",
+    "furigana": "おばなやま　かずや",
+    "city": "武蔵野市",
+    "district": "武蔵野市",
+    "name_senkyo": "尾花山 和哉"
+  },
+  {
+    "candidate_id": 28,
+    "name": "村越 淳太",
+    "furigana": "",
+    "city": "府中市",
+    "district": "府中市",
+    "name_senkyo": "村越 淳太"
+  },
+  {
+    "candidate_id": 29,
+    "name": "松尾 将大",
+    "furigana": "",
+    "city": "昭島市",
+    "district": "昭島市",
+    "name_senkyo": "松尾 将大"
+  },
+  {
+    "candidate_id": 30,
+    "name": "浅井 直之",
+    "furigana": "",
+    "city": "町田市",
+    "district": "町田市",
+    "name_senkyo": "浅井 直之"
+  },
+  {
+    "candidate_id": 31,
+    "name": "瀧口 昭彦",
+    "furigana": "",
+    "city": "町田市",
+    "district": "町田市",
+    "name_senkyo": "瀧口 昭彦"
+  },
+  {
+    "candidate_id": 32,
+    "name": "助田 雄也",
+    "furigana": "",
+    "city": "小金井市",
+    "district": "小金井市",
+    "name_senkyo": "助田 雄也"
+  },
+  {
+    "candidate_id": 33,
+    "name": "大塚 貴一",
+    "furigana": "おおつか　きいち",
+    "city": "小平市",
+    "district": "小平市",
+    "name_senkyo": "大塚 貴一"
+  },
+  {
+    "candidate_id": 34,
+    "name": "石田 豊",
+    "furigana": "",
+    "city": "日野市",
+    "district": "日野市",
+    "name_senkyo": "石田 豊"
+  },
+  {
+    "candidate_id": 35,
+    "name": "河添 寛",
+    "furigana": "かわぞえ　ひろし",
+    "city": "西東京市",
+    "district": "西東京市",
+    "name_senkyo": "河添 寛"
+  },
+  {
+    "candidate_id": 36,
+    "name": "渡辺 純平",
+    "furigana": "わたなべ　じゅんぺい",
+    "city": "稲城市,多摩市",
+    "district": "南多摩",
+    "name_senkyo": "渡辺 純平"
+  },
+  {
+    "candidate_id": 37,
+    "name": "奥泉 淳広",
+    "furigana": "おくいずみ　あきひろ",
+    "city": "羽村市,福生市,あきる野市,瑞穂町,奥多摩町,日の出町,檜原村",
+    "district": "西多摩",
+    "name_senkyo": "奥泉 淳広"
+  },
+  {
+    "candidate_id": 38,
+    "name": "石井 正樹",
+    "furigana": "",
+    "city": "東村山市,東大和市,武蔵村山市",
+    "district": "北多摩第一",
+    "name_senkyo": "石井 正樹"
+  },
+  {
+    "candidate_id": 39,
+    "name": "土田 浩史",
+    "furigana": "つちだ　ひろし",
+    "city": "国立市,国分寺市",
+    "district": "北多摩第二",
+    "name_senkyo": "土田 浩史"
+  },
+  {
+    "candidate_id": 40,
+    "name": "甲口 信明",
+    "furigana": "こうぐち　のぶあき",
+    "city": "調布市,狛江市",
+    "district": "北多摩第三",
+    "name_senkyo": "甲口 信明"
+  },
+  {
+    "candidate_id": 41,
+    "name": "仲 れいこ",
+    "furigana": "",
+    "city": "東久留米市,清瀬市",
+    "district": "北多摩第四",
+    "name_senkyo": "仲 れいこ"
+  },
+  {
+    "candidate_id": 42,
+    "name": "奥村 光貴",
+    "furigana": "おくむら　こうき",
+    "city": "大島町,利島村,新島村,神津島村,三宅村,御蔵島村,八丈町,青ヶ島村,小笠原村",
+    "district": "島部",
+    "name_senkyo": "奥村 光貴"
+  }
+]

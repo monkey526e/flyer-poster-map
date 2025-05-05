@@ -1,0 +1,6032 @@
+{
+  "1": {
+    "city_name": "千代田区",
+    "area_name": "丸の内",
+    "households": "10"
+  },
+  "2": {
+    "city_name": "千代田区",
+    "area_name": "大手町",
+    "households": "2"
+  },
+  "3": {
+    "city_name": "千代田区",
+    "area_name": "内幸町",
+    "households": "1"
+  },
+  "4": {
+    "city_name": "千代田区",
+    "area_name": "有楽町",
+    "households": "11"
+  },
+  "5": {
+    "city_name": "千代田区",
+    "area_name": "霞が関",
+    "households": "12"
+  },
+  "6": {
+    "city_name": "千代田区",
+    "area_name": "永田町",
+    "households": "347"
+  },
+  "7": {
+    "city_name": "千代田区",
+    "area_name": "平河町",
+    "households": "1082"
+  },
+  "8": {
+    "city_name": "千代田区",
+    "area_name": "麹町",
+    "households": "1355"
+  },
+  "9": {
+    "city_name": "千代田区",
+    "area_name": "九段南",
+    "households": "1487"
+  },
+  "10": {
+    "city_name": "千代田区",
+    "area_name": "九段北",
+    "households": "1220"
+  },
+  "11": {
+    "city_name": "千代田区",
+    "area_name": "富士見",
+    "households": "2158"
+  },
+  "12": {
+    "city_name": "千代田区",
+    "area_name": "飯田橋",
+    "households": "1481"
+  },
+  "13": {
+    "city_name": "千代田区",
+    "area_name": "一ツ橋",
+    "households": "40"
+  },
+  "14": {
+    "city_name": "千代田区",
+    "area_name": "神田神保町",
+    "households": "2075"
+  },
+  "15": {
+    "city_name": "千代田区",
+    "area_name": "三崎町",
+    "households": "546"
+  },
+  "16": {
+    "city_name": "千代田区",
+    "area_name": "西神田",
+    "households": "697"
+  },
+  "17": {
+    "city_name": "千代田区",
+    "area_name": "猿楽町",
+    "households": "679"
+  },
+  "18": {
+    "city_name": "千代田区",
+    "area_name": "神田駿河台",
+    "households": "721"
+  },
+  "19": {
+    "city_name": "千代田区",
+    "area_name": "神田錦町",
+    "households": "822"
+  },
+  "20": {
+    "city_name": "千代田区",
+    "area_name": "神田小川町",
+    "households": "710"
+  },
+  "21": {
+    "city_name": "千代田区",
+    "area_name": "内神田",
+    "households": "982"
+  },
+  "22": {
+    "city_name": "千代田区",
+    "area_name": "神田淡路町",
+    "households": "657"
+  },
+  "23": {
+    "city_name": "千代田区",
+    "area_name": "神田須田町",
+    "households": "1142"
+  },
+  "24": {
+    "city_name": "千代田区",
+    "area_name": "外神田",
+    "households": "2370"
+  },
+  "25": {
+    "city_name": "千代田区",
+    "area_name": "鍛冶町",
+    "households": "179"
+  },
+  "26": {
+    "city_name": "千代田区",
+    "area_name": "岩本町",
+    "households": "2508"
+  },
+  "27": {
+    "city_name": "千代田区",
+    "area_name": "東神田",
+    "households": "2320"
+  },
+  "28": {
+    "city_name": "千代田区",
+    "area_name": "神田佐久間町",
+    "households": "982"
+  },
+  "29": {
+    "city_name": "中央区",
+    "area_name": "八重洲",
+    "households": "30"
+  },
+  "30": {
+    "city_name": "中央区",
+    "area_name": "京橋",
+    "households": "152"
+  },
+  "31": {
+    "city_name": "中央区",
+    "area_name": "銀座",
+    "households": "2334"
+  },
+  "32": {
+    "city_name": "中央区",
+    "area_name": "新富",
+    "households": "1422"
+  },
+  "33": {
+    "city_name": "中央区",
+    "area_name": "入船",
+    "households": "1630"
+  },
+  "34": {
+    "city_name": "中央区",
+    "area_name": "湊",
+    "households": "3850"
+  },
+  "35": {
+    "city_name": "中央区",
+    "area_name": "築地",
+    "households": "5355"
+  },
+  "36": {
+    "city_name": "中央区",
+    "area_name": "八丁堀",
+    "households": "2206"
+  },
+  "37": {
+    "city_name": "中央区",
+    "area_name": "新川",
+    "households": "5495"
+  },
+  "38": {
+    "city_name": "中央区",
+    "area_name": "日本橋本石町",
+    "households": "55"
+  },
+  "39": {
+    "city_name": "中央区",
+    "area_name": "日本橋室町",
+    "households": "179"
+  },
+  "40": {
+    "city_name": "中央区",
+    "area_name": "日本橋本町",
+    "households": "915"
+  },
+  "41": {
+    "city_name": "中央区",
+    "area_name": "日本橋堀留町",
+    "households": "1860"
+  },
+  "42": {
+    "city_name": "中央区",
+    "area_name": "日本橋人形町",
+    "households": "2819"
+  },
+  "43": {
+    "city_name": "中央区",
+    "area_name": "日本橋蛎殻町",
+    "households": "3110"
+  },
+  "44": {
+    "city_name": "中央区",
+    "area_name": "日本橋馬喰町",
+    "households": "1423"
+  },
+  "45": {
+    "city_name": "中央区",
+    "area_name": "東日本橋",
+    "households": "3452"
+  },
+  "46": {
+    "city_name": "中央区",
+    "area_name": "日本橋浜町",
+    "households": "6498"
+  },
+  "47": {
+    "city_name": "中央区",
+    "area_name": "日本橋",
+    "households": "200"
+  },
+  "48": {
+    "city_name": "中央区",
+    "area_name": "日本橋茅場町",
+    "households": "842"
+  },
+  "49": {
+    "city_name": "中央区",
+    "area_name": "佃",
+    "households": "7226"
+  },
+  "50": {
+    "city_name": "中央区",
+    "area_name": "月島",
+    "households": "8865"
+  },
+  "51": {
+    "city_name": "中央区",
+    "area_name": "勝どき",
+    "households": "13304"
+  },
+  "52": {
+    "city_name": "中央区",
+    "area_name": "晴海",
+    "households": "7553"
+  },
+  "53": {
+    "city_name": "港区",
+    "area_name": "芝",
+    "households": "9524"
+  },
+  "54": {
+    "city_name": "港区",
+    "area_name": "海岸",
+    "households": "4742"
+  },
+  "55": {
+    "city_name": "港区",
+    "area_name": "東新橋",
+    "households": "1505"
+  },
+  "56": {
+    "city_name": "港区",
+    "area_name": "新橋",
+    "households": "2058"
+  },
+  "57": {
+    "city_name": "港区",
+    "area_name": "西新橋",
+    "households": "1184"
+  },
+  "58": {
+    "city_name": "港区",
+    "area_name": "三田",
+    "households": "10603"
+  },
+  "59": {
+    "city_name": "港区",
+    "area_name": "浜松町",
+    "households": "1671"
+  },
+  "60": {
+    "city_name": "港区",
+    "area_name": "芝大門",
+    "households": "863"
+  },
+  "61": {
+    "city_name": "港区",
+    "area_name": "芝公園",
+    "households": "1106"
+  },
+  "62": {
+    "city_name": "港区",
+    "area_name": "虎ノ門",
+    "households": "2577"
+  },
+  "63": {
+    "city_name": "港区",
+    "area_name": "愛宕",
+    "households": "389"
+  },
+  "64": {
+    "city_name": "港区",
+    "area_name": "南麻布",
+    "households": "9418"
+  },
+  "65": {
+    "city_name": "港区",
+    "area_name": "元麻布",
+    "households": "2406"
+  },
+  "66": {
+    "city_name": "港区",
+    "area_name": "西麻布",
+    "households": "5913"
+  },
+  "67": {
+    "city_name": "港区",
+    "area_name": "六本木",
+    "households": "8638"
+  },
+  "68": {
+    "city_name": "港区",
+    "area_name": "麻布台",
+    "households": "1052"
+  },
+  "69": {
+    "city_name": "港区",
+    "area_name": "麻布十番",
+    "households": "3838"
+  },
+  "70": {
+    "city_name": "港区",
+    "area_name": "東麻布",
+    "households": "4111"
+  },
+  "71": {
+    "city_name": "港区",
+    "area_name": "元赤坂",
+    "households": "375"
+  },
+  "72": {
+    "city_name": "港区",
+    "area_name": "赤坂",
+    "households": "11024"
+  },
+  "73": {
+    "city_name": "港区",
+    "area_name": "南青山",
+    "households": "7160"
+  },
+  "74": {
+    "city_name": "港区",
+    "area_name": "北青山",
+    "households": "1257"
+  },
+  "75": {
+    "city_name": "港区",
+    "area_name": "高輪",
+    "households": "12140"
+  },
+  "76": {
+    "city_name": "港区",
+    "area_name": "白金",
+    "households": "9658"
+  },
+  "77": {
+    "city_name": "港区",
+    "area_name": "白金台",
+    "households": "5806"
+  },
+  "78": {
+    "city_name": "港区",
+    "area_name": "芝浦",
+    "households": "13432"
+  },
+  "79": {
+    "city_name": "港区",
+    "area_name": "港南",
+    "households": "10723"
+  },
+  "80": {
+    "city_name": "港区",
+    "area_name": "台場",
+    "households": "2517"
+  },
+  "81": {
+    "city_name": "新宿区",
+    "area_name": "四谷",
+    "households": "2906"
+  },
+  "82": {
+    "city_name": "新宿区",
+    "area_name": "若葉",
+    "households": "2558"
+  },
+  "83": {
+    "city_name": "新宿区",
+    "area_name": "新宿",
+    "households": "13970"
+  },
+  "84": {
+    "city_name": "新宿区",
+    "area_name": "歌舞伎町",
+    "households": "1767"
+  },
+  "85": {
+    "city_name": "新宿区",
+    "area_name": "市谷田町",
+    "households": "584"
+  },
+  "86": {
+    "city_name": "新宿区",
+    "area_name": "市谷砂土原町",
+    "households": "902"
+  },
+  "87": {
+    "city_name": "新宿区",
+    "area_name": "市谷加賀町",
+    "households": "890"
+  },
+  "88": {
+    "city_name": "新宿区",
+    "area_name": "神楽坂",
+    "households": "1577"
+  },
+  "89": {
+    "city_name": "新宿区",
+    "area_name": "原町",
+    "households": "3023"
+  },
+  "90": {
+    "city_name": "新宿区",
+    "area_name": "戸山",
+    "households": "5547"
+  },
+  "91": {
+    "city_name": "新宿区",
+    "area_name": "百人町",
+    "households": "9730"
+  },
+  "92": {
+    "city_name": "新宿区",
+    "area_name": "大久保",
+    "households": "10492"
+  },
+  "93": {
+    "city_name": "新宿区",
+    "area_name": "西早稲田",
+    "households": "12126"
+  },
+  "94": {
+    "city_name": "新宿区",
+    "area_name": "高田馬場",
+    "households": "12306"
+  },
+  "95": {
+    "city_name": "新宿区",
+    "area_name": "下落合",
+    "households": "9564"
+  },
+  "96": {
+    "city_name": "新宿区",
+    "area_name": "中落合",
+    "households": "9508"
+  },
+  "97": {
+    "city_name": "新宿区",
+    "area_name": "上落合",
+    "households": "10191"
+  },
+  "98": {
+    "city_name": "新宿区",
+    "area_name": "西落合",
+    "households": "8507"
+  },
+  "99": {
+    "city_name": "新宿区",
+    "area_name": "中井",
+    "households": "3023"
+  },
+  "100": {
+    "city_name": "新宿区",
+    "area_name": "北新宿",
+    "households": "16960"
+  },
+  "101": {
+    "city_name": "新宿区",
+    "area_name": "西新宿",
+    "households": "16570"
+  },
+  "102": {
+    "city_name": "文京区",
+    "area_name": "後楽",
+    "households": "1283"
+  },
+  "103": {
+    "city_name": "文京区",
+    "area_name": "春日",
+    "households": "3306"
+  },
+  "104": {
+    "city_name": "文京区",
+    "area_name": "小石川",
+    "households": "12871"
+  },
+  "105": {
+    "city_name": "文京区",
+    "area_name": "白山",
+    "households": "11279"
+  },
+  "106": {
+    "city_name": "文京区",
+    "area_name": "千石",
+    "households": "10534"
+  },
+  "107": {
+    "city_name": "文京区",
+    "area_name": "水道",
+    "households": "4172"
+  },
+  "108": {
+    "city_name": "文京区",
+    "area_name": "小日向",
+    "households": "4295"
+  },
+  "109": {
+    "city_name": "文京区",
+    "area_name": "大塚",
+    "households": "11453"
+  },
+  "110": {
+    "city_name": "文京区",
+    "area_name": "関口",
+    "households": "4431"
+  },
+  "111": {
+    "city_name": "文京区",
+    "area_name": "目白台",
+    "households": "4253"
+  },
+  "112": {
+    "city_name": "文京区",
+    "area_name": "音羽",
+    "households": "3941"
+  },
+  "113": {
+    "city_name": "文京区",
+    "area_name": "本郷",
+    "households": "14452"
+  },
+  "114": {
+    "city_name": "文京区",
+    "area_name": "湯島",
+    "households": "7641"
+  },
+  "115": {
+    "city_name": "文京区",
+    "area_name": "西片",
+    "households": "3084"
+  },
+  "116": {
+    "city_name": "文京区",
+    "area_name": "向丘",
+    "households": "4297"
+  },
+  "117": {
+    "city_name": "文京区",
+    "area_name": "弥生",
+    "households": "1220"
+  },
+  "118": {
+    "city_name": "文京区",
+    "area_name": "根津",
+    "households": "4124"
+  },
+  "119": {
+    "city_name": "文京区",
+    "area_name": "千駄木",
+    "households": "11951"
+  },
+  "120": {
+    "city_name": "文京区",
+    "area_name": "本駒込",
+    "households": "15074"
+  },
+  "121": {
+    "city_name": "台東区",
+    "area_name": "台東",
+    "households": "5625"
+  },
+  "122": {
+    "city_name": "台東区",
+    "area_name": "東上野",
+    "households": "5675"
+  },
+  "123": {
+    "city_name": "台東区",
+    "area_name": "上野",
+    "households": "2506"
+  },
+  "124": {
+    "city_name": "台東区",
+    "area_name": "池之端",
+    "households": "3388"
+  },
+  "125": {
+    "city_name": "台東区",
+    "area_name": "北上野",
+    "households": "2809"
+  },
+  "126": {
+    "city_name": "台東区",
+    "area_name": "下谷",
+    "households": "4338"
+  },
+  "127": {
+    "city_name": "台東区",
+    "area_name": "入谷",
+    "households": "3816"
+  },
+  "128": {
+    "city_name": "台東区",
+    "area_name": "根岸",
+    "households": "7862"
+  },
+  "129": {
+    "city_name": "台東区",
+    "area_name": "竜泉",
+    "households": "5057"
+  },
+  "130": {
+    "city_name": "台東区",
+    "area_name": "三ノ輪",
+    "households": "2060"
+  },
+  "131": {
+    "city_name": "台東区",
+    "area_name": "上野桜木",
+    "households": "1344"
+  },
+  "132": {
+    "city_name": "台東区",
+    "area_name": "谷中",
+    "households": "4781"
+  },
+  "133": {
+    "city_name": "台東区",
+    "area_name": "柳橋",
+    "households": "2289"
+  },
+  "134": {
+    "city_name": "台東区",
+    "area_name": "浅草橋",
+    "households": "4945"
+  },
+  "135": {
+    "city_name": "台東区",
+    "area_name": "鳥越",
+    "households": "1914"
+  },
+  "136": {
+    "city_name": "台東区",
+    "area_name": "蔵前",
+    "households": "4598"
+  },
+  "137": {
+    "city_name": "台東区",
+    "area_name": "小島",
+    "households": "2190"
+  },
+  "138": {
+    "city_name": "台東区",
+    "area_name": "三筋",
+    "households": "2751"
+  },
+  "139": {
+    "city_name": "台東区",
+    "area_name": "寿",
+    "households": "3750"
+  },
+  "140": {
+    "city_name": "台東区",
+    "area_name": "駒形",
+    "households": "1546"
+  },
+  "141": {
+    "city_name": "台東区",
+    "area_name": "元浅草",
+    "households": "4146"
+  },
+  "142": {
+    "city_name": "台東区",
+    "area_name": "松が谷",
+    "households": "5098"
+  },
+  "143": {
+    "city_name": "台東区",
+    "area_name": "西浅草",
+    "households": "4703"
+  },
+  "144": {
+    "city_name": "台東区",
+    "area_name": "雷門",
+    "households": "1729"
+  },
+  "145": {
+    "city_name": "台東区",
+    "area_name": "花川戸",
+    "households": "1358"
+  },
+  "146": {
+    "city_name": "台東区",
+    "area_name": "浅草",
+    "households": "10880"
+  },
+  "147": {
+    "city_name": "台東区",
+    "area_name": "千束",
+    "households": "7102"
+  },
+  "148": {
+    "city_name": "台東区",
+    "area_name": "東浅草",
+    "households": "1930"
+  },
+  "149": {
+    "city_name": "台東区",
+    "area_name": "日本堤",
+    "households": "4451"
+  },
+  "150": {
+    "city_name": "台東区",
+    "area_name": "今戸",
+    "households": "2570"
+  },
+  "151": {
+    "city_name": "台東区",
+    "area_name": "清川",
+    "households": "3984"
+  },
+  "152": {
+    "city_name": "台東区",
+    "area_name": "橋場",
+    "households": "2961"
+  },
+  "153": {
+    "city_name": "墨田区",
+    "area_name": "両国",
+    "households": "4679"
+  },
+  "154": {
+    "city_name": "墨田区",
+    "area_name": "千歳",
+    "households": "3010"
+  },
+  "155": {
+    "city_name": "墨田区",
+    "area_name": "緑",
+    "households": "8233"
+  },
+  "156": {
+    "city_name": "墨田区",
+    "area_name": "立川",
+    "households": "3824"
+  },
+  "157": {
+    "city_name": "墨田区",
+    "area_name": "菊川",
+    "households": "4724"
+  },
+  "158": {
+    "city_name": "墨田区",
+    "area_name": "江東橋",
+    "households": "6150"
+  },
+  "159": {
+    "city_name": "墨田区",
+    "area_name": "横網",
+    "households": "783"
+  },
+  "160": {
+    "city_name": "墨田区",
+    "area_name": "亀沢",
+    "households": "4649"
+  },
+  "161": {
+    "city_name": "墨田区",
+    "area_name": "石原",
+    "households": "6364"
+  },
+  "162": {
+    "city_name": "墨田区",
+    "area_name": "本所",
+    "households": "4935"
+  },
+  "163": {
+    "city_name": "墨田区",
+    "area_name": "東駒形",
+    "households": "3941"
+  },
+  "164": {
+    "city_name": "墨田区",
+    "area_name": "吾妻橋",
+    "households": "3035"
+  },
+  "165": {
+    "city_name": "墨田区",
+    "area_name": "錦糸",
+    "households": "3203"
+  },
+  "166": {
+    "city_name": "墨田区",
+    "area_name": "太平",
+    "households": "6199"
+  },
+  "167": {
+    "city_name": "墨田区",
+    "area_name": "横川",
+    "households": "4597"
+  },
+  "168": {
+    "city_name": "墨田区",
+    "area_name": "業平",
+    "households": "5502"
+  },
+  "169": {
+    "city_name": "墨田区",
+    "area_name": "向島",
+    "households": "9173"
+  },
+  "170": {
+    "city_name": "墨田区",
+    "area_name": "東向島",
+    "households": "12542"
+  },
+  "171": {
+    "city_name": "墨田区",
+    "area_name": "堤通",
+    "households": "3089"
+  },
+  "172": {
+    "city_name": "墨田区",
+    "area_name": "墨田",
+    "households": "8609"
+  },
+  "173": {
+    "city_name": "墨田区",
+    "area_name": "押上",
+    "households": "5354"
+  },
+  "174": {
+    "city_name": "墨田区",
+    "area_name": "京島",
+    "households": "6297"
+  },
+  "175": {
+    "city_name": "墨田区",
+    "area_name": "文花",
+    "households": "5158"
+  },
+  "176": {
+    "city_name": "墨田区",
+    "area_name": "八広",
+    "households": "10635"
+  },
+  "177": {
+    "city_name": "墨田区",
+    "area_name": "立花",
+    "households": "10114"
+  },
+  "178": {
+    "city_name": "墨田区",
+    "area_name": "東墨田",
+    "households": "969"
+  },
+  "179": {
+    "city_name": "江東区",
+    "area_name": "清澄",
+    "households": "2057"
+  },
+  "180": {
+    "city_name": "江東区",
+    "area_name": "常盤",
+    "households": "1288"
+  },
+  "181": {
+    "city_name": "江東区",
+    "area_name": "新大橋",
+    "households": "3507"
+  },
+  "182": {
+    "city_name": "江東区",
+    "area_name": "森下",
+    "households": "6493"
+  },
+  "183": {
+    "city_name": "江東区",
+    "area_name": "平野",
+    "households": "3544"
+  },
+  "184": {
+    "city_name": "江東区",
+    "area_name": "三好",
+    "households": "2706"
+  },
+  "185": {
+    "city_name": "江東区",
+    "area_name": "白河",
+    "households": "5654"
+  },
+  "186": {
+    "city_name": "江東区",
+    "area_name": "佐賀",
+    "households": "1680"
+  },
+  "187": {
+    "city_name": "江東区",
+    "area_name": "永代",
+    "households": "2579"
+  },
+  "188": {
+    "city_name": "江東区",
+    "area_name": "福住",
+    "households": "1535"
+  },
+  "189": {
+    "city_name": "江東区",
+    "area_name": "深川",
+    "households": "2606"
+  },
+  "190": {
+    "city_name": "江東区",
+    "area_name": "門前仲町",
+    "households": "1492"
+  },
+  "191": {
+    "city_name": "江東区",
+    "area_name": "富岡",
+    "households": "2663"
+  },
+  "192": {
+    "city_name": "江東区",
+    "area_name": "牡丹",
+    "households": "2111"
+  },
+  "193": {
+    "city_name": "江東区",
+    "area_name": "古石場",
+    "households": "2497"
+  },
+  "194": {
+    "city_name": "江東区",
+    "area_name": "越中島",
+    "households": "3421"
+  },
+  "195": {
+    "city_name": "江東区",
+    "area_name": "塩浜",
+    "households": "8287"
+  },
+  "196": {
+    "city_name": "江東区",
+    "area_name": "枝川",
+    "households": "4636"
+  },
+  "197": {
+    "city_name": "江東区",
+    "area_name": "豊洲",
+    "households": "15502"
+  },
+  "198": {
+    "city_name": "江東区",
+    "area_name": "東雲",
+    "households": "10710"
+  },
+  "199": {
+    "city_name": "江東区",
+    "area_name": "有明",
+    "households": "4987"
+  },
+  "200": {
+    "city_name": "江東区",
+    "area_name": "辰巳",
+    "households": "5252"
+  },
+  "201": {
+    "city_name": "江東区",
+    "area_name": "潮見",
+    "households": "2917"
+  },
+  "202": {
+    "city_name": "江東区",
+    "area_name": "青海",
+    "households": "689"
+  },
+  "203": {
+    "city_name": "江東区",
+    "area_name": "千石",
+    "households": "3377"
+  },
+  "204": {
+    "city_name": "江東区",
+    "area_name": "扇橋",
+    "households": "4726"
+  },
+  "205": {
+    "city_name": "江東区",
+    "area_name": "猿江",
+    "households": "3344"
+  },
+  "206": {
+    "city_name": "江東区",
+    "area_name": "住吉",
+    "households": "2925"
+  },
+  "207": {
+    "city_name": "江東区",
+    "area_name": "毛利",
+    "households": "2255"
+  },
+  "208": {
+    "city_name": "江東区",
+    "area_name": "木場",
+    "households": "6101"
+  },
+  "209": {
+    "city_name": "江東区",
+    "area_name": "東陽",
+    "households": "13864"
+  },
+  "210": {
+    "city_name": "江東区",
+    "area_name": "亀戸",
+    "households": "33156"
+  },
+  "211": {
+    "city_name": "江東区",
+    "area_name": "大島",
+    "households": "32791"
+  },
+  "212": {
+    "city_name": "江東区",
+    "area_name": "北砂",
+    "households": "18815"
+  },
+  "213": {
+    "city_name": "江東区",
+    "area_name": "東砂",
+    "households": "16532"
+  },
+  "214": {
+    "city_name": "江東区",
+    "area_name": "南砂",
+    "households": "19752"
+  },
+  "215": {
+    "city_name": "江東区",
+    "area_name": "新砂",
+    "households": "2416"
+  },
+  "216": {
+    "city_name": "江東区",
+    "area_name": "新木場",
+    "households": "24"
+  },
+  "217": {
+    "city_name": "江東区",
+    "area_name": "夢の島",
+    "households": "-"
+  },
+  "218": {
+    "city_name": "江東区",
+    "area_name": "若洲",
+    "households": "-"
+  },
+  "219": {
+    "city_name": "品川区",
+    "area_name": "荏原",
+    "households": "12504"
+  },
+  "220": {
+    "city_name": "品川区",
+    "area_name": "大井",
+    "households": "16072"
+  },
+  "221": {
+    "city_name": "品川区",
+    "area_name": "大崎",
+    "households": "8241"
+  },
+  "222": {
+    "city_name": "品川区",
+    "area_name": "勝島",
+    "households": "2427"
+  },
+  "223": {
+    "city_name": "品川区",
+    "area_name": "上大崎",
+    "households": "8212"
+  },
+  "224": {
+    "city_name": "品川区",
+    "area_name": "北品川",
+    "households": "11615"
+  },
+  "225": {
+    "city_name": "品川区",
+    "area_name": "小山",
+    "households": "11998"
+  },
+  "226": {
+    "city_name": "品川区",
+    "area_name": "小山台",
+    "households": "3157"
+  },
+  "227": {
+    "city_name": "品川区",
+    "area_name": "戸越",
+    "households": "10477"
+  },
+  "228": {
+    "city_name": "品川区",
+    "area_name": "中延",
+    "households": "9604"
+  },
+  "229": {
+    "city_name": "品川区",
+    "area_name": "西大井",
+    "households": "10259"
+  },
+  "230": {
+    "city_name": "品川区",
+    "area_name": "西五反田",
+    "households": "17246"
+  },
+  "231": {
+    "city_name": "品川区",
+    "area_name": "西品川",
+    "households": "6526"
+  },
+  "232": {
+    "city_name": "品川区",
+    "area_name": "西中延",
+    "households": "4327"
+  },
+  "233": {
+    "city_name": "品川区",
+    "area_name": "旗の台",
+    "households": "9602"
+  },
+  "234": {
+    "city_name": "品川区",
+    "area_name": "東大井",
+    "households": "13642"
+  },
+  "235": {
+    "city_name": "品川区",
+    "area_name": "東五反田",
+    "households": "9688"
+  },
+  "236": {
+    "city_name": "品川区",
+    "area_name": "東品川",
+    "households": "13392"
+  },
+  "237": {
+    "city_name": "品川区",
+    "area_name": "東中延",
+    "households": "2410"
+  },
+  "238": {
+    "city_name": "品川区",
+    "area_name": "平塚",
+    "households": "6057"
+  },
+  "239": {
+    "city_name": "品川区",
+    "area_name": "広町",
+    "households": "41"
+  },
+  "240": {
+    "city_name": "品川区",
+    "area_name": "二葉",
+    "households": "6999"
+  },
+  "241": {
+    "city_name": "品川区",
+    "area_name": "南大井",
+    "households": "17764"
+  },
+  "242": {
+    "city_name": "品川区",
+    "area_name": "南品川",
+    "households": "11918"
+  },
+  "243": {
+    "city_name": "品川区",
+    "area_name": "八潮",
+    "households": "5327"
+  },
+  "244": {
+    "city_name": "品川区",
+    "area_name": "豊町",
+    "households": "8136"
+  },
+  "245": {
+    "city_name": "目黒区",
+    "area_name": "駒場",
+    "households": "3954"
+  },
+  "246": {
+    "city_name": "目黒区",
+    "area_name": "青葉台",
+    "households": "5009"
+  },
+  "247": {
+    "city_name": "目黒区",
+    "area_name": "東山",
+    "households": "6677"
+  },
+  "248": {
+    "city_name": "目黒区",
+    "area_name": "大橋",
+    "households": "4089"
+  },
+  "249": {
+    "city_name": "目黒区",
+    "area_name": "上目黒",
+    "households": "11243"
+  },
+  "250": {
+    "city_name": "目黒区",
+    "area_name": "中目黒",
+    "households": "8587"
+  },
+  "251": {
+    "city_name": "目黒区",
+    "area_name": "三田",
+    "households": "3599"
+  },
+  "252": {
+    "city_name": "目黒区",
+    "area_name": "目黒",
+    "households": "7348"
+  },
+  "253": {
+    "city_name": "目黒区",
+    "area_name": "下目黒",
+    "households": "12287"
+  },
+  "254": {
+    "city_name": "目黒区",
+    "area_name": "中町",
+    "households": "5467"
+  },
+  "255": {
+    "city_name": "目黒区",
+    "area_name": "五本木",
+    "households": "5895"
+  },
+  "256": {
+    "city_name": "目黒区",
+    "area_name": "祐天寺",
+    "households": "2879"
+  },
+  "257": {
+    "city_name": "目黒区",
+    "area_name": "中央町",
+    "households": "4834"
+  },
+  "258": {
+    "city_name": "目黒区",
+    "area_name": "目黒本町",
+    "households": "13422"
+  },
+  "259": {
+    "city_name": "目黒区",
+    "area_name": "原町",
+    "households": "3152"
+  },
+  "260": {
+    "city_name": "目黒区",
+    "area_name": "洗足",
+    "households": "3075"
+  },
+  "261": {
+    "city_name": "目黒区",
+    "area_name": "南",
+    "households": "3892"
+  },
+  "262": {
+    "city_name": "目黒区",
+    "area_name": "碑文谷",
+    "households": "8899"
+  },
+  "263": {
+    "city_name": "目黒区",
+    "area_name": "鷹番",
+    "households": "5666"
+  },
+  "264": {
+    "city_name": "目黒区",
+    "area_name": "平町",
+    "households": "3943"
+  },
+  "265": {
+    "city_name": "目黒区",
+    "area_name": "大岡山",
+    "households": "3479"
+  },
+  "266": {
+    "city_name": "目黒区",
+    "area_name": "緑が丘",
+    "households": "3984"
+  },
+  "267": {
+    "city_name": "目黒区",
+    "area_name": "自由が丘",
+    "households": "4154"
+  },
+  "268": {
+    "city_name": "目黒区",
+    "area_name": "中根",
+    "households": "4208"
+  },
+  "269": {
+    "city_name": "目黒区",
+    "area_name": "柿の木坂",
+    "households": "4835"
+  },
+  "270": {
+    "city_name": "目黒区",
+    "area_name": "八雲",
+    "households": "7358"
+  },
+  "271": {
+    "city_name": "目黒区",
+    "area_name": "東が丘",
+    "households": "3780"
+  },
+  "272": {
+    "city_name": "大田区",
+    "area_name": "大森中",
+    "households": "6670"
+  },
+  "273": {
+    "city_name": "大田区",
+    "area_name": "大森東",
+    "households": "10337"
+  },
+  "274": {
+    "city_name": "大田区",
+    "area_name": "大森南",
+    "households": "6488"
+  },
+  "275": {
+    "city_name": "大田区",
+    "area_name": "大森本町",
+    "households": "4714"
+  },
+  "276": {
+    "city_name": "大田区",
+    "area_name": "大森西",
+    "households": "19947"
+  },
+  "277": {
+    "city_name": "大田区",
+    "area_name": "山王",
+    "households": "10705"
+  },
+  "278": {
+    "city_name": "大田区",
+    "area_name": "大森北",
+    "households": "16721"
+  },
+  "279": {
+    "city_name": "大田区",
+    "area_name": "平和島",
+    "households": "273"
+  },
+  "280": {
+    "city_name": "大田区",
+    "area_name": "昭和島",
+    "households": "-"
+  },
+  "281": {
+    "city_name": "大田区",
+    "area_name": "北馬込",
+    "households": "4576"
+  },
+  "282": {
+    "city_name": "大田区",
+    "area_name": "東馬込",
+    "households": "3602"
+  },
+  "283": {
+    "city_name": "大田区",
+    "area_name": "中馬込",
+    "households": "7056"
+  },
+  "284": {
+    "city_name": "大田区",
+    "area_name": "西馬込",
+    "households": "3952"
+  },
+  "285": {
+    "city_name": "大田区",
+    "area_name": "南馬込",
+    "households": "13126"
+  },
+  "286": {
+    "city_name": "大田区",
+    "area_name": "中央",
+    "households": "13202"
+  },
+  "287": {
+    "city_name": "大田区",
+    "area_name": "池上",
+    "households": "17068"
+  },
+  "288": {
+    "city_name": "大田区",
+    "area_name": "南雪谷",
+    "households": "6358"
+  },
+  "289": {
+    "city_name": "大田区",
+    "area_name": "田園調布",
+    "households": "8866"
+  },
+  "290": {
+    "city_name": "大田区",
+    "area_name": "鵜の木",
+    "households": "7814"
+  },
+  "291": {
+    "city_name": "大田区",
+    "area_name": "南久が原",
+    "households": "3222"
+  },
+  "292": {
+    "city_name": "大田区",
+    "area_name": "千鳥",
+    "households": "5682"
+  },
+  "293": {
+    "city_name": "大田区",
+    "area_name": "仲池上",
+    "households": "4738"
+  },
+  "294": {
+    "city_name": "大田区",
+    "area_name": "久が原",
+    "households": "10785"
+  },
+  "295": {
+    "city_name": "大田区",
+    "area_name": "南千束",
+    "households": "3893"
+  },
+  "296": {
+    "city_name": "大田区",
+    "area_name": "石川町",
+    "households": "2705"
+  },
+  "297": {
+    "city_name": "大田区",
+    "area_name": "東雪谷",
+    "households": "9227"
+  },
+  "298": {
+    "city_name": "大田区",
+    "area_name": "上池台",
+    "households": "12049"
+  },
+  "299": {
+    "city_name": "大田区",
+    "area_name": "北千束",
+    "households": "7827"
+  },
+  "300": {
+    "city_name": "大田区",
+    "area_name": "北糀谷",
+    "households": "2549"
+  },
+  "301": {
+    "city_name": "大田区",
+    "area_name": "西糀谷",
+    "households": "11703"
+  },
+  "302": {
+    "city_name": "大田区",
+    "area_name": "東糀谷",
+    "households": "6823"
+  },
+  "303": {
+    "city_name": "大田区",
+    "area_name": "萩中",
+    "households": "6587"
+  },
+  "304": {
+    "city_name": "大田区",
+    "area_name": "本羽田",
+    "households": "5665"
+  },
+  "305": {
+    "city_name": "大田区",
+    "area_name": "羽田",
+    "households": "8699"
+  },
+  "306": {
+    "city_name": "大田区",
+    "area_name": "羽田空港",
+    "households": "-"
+  },
+  "307": {
+    "city_name": "大田区",
+    "area_name": "西六郷",
+    "households": "10129"
+  },
+  "308": {
+    "city_name": "大田区",
+    "area_name": "仲六郷",
+    "households": "9634"
+  },
+  "309": {
+    "city_name": "大田区",
+    "area_name": "南蒲田",
+    "households": "7423"
+  },
+  "310": {
+    "city_name": "大田区",
+    "area_name": "東六郷",
+    "households": "5720"
+  },
+  "311": {
+    "city_name": "大田区",
+    "area_name": "南六郷",
+    "households": "8613"
+  },
+  "312": {
+    "city_name": "大田区",
+    "area_name": "下丸子",
+    "households": "11755"
+  },
+  "313": {
+    "city_name": "大田区",
+    "area_name": "矢口",
+    "households": "8505"
+  },
+  "314": {
+    "city_name": "大田区",
+    "area_name": "東矢口",
+    "households": "7124"
+  },
+  "315": {
+    "city_name": "大田区",
+    "area_name": "多摩川",
+    "households": "7034"
+  },
+  "316": {
+    "city_name": "大田区",
+    "area_name": "新蒲田",
+    "households": "5131"
+  },
+  "317": {
+    "city_name": "大田区",
+    "area_name": "西蒲田",
+    "households": "17458"
+  },
+  "318": {
+    "city_name": "大田区",
+    "area_name": "蒲田",
+    "households": "15508"
+  },
+  "319": {
+    "city_name": "大田区",
+    "area_name": "蒲田本町",
+    "households": "3532"
+  },
+  "320": {
+    "city_name": "大田区",
+    "area_name": "東蒲田",
+    "households": "3622"
+  },
+  "321": {
+    "city_name": "大田区",
+    "area_name": "東海",
+    "households": "-"
+  },
+  "322": {
+    "city_name": "大田区",
+    "area_name": "城南島",
+    "households": "-"
+  },
+  "323": {
+    "city_name": "大田区",
+    "area_name": "京浜島",
+    "households": "-"
+  },
+  "324": {
+    "city_name": "大田区",
+    "area_name": "多摩川河川敷",
+    "households": "63"
+  },
+  "325": {
+    "city_name": "世田谷区",
+    "area_name": "池尻",
+    "households": "9740"
+  },
+  "326": {
+    "city_name": "世田谷区",
+    "area_name": "三宿",
+    "households": "5240"
+  },
+  "327": {
+    "city_name": "世田谷区",
+    "area_name": "太子堂",
+    "households": "12039"
+  },
+  "328": {
+    "city_name": "世田谷区",
+    "area_name": "三軒茶屋",
+    "households": "8462"
+  },
+  "329": {
+    "city_name": "世田谷区",
+    "area_name": "若林",
+    "households": "11593"
+  },
+  "330": {
+    "city_name": "世田谷区",
+    "area_name": "世田谷",
+    "households": "9629"
+  },
+  "331": {
+    "city_name": "世田谷区",
+    "area_name": "桜",
+    "households": "5986"
+  },
+  "332": {
+    "city_name": "世田谷区",
+    "area_name": "弦巻",
+    "households": "12176"
+  },
+  "333": {
+    "city_name": "世田谷区",
+    "area_name": "経堂",
+    "households": "11511"
+  },
+  "334": {
+    "city_name": "世田谷区",
+    "area_name": "宮坂",
+    "households": "7235"
+  },
+  "335": {
+    "city_name": "世田谷区",
+    "area_name": "桜丘",
+    "households": "10083"
+  },
+  "336": {
+    "city_name": "世田谷区",
+    "area_name": "下馬",
+    "households": "15261"
+  },
+  "337": {
+    "city_name": "世田谷区",
+    "area_name": "野沢",
+    "households": "8259"
+  },
+  "338": {
+    "city_name": "世田谷区",
+    "area_name": "上馬",
+    "households": "13002"
+  },
+  "339": {
+    "city_name": "世田谷区",
+    "area_name": "駒沢",
+    "households": "9488"
+  },
+  "340": {
+    "city_name": "世田谷区",
+    "area_name": "代田",
+    "households": "14175"
+  },
+  "341": {
+    "city_name": "世田谷区",
+    "area_name": "梅丘",
+    "households": "5051"
+  },
+  "342": {
+    "city_name": "世田谷区",
+    "area_name": "豪徳寺",
+    "households": "3766"
+  },
+  "343": {
+    "city_name": "世田谷区",
+    "area_name": "代沢",
+    "households": "9638"
+  },
+  "344": {
+    "city_name": "世田谷区",
+    "area_name": "羽根木",
+    "households": "4283"
+  },
+  "345": {
+    "city_name": "世田谷区",
+    "area_name": "大原",
+    "households": "5567"
+  },
+  "346": {
+    "city_name": "世田谷区",
+    "area_name": "北沢",
+    "households": "11935"
+  },
+  "347": {
+    "city_name": "世田谷区",
+    "area_name": "松原",
+    "households": "18070"
+  },
+  "348": {
+    "city_name": "世田谷区",
+    "area_name": "赤堤",
+    "households": "11321"
+  },
+  "349": {
+    "city_name": "世田谷区",
+    "area_name": "桜上水",
+    "households": "7476"
+  },
+  "350": {
+    "city_name": "世田谷区",
+    "area_name": "東玉川",
+    "households": "4192"
+  },
+  "351": {
+    "city_name": "世田谷区",
+    "area_name": "奥沢",
+    "households": "16064"
+  },
+  "352": {
+    "city_name": "世田谷区",
+    "area_name": "玉川田園調布",
+    "households": "1138"
+  },
+  "353": {
+    "city_name": "世田谷区",
+    "area_name": "玉堤",
+    "households": "2773"
+  },
+  "354": {
+    "city_name": "世田谷区",
+    "area_name": "等々力",
+    "households": "13741"
+  },
+  "355": {
+    "city_name": "世田谷区",
+    "area_name": "尾山台",
+    "households": "3360"
+  },
+  "356": {
+    "city_name": "世田谷区",
+    "area_name": "上野毛",
+    "households": "6424"
+  },
+  "357": {
+    "city_name": "世田谷区",
+    "area_name": "野毛",
+    "households": "2870"
+  },
+  "358": {
+    "city_name": "世田谷区",
+    "area_name": "中町",
+    "households": "6666"
+  },
+  "359": {
+    "city_name": "世田谷区",
+    "area_name": "上用賀",
+    "households": "6882"
+  },
+  "360": {
+    "city_name": "世田谷区",
+    "area_name": "用賀",
+    "households": "8320"
+  },
+  "361": {
+    "city_name": "世田谷区",
+    "area_name": "玉川",
+    "households": "6428"
+  },
+  "362": {
+    "city_name": "世田谷区",
+    "area_name": "瀬田",
+    "households": "7077"
+  },
+  "363": {
+    "city_name": "世田谷区",
+    "area_name": "玉川台",
+    "households": "3496"
+  },
+  "364": {
+    "city_name": "世田谷区",
+    "area_name": "新町",
+    "households": "4484"
+  },
+  "365": {
+    "city_name": "世田谷区",
+    "area_name": "桜新町",
+    "households": "4063"
+  },
+  "366": {
+    "city_name": "世田谷区",
+    "area_name": "深沢",
+    "households": "10864"
+  },
+  "367": {
+    "city_name": "世田谷区",
+    "area_name": "成城",
+    "households": "10283"
+  },
+  "368": {
+    "city_name": "世田谷区",
+    "area_name": "祖師谷",
+    "households": "10224"
+  },
+  "369": {
+    "city_name": "世田谷区",
+    "area_name": "千歳台",
+    "households": "8469"
+  },
+  "370": {
+    "city_name": "世田谷区",
+    "area_name": "船橋",
+    "households": "13530"
+  },
+  "371": {
+    "city_name": "世田谷区",
+    "area_name": "喜多見",
+    "households": "9408"
+  },
+  "372": {
+    "city_name": "世田谷区",
+    "area_name": "宇奈根",
+    "households": "2409"
+  },
+  "373": {
+    "city_name": "世田谷区",
+    "area_name": "鎌田",
+    "households": "3617"
+  },
+  "374": {
+    "city_name": "世田谷区",
+    "area_name": "岡本",
+    "households": "3579"
+  },
+  "375": {
+    "city_name": "世田谷区",
+    "area_name": "大蔵",
+    "households": "3616"
+  },
+  "376": {
+    "city_name": "世田谷区",
+    "area_name": "砧",
+    "households": "13019"
+  },
+  "377": {
+    "city_name": "世田谷区",
+    "area_name": "上北沢",
+    "households": "9617"
+  },
+  "378": {
+    "city_name": "世田谷区",
+    "area_name": "八幡山",
+    "households": "4319"
+  },
+  "379": {
+    "city_name": "世田谷区",
+    "area_name": "上祖師谷",
+    "households": "9176"
+  },
+  "380": {
+    "city_name": "世田谷区",
+    "area_name": "粕谷",
+    "households": "6267"
+  },
+  "381": {
+    "city_name": "世田谷区",
+    "area_name": "給田",
+    "households": "6665"
+  },
+  "382": {
+    "city_name": "世田谷区",
+    "area_name": "南烏山",
+    "households": "14523"
+  },
+  "383": {
+    "city_name": "世田谷区",
+    "area_name": "北烏山",
+    "households": "13515"
+  },
+  "384": {
+    "city_name": "渋谷区",
+    "area_name": "恵比寿",
+    "households": "11053"
+  },
+  "385": {
+    "city_name": "渋谷区",
+    "area_name": "広尾",
+    "households": "8760"
+  },
+  "386": {
+    "city_name": "渋谷区",
+    "area_name": "東",
+    "households": "6004"
+  },
+  "387": {
+    "city_name": "渋谷区",
+    "area_name": "恵比寿南",
+    "households": "3237"
+  },
+  "388": {
+    "city_name": "渋谷区",
+    "area_name": "恵比寿西",
+    "households": "2946"
+  },
+  "389": {
+    "city_name": "渋谷区",
+    "area_name": "渋谷",
+    "households": "2942"
+  },
+  "390": {
+    "city_name": "渋谷区",
+    "area_name": "道玄坂",
+    "households": "424"
+  },
+  "391": {
+    "city_name": "渋谷区",
+    "area_name": "松涛",
+    "households": "1712"
+  },
+  "392": {
+    "city_name": "渋谷区",
+    "area_name": "神南",
+    "households": "442"
+  },
+  "393": {
+    "city_name": "渋谷区",
+    "area_name": "上原",
+    "households": "6312"
+  },
+  "394": {
+    "city_name": "渋谷区",
+    "area_name": "富ケ谷",
+    "households": "6125"
+  },
+  "395": {
+    "city_name": "渋谷区",
+    "area_name": "西原",
+    "households": "6625"
+  },
+  "396": {
+    "city_name": "渋谷区",
+    "area_name": "初台",
+    "households": "5265"
+  },
+  "397": {
+    "city_name": "渋谷区",
+    "area_name": "本町",
+    "households": "18599"
+  },
+  "398": {
+    "city_name": "渋谷区",
+    "area_name": "笹塚",
+    "households": "11880"
+  },
+  "399": {
+    "city_name": "渋谷区",
+    "area_name": "幡ケ谷",
+    "households": "10782"
+  },
+  "400": {
+    "city_name": "渋谷区",
+    "area_name": "代々木",
+    "households": "15455"
+  },
+  "401": {
+    "city_name": "渋谷区",
+    "area_name": "千駄ケ谷",
+    "households": "7117"
+  },
+  "402": {
+    "city_name": "渋谷区",
+    "area_name": "神宮前",
+    "households": "7305"
+  },
+  "403": {
+    "city_name": "中野区",
+    "area_name": "南台",
+    "households": "12610"
+  },
+  "404": {
+    "city_name": "中野区",
+    "area_name": "弥生町",
+    "households": "14899"
+  },
+  "405": {
+    "city_name": "中野区",
+    "area_name": "本町",
+    "households": "20160"
+  },
+  "406": {
+    "city_name": "中野区",
+    "area_name": "中央",
+    "households": "20033"
+  },
+  "407": {
+    "city_name": "中野区",
+    "area_name": "東中野",
+    "households": "15672"
+  },
+  "408": {
+    "city_name": "中野区",
+    "area_name": "中野",
+    "households": "17186"
+  },
+  "409": {
+    "city_name": "中野区",
+    "area_name": "上高田",
+    "households": "13351"
+  },
+  "410": {
+    "city_name": "中野区",
+    "area_name": "新井",
+    "households": "11731"
+  },
+  "411": {
+    "city_name": "中野区",
+    "area_name": "沼袋",
+    "households": "8778"
+  },
+  "412": {
+    "city_name": "中野区",
+    "area_name": "松が丘",
+    "households": "3948"
+  },
+  "413": {
+    "city_name": "中野区",
+    "area_name": "江原町",
+    "households": "5239"
+  },
+  "414": {
+    "city_name": "中野区",
+    "area_name": "江古田",
+    "households": "7468"
+  },
+  "415": {
+    "city_name": "中野区",
+    "area_name": "丸山",
+    "households": "2792"
+  },
+  "416": {
+    "city_name": "中野区",
+    "area_name": "野方",
+    "households": "13473"
+  },
+  "417": {
+    "city_name": "中野区",
+    "area_name": "大和町",
+    "households": "9749"
+  },
+  "418": {
+    "city_name": "中野区",
+    "area_name": "若宮",
+    "households": "7858"
+  },
+  "419": {
+    "city_name": "中野区",
+    "area_name": "白鷺",
+    "households": "6327"
+  },
+  "420": {
+    "city_name": "中野区",
+    "area_name": "鷺宮",
+    "households": "10061"
+  },
+  "421": {
+    "city_name": "中野区",
+    "area_name": "上鷺宮",
+    "households": "6758"
+  },
+  "422": {
+    "city_name": "杉並区",
+    "area_name": "方南",
+    "households": "8414"
+  },
+  "423": {
+    "city_name": "杉並区",
+    "area_name": "和泉",
+    "households": "17440"
+  },
+  "424": {
+    "city_name": "杉並区",
+    "area_name": "下高井戸",
+    "households": "12538"
+  },
+  "425": {
+    "city_name": "杉並区",
+    "area_name": "永福",
+    "households": "9202"
+  },
+  "426": {
+    "city_name": "杉並区",
+    "area_name": "浜田山",
+    "households": "9103"
+  },
+  "427": {
+    "city_name": "杉並区",
+    "area_name": "和田",
+    "households": "11987"
+  },
+  "428": {
+    "city_name": "杉並区",
+    "area_name": "堀ノ内",
+    "households": "11612"
+  },
+  "429": {
+    "city_name": "杉並区",
+    "area_name": "松ノ木",
+    "households": "4288"
+  },
+  "430": {
+    "city_name": "杉並区",
+    "area_name": "大宮",
+    "households": "2134"
+  },
+  "431": {
+    "city_name": "杉並区",
+    "area_name": "梅里",
+    "households": "5712"
+  },
+  "432": {
+    "city_name": "杉並区",
+    "area_name": "高円寺南",
+    "households": "22681"
+  },
+  "433": {
+    "city_name": "杉並区",
+    "area_name": "高円寺北",
+    "households": "11580"
+  },
+  "434": {
+    "city_name": "杉並区",
+    "area_name": "阿佐谷南",
+    "households": "12887"
+  },
+  "435": {
+    "city_name": "杉並区",
+    "area_name": "阿佐谷北",
+    "households": "15348"
+  },
+  "436": {
+    "city_name": "杉並区",
+    "area_name": "天沼",
+    "households": "10020"
+  },
+  "437": {
+    "city_name": "杉並区",
+    "area_name": "本天沼",
+    "households": "6260"
+  },
+  "438": {
+    "city_name": "杉並区",
+    "area_name": "成田西",
+    "households": "4064"
+  },
+  "439": {
+    "city_name": "杉並区",
+    "area_name": "成田東",
+    "households": "12701"
+  },
+  "440": {
+    "city_name": "杉並区",
+    "area_name": "荻窪",
+    "households": "14607"
+  },
+  "441": {
+    "city_name": "杉並区",
+    "area_name": "南荻窪",
+    "households": "7587"
+  },
+  "442": {
+    "city_name": "杉並区",
+    "area_name": "上荻",
+    "households": "8334"
+  },
+  "443": {
+    "city_name": "杉並区",
+    "area_name": "西荻南",
+    "households": "7363"
+  },
+  "444": {
+    "city_name": "杉並区",
+    "area_name": "西荻北",
+    "households": "11106"
+  },
+  "445": {
+    "city_name": "杉並区",
+    "area_name": "今川",
+    "households": "4501"
+  },
+  "446": {
+    "city_name": "杉並区",
+    "area_name": "清水",
+    "households": "4643"
+  },
+  "447": {
+    "city_name": "杉並区",
+    "area_name": "桃井",
+    "households": "6256"
+  },
+  "448": {
+    "city_name": "杉並区",
+    "area_name": "井草",
+    "households": "9262"
+  },
+  "449": {
+    "city_name": "杉並区",
+    "area_name": "下井草",
+    "households": "10212"
+  },
+  "450": {
+    "city_name": "杉並区",
+    "area_name": "上井草",
+    "households": "7771"
+  },
+  "451": {
+    "city_name": "杉並区",
+    "area_name": "善福寺",
+    "households": "5906"
+  },
+  "452": {
+    "city_name": "杉並区",
+    "area_name": "松庵",
+    "households": "6039"
+  },
+  "453": {
+    "city_name": "杉並区",
+    "area_name": "宮前",
+    "households": "9661"
+  },
+  "454": {
+    "city_name": "杉並区",
+    "area_name": "久我山",
+    "households": "11443"
+  },
+  "455": {
+    "city_name": "杉並区",
+    "area_name": "高井戸東",
+    "households": "10478"
+  },
+  "456": {
+    "city_name": "杉並区",
+    "area_name": "高井戸西",
+    "households": "5747"
+  },
+  "457": {
+    "city_name": "杉並区",
+    "area_name": "上高井戸",
+    "households": "7452"
+  },
+  "458": {
+    "city_name": "豊島区",
+    "area_name": "駒込",
+    "households": "10115"
+  },
+  "459": {
+    "city_name": "豊島区",
+    "area_name": "巣鴨",
+    "households": "11760"
+  },
+  "460": {
+    "city_name": "豊島区",
+    "area_name": "西巣鴨",
+    "households": "7694"
+  },
+  "461": {
+    "city_name": "豊島区",
+    "area_name": "北大塚",
+    "households": "8415"
+  },
+  "462": {
+    "city_name": "豊島区",
+    "area_name": "南大塚",
+    "households": "11102"
+  },
+  "463": {
+    "city_name": "豊島区",
+    "area_name": "上池袋",
+    "households": "11316"
+  },
+  "464": {
+    "city_name": "豊島区",
+    "area_name": "東池袋",
+    "households": "13592"
+  },
+  "465": {
+    "city_name": "豊島区",
+    "area_name": "南池袋",
+    "households": "5759"
+  },
+  "466": {
+    "city_name": "豊島区",
+    "area_name": "西池袋",
+    "households": "11356"
+  },
+  "467": {
+    "city_name": "豊島区",
+    "area_name": "池袋",
+    "households": "13883"
+  },
+  "468": {
+    "city_name": "豊島区",
+    "area_name": "池袋本町",
+    "households": "10769"
+  },
+  "469": {
+    "city_name": "豊島区",
+    "area_name": "雑司が谷",
+    "households": "5776"
+  },
+  "470": {
+    "city_name": "豊島区",
+    "area_name": "高田",
+    "households": "7034"
+  },
+  "471": {
+    "city_name": "豊島区",
+    "area_name": "目白",
+    "households": "8591"
+  },
+  "472": {
+    "city_name": "豊島区",
+    "area_name": "南長崎",
+    "households": "13300"
+  },
+  "473": {
+    "city_name": "豊島区",
+    "area_name": "長崎",
+    "households": "11707"
+  },
+  "474": {
+    "city_name": "豊島区",
+    "area_name": "千早",
+    "households": "7667"
+  },
+  "475": {
+    "city_name": "豊島区",
+    "area_name": "要町",
+    "households": "6246"
+  },
+  "476": {
+    "city_name": "豊島区",
+    "area_name": "高松",
+    "households": "5017"
+  },
+  "477": {
+    "city_name": "豊島区",
+    "area_name": "千川",
+    "households": "2720"
+  },
+  "478": {
+    "city_name": "北区",
+    "area_name": "王子",
+    "households": "12316"
+  },
+  "479": {
+    "city_name": "北区",
+    "area_name": "豊島",
+    "households": "15993"
+  },
+  "480": {
+    "city_name": "北区",
+    "area_name": "堀船",
+    "households": "5657"
+  },
+  "481": {
+    "city_name": "北区",
+    "area_name": "東十条",
+    "households": "8636"
+  },
+  "482": {
+    "city_name": "北区",
+    "area_name": "王子本町",
+    "households": "3214"
+  },
+  "483": {
+    "city_name": "北区",
+    "area_name": "岸町",
+    "households": "1550"
+  },
+  "484": {
+    "city_name": "北区",
+    "area_name": "中十条",
+    "households": "4962"
+  },
+  "485": {
+    "city_name": "北区",
+    "area_name": "十条台",
+    "households": "409"
+  },
+  "486": {
+    "city_name": "北区",
+    "area_name": "十条仲原",
+    "households": "3265"
+  },
+  "487": {
+    "city_name": "北区",
+    "area_name": "上十条",
+    "households": "7469"
+  },
+  "488": {
+    "city_name": "北区",
+    "area_name": "神谷",
+    "households": "8763"
+  },
+  "489": {
+    "city_name": "北区",
+    "area_name": "赤羽",
+    "households": "6297"
+  },
+  "490": {
+    "city_name": "北区",
+    "area_name": "西が丘",
+    "households": "4169"
+  },
+  "491": {
+    "city_name": "北区",
+    "area_name": "赤羽西",
+    "households": "9278"
+  },
+  "492": {
+    "city_name": "北区",
+    "area_name": "志茂",
+    "households": "11187"
+  },
+  "493": {
+    "city_name": "北区",
+    "area_name": "赤羽台",
+    "households": "4906"
+  },
+  "494": {
+    "city_name": "北区",
+    "area_name": "赤羽南",
+    "households": "2661"
+  },
+  "495": {
+    "city_name": "北区",
+    "area_name": "赤羽北",
+    "households": "7343"
+  },
+  "496": {
+    "city_name": "北区",
+    "area_name": "浮間",
+    "households": "11084"
+  },
+  "497": {
+    "city_name": "北区",
+    "area_name": "桐ヶ丘",
+    "households": "2720"
+  },
+  "498": {
+    "city_name": "北区",
+    "area_name": "滝野川",
+    "households": "18952"
+  },
+  "499": {
+    "city_name": "北区",
+    "area_name": "西ヶ原",
+    "households": "9474"
+  },
+  "500": {
+    "city_name": "北区",
+    "area_name": "上中里",
+    "households": "3565"
+  },
+  "501": {
+    "city_name": "北区",
+    "area_name": "中里",
+    "households": "4083"
+  },
+  "502": {
+    "city_name": "北区",
+    "area_name": "昭和町",
+    "households": "1942"
+  },
+  "503": {
+    "city_name": "北区",
+    "area_name": "田端新町",
+    "households": "5060"
+  },
+  "504": {
+    "city_name": "北区",
+    "area_name": "東田端",
+    "households": "2070"
+  },
+  "505": {
+    "city_name": "北区",
+    "area_name": "田端",
+    "households": "8469"
+  },
+  "506": {
+    "city_name": "荒川区",
+    "area_name": "南千住",
+    "households": "21521"
+  },
+  "507": {
+    "city_name": "荒川区",
+    "area_name": "荒川",
+    "households": "17014"
+  },
+  "508": {
+    "city_name": "荒川区",
+    "area_name": "町屋",
+    "households": "14973"
+  },
+  "509": {
+    "city_name": "荒川区",
+    "area_name": "東尾久",
+    "households": "14565"
+  },
+  "510": {
+    "city_name": "荒川区",
+    "area_name": "西尾久",
+    "households": "13123"
+  },
+  "511": {
+    "city_name": "荒川区",
+    "area_name": "東日暮里",
+    "households": "16965"
+  },
+  "512": {
+    "city_name": "荒川区",
+    "area_name": "西日暮里",
+    "households": "13848"
+  },
+  "513": {
+    "city_name": "板橋区",
+    "area_name": "板橋",
+    "households": "15835"
+  },
+  "514": {
+    "city_name": "板橋区",
+    "area_name": "加賀",
+    "households": "4318"
+  },
+  "515": {
+    "city_name": "板橋区",
+    "area_name": "大谷口",
+    "households": "3340"
+  },
+  "516": {
+    "city_name": "板橋区",
+    "area_name": "向原",
+    "households": "4939"
+  },
+  "517": {
+    "city_name": "板橋区",
+    "area_name": "小茂根",
+    "households": "8777"
+  },
+  "518": {
+    "city_name": "板橋区",
+    "area_name": "常盤台",
+    "households": "7033"
+  },
+  "519": {
+    "city_name": "板橋区",
+    "area_name": "南常盤台",
+    "households": "4743"
+  },
+  "520": {
+    "city_name": "板橋区",
+    "area_name": "東新町",
+    "households": "5071"
+  },
+  "521": {
+    "city_name": "板橋区",
+    "area_name": "上板橋",
+    "households": "5705"
+  },
+  "522": {
+    "city_name": "板橋区",
+    "area_name": "志村",
+    "households": "7119"
+  },
+  "523": {
+    "city_name": "板橋区",
+    "area_name": "坂下",
+    "households": "10074"
+  },
+  "524": {
+    "city_name": "板橋区",
+    "area_name": "東坂下",
+    "households": "2030"
+  },
+  "525": {
+    "city_name": "板橋区",
+    "area_name": "小豆沢",
+    "households": "8275"
+  },
+  "526": {
+    "city_name": "板橋区",
+    "area_name": "西台",
+    "households": "5998"
+  },
+  "527": {
+    "city_name": "板橋区",
+    "area_name": "中台",
+    "households": "8114"
+  },
+  "528": {
+    "city_name": "板橋区",
+    "area_name": "若木",
+    "households": "5240"
+  },
+  "529": {
+    "city_name": "板橋区",
+    "area_name": "蓮根",
+    "households": "9284"
+  },
+  "530": {
+    "city_name": "板橋区",
+    "area_name": "前野町",
+    "households": "14713"
+  },
+  "531": {
+    "city_name": "板橋区",
+    "area_name": "赤塚",
+    "households": "17468"
+  },
+  "532": {
+    "city_name": "板橋区",
+    "area_name": "赤塚新町",
+    "households": "5353"
+  },
+  "533": {
+    "city_name": "板橋区",
+    "area_name": "四葉",
+    "households": "2136"
+  },
+  "534": {
+    "city_name": "板橋区",
+    "area_name": "三園",
+    "households": "3339"
+  },
+  "535": {
+    "city_name": "板橋区",
+    "area_name": "成増",
+    "households": "16001"
+  },
+  "536": {
+    "city_name": "板橋区",
+    "area_name": "徳丸",
+    "households": "17676"
+  },
+  "537": {
+    "city_name": "板橋区",
+    "area_name": "桜川",
+    "households": "2574"
+  },
+  "538": {
+    "city_name": "板橋区",
+    "area_name": "高島平",
+    "households": "29611"
+  },
+  "539": {
+    "city_name": "板橋区",
+    "area_name": "新河岸",
+    "households": "2668"
+  },
+  "540": {
+    "city_name": "板橋区",
+    "area_name": "舟渡",
+    "households": "4494"
+  },
+  "541": {
+    "city_name": "練馬区",
+    "area_name": "旭丘",
+    "households": "5191"
+  },
+  "542": {
+    "city_name": "練馬区",
+    "area_name": "小竹町",
+    "households": "5990"
+  },
+  "543": {
+    "city_name": "練馬区",
+    "area_name": "羽沢",
+    "households": "3952"
+  },
+  "544": {
+    "city_name": "練馬区",
+    "area_name": "豊玉上",
+    "households": "4721"
+  },
+  "545": {
+    "city_name": "練馬区",
+    "area_name": "豊玉中",
+    "households": "6237"
+  },
+  "546": {
+    "city_name": "練馬区",
+    "area_name": "豊玉南",
+    "households": "4262"
+  },
+  "547": {
+    "city_name": "練馬区",
+    "area_name": "豊玉北",
+    "households": "13391"
+  },
+  "548": {
+    "city_name": "練馬区",
+    "area_name": "中村",
+    "households": "5072"
+  },
+  "549": {
+    "city_name": "練馬区",
+    "area_name": "中村南",
+    "households": "5644"
+  },
+  "550": {
+    "city_name": "練馬区",
+    "area_name": "中村北",
+    "households": "7085"
+  },
+  "551": {
+    "city_name": "練馬区",
+    "area_name": "桜台",
+    "households": "14576"
+  },
+  "552": {
+    "city_name": "練馬区",
+    "area_name": "練馬",
+    "households": "9414"
+  },
+  "553": {
+    "city_name": "練馬区",
+    "area_name": "向山",
+    "households": "5662"
+  },
+  "554": {
+    "city_name": "練馬区",
+    "area_name": "貫井",
+    "households": "11574"
+  },
+  "555": {
+    "city_name": "練馬区",
+    "area_name": "錦",
+    "households": "3077"
+  },
+  "556": {
+    "city_name": "練馬区",
+    "area_name": "氷川台",
+    "households": "7375"
+  },
+  "557": {
+    "city_name": "練馬区",
+    "area_name": "平和台",
+    "households": "6798"
+  },
+  "558": {
+    "city_name": "練馬区",
+    "area_name": "早宮",
+    "households": "9481"
+  },
+  "559": {
+    "city_name": "練馬区",
+    "area_name": "春日町",
+    "households": "12740"
+  },
+  "560": {
+    "city_name": "練馬区",
+    "area_name": "高松",
+    "households": "7935"
+  },
+  "561": {
+    "city_name": "練馬区",
+    "area_name": "北町",
+    "households": "14575"
+  },
+  "562": {
+    "city_name": "練馬区",
+    "area_name": "田柄",
+    "households": "13544"
+  },
+  "563": {
+    "city_name": "練馬区",
+    "area_name": "光が丘",
+    "households": "11933"
+  },
+  "564": {
+    "city_name": "練馬区",
+    "area_name": "旭町",
+    "households": "6712"
+  },
+  "565": {
+    "city_name": "練馬区",
+    "area_name": "土支田",
+    "households": "5646"
+  },
+  "566": {
+    "city_name": "練馬区",
+    "area_name": "富士見台",
+    "households": "7717"
+  },
+  "567": {
+    "city_name": "練馬区",
+    "area_name": "南田中",
+    "households": "6254"
+  },
+  "568": {
+    "city_name": "練馬区",
+    "area_name": "高野台",
+    "households": "7381"
+  },
+  "569": {
+    "city_name": "練馬区",
+    "area_name": "谷原",
+    "households": "5499"
+  },
+  "570": {
+    "city_name": "練馬区",
+    "area_name": "三原台",
+    "households": "4082"
+  },
+  "571": {
+    "city_name": "練馬区",
+    "area_name": "石神井町",
+    "households": "14897"
+  },
+  "572": {
+    "city_name": "練馬区",
+    "area_name": "石神井台",
+    "households": "14183"
+  },
+  "573": {
+    "city_name": "練馬区",
+    "area_name": "上石神井",
+    "households": "10539"
+  },
+  "574": {
+    "city_name": "練馬区",
+    "area_name": "下石神井",
+    "households": "8649"
+  },
+  "575": {
+    "city_name": "練馬区",
+    "area_name": "関町東",
+    "households": "3068"
+  },
+  "576": {
+    "city_name": "練馬区",
+    "area_name": "関町北",
+    "households": "11923"
+  },
+  "577": {
+    "city_name": "練馬区",
+    "area_name": "関町南",
+    "households": "9294"
+  },
+  "578": {
+    "city_name": "練馬区",
+    "area_name": "東大泉",
+    "households": "17840"
+  },
+  "579": {
+    "city_name": "練馬区",
+    "area_name": "西大泉",
+    "households": "9243"
+  },
+  "580": {
+    "city_name": "練馬区",
+    "area_name": "南大泉",
+    "households": "11971"
+  },
+  "581": {
+    "city_name": "練馬区",
+    "area_name": "大泉町",
+    "households": "9196"
+  },
+  "582": {
+    "city_name": "練馬区",
+    "area_name": "大泉学園町",
+    "households": "14342"
+  },
+  "583": {
+    "city_name": "足立区",
+    "area_name": "青井",
+    "households": "8788"
+  },
+  "584": {
+    "city_name": "足立区",
+    "area_name": "足立",
+    "households": "7432"
+  },
+  "585": {
+    "city_name": "足立区",
+    "area_name": "綾瀬",
+    "households": "15185"
+  },
+  "586": {
+    "city_name": "足立区",
+    "area_name": "伊興",
+    "households": "5999"
+  },
+  "587": {
+    "city_name": "足立区",
+    "area_name": "入谷",
+    "households": "3853"
+  },
+  "588": {
+    "city_name": "足立区",
+    "area_name": "梅田",
+    "households": "12540"
+  },
+  "589": {
+    "city_name": "足立区",
+    "area_name": "梅島",
+    "households": "6894"
+  },
+  "590": {
+    "city_name": "足立区",
+    "area_name": "扇",
+    "households": "7612"
+  },
+  "591": {
+    "city_name": "足立区",
+    "area_name": "大谷田",
+    "households": "8409"
+  },
+  "592": {
+    "city_name": "足立区",
+    "area_name": "興野",
+    "households": "2754"
+  },
+  "593": {
+    "city_name": "足立区",
+    "area_name": "小台",
+    "households": "3126"
+  },
+  "594": {
+    "city_name": "足立区",
+    "area_name": "加賀",
+    "households": "1781"
+  },
+  "595": {
+    "city_name": "足立区",
+    "area_name": "加平",
+    "households": "3689"
+  },
+  "596": {
+    "city_name": "足立区",
+    "area_name": "栗原",
+    "households": "6472"
+  },
+  "597": {
+    "city_name": "足立区",
+    "area_name": "江北",
+    "households": "9927"
+  },
+  "598": {
+    "city_name": "足立区",
+    "area_name": "古千谷",
+    "households": "-"
+  },
+  "599": {
+    "city_name": "足立区",
+    "area_name": "弘道",
+    "households": "4041"
+  },
+  "600": {
+    "city_name": "足立区",
+    "area_name": "佐野",
+    "households": "2600"
+  },
+  "601": {
+    "city_name": "足立区",
+    "area_name": "皿沼",
+    "households": "1825"
+  },
+  "602": {
+    "city_name": "足立区",
+    "area_name": "鹿浜",
+    "households": "8040"
+  },
+  "603": {
+    "city_name": "足立区",
+    "area_name": "島根",
+    "households": "6260"
+  },
+  "604": {
+    "city_name": "足立区",
+    "area_name": "神明南",
+    "households": "1523"
+  },
+  "605": {
+    "city_name": "足立区",
+    "area_name": "神明",
+    "households": "2120"
+  },
+  "606": {
+    "city_name": "足立区",
+    "area_name": "新田",
+    "households": "7111"
+  },
+  "607": {
+    "city_name": "足立区",
+    "area_name": "千住東",
+    "households": "3005"
+  },
+  "608": {
+    "city_name": "足立区",
+    "area_name": "関原",
+    "households": "5616"
+  },
+  "609": {
+    "city_name": "足立区",
+    "area_name": "千住桜木",
+    "households": "2216"
+  },
+  "610": {
+    "city_name": "足立区",
+    "area_name": "千住緑町",
+    "households": "2814"
+  },
+  "611": {
+    "city_name": "足立区",
+    "area_name": "千住",
+    "households": "5737"
+  },
+  "612": {
+    "city_name": "足立区",
+    "area_name": "竹の塚",
+    "households": "10683"
+  },
+  "613": {
+    "city_name": "足立区",
+    "area_name": "辰沼",
+    "households": "1983"
+  },
+  "614": {
+    "city_name": "足立区",
+    "area_name": "中央本町",
+    "households": "7077"
+  },
+  "615": {
+    "city_name": "足立区",
+    "area_name": "椿",
+    "households": "830"
+  },
+  "616": {
+    "city_name": "足立区",
+    "area_name": "東和",
+    "households": "10167"
+  },
+  "617": {
+    "city_name": "足立区",
+    "area_name": "舎人",
+    "households": "7264"
+  },
+  "618": {
+    "city_name": "足立区",
+    "area_name": "中川",
+    "households": "6917"
+  },
+  "619": {
+    "city_name": "足立区",
+    "area_name": "西綾瀬",
+    "households": "4838"
+  },
+  "620": {
+    "city_name": "足立区",
+    "area_name": "西新井本町",
+    "households": "7382"
+  },
+  "621": {
+    "city_name": "足立区",
+    "area_name": "西加平",
+    "households": "589"
+  },
+  "622": {
+    "city_name": "足立区",
+    "area_name": "西伊興",
+    "households": "3796"
+  },
+  "623": {
+    "city_name": "足立区",
+    "area_name": "西新井栄町",
+    "households": "5041"
+  },
+  "624": {
+    "city_name": "足立区",
+    "area_name": "西新井",
+    "households": "10809"
+  },
+  "625": {
+    "city_name": "足立区",
+    "area_name": "西竹の塚",
+    "households": "1722"
+  },
+  "626": {
+    "city_name": "足立区",
+    "area_name": "西保木間",
+    "households": "5348"
+  },
+  "627": {
+    "city_name": "足立区",
+    "area_name": "花畑",
+    "households": "8591"
+  },
+  "628": {
+    "city_name": "足立区",
+    "area_name": "東綾瀬",
+    "households": "5376"
+  },
+  "629": {
+    "city_name": "足立区",
+    "area_name": "東伊興",
+    "households": "3288"
+  },
+  "630": {
+    "city_name": "足立区",
+    "area_name": "一ツ家",
+    "households": "3300"
+  },
+  "631": {
+    "city_name": "足立区",
+    "area_name": "東保木間",
+    "households": "2872"
+  },
+  "632": {
+    "city_name": "足立区",
+    "area_name": "平野",
+    "households": "2210"
+  },
+  "633": {
+    "city_name": "足立区",
+    "area_name": "保木間",
+    "households": "7034"
+  },
+  "634": {
+    "city_name": "足立区",
+    "area_name": "堀之内",
+    "households": "658"
+  },
+  "635": {
+    "city_name": "足立区",
+    "area_name": "南花畑",
+    "households": "7600"
+  },
+  "636": {
+    "city_name": "足立区",
+    "area_name": "宮城",
+    "households": "2060"
+  },
+  "637": {
+    "city_name": "足立区",
+    "area_name": "六木",
+    "households": "3954"
+  },
+  "638": {
+    "city_name": "足立区",
+    "area_name": "本木",
+    "households": "1766"
+  },
+  "639": {
+    "city_name": "足立区",
+    "area_name": "谷中",
+    "households": "5973"
+  },
+  "640": {
+    "city_name": "足立区",
+    "area_name": "谷在家",
+    "households": "3052"
+  },
+  "641": {
+    "city_name": "足立区",
+    "area_name": "柳原",
+    "households": "2959"
+  },
+  "642": {
+    "city_name": "足立区",
+    "area_name": "六月",
+    "households": "3587"
+  },
+  "643": {
+    "city_name": "足立区",
+    "area_name": "六町",
+    "households": "2673"
+  },
+  "644": {
+    "city_name": "足立区",
+    "area_name": "古千谷本町",
+    "households": "3153"
+  },
+  "645": {
+    "city_name": "足立区",
+    "area_name": "伊興本町",
+    "households": "1341"
+  },
+  "646": {
+    "city_name": "葛飾区",
+    "area_name": "立石",
+    "households": "11258"
+  },
+  "647": {
+    "city_name": "葛飾区",
+    "area_name": "東立石",
+    "households": "5274"
+  },
+  "648": {
+    "city_name": "葛飾区",
+    "area_name": "四つ木",
+    "households": "6104"
+  },
+  "649": {
+    "city_name": "葛飾区",
+    "area_name": "東四つ木",
+    "households": "6549"
+  },
+  "650": {
+    "city_name": "葛飾区",
+    "area_name": "宝町",
+    "households": "3450"
+  },
+  "651": {
+    "city_name": "葛飾区",
+    "area_name": "堀切",
+    "households": "13931"
+  },
+  "652": {
+    "city_name": "葛飾区",
+    "area_name": "東堀切",
+    "households": "3712"
+  },
+  "653": {
+    "city_name": "葛飾区",
+    "area_name": "小菅",
+    "households": "6643"
+  },
+  "654": {
+    "city_name": "葛飾区",
+    "area_name": "お花茶屋",
+    "households": "3166"
+  },
+  "655": {
+    "city_name": "葛飾区",
+    "area_name": "白鳥",
+    "households": "5434"
+  },
+  "656": {
+    "city_name": "葛飾区",
+    "area_name": "亀有",
+    "households": "13172"
+  },
+  "657": {
+    "city_name": "葛飾区",
+    "area_name": "西亀有",
+    "households": "6980"
+  },
+  "658": {
+    "city_name": "葛飾区",
+    "area_name": "青戸",
+    "households": "13259"
+  },
+  "659": {
+    "city_name": "葛飾区",
+    "area_name": "新小岩",
+    "households": "8642"
+  },
+  "660": {
+    "city_name": "葛飾区",
+    "area_name": "東新小岩",
+    "households": "12234"
+  },
+  "661": {
+    "city_name": "葛飾区",
+    "area_name": "西新小岩",
+    "households": "7857"
+  },
+  "662": {
+    "city_name": "葛飾区",
+    "area_name": "奥戸",
+    "households": "9031"
+  },
+  "663": {
+    "city_name": "葛飾区",
+    "area_name": "高砂",
+    "households": "10314"
+  },
+  "664": {
+    "city_name": "葛飾区",
+    "area_name": "鎌倉",
+    "households": "6048"
+  },
+  "665": {
+    "city_name": "葛飾区",
+    "area_name": "細田",
+    "households": "4874"
+  },
+  "666": {
+    "city_name": "葛飾区",
+    "area_name": "柴又",
+    "households": "10522"
+  },
+  "667": {
+    "city_name": "葛飾区",
+    "area_name": "新宿",
+    "households": "6814"
+  },
+  "668": {
+    "city_name": "葛飾区",
+    "area_name": "金町",
+    "households": "9212"
+  },
+  "669": {
+    "city_name": "葛飾区",
+    "area_name": "東金町",
+    "households": "11685"
+  },
+  "670": {
+    "city_name": "葛飾区",
+    "area_name": "水元",
+    "households": "5342"
+  },
+  "671": {
+    "city_name": "葛飾区",
+    "area_name": "東水元",
+    "households": "3832"
+  },
+  "672": {
+    "city_name": "葛飾区",
+    "area_name": "南水元",
+    "households": "5841"
+  },
+  "673": {
+    "city_name": "葛飾区",
+    "area_name": "西水元",
+    "households": "4768"
+  },
+  "674": {
+    "city_name": "江戸川区",
+    "area_name": "小松川",
+    "households": "6007"
+  },
+  "675": {
+    "city_name": "江戸川区",
+    "area_name": "小松川",
+    "households": "765"
+  },
+  "676": {
+    "city_name": "江戸川区",
+    "area_name": "平井",
+    "households": "21035"
+  },
+  "677": {
+    "city_name": "江戸川区",
+    "area_name": "中央",
+    "households": "6573"
+  },
+  "678": {
+    "city_name": "江戸川区",
+    "area_name": "松島",
+    "households": "9101"
+  },
+  "679": {
+    "city_name": "江戸川区",
+    "area_name": "松江",
+    "households": "9382"
+  },
+  "680": {
+    "city_name": "江戸川区",
+    "area_name": "東小松川",
+    "households": "5544"
+  },
+  "681": {
+    "city_name": "江戸川区",
+    "area_name": "大杉",
+    "households": "4417"
+  },
+  "682": {
+    "city_name": "江戸川区",
+    "area_name": "西一之江",
+    "households": "3998"
+  },
+  "683": {
+    "city_name": "江戸川区",
+    "area_name": "一之江",
+    "households": "9728"
+  },
+  "684": {
+    "city_name": "江戸川区",
+    "area_name": "春江町",
+    "households": "7103"
+  },
+  "685": {
+    "city_name": "江戸川区",
+    "area_name": "瑞江",
+    "households": "5289"
+  },
+  "686": {
+    "city_name": "江戸川区",
+    "area_name": "東瑞江",
+    "households": "3941"
+  },
+  "687": {
+    "city_name": "江戸川区",
+    "area_name": "西瑞江",
+    "households": "7146"
+  },
+  "688": {
+    "city_name": "江戸川区",
+    "area_name": "江戸川",
+    "households": "10578"
+  },
+  "689": {
+    "city_name": "江戸川区",
+    "area_name": "東小岩",
+    "households": "9232"
+  },
+  "690": {
+    "city_name": "江戸川区",
+    "area_name": "西小岩",
+    "households": "10856"
+  },
+  "691": {
+    "city_name": "江戸川区",
+    "area_name": "南小岩",
+    "households": "15028"
+  },
+  "692": {
+    "city_name": "江戸川区",
+    "area_name": "北小岩",
+    "households": "14531"
+  },
+  "693": {
+    "city_name": "江戸川区",
+    "area_name": "鹿骨",
+    "households": "6687"
+  },
+  "694": {
+    "city_name": "江戸川区",
+    "area_name": "松本",
+    "households": "1850"
+  },
+  "695": {
+    "city_name": "江戸川区",
+    "area_name": "上一色",
+    "households": "2156"
+  },
+  "696": {
+    "city_name": "江戸川区",
+    "area_name": "本一色",
+    "households": "4988"
+  },
+  "697": {
+    "city_name": "江戸川区",
+    "area_name": "篠崎町",
+    "households": "12237"
+  },
+  "698": {
+    "city_name": "江戸川区",
+    "area_name": "東篠崎",
+    "households": "1141"
+  },
+  "699": {
+    "city_name": "江戸川区",
+    "area_name": "南篠崎町",
+    "households": "8365"
+  },
+  "700": {
+    "city_name": "江戸川区",
+    "area_name": "北篠崎",
+    "households": "1646"
+  },
+  "701": {
+    "city_name": "江戸川区",
+    "area_name": "上篠崎",
+    "households": "4389"
+  },
+  "702": {
+    "city_name": "江戸川区",
+    "area_name": "船堀",
+    "households": "12672"
+  },
+  "703": {
+    "city_name": "江戸川区",
+    "area_name": "新堀",
+    "households": "1881"
+  },
+  "704": {
+    "city_name": "江戸川区",
+    "area_name": "東葛西",
+    "households": "24773"
+  },
+  "705": {
+    "city_name": "江戸川区",
+    "area_name": "西葛西",
+    "households": "23447"
+  },
+  "706": {
+    "city_name": "江戸川区",
+    "area_name": "南葛西",
+    "households": "15570"
+  },
+  "707": {
+    "city_name": "江戸川区",
+    "area_name": "北葛西",
+    "households": "8807"
+  },
+  "708": {
+    "city_name": "江戸川区",
+    "area_name": "中葛西",
+    "households": "22630"
+  },
+  "709": {
+    "city_name": "江戸川区",
+    "area_name": "清新町",
+    "households": "5891"
+  },
+  "710": {
+    "city_name": "江戸川区",
+    "area_name": "臨海町",
+    "households": "3090"
+  },
+  "711": {
+    "city_name": "江戸川区",
+    "area_name": "谷河内",
+    "households": "1296"
+  },
+  "712": {
+    "city_name": "江戸川区",
+    "area_name": "東松本",
+    "households": "1287"
+  },
+  "713": {
+    "city_name": "江戸川区",
+    "area_name": "西篠崎",
+    "households": "1555"
+  },
+  "714": {
+    "city_name": "八王子市",
+    "area_name": "千人町",
+    "households": "4384"
+  },
+  "715": {
+    "city_name": "八王子市",
+    "area_name": "元本郷町",
+    "households": "2799"
+  },
+  "716": {
+    "city_name": "八王子市",
+    "area_name": "元横山町",
+    "households": "2936"
+  },
+  "717": {
+    "city_name": "八王子市",
+    "area_name": "明神町",
+    "households": "5694"
+  },
+  "718": {
+    "city_name": "八王子市",
+    "area_name": "子安町",
+    "households": "6635"
+  },
+  "719": {
+    "city_name": "八王子市",
+    "area_name": "台町",
+    "households": "4509"
+  },
+  "720": {
+    "city_name": "八王子市",
+    "area_name": "暁町",
+    "households": "2760"
+  },
+  "721": {
+    "city_name": "八王子市",
+    "area_name": "中野山王",
+    "households": "3203"
+  },
+  "722": {
+    "city_name": "八王子市",
+    "area_name": "中野上町",
+    "households": "3944"
+  },
+  "723": {
+    "city_name": "八王子市",
+    "area_name": "大和田町",
+    "households": "8193"
+  },
+  "724": {
+    "city_name": "八王子市",
+    "area_name": "東浅川町",
+    "households": "5737"
+  },
+  "725": {
+    "city_name": "八王子市",
+    "area_name": "下柚木",
+    "households": "4298"
+  },
+  "726": {
+    "city_name": "八王子市",
+    "area_name": "上柚木",
+    "households": "4376"
+  },
+  "727": {
+    "city_name": "八王子市",
+    "area_name": "鑓水",
+    "households": "3467"
+  },
+  "728": {
+    "city_name": "八王子市",
+    "area_name": "南大沢",
+    "households": "7987"
+  },
+  "729": {
+    "city_name": "八王子市",
+    "area_name": "別所",
+    "households": "8362"
+  },
+  "730": {
+    "city_name": "八王子市",
+    "area_name": "南陽台",
+    "households": "1288"
+  },
+  "731": {
+    "city_name": "八王子市",
+    "area_name": "堀之内",
+    "households": "4996"
+  },
+  "732": {
+    "city_name": "八王子市",
+    "area_name": "大塚",
+    "households": "5240"
+  },
+  "733": {
+    "city_name": "八王子市",
+    "area_name": "散田町",
+    "households": "6806"
+  },
+  "734": {
+    "city_name": "八王子市",
+    "area_name": "めじろ台",
+    "households": "3556"
+  },
+  "735": {
+    "city_name": "八王子市",
+    "area_name": "長房町",
+    "households": "6349"
+  },
+  "736": {
+    "city_name": "八王子市",
+    "area_name": "椚田町",
+    "households": "4513"
+  },
+  "737": {
+    "city_name": "八王子市",
+    "area_name": "館町",
+    "households": "5540"
+  },
+  "738": {
+    "city_name": "八王子市",
+    "area_name": "横川町",
+    "households": "4724"
+  },
+  "739": {
+    "city_name": "八王子市",
+    "area_name": "元八王子町",
+    "households": "4569"
+  },
+  "740": {
+    "city_name": "八王子市",
+    "area_name": "川口町",
+    "households": "4958"
+  },
+  "741": {
+    "city_name": "八王子市",
+    "area_name": "楢原町",
+    "households": "3555"
+  },
+  "742": {
+    "city_name": "八王子市",
+    "area_name": "滝山町",
+    "households": "694"
+  },
+  "743": {
+    "city_name": "八王子市",
+    "area_name": "丹木町",
+    "households": "1404"
+  },
+  "744": {
+    "city_name": "八王子市",
+    "area_name": "加住町",
+    "households": "328"
+  },
+  "745": {
+    "city_name": "八王子市",
+    "area_name": "片倉町",
+    "households": "6025"
+  },
+  "746": {
+    "city_name": "八王子市",
+    "area_name": "打越町",
+    "households": "4539"
+  },
+  "747": {
+    "city_name": "八王子市",
+    "area_name": "絹ケ丘",
+    "households": "2536"
+  },
+  "748": {
+    "city_name": "八王子市",
+    "area_name": "北野台",
+    "households": "2757"
+  },
+  "749": {
+    "city_name": "八王子市",
+    "area_name": "石川町",
+    "households": "4581"
+  },
+  "750": {
+    "city_name": "八王子市",
+    "area_name": "久保山町",
+    "households": "2075"
+  },
+  "751": {
+    "city_name": "八王子市",
+    "area_name": "みつい台",
+    "households": "908"
+  },
+  "752": {
+    "city_name": "八王子市",
+    "area_name": "城山手",
+    "households": "625"
+  },
+  "753": {
+    "city_name": "八王子市",
+    "area_name": "みなみ野",
+    "households": "3711"
+  },
+  "754": {
+    "city_name": "八王子市",
+    "area_name": "西片倉",
+    "households": "1444"
+  },
+  "755": {
+    "city_name": "八王子市",
+    "area_name": "兵衛",
+    "households": "999"
+  },
+  "756": {
+    "city_name": "八王子市",
+    "area_name": "七国",
+    "households": "3689"
+  },
+  "757": {
+    "city_name": "立川市",
+    "area_name": "西砂町",
+    "households": "3985"
+  },
+  "758": {
+    "city_name": "立川市",
+    "area_name": "一番町",
+    "households": "5805"
+  },
+  "759": {
+    "city_name": "立川市",
+    "area_name": "上砂町",
+    "households": "4846"
+  },
+  "760": {
+    "city_name": "立川市",
+    "area_name": "砂川町",
+    "households": "7666"
+  },
+  "761": {
+    "city_name": "立川市",
+    "area_name": "柏町",
+    "households": "4539"
+  },
+  "762": {
+    "city_name": "立川市",
+    "area_name": "幸町",
+    "households": "6499"
+  },
+  "763": {
+    "city_name": "立川市",
+    "area_name": "若葉町",
+    "households": "5578"
+  },
+  "764": {
+    "city_name": "立川市",
+    "area_name": "栄町",
+    "households": "5845"
+  },
+  "765": {
+    "city_name": "立川市",
+    "area_name": "高松町",
+    "households": "6622"
+  },
+  "766": {
+    "city_name": "立川市",
+    "area_name": "曙町",
+    "households": "6938"
+  },
+  "767": {
+    "city_name": "立川市",
+    "area_name": "羽衣町",
+    "households": "5001"
+  },
+  "768": {
+    "city_name": "立川市",
+    "area_name": "錦町",
+    "households": "9888"
+  },
+  "769": {
+    "city_name": "立川市",
+    "area_name": "柴崎町",
+    "households": "5319"
+  },
+  "770": {
+    "city_name": "立川市",
+    "area_name": "富士見町",
+    "households": "9486"
+  },
+  "771": {
+    "city_name": "武蔵野市",
+    "area_name": "吉祥寺東町",
+    "households": "7103"
+  },
+  "772": {
+    "city_name": "武蔵野市",
+    "area_name": "吉祥寺南町",
+    "households": "7591"
+  },
+  "773": {
+    "city_name": "武蔵野市",
+    "area_name": "御殿山",
+    "households": "2516"
+  },
+  "774": {
+    "city_name": "武蔵野市",
+    "area_name": "吉祥寺本町",
+    "households": "7689"
+  },
+  "775": {
+    "city_name": "武蔵野市",
+    "area_name": "吉祥寺北町",
+    "households": "7580"
+  },
+  "776": {
+    "city_name": "武蔵野市",
+    "area_name": "中町",
+    "households": "8140"
+  },
+  "777": {
+    "city_name": "武蔵野市",
+    "area_name": "西久保",
+    "households": "6648"
+  },
+  "778": {
+    "city_name": "武蔵野市",
+    "area_name": "緑町",
+    "households": "3883"
+  },
+  "779": {
+    "city_name": "武蔵野市",
+    "area_name": "八幡町",
+    "households": "1925"
+  },
+  "780": {
+    "city_name": "武蔵野市",
+    "area_name": "関前",
+    "households": "4445"
+  },
+  "781": {
+    "city_name": "武蔵野市",
+    "area_name": "境",
+    "households": "8532"
+  },
+  "782": {
+    "city_name": "武蔵野市",
+    "area_name": "境南町",
+    "households": "8255"
+  },
+  "783": {
+    "city_name": "武蔵野市",
+    "area_name": "桜堤",
+    "households": "3747"
+  },
+  "784": {
+    "city_name": "三鷹市",
+    "area_name": "下連雀",
+    "households": "24166"
+  },
+  "785": {
+    "city_name": "三鷹市",
+    "area_name": "牟礼",
+    "households": "10872"
+  },
+  "786": {
+    "city_name": "三鷹市",
+    "area_name": "井の頭",
+    "households": "9086"
+  },
+  "787": {
+    "city_name": "三鷹市",
+    "area_name": "中原",
+    "households": "6997"
+  },
+  "788": {
+    "city_name": "三鷹市",
+    "area_name": "北野",
+    "households": "3808"
+  },
+  "789": {
+    "city_name": "三鷹市",
+    "area_name": "新川",
+    "households": "8654"
+  },
+  "790": {
+    "city_name": "三鷹市",
+    "area_name": "上連雀",
+    "households": "13604"
+  },
+  "791": {
+    "city_name": "三鷹市",
+    "area_name": "井口",
+    "households": "6239"
+  },
+  "792": {
+    "city_name": "三鷹市",
+    "area_name": "深大寺",
+    "households": "4036"
+  },
+  "793": {
+    "city_name": "三鷹市",
+    "area_name": "野崎",
+    "households": "3113"
+  },
+  "794": {
+    "city_name": "三鷹市",
+    "area_name": "大沢",
+    "households": "5814"
+  },
+  "795": {
+    "city_name": "青梅市",
+    "area_name": "東青梅",
+    "households": "4333"
+  },
+  "796": {
+    "city_name": "青梅市",
+    "area_name": "根ヶ布",
+    "households": "882"
+  },
+  "797": {
+    "city_name": "青梅市",
+    "area_name": "師岡町",
+    "households": "1981"
+  },
+  "798": {
+    "city_name": "青梅市",
+    "area_name": "勝沼",
+    "households": "851"
+  },
+  "799": {
+    "city_name": "青梅市",
+    "area_name": "西分町",
+    "households": "336"
+  },
+  "800": {
+    "city_name": "青梅市",
+    "area_name": "日向和田",
+    "households": "676"
+  },
+  "801": {
+    "city_name": "青梅市",
+    "area_name": "駒木町",
+    "households": "712"
+  },
+  "802": {
+    "city_name": "青梅市",
+    "area_name": "長淵",
+    "households": "3332"
+  },
+  "803": {
+    "city_name": "青梅市",
+    "area_name": "友田町",
+    "households": "1443"
+  },
+  "804": {
+    "city_name": "青梅市",
+    "area_name": "河辺町",
+    "households": "7511"
+  },
+  "805": {
+    "city_name": "青梅市",
+    "area_name": "千ヶ瀬町",
+    "households": "2824"
+  },
+  "806": {
+    "city_name": "青梅市",
+    "area_name": "野上町",
+    "households": "3124"
+  },
+  "807": {
+    "city_name": "青梅市",
+    "area_name": "大門",
+    "households": "1759"
+  },
+  "808": {
+    "city_name": "青梅市",
+    "area_name": "木野下",
+    "households": "498"
+  },
+  "809": {
+    "city_name": "青梅市",
+    "area_name": "今寺",
+    "households": "2126"
+  },
+  "810": {
+    "city_name": "青梅市",
+    "area_name": "末広町",
+    "households": "590"
+  },
+  "811": {
+    "city_name": "青梅市",
+    "area_name": "藤橋",
+    "households": "1509"
+  },
+  "812": {
+    "city_name": "青梅市",
+    "area_name": "今井",
+    "households": "2581"
+  },
+  "813": {
+    "city_name": "青梅市",
+    "area_name": "畑中",
+    "households": "1069"
+  },
+  "814": {
+    "city_name": "青梅市",
+    "area_name": "和田町",
+    "households": "430"
+  },
+  "815": {
+    "city_name": "青梅市",
+    "area_name": "梅郷",
+    "households": "1695"
+  },
+  "816": {
+    "city_name": "青梅市",
+    "area_name": "柚木町",
+    "households": "814"
+  },
+  "817": {
+    "city_name": "青梅市",
+    "area_name": "二俣尾",
+    "households": "828"
+  },
+  "818": {
+    "city_name": "青梅市",
+    "area_name": "沢井",
+    "households": "250"
+  },
+  "819": {
+    "city_name": "青梅市",
+    "area_name": "御岳",
+    "households": "103"
+  },
+  "820": {
+    "city_name": "青梅市",
+    "area_name": "富岡",
+    "households": "305"
+  },
+  "821": {
+    "city_name": "青梅市",
+    "area_name": "小曾木",
+    "households": "440"
+  },
+  "822": {
+    "city_name": "青梅市",
+    "area_name": "黒沢",
+    "households": "462"
+  },
+  "823": {
+    "city_name": "青梅市",
+    "area_name": "成木",
+    "households": "608"
+  },
+  "824": {
+    "city_name": "青梅市",
+    "area_name": "新町",
+    "households": "8384"
+  },
+  "825": {
+    "city_name": "府中市",
+    "area_name": "多磨町",
+    "households": "1844"
+  },
+  "826": {
+    "city_name": "府中市",
+    "area_name": "朝日町",
+    "households": "2397"
+  },
+  "827": {
+    "city_name": "府中市",
+    "area_name": "紅葉丘",
+    "households": "3840"
+  },
+  "828": {
+    "city_name": "府中市",
+    "area_name": "白糸台",
+    "households": "9138"
+  },
+  "829": {
+    "city_name": "府中市",
+    "area_name": "押立町",
+    "households": "4294"
+  },
+  "830": {
+    "city_name": "府中市",
+    "area_name": "小柳町",
+    "households": "4161"
+  },
+  "831": {
+    "city_name": "府中市",
+    "area_name": "若松町",
+    "households": "6256"
+  },
+  "832": {
+    "city_name": "府中市",
+    "area_name": "浅間町",
+    "households": "2621"
+  },
+  "833": {
+    "city_name": "府中市",
+    "area_name": "天神町",
+    "households": "3226"
+  },
+  "834": {
+    "city_name": "府中市",
+    "area_name": "新町",
+    "households": "4185"
+  },
+  "835": {
+    "city_name": "府中市",
+    "area_name": "幸町",
+    "households": "1785"
+  },
+  "836": {
+    "city_name": "府中市",
+    "area_name": "府中町",
+    "households": "4202"
+  },
+  "837": {
+    "city_name": "府中市",
+    "area_name": "緑町",
+    "households": "4243"
+  },
+  "838": {
+    "city_name": "府中市",
+    "area_name": "宮町",
+    "households": "2945"
+  },
+  "839": {
+    "city_name": "府中市",
+    "area_name": "八幡町",
+    "households": "3219"
+  },
+  "840": {
+    "city_name": "府中市",
+    "area_name": "清水が丘",
+    "households": "3499"
+  },
+  "841": {
+    "city_name": "府中市",
+    "area_name": "是政",
+    "households": "5622"
+  },
+  "842": {
+    "city_name": "府中市",
+    "area_name": "矢崎町",
+    "households": "1400"
+  },
+  "843": {
+    "city_name": "府中市",
+    "area_name": "南町",
+    "households": "4199"
+  },
+  "844": {
+    "city_name": "府中市",
+    "area_name": "本町",
+    "households": "2942"
+  },
+  "845": {
+    "city_name": "府中市",
+    "area_name": "片町",
+    "households": "1682"
+  },
+  "846": {
+    "city_name": "府中市",
+    "area_name": "宮西町",
+    "households": "3161"
+  },
+  "847": {
+    "city_name": "府中市",
+    "area_name": "寿町",
+    "households": "1637"
+  },
+  "848": {
+    "city_name": "府中市",
+    "area_name": "晴見町",
+    "households": "3222"
+  },
+  "849": {
+    "city_name": "府中市",
+    "area_name": "栄町",
+    "households": "2618"
+  },
+  "850": {
+    "city_name": "府中市",
+    "area_name": "武蔵台",
+    "households": "3429"
+  },
+  "851": {
+    "city_name": "府中市",
+    "area_name": "北山町",
+    "households": "1752"
+  },
+  "852": {
+    "city_name": "府中市",
+    "area_name": "西原町",
+    "households": "1490"
+  },
+  "853": {
+    "city_name": "府中市",
+    "area_name": "美好町",
+    "households": "5051"
+  },
+  "854": {
+    "city_name": "府中市",
+    "area_name": "分梅町",
+    "households": "3039"
+  },
+  "855": {
+    "city_name": "府中市",
+    "area_name": "住吉町",
+    "households": "5968"
+  },
+  "856": {
+    "city_name": "府中市",
+    "area_name": "四谷",
+    "households": "5316"
+  },
+  "857": {
+    "city_name": "府中市",
+    "area_name": "日新町",
+    "households": "1703"
+  },
+  "858": {
+    "city_name": "府中市",
+    "area_name": "本宿町",
+    "households": "3090"
+  },
+  "859": {
+    "city_name": "府中市",
+    "area_name": "西府町",
+    "households": "2945"
+  },
+  "860": {
+    "city_name": "昭島市",
+    "area_name": "東町",
+    "households": "1986"
+  },
+  "861": {
+    "city_name": "昭島市",
+    "area_name": "郷地町",
+    "households": "1562"
+  },
+  "862": {
+    "city_name": "昭島市",
+    "area_name": "武蔵野",
+    "households": "1951"
+  },
+  "863": {
+    "city_name": "昭島市",
+    "area_name": "玉川町",
+    "households": "4065"
+  },
+  "864": {
+    "city_name": "昭島市",
+    "area_name": "福島町",
+    "households": "1779"
+  },
+  "865": {
+    "city_name": "昭島市",
+    "area_name": "朝日町",
+    "households": "2738"
+  },
+  "866": {
+    "city_name": "昭島市",
+    "area_name": "つつじが丘",
+    "households": "2576"
+  },
+  "867": {
+    "city_name": "昭島市",
+    "area_name": "美堀町",
+    "households": "3527"
+  },
+  "868": {
+    "city_name": "昭島市",
+    "area_name": "昭和町",
+    "households": "2522"
+  },
+  "869": {
+    "city_name": "昭島市",
+    "area_name": "大神町",
+    "households": "1908"
+  },
+  "870": {
+    "city_name": "昭島市",
+    "area_name": "松原町",
+    "households": "4202"
+  },
+  "871": {
+    "city_name": "昭島市",
+    "area_name": "田中町",
+    "households": "3012"
+  },
+  "872": {
+    "city_name": "昭島市",
+    "area_name": "緑町",
+    "households": "5107"
+  },
+  "873": {
+    "city_name": "昭島市",
+    "area_name": "拝島町",
+    "households": "3150"
+  },
+  "874": {
+    "city_name": "昭島市",
+    "area_name": "中神町",
+    "households": "1549"
+  },
+  "875": {
+    "city_name": "昭島市",
+    "area_name": "中神町",
+    "households": "4426"
+  },
+  "876": {
+    "city_name": "昭島市",
+    "area_name": "宮沢町",
+    "households": "2001"
+  },
+  "877": {
+    "city_name": "昭島市",
+    "area_name": "上川原町",
+    "households": "1537"
+  },
+  "878": {
+    "city_name": "昭島市",
+    "area_name": "もくせいの杜",
+    "households": "332"
+  },
+  "879": {
+    "city_name": "調布市",
+    "area_name": "飛田給",
+    "households": "4603"
+  },
+  "880": {
+    "city_name": "調布市",
+    "area_name": "上石原",
+    "households": "5329"
+  },
+  "881": {
+    "city_name": "調布市",
+    "area_name": "富士見町",
+    "households": "4373"
+  },
+  "882": {
+    "city_name": "調布市",
+    "area_name": "下石原",
+    "households": "4498"
+  },
+  "883": {
+    "city_name": "調布市",
+    "area_name": "小島町",
+    "households": "5780"
+  },
+  "884": {
+    "city_name": "調布市",
+    "area_name": "布田",
+    "households": "8844"
+  },
+  "885": {
+    "city_name": "調布市",
+    "area_name": "国領町",
+    "households": "14545"
+  },
+  "886": {
+    "city_name": "調布市",
+    "area_name": "染地",
+    "households": "6780"
+  },
+  "887": {
+    "city_name": "調布市",
+    "area_name": "多摩川",
+    "households": "8035"
+  },
+  "888": {
+    "city_name": "調布市",
+    "area_name": "佐須町",
+    "households": "2585"
+  },
+  "889": {
+    "city_name": "調布市",
+    "area_name": "柴崎",
+    "households": "3952"
+  },
+  "890": {
+    "city_name": "調布市",
+    "area_name": "菊野台",
+    "households": "5481"
+  },
+  "891": {
+    "city_name": "調布市",
+    "area_name": "東つつじケ丘",
+    "households": "3113"
+  },
+  "892": {
+    "city_name": "調布市",
+    "area_name": "西つつじケ丘",
+    "households": "8416"
+  },
+  "893": {
+    "city_name": "調布市",
+    "area_name": "入間町",
+    "households": "4020"
+  },
+  "894": {
+    "city_name": "調布市",
+    "area_name": "仙川町",
+    "households": "4702"
+  },
+  "895": {
+    "city_name": "調布市",
+    "area_name": "緑ケ丘",
+    "households": "3303"
+  },
+  "896": {
+    "city_name": "調布市",
+    "area_name": "野水",
+    "households": "42"
+  },
+  "897": {
+    "city_name": "調布市",
+    "area_name": "若葉町",
+    "households": "3449"
+  },
+  "898": {
+    "city_name": "調布市",
+    "area_name": "調布ケ丘",
+    "households": "5003"
+  },
+  "899": {
+    "city_name": "調布市",
+    "area_name": "深大寺元町",
+    "households": "2112"
+  },
+  "900": {
+    "city_name": "調布市",
+    "area_name": "深大寺北町",
+    "households": "3244"
+  },
+  "901": {
+    "city_name": "調布市",
+    "area_name": "深大寺東町",
+    "households": "4995"
+  },
+  "902": {
+    "city_name": "調布市",
+    "area_name": "深大寺南町",
+    "households": "2092"
+  },
+  "903": {
+    "city_name": "調布市",
+    "area_name": "八雲台",
+    "households": "1642"
+  },
+  "904": {
+    "city_name": "町田市",
+    "area_name": "相原町",
+    "households": "6766"
+  },
+  "905": {
+    "city_name": "町田市",
+    "area_name": "旭町",
+    "households": "2541"
+  },
+  "906": {
+    "city_name": "町田市",
+    "area_name": "小川",
+    "households": "5458"
+  },
+  "907": {
+    "city_name": "町田市",
+    "area_name": "小山田桜台",
+    "households": "1440"
+  },
+  "908": {
+    "city_name": "町田市",
+    "area_name": "小山町",
+    "households": "7487"
+  },
+  "909": {
+    "city_name": "町田市",
+    "area_name": "金井",
+    "households": "3254"
+  },
+  "910": {
+    "city_name": "町田市",
+    "area_name": "金井",
+    "households": "1089"
+  },
+  "911": {
+    "city_name": "町田市",
+    "area_name": "金井町",
+    "households": "3577"
+  },
+  "912": {
+    "city_name": "町田市",
+    "area_name": "金森",
+    "households": "6300"
+  },
+  "913": {
+    "city_name": "町田市",
+    "area_name": "木曽東",
+    "households": "7870"
+  },
+  "914": {
+    "city_name": "町田市",
+    "area_name": "木曽西",
+    "households": "3300"
+  },
+  "915": {
+    "city_name": "町田市",
+    "area_name": "木曽町",
+    "households": "151"
+  },
+  "916": {
+    "city_name": "町田市",
+    "area_name": "高ヶ坂",
+    "households": "4571"
+  },
+  "917": {
+    "city_name": "町田市",
+    "area_name": "真光寺",
+    "households": "2195"
+  },
+  "918": {
+    "city_name": "町田市",
+    "area_name": "忠生",
+    "households": "3371"
+  },
+  "919": {
+    "city_name": "町田市",
+    "area_name": "玉川学園",
+    "households": "8392"
+  },
+  "920": {
+    "city_name": "町田市",
+    "area_name": "つくし野",
+    "households": "2601"
+  },
+  "921": {
+    "city_name": "町田市",
+    "area_name": "鶴川",
+    "households": "6135"
+  },
+  "922": {
+    "city_name": "町田市",
+    "area_name": "鶴間",
+    "households": "3661"
+  },
+  "923": {
+    "city_name": "町田市",
+    "area_name": "中町",
+    "households": "5984"
+  },
+  "924": {
+    "city_name": "町田市",
+    "area_name": "成瀬",
+    "households": "2444"
+  },
+  "925": {
+    "city_name": "町田市",
+    "area_name": "成瀬",
+    "households": "1513"
+  },
+  "926": {
+    "city_name": "町田市",
+    "area_name": "成瀬が丘",
+    "households": "2274"
+  },
+  "927": {
+    "city_name": "町田市",
+    "area_name": "成瀬台",
+    "households": "3221"
+  },
+  "928": {
+    "city_name": "町田市",
+    "area_name": "根岸",
+    "households": "903"
+  },
+  "929": {
+    "city_name": "町田市",
+    "area_name": "能ケ谷",
+    "households": "4907"
+  },
+  "930": {
+    "city_name": "町田市",
+    "area_name": "原町田",
+    "households": "9910"
+  },
+  "931": {
+    "city_name": "町田市",
+    "area_name": "東玉川学園",
+    "households": "1366"
+  },
+  "932": {
+    "city_name": "町田市",
+    "area_name": "広袴",
+    "households": "1180"
+  },
+  "933": {
+    "city_name": "町田市",
+    "area_name": "本町田",
+    "households": "11615"
+  },
+  "934": {
+    "city_name": "町田市",
+    "area_name": "南大谷",
+    "households": "4603"
+  },
+  "935": {
+    "city_name": "町田市",
+    "area_name": "南つくし野",
+    "households": "2304"
+  },
+  "936": {
+    "city_name": "町田市",
+    "area_name": "南成瀬",
+    "households": "4845"
+  },
+  "937": {
+    "city_name": "町田市",
+    "area_name": "三輪緑山",
+    "households": "2087"
+  },
+  "938": {
+    "city_name": "町田市",
+    "area_name": "森野",
+    "households": "6904"
+  },
+  "939": {
+    "city_name": "町田市",
+    "area_name": "薬師台",
+    "households": "973"
+  },
+  "940": {
+    "city_name": "町田市",
+    "area_name": "矢部町",
+    "households": "706"
+  },
+  "941": {
+    "city_name": "町田市",
+    "area_name": "山崎町",
+    "households": "6966"
+  },
+  "942": {
+    "city_name": "町田市",
+    "area_name": "小山ヶ丘",
+    "households": "4423"
+  },
+  "943": {
+    "city_name": "町田市",
+    "area_name": "金森東",
+    "households": "3125"
+  },
+  "944": {
+    "city_name": "町田市",
+    "area_name": "西成瀬",
+    "households": "2128"
+  },
+  "945": {
+    "city_name": "町田市",
+    "area_name": "南町田",
+    "households": "4618"
+  },
+  "946": {
+    "city_name": "小金井市",
+    "area_name": "東町",
+    "households": "9277"
+  },
+  "947": {
+    "city_name": "小金井市",
+    "area_name": "梶野町",
+    "households": "5544"
+  },
+  "948": {
+    "city_name": "小金井市",
+    "area_name": "関野町",
+    "households": "609"
+  },
+  "949": {
+    "city_name": "小金井市",
+    "area_name": "緑町",
+    "households": "8227"
+  },
+  "950": {
+    "city_name": "小金井市",
+    "area_name": "中町",
+    "households": "6433"
+  },
+  "951": {
+    "city_name": "小金井市",
+    "area_name": "前原町",
+    "households": "6977"
+  },
+  "952": {
+    "city_name": "小金井市",
+    "area_name": "本町",
+    "households": "11867"
+  },
+  "953": {
+    "city_name": "小金井市",
+    "area_name": "桜町",
+    "households": "2140"
+  },
+  "954": {
+    "city_name": "小金井市",
+    "area_name": "貫井北町",
+    "households": "6066"
+  },
+  "955": {
+    "city_name": "小金井市",
+    "area_name": "貫井南町",
+    "households": "6042"
+  },
+  "956": {
+    "city_name": "小平市",
+    "area_name": "上水新町",
+    "households": "2009"
+  },
+  "957": {
+    "city_name": "小平市",
+    "area_name": "小川町",
+    "households": "11707"
+  },
+  "958": {
+    "city_name": "小平市",
+    "area_name": "栄町",
+    "households": "1468"
+  },
+  "959": {
+    "city_name": "小平市",
+    "area_name": "小川西町",
+    "households": "3948"
+  },
+  "960": {
+    "city_name": "小平市",
+    "area_name": "小川東町",
+    "households": "4714"
+  },
+  "961": {
+    "city_name": "小平市",
+    "area_name": "上水本町",
+    "households": "4913"
+  },
+  "962": {
+    "city_name": "小平市",
+    "area_name": "上水南町",
+    "households": "3593"
+  },
+  "963": {
+    "city_name": "小平市",
+    "area_name": "喜平町",
+    "households": "2925"
+  },
+  "964": {
+    "city_name": "小平市",
+    "area_name": "津田町",
+    "households": "2415"
+  },
+  "965": {
+    "city_name": "小平市",
+    "area_name": "学園西町",
+    "households": "5853"
+  },
+  "966": {
+    "city_name": "小平市",
+    "area_name": "学園東町",
+    "households": "4431"
+  },
+  "967": {
+    "city_name": "小平市",
+    "area_name": "仲町",
+    "households": "4262"
+  },
+  "968": {
+    "city_name": "小平市",
+    "area_name": "美園町",
+    "households": "3017"
+  },
+  "969": {
+    "city_name": "小平市",
+    "area_name": "鈴木町",
+    "households": "6979"
+  },
+  "970": {
+    "city_name": "小平市",
+    "area_name": "天神町",
+    "households": "2763"
+  },
+  "971": {
+    "city_name": "小平市",
+    "area_name": "大沼町",
+    "households": "4049"
+  },
+  "972": {
+    "city_name": "小平市",
+    "area_name": "花小金井南町",
+    "households": "5266"
+  },
+  "973": {
+    "city_name": "小平市",
+    "area_name": "花小金井",
+    "households": "9836"
+  },
+  "974": {
+    "city_name": "日野市",
+    "area_name": "多摩平",
+    "households": "8364"
+  },
+  "975": {
+    "city_name": "日野市",
+    "area_name": "日野台",
+    "households": "2758"
+  },
+  "976": {
+    "city_name": "日野市",
+    "area_name": "栄町",
+    "households": "2408"
+  },
+  "977": {
+    "city_name": "日野市",
+    "area_name": "新町",
+    "households": "2926"
+  },
+  "978": {
+    "city_name": "日野市",
+    "area_name": "平山",
+    "households": "4297"
+  },
+  "979": {
+    "city_name": "日野市",
+    "area_name": "東平山",
+    "households": "2005"
+  },
+  "980": {
+    "city_name": "日野市",
+    "area_name": "西平山",
+    "households": "2733"
+  },
+  "981": {
+    "city_name": "日野市",
+    "area_name": "豊田",
+    "households": "3871"
+  },
+  "982": {
+    "city_name": "日野市",
+    "area_name": "東豊田",
+    "households": "3437"
+  },
+  "983": {
+    "city_name": "日野市",
+    "area_name": "旭が丘",
+    "households": "5550"
+  },
+  "984": {
+    "city_name": "日野市",
+    "area_name": "南平",
+    "households": "7905"
+  },
+  "985": {
+    "city_name": "日野市",
+    "area_name": "日野本町",
+    "households": "3740"
+  },
+  "986": {
+    "city_name": "日野市",
+    "area_name": "神明",
+    "households": "3091"
+  },
+  "987": {
+    "city_name": "日野市",
+    "area_name": "大坂上",
+    "households": "2842"
+  },
+  "988": {
+    "city_name": "日野市",
+    "area_name": "程久保",
+    "households": "2599"
+  },
+  "989": {
+    "city_name": "日野市",
+    "area_name": "大字新井",
+    "households": "1867"
+  },
+  "990": {
+    "city_name": "日野市",
+    "area_name": "三沢",
+    "households": "4094"
+  },
+  "991": {
+    "city_name": "日野市",
+    "area_name": "三沢",
+    "households": "1412"
+  },
+  "992": {
+    "city_name": "日野市",
+    "area_name": "万願寺",
+    "households": "5287"
+  },
+  "993": {
+    "city_name": "日野市",
+    "area_name": "万願寺",
+    "households": "-"
+  },
+  "994": {
+    "city_name": "日野市",
+    "area_name": "石田",
+    "households": "908"
+  },
+  "995": {
+    "city_name": "東村山市",
+    "area_name": "本町",
+    "households": "6240"
+  },
+  "996": {
+    "city_name": "東村山市",
+    "area_name": "久米川町",
+    "households": "6661"
+  },
+  "997": {
+    "city_name": "東村山市",
+    "area_name": "秋津町",
+    "households": "7475"
+  },
+  "998": {
+    "city_name": "東村山市",
+    "area_name": "青葉町",
+    "households": "4572"
+  },
+  "999": {
+    "city_name": "東村山市",
+    "area_name": "恩多町",
+    "households": "6070"
+  },
+  "1000": {
+    "city_name": "東村山市",
+    "area_name": "萩山町",
+    "households": "6863"
+  },
+  "1001": {
+    "city_name": "東村山市",
+    "area_name": "栄町",
+    "households": "7948"
+  },
+  "1002": {
+    "city_name": "東村山市",
+    "area_name": "富士見町",
+    "households": "6389"
+  },
+  "1003": {
+    "city_name": "東村山市",
+    "area_name": "美住町",
+    "households": "4561"
+  },
+  "1004": {
+    "city_name": "東村山市",
+    "area_name": "廻田町",
+    "households": "2852"
+  },
+  "1005": {
+    "city_name": "東村山市",
+    "area_name": "多摩湖町",
+    "households": "2255"
+  },
+  "1006": {
+    "city_name": "東村山市",
+    "area_name": "諏訪町",
+    "households": "2203"
+  },
+  "1007": {
+    "city_name": "東村山市",
+    "area_name": "野口町",
+    "households": "4389"
+  },
+  "1008": {
+    "city_name": "国分寺市",
+    "area_name": "東元町",
+    "households": "5608"
+  },
+  "1009": {
+    "city_name": "国分寺市",
+    "area_name": "西元町",
+    "households": "1868"
+  },
+  "1010": {
+    "city_name": "国分寺市",
+    "area_name": "南町",
+    "households": "5169"
+  },
+  "1011": {
+    "city_name": "国分寺市",
+    "area_name": "泉町",
+    "households": "4795"
+  },
+  "1012": {
+    "city_name": "国分寺市",
+    "area_name": "本町",
+    "households": "4843"
+  },
+  "1013": {
+    "city_name": "国分寺市",
+    "area_name": "本多",
+    "households": "5540"
+  },
+  "1014": {
+    "city_name": "国分寺市",
+    "area_name": "東恋ケ窪",
+    "households": "6643"
+  },
+  "1015": {
+    "city_name": "国分寺市",
+    "area_name": "西恋ケ窪",
+    "households": "3110"
+  },
+  "1016": {
+    "city_name": "国分寺市",
+    "area_name": "東戸倉",
+    "households": "1779"
+  },
+  "1017": {
+    "city_name": "国分寺市",
+    "area_name": "戸倉",
+    "households": "3403"
+  },
+  "1018": {
+    "city_name": "国分寺市",
+    "area_name": "日吉町",
+    "households": "3762"
+  },
+  "1019": {
+    "city_name": "国分寺市",
+    "area_name": "内藤",
+    "households": "2251"
+  },
+  "1020": {
+    "city_name": "国分寺市",
+    "area_name": "富士本",
+    "households": "2205"
+  },
+  "1021": {
+    "city_name": "国分寺市",
+    "area_name": "新町",
+    "households": "1333"
+  },
+  "1022": {
+    "city_name": "国分寺市",
+    "area_name": "並木町",
+    "households": "1220"
+  },
+  "1023": {
+    "city_name": "国分寺市",
+    "area_name": "北町",
+    "households": "1485"
+  },
+  "1024": {
+    "city_name": "国分寺市",
+    "area_name": "光町",
+    "households": "3229"
+  },
+  "1025": {
+    "city_name": "国分寺市",
+    "area_name": "高木町",
+    "households": "1270"
+  },
+  "1026": {
+    "city_name": "国分寺市",
+    "area_name": "西町",
+    "households": "4449"
+  },
+  "1027": {
+    "city_name": "国立市",
+    "area_name": "東",
+    "households": "6577"
+  },
+  "1028": {
+    "city_name": "国立市",
+    "area_name": "中",
+    "households": "4674"
+  },
+  "1029": {
+    "city_name": "国立市",
+    "area_name": "西",
+    "households": "5464"
+  },
+  "1030": {
+    "city_name": "国立市",
+    "area_name": "富士見台",
+    "households": "9014"
+  },
+  "1031": {
+    "city_name": "国立市",
+    "area_name": "北",
+    "households": "4057"
+  },
+  "1032": {
+    "city_name": "国立市",
+    "area_name": "谷保",
+    "households": "4654"
+  },
+  "1033": {
+    "city_name": "国立市",
+    "area_name": "青柳",
+    "households": "2270"
+  },
+  "1034": {
+    "city_name": "国立市",
+    "area_name": "泉",
+    "households": "1162"
+  },
+  "1035": {
+    "city_name": "福生市",
+    "area_name": "大字熊川",
+    "households": "8827"
+  },
+  "1036": {
+    "city_name": "福生市",
+    "area_name": "大字福生",
+    "households": "6279"
+  },
+  "1037": {
+    "city_name": "福生市",
+    "area_name": "北田園",
+    "households": "901"
+  },
+  "1038": {
+    "city_name": "福生市",
+    "area_name": "南田園",
+    "households": "2256"
+  },
+  "1039": {
+    "city_name": "福生市",
+    "area_name": "武蔵野台",
+    "households": "3015"
+  },
+  "1040": {
+    "city_name": "福生市",
+    "area_name": "加美平",
+    "households": "3156"
+  },
+  "1041": {
+    "city_name": "狛江市",
+    "area_name": "和泉本町",
+    "households": "6958"
+  },
+  "1042": {
+    "city_name": "狛江市",
+    "area_name": "中和泉",
+    "households": "6089"
+  },
+  "1043": {
+    "city_name": "狛江市",
+    "area_name": "西和泉",
+    "households": "1230"
+  },
+  "1044": {
+    "city_name": "狛江市",
+    "area_name": "元和泉",
+    "households": "2031"
+  },
+  "1045": {
+    "city_name": "狛江市",
+    "area_name": "東和泉",
+    "households": "4357"
+  },
+  "1046": {
+    "city_name": "狛江市",
+    "area_name": "猪方",
+    "households": "3502"
+  },
+  "1047": {
+    "city_name": "狛江市",
+    "area_name": "駒井町",
+    "households": "1953"
+  },
+  "1048": {
+    "city_name": "狛江市",
+    "area_name": "岩戸南",
+    "households": "4616"
+  },
+  "1049": {
+    "city_name": "狛江市",
+    "area_name": "岩戸北",
+    "households": "5083"
+  },
+  "1050": {
+    "city_name": "狛江市",
+    "area_name": "東野川",
+    "households": "3652"
+  },
+  "1051": {
+    "city_name": "狛江市",
+    "area_name": "西野川",
+    "households": "3145"
+  },
+  "1052": {
+    "city_name": "東大和市",
+    "area_name": "多摩湖",
+    "households": "1"
+  },
+  "1053": {
+    "city_name": "東大和市",
+    "area_name": "芋窪",
+    "households": "2098"
+  },
+  "1054": {
+    "city_name": "東大和市",
+    "area_name": "蔵敷",
+    "households": "2216"
+  },
+  "1055": {
+    "city_name": "東大和市",
+    "area_name": "奈良橋",
+    "households": "1636"
+  },
+  "1056": {
+    "city_name": "東大和市",
+    "area_name": "湖畔",
+    "households": "1034"
+  },
+  "1057": {
+    "city_name": "東大和市",
+    "area_name": "高木",
+    "households": "1238"
+  },
+  "1058": {
+    "city_name": "東大和市",
+    "area_name": "狭山",
+    "households": "1610"
+  },
+  "1059": {
+    "city_name": "東大和市",
+    "area_name": "清水",
+    "households": "2271"
+  },
+  "1060": {
+    "city_name": "東大和市",
+    "area_name": "上北台",
+    "households": "2168"
+  },
+  "1061": {
+    "city_name": "東大和市",
+    "area_name": "桜が丘",
+    "households": "5959"
+  },
+  "1062": {
+    "city_name": "東大和市",
+    "area_name": "立野",
+    "households": "2187"
+  },
+  "1063": {
+    "city_name": "東大和市",
+    "area_name": "中央",
+    "households": "1826"
+  },
+  "1064": {
+    "city_name": "東大和市",
+    "area_name": "南街",
+    "households": "3758"
+  },
+  "1065": {
+    "city_name": "東大和市",
+    "area_name": "仲原",
+    "households": "1306"
+  },
+  "1066": {
+    "city_name": "東大和市",
+    "area_name": "向原",
+    "households": "3970"
+  },
+  "1067": {
+    "city_name": "東大和市",
+    "area_name": "清原",
+    "households": "1537"
+  },
+  "1068": {
+    "city_name": "東大和市",
+    "area_name": "新堀",
+    "households": "1521"
+  },
+  "1069": {
+    "city_name": "清瀬市",
+    "area_name": "上清戸",
+    "households": "1644"
+  },
+  "1070": {
+    "city_name": "清瀬市",
+    "area_name": "元町",
+    "households": "3631"
+  },
+  "1071": {
+    "city_name": "清瀬市",
+    "area_name": "中清戸",
+    "households": "3593"
+  },
+  "1072": {
+    "city_name": "清瀬市",
+    "area_name": "下清戸",
+    "households": "1730"
+  },
+  "1073": {
+    "city_name": "清瀬市",
+    "area_name": "下宿",
+    "households": "1631"
+  },
+  "1074": {
+    "city_name": "清瀬市",
+    "area_name": "旭が丘",
+    "households": "2869"
+  },
+  "1075": {
+    "city_name": "清瀬市",
+    "area_name": "中里",
+    "households": "5394"
+  },
+  "1076": {
+    "city_name": "清瀬市",
+    "area_name": "野塩",
+    "households": "4329"
+  },
+  "1077": {
+    "city_name": "清瀬市",
+    "area_name": "松山",
+    "households": "4358"
+  },
+  "1078": {
+    "city_name": "清瀬市",
+    "area_name": "竹丘",
+    "households": "4416"
+  },
+  "1079": {
+    "city_name": "清瀬市",
+    "area_name": "梅園",
+    "households": "1408"
+  },
+  "1080": {
+    "city_name": "東久留米市",
+    "area_name": "上の原",
+    "households": "1018"
+  },
+  "1081": {
+    "city_name": "東久留米市",
+    "area_name": "神宝町",
+    "households": "1027"
+  },
+  "1082": {
+    "city_name": "東久留米市",
+    "area_name": "金山町",
+    "households": "1332"
+  },
+  "1083": {
+    "city_name": "東久留米市",
+    "area_name": "氷川台",
+    "households": "1394"
+  },
+  "1084": {
+    "city_name": "東久留米市",
+    "area_name": "大門町",
+    "households": "1300"
+  },
+  "1085": {
+    "city_name": "東久留米市",
+    "area_name": "新川町",
+    "households": "1445"
+  },
+  "1086": {
+    "city_name": "東久留米市",
+    "area_name": "浅間町",
+    "households": "2734"
+  },
+  "1087": {
+    "city_name": "東久留米市",
+    "area_name": "学園町",
+    "households": "1387"
+  },
+  "1088": {
+    "city_name": "東久留米市",
+    "area_name": "本町",
+    "households": "3487"
+  },
+  "1089": {
+    "city_name": "東久留米市",
+    "area_name": "小山",
+    "households": "2496"
+  },
+  "1090": {
+    "city_name": "東久留米市",
+    "area_name": "幸町",
+    "households": "2314"
+  },
+  "1091": {
+    "city_name": "東久留米市",
+    "area_name": "中央町",
+    "households": "3367"
+  },
+  "1092": {
+    "city_name": "東久留米市",
+    "area_name": "南沢",
+    "households": "2976"
+  },
+  "1093": {
+    "city_name": "東久留米市",
+    "area_name": "前沢",
+    "households": "3871"
+  },
+  "1094": {
+    "city_name": "東久留米市",
+    "area_name": "南町",
+    "households": "1978"
+  },
+  "1095": {
+    "city_name": "東久留米市",
+    "area_name": "滝山",
+    "households": "4893"
+  },
+  "1096": {
+    "city_name": "東久留米市",
+    "area_name": "下里",
+    "households": "5613"
+  },
+  "1097": {
+    "city_name": "東久留米市",
+    "area_name": "柳窪",
+    "households": "2152"
+  },
+  "1098": {
+    "city_name": "東久留米市",
+    "area_name": "野火止",
+    "households": "1154"
+  },
+  "1099": {
+    "city_name": "東久留米市",
+    "area_name": "八幡町",
+    "households": "2332"
+  },
+  "1100": {
+    "city_name": "東久留米市",
+    "area_name": "弥生",
+    "households": "586"
+  },
+  "1101": {
+    "city_name": "武蔵村山市",
+    "area_name": "大南",
+    "households": "6173"
+  },
+  "1102": {
+    "city_name": "武蔵村山市",
+    "area_name": "学園",
+    "households": "2830"
+  },
+  "1103": {
+    "city_name": "武蔵村山市",
+    "area_name": "榎",
+    "households": "1186"
+  },
+  "1104": {
+    "city_name": "武蔵村山市",
+    "area_name": "伊奈平",
+    "households": "2002"
+  },
+  "1105": {
+    "city_name": "武蔵村山市",
+    "area_name": "残堀",
+    "households": "2304"
+  },
+  "1106": {
+    "city_name": "武蔵村山市",
+    "area_name": "三ツ藤",
+    "households": "1899"
+  },
+  "1107": {
+    "city_name": "武蔵村山市",
+    "area_name": "神明",
+    "households": "1647"
+  },
+  "1108": {
+    "city_name": "武蔵村山市",
+    "area_name": "中藤",
+    "households": "898"
+  },
+  "1109": {
+    "city_name": "武蔵村山市",
+    "area_name": "中央",
+    "households": "1374"
+  },
+  "1110": {
+    "city_name": "武蔵村山市",
+    "area_name": "本町",
+    "households": "1414"
+  },
+  "1111": {
+    "city_name": "武蔵村山市",
+    "area_name": "緑が丘",
+    "households": "3593"
+  },
+  "1112": {
+    "city_name": "武蔵村山市",
+    "area_name": "三ツ木",
+    "households": "1626"
+  },
+  "1113": {
+    "city_name": "武蔵村山市",
+    "area_name": "岸",
+    "households": "1218"
+  },
+  "1114": {
+    "city_name": "武蔵村山市",
+    "area_name": "中原",
+    "households": "1814"
+  },
+  "1115": {
+    "city_name": "多摩市",
+    "area_name": "関戸",
+    "households": "4778"
+  },
+  "1116": {
+    "city_name": "多摩市",
+    "area_name": "連光寺",
+    "households": "3817"
+  },
+  "1117": {
+    "city_name": "多摩市",
+    "area_name": "和田",
+    "households": "4753"
+  },
+  "1118": {
+    "city_name": "多摩市",
+    "area_name": "東寺方",
+    "households": "736"
+  },
+  "1119": {
+    "city_name": "多摩市",
+    "area_name": "一ノ宮",
+    "households": "3719"
+  },
+  "1120": {
+    "city_name": "多摩市",
+    "area_name": "桜ケ丘",
+    "households": "2547"
+  },
+  "1121": {
+    "city_name": "多摩市",
+    "area_name": "聖ケ丘",
+    "households": "2689"
+  },
+  "1122": {
+    "city_name": "多摩市",
+    "area_name": "諏訪",
+    "households": "5182"
+  },
+  "1123": {
+    "city_name": "多摩市",
+    "area_name": "永山",
+    "households": "7631"
+  },
+  "1124": {
+    "city_name": "多摩市",
+    "area_name": "貝取",
+    "households": "3479"
+  },
+  "1125": {
+    "city_name": "多摩市",
+    "area_name": "豊ケ丘",
+    "households": "4782"
+  },
+  "1126": {
+    "city_name": "多摩市",
+    "area_name": "落合",
+    "households": "6431"
+  },
+  "1127": {
+    "city_name": "多摩市",
+    "area_name": "鶴牧",
+    "households": "5480"
+  },
+  "1128": {
+    "city_name": "多摩市",
+    "area_name": "南野",
+    "households": "885"
+  },
+  "1129": {
+    "city_name": "多摩市",
+    "area_name": "愛宕",
+    "households": "2496"
+  },
+  "1130": {
+    "city_name": "多摩市",
+    "area_name": "馬引沢",
+    "households": "2178"
+  },
+  "1131": {
+    "city_name": "多摩市",
+    "area_name": "山王下",
+    "households": "385"
+  },
+  "1132": {
+    "city_name": "多摩市",
+    "area_name": "中沢",
+    "households": "1369"
+  },
+  "1133": {
+    "city_name": "多摩市",
+    "area_name": "唐木田",
+    "households": "1003"
+  },
+  "1134": {
+    "city_name": "稲城市",
+    "area_name": "矢野口",
+    "households": "8188"
+  },
+  "1135": {
+    "city_name": "稲城市",
+    "area_name": "東長沼",
+    "households": "5889"
+  },
+  "1136": {
+    "city_name": "稲城市",
+    "area_name": "大丸",
+    "households": "4615"
+  },
+  "1137": {
+    "city_name": "稲城市",
+    "area_name": "百村",
+    "households": "2313"
+  },
+  "1138": {
+    "city_name": "稲城市",
+    "area_name": "平尾",
+    "households": "5750"
+  },
+  "1139": {
+    "city_name": "稲城市",
+    "area_name": "向陽台",
+    "households": "3399"
+  },
+  "1140": {
+    "city_name": "稲城市",
+    "area_name": "長峰",
+    "households": "1671"
+  },
+  "1141": {
+    "city_name": "稲城市",
+    "area_name": "若葉台",
+    "households": "4010"
+  },
+  "1142": {
+    "city_name": "羽村市",
+    "area_name": "川崎",
+    "households": "838"
+  },
+  "1143": {
+    "city_name": "羽村市",
+    "area_name": "五ノ神",
+    "households": "1675"
+  },
+  "1144": {
+    "city_name": "羽村市",
+    "area_name": "小作台",
+    "households": "2918"
+  },
+  "1145": {
+    "city_name": "羽村市",
+    "area_name": "双葉町",
+    "households": "1107"
+  },
+  "1146": {
+    "city_name": "羽村市",
+    "area_name": "神明台",
+    "households": "3610"
+  },
+  "1147": {
+    "city_name": "羽村市",
+    "area_name": "栄町",
+    "households": "2527"
+  },
+  "1148": {
+    "city_name": "羽村市",
+    "area_name": "緑ケ丘",
+    "households": "2904"
+  },
+  "1149": {
+    "city_name": "羽村市",
+    "area_name": "玉川",
+    "households": "457"
+  },
+  "1150": {
+    "city_name": "羽村市",
+    "area_name": "富士見平",
+    "households": "1945"
+  },
+  "1151": {
+    "city_name": "羽村市",
+    "area_name": "羽東",
+    "households": "1491"
+  },
+  "1152": {
+    "city_name": "羽村市",
+    "area_name": "羽中",
+    "households": "1472"
+  },
+  "1153": {
+    "city_name": "羽村市",
+    "area_name": "羽加美",
+    "households": "1619"
+  },
+  "1154": {
+    "city_name": "羽村市",
+    "area_name": "羽西",
+    "households": "1076"
+  },
+  "1155": {
+    "city_name": "あきる野市",
+    "area_name": "雨間",
+    "households": "2143"
+  },
+  "1156": {
+    "city_name": "あきる野市",
+    "area_name": "小川東",
+    "households": "701"
+  },
+  "1157": {
+    "city_name": "あきる野市",
+    "area_name": "二宮東",
+    "households": "390"
+  },
+  "1158": {
+    "city_name": "あきる野市",
+    "area_name": "草花",
+    "households": "4179"
+  },
+  "1159": {
+    "city_name": "あきる野市",
+    "area_name": "原小宮",
+    "households": "344"
+  },
+  "1160": {
+    "city_name": "あきる野市",
+    "area_name": "秋川",
+    "households": "1593"
+  },
+  "1161": {
+    "city_name": "あきる野市",
+    "area_name": "秋留",
+    "households": "913"
+  },
+  "1162": {
+    "city_name": "西東京市",
+    "area_name": "新町",
+    "households": "4125"
+  },
+  "1163": {
+    "city_name": "西東京市",
+    "area_name": "柳沢",
+    "households": "5439"
+  },
+  "1164": {
+    "city_name": "西東京市",
+    "area_name": "東伏見",
+    "households": "2801"
+  },
+  "1165": {
+    "city_name": "西東京市",
+    "area_name": "保谷町",
+    "households": "6498"
+  },
+  "1166": {
+    "city_name": "西東京市",
+    "area_name": "富士町",
+    "households": "6099"
+  },
+  "1167": {
+    "city_name": "西東京市",
+    "area_name": "中町",
+    "households": "3098"
+  },
+  "1168": {
+    "city_name": "西東京市",
+    "area_name": "東町",
+    "households": "4199"
+  },
+  "1169": {
+    "city_name": "西東京市",
+    "area_name": "泉町",
+    "households": "3701"
+  },
+  "1170": {
+    "city_name": "西東京市",
+    "area_name": "住吉町",
+    "households": "3321"
+  },
+  "1171": {
+    "city_name": "西東京市",
+    "area_name": "ひばりが丘",
+    "households": "4480"
+  },
+  "1172": {
+    "city_name": "西東京市",
+    "area_name": "ひばりが丘北",
+    "households": "2523"
+  },
+  "1173": {
+    "city_name": "西東京市",
+    "area_name": "栄町",
+    "households": "1664"
+  },
+  "1174": {
+    "city_name": "西東京市",
+    "area_name": "北町",
+    "households": "2321"
+  },
+  "1175": {
+    "city_name": "西東京市",
+    "area_name": "下保谷",
+    "households": "4220"
+  },
+  "1176": {
+    "city_name": "西東京市",
+    "area_name": "田無町",
+    "households": "7767"
+  },
+  "1177": {
+    "city_name": "西東京市",
+    "area_name": "南町",
+    "households": "6454"
+  },
+  "1178": {
+    "city_name": "西東京市",
+    "area_name": "西原町",
+    "households": "3302"
+  },
+  "1179": {
+    "city_name": "西東京市",
+    "area_name": "緑町",
+    "households": "1793"
+  },
+  "1180": {
+    "city_name": "西東京市",
+    "area_name": "谷戸町",
+    "households": "6080"
+  },
+  "1181": {
+    "city_name": "西東京市",
+    "area_name": "北原町",
+    "households": "2125"
+  },
+  "1182": {
+    "city_name": "西東京市",
+    "area_name": "向台町",
+    "households": "6144"
+  },
+  "1183": {
+    "city_name": "西東京市",
+    "area_name": "芝久保町",
+    "households": "8864"
+  },
+  "1184": {
+    "city_name": "瑞穂町",
+    "area_name": "大字箱根ヶ崎",
+    "households": "2484"
+  },
+  "1185": {
+    "city_name": "瑞穂町",
+    "area_name": "南平",
+    "households": "845"
+  },
+  "1186": {
+    "city_name": "瑞穂町",
+    "area_name": "長岡",
+    "households": "1397"
+  },
+  "1187": {
+    "city_name": "瑞穂町",
+    "area_name": "むさし野",
+    "households": "1733"
+  },
+  "1188": {
+    "city_name": "日の出町",
+    "area_name": "大字平井",
+    "households": "4220"
+  },
+  "1189": {
+    "city_name": "日の出町",
+    "area_name": "大字大久野",
+    "households": "1792"
+  },
+  "1190": {
+    "city_name": "檜原村",
+    "area_name": "",
+    "households": "835"
+  },
+  "1191": {
+    "city_name": "奥多摩町",
+    "area_name": "町丁字コード0010の計",
+    "households": "1014"
+  },
+  "1192": {
+    "city_name": "奥多摩町",
+    "area_name": "町丁字コード0020の計",
+    "households": "874"
+  },
+  "1193": {
+    "city_name": "奥多摩町",
+    "area_name": "町丁字コード0030の計",
+    "households": "96"
+  },
+  "1194": {
+    "city_name": "大島町",
+    "area_name": "元町",
+    "households": "1258"
+  },
+  "1195": {
+    "city_name": "大島町",
+    "area_name": "元町",
+    "households": "621"
+  },
+  "1196": {
+    "city_name": "大島町",
+    "area_name": "岡田",
+    "households": "384"
+  },
+  "1197": {
+    "city_name": "大島町",
+    "area_name": "泉津",
+    "households": "178"
+  },
+  "1198": {
+    "city_name": "大島町",
+    "area_name": "差木地",
+    "households": "789"
+  },
+  "1199": {
+    "city_name": "大島町",
+    "area_name": "野増",
+    "households": "251"
+  },
+  "1200": {
+    "city_name": "新島村",
+    "area_name": "本村",
+    "households": "741"
+  },
+  "1201": {
+    "city_name": "新島村",
+    "area_name": "本村",
+    "households": "56"
+  },
+  "1202": {
+    "city_name": "新島村",
+    "area_name": "若郷",
+    "households": "125"
+  },
+  "1203": {
+    "city_name": "神津島村",
+    "area_name": "",
+    "households": "808"
+  },
+  "1204": {
+    "city_name": "小笠原村",
+    "area_name": "父島",
+    "households": "1169"
+  },
+  "1205": {
+    "city_name": "小笠原村",
+    "area_name": "母島",
+    "households": "269"
+  },
+  "1206": {
+    "city_name": "小笠原村",
+    "area_name": "硫黄島",
+    "households": "30"
+  }
+}
