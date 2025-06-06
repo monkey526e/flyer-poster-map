@@ -21,7 +21,8 @@
     "furigana": "たいら　ゆうだい",
     "city": "新宿区",
     "district": "新宿区",
-    "name_senkyo": "平良 雄大"
+    "name_senkyo": "平良 雄大",
+    "group": "True"
   },
   {
     "candidate_id": 4,
@@ -29,7 +30,8 @@
     "furigana": "ひろた　としやす",
     "city": "新宿区",
     "district": "新宿区",
-    "name_senkyo": "弘田 敏康"
+    "name_senkyo": "弘田 敏康",
+    "group": "True"
   },
   {
     "candidate_id": 5,
