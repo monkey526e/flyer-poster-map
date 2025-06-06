@@ -68,7 +68,7 @@ fetch("/data/candidates_all.json")
       .then(res => res.json())
       .then(districtData => {
         const center = districtData[district]?.center;
-        const mapCenter = center || [35.681236, 139.767125]; // fallback
+        const mapCenter = center || [30.681236, 139.767125]; // fallback
   
         // map 初期化
         map = L.map("map").setView(mapCenter, 13);
@@ -124,19 +124,5 @@ fetch("/data/candidates_all.json")
         console.error("poster_data_form.json の読み込みに失敗:", err);
       });
   
-    // ユーザーピン立て機能
-    let userMarker = null;
-    map.on("click", function (e) {
-      const lat = e.latlng.lat;
-      const lng = e.latlng.lng;
-  
-      if (userMarker) {
-        map.removeLayer(userMarker);
-      }
-  
-      userMarker = L.marker([lat, lng], { icon: iconNotAchieved }).addTo(map);
-      userMarker.bindPopup(`ピンを立てた位置<br>緯度: ${lat.toFixed(5)}<br>経度: ${lng.toFixed(5)}`).openPopup();
-      map.setView([lat, lng], 16);
-    });
   }
   
