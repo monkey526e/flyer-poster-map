@@ -35,6 +35,7 @@ const iconNotAchieved = new L.Icon({
 });
 
 let map; // ← global にする（エラー回避のため）！
+let allMarkers = [];
 
 // fetch candidates_all.json → name の更新
 fetch("/data/candidates_all.json")
@@ -117,16 +118,24 @@ fetch("/data/candidates_all.json")
         const isAchieved = (entry.status === true);
   
         const popupContent = `
+          <strong>項版:</strong> ${entry.id}<br>  
           <strong>場所:</strong> ${entry.place}<br>
           <strong>住所:</strong> ${entry.address}<br>
-          <strong>備考:</strong> ${entry.note || "なし"}
+          <strong>備考:</strong> ${entry.note || "なし"}<br>
+          <strong>状況:</strong> 
+          <span>
+            ${entry.status ? '掲示済' : '未掲示'}
+          </span>
         `;
   
         const marker = L.marker([lat, lng], {
           icon: isAchieved ? iconAchieved : iconNotAchieved
         }).bindPopup(popupContent);
-  
+        
+        marker.isAchieved = isAchieved; // ← これが超重要！
+        
         marker.addTo(map);
+        allMarkers.push(marker);
       });
   
       // プログレスバー更新
@@ -144,8 +153,39 @@ progressText.textContent = `達成率: ${percent.toFixed(1)}%`;
     .catch(err => {
       console.error("poster_data_form.json の読み込みに失敗:", err);
     });
-  
-  
+
+    document.getElementById("pinBtn").addEventListener("click", function() {
+      // ボタンの active クラス切り替え
+      this.classList.add("active");
+      document.getElementById("polygonBtn").classList.remove("active");
+    
+      // toggle-indicator を左に
+      document.querySelector(".toggle-indicator").style.transform = "translateX(0%)";
+    
+      // 全マーカー表示
+      allMarkers.forEach(marker => {
+        map.addLayer(marker);
+      });
+    });
+    
+    document.getElementById("polygonBtn").addEventListener("click", function() {
+      // ボタンの active クラス切り替え
+      this.classList.add("active");
+      document.getElementById("pinBtn").classList.remove("active");
+    
+      // toggle-indicator を右に
+      document.querySelector(".toggle-indicator").style.transform = "translateX(100%)";
+    
+      // 未掲示のみ表示
+      allMarkers.forEach(marker => {
+        map.removeLayer(marker); // 一度全部消す
+    
+        if (!marker.isAchieved) {
+          map.addLayer(marker);
+        }
+      });
+    });
+    
 
   }
   
