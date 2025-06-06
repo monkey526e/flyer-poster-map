@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>メニュー | 再生の道 ポスティング配布進捗マップ</title>
+  <title>メニュー | 再生の道 進捗マップ</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="icon" type="image/png" href="/favicon.png">
   <link rel="stylesheet" href="style.css" />
@@ -14,51 +14,99 @@
       <nav class="mb-4">
         <a href="about.html" class="btn btn-outline-secondary">当サイトについて</a>
       </nav>
-      <div class="container-sm my-5">
-        <h3 class="mb-4">再生の道 ビラ配布進捗マップ</h3>
-        <div id="candidate-list" class="row row-cols-2 g-3 mb-4">
-          <!-- 候補者ボタン -->
+      
+      <ul class="nav nav-tabs mb-4" id="progressMapTabs" role="tablist">
+        <li class="nav-item" role="presentation">
+          <button class="nav-link active" id="poster-tab" data-bs-toggle="tab" data-bs-target="#poster-section" type="button" role="tab" aria-controls="poster-section" aria-selected="true">
+            ポスター掲示
+          </button>
+        </li>
+        <li class="nav-item" role="presentation">
+          <button class="nav-link" id="flyer-tab" data-bs-toggle="tab" data-bs-target="#flyer-section" type="button" role="tab" aria-controls="flyer-section" aria-selected="false">
+            ビラ配布
+          </button>
+        </li>
+      </ul>
+      
+      <div class="tab-content" id="progressMapTabsContent">
+        <!-- ポスター掲示進捗マップ -->
+        <div class="tab-pane fade show active" id="poster-section" role="tabpanel" aria-labelledby="poster-tab">
+          <h3 class="mb-4">再生の道 ポスター掲示進捗マップ</h3>
+          <div id="poster-candidate-list" class="row row-cols-2 g-3 mb-4">
+            <!-- ポスター候補者ボタン -->
+          </div>
+        </div>
+      
+        <!-- ビラ配布進捗マップ -->
+        <div class="tab-pane fade" id="flyer-section" role="tabpanel" aria-labelledby="flyer-tab">
+          <h3 class="mb-4">準備中</h3>
+          <div id="candidate-list" class="row row-cols-2 g-3 mb-4">
+            <!-- ビラ候補者ボタン -->
+          </div>
         </div>
       </div>
+      
+
+      
     </div>
   </div>
 
   <script>
     // 表示対象とする区のリスト（今後ここを編集するだけでOK）
-    const targetDistricts = ["中野区", "練馬区", "南多摩","武蔵野市", "北多摩第二", "豊島区", "荒川区", "小平市",];
+    const targetDistricts = ["新宿区"];
   
-    async function loadCandidates() {
-      const response = await fetch('data/candidates_all.json');
-      const candidates = await response.json();
-      const list = document.getElementById('candidate-list');
+async function poster_loadCandidates() {
+  const response = await fetch('data/candidates_all.json');
+  const candidates = await response.json();
+  const list = document.getElementById('poster-candidate-list');
+
+  // 重複防止用セット
+  const displayedSet = new Set();
+
+  candidates.forEach(candidate => {
+    const district = candidate.district;
+    const name = candidate.name;
+    const lastName = name.split(' ')[0];
+    const isGroup = candidate.group === "True";
+
+    if (!targetDistricts.includes(district)) return;
+
+    // 重複防止キーの作り方変更
+    const key = isGroup
+      ? `${district}_group`
+      : `${district}_${name}`;
+
+    // すでに表示済みならスキップ
+    if (displayedSet.has(key)) return;
+    displayedSet.add(key);
+
+    // UI 作成
+    const col = document.createElement('div');
+    col.className = 'col';
+
+    const card = document.createElement('div');
+    card.className = 'border rounded p-3 h-100 d-flex align-items-center justify-content-center bg-light shadow-sm text-center';
+    card.style.cursor = 'pointer';
+    card.textContent = `${district}: ${isGroup ? '全体' : lastName}`;
+
+    card.onclick = () => {
+      const url = isGroup
+        ? `map/poster_map.html?district=${district}&name=グループ`
+        : `map/poster_map.html?district=${district}&name=${lastName}`;
+
+      window.location.href = url;
+    };
+
+    col.appendChild(card);
+    list.appendChild(col);
+  });
+}
+
+
+
   
-      candidates.forEach(candidate => {
-        const district = candidate.district;
-        const name = candidate.name;
-        const lastName = name.split(' ')[0]; // 名字抽出
-
-        // ↓ この行を削除またはコメントアウト
-        // if (!targetDistricts.includes(district)) return;
-
-        const col = document.createElement('div');
-        col.className = 'col';
-
-        const card = document.createElement('div');
-        card.className = 'border rounded p-3 h-100 d-flex align-items-center justify-content-center bg-light shadow-sm text-center';
-        card.style.cursor = 'pointer';
-        card.textContent = `${district}: ${lastName}`; // ← 修正！
-
-        card.onclick = () => {
-          const url = `map/map.html?district=${district}&name=${lastName}`;
-          window.location.href = url;
-        };
-
-        col.appendChild(card);
-        list.appendChild(col);
-      });
-    }
-  
-    loadCandidates();
+    // ビラ配布用
+    poster_loadCandidates();
   </script>
   
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
