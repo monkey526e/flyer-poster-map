@@ -93,36 +93,59 @@ fetch("/data/candidates_all.json")
   
   function loadPins() {
     fetch("/data/poster_data_form.json")
-      .then(res => res.json())
-      .then(data => {
-        const districtPins = data[district];
-        if (!districtPins) {
-          console.warn("poster_data_form.json に district が見つかりません:", district);
-          return;
+    .then(res => res.json())
+    .then(data => {
+      const districtPins = data[district];
+      if (!districtPins) {
+        console.warn("poster_data_form.json に district が見つかりません:", district);
+        return;
+      }
+  
+      let achievedCount = 0;
+      let notAchievedCount = 0;
+  
+      districtPins.forEach(entry => {
+        if (entry.status === true) {
+          achievedCount++;
+        } else if (entry.status === false) {
+          notAchievedCount++;
         }
   
-        districtPins.forEach(entry => {
-          const lat = entry.altitude;
-          const lng = entry.latitude;
+        const lat = entry.altitude;
+        const lng = entry.latitude;
   
-          const isAchieved = (entry.status === true);
+        const isAchieved = (entry.status === true);
   
-          const popupContent = `
-            <strong>場所:</strong> ${entry.place}<br>
-            <strong>住所:</strong> ${entry.address}<br>
-            <strong>備考:</strong> ${entry.note || "なし"}
-          `;
+        const popupContent = `
+          <strong>場所:</strong> ${entry.place}<br>
+          <strong>住所:</strong> ${entry.address}<br>
+          <strong>備考:</strong> ${entry.note || "なし"}
+        `;
   
-          const marker = L.marker([lat, lng], {
-            icon: isAchieved ? iconAchieved : iconNotAchieved
-          }).bindPopup(popupContent);
+        const marker = L.marker([lat, lng], {
+          icon: isAchieved ? iconAchieved : iconNotAchieved
+        }).bindPopup(popupContent);
   
-          marker.addTo(map);
-        });
-      })
-      .catch(err => {
-        console.error("poster_data_form.json の読み込みに失敗:", err);
+        marker.addTo(map);
       });
   
+      // プログレスバー更新
+const totalCount = achievedCount + notAchievedCount;
+const percent = totalCount > 0 ? (achievedCount / totalCount) * 100 : 0;
+
+const progressBar = document.getElementById("progress-bar");
+progressBar.style.width = `${percent.toFixed(1)}%`;
+progressBar.setAttribute("aria-valuenow", percent.toFixed(1));
+
+// 達成率テキスト更新
+const progressText = document.getElementById("progress-text");
+progressText.textContent = `達成率: ${percent.toFixed(1)}%`;
+    })
+    .catch(err => {
+      console.error("poster_data_form.json の読み込みに失敗:", err);
+    });
+  
+  
+
   }
   

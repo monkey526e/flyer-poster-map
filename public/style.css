@@ -145,3 +145,8 @@ h3 {
     font-size: 25px;
   }
 }
+
+
+.bg-purple {
+  background-color: #800080 !important; /* 紫色 */
+}
