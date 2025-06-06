@@ -16,7 +16,7 @@
       "latitude": 139.725204,
       "altitude": 35.68996,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "1-3",
@@ -34,7 +34,7 @@
       "latitude": 139.730408,
       "altitude": 35.68829,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "1-5",
@@ -43,7 +43,7 @@
       "latitude": 139.728607,
       "altitude": 35.685921,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "1-6",
@@ -52,7 +52,7 @@
       "latitude": 139.733292,
       "altitude": 35.691292,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "1-7",
@@ -61,7 +61,7 @@
       "latitude": 139.726212,
       "altitude": 35.691196,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "1-8",
@@ -70,7 +70,7 @@
       "latitude": 139.728775,
       "altitude": 35.69104,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "2-1",
@@ -79,7 +79,7 @@
       "latitude": 139.728607,
       "altitude": 35.684166,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "2-2",
@@ -88,7 +88,7 @@
       "latitude": 139.725342,
       "altitude": 35.684364,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "2-3",
@@ -115,7 +115,7 @@
       "latitude": 139.72316,
       "altitude": 35.683167,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "2-6",
@@ -124,7 +124,7 @@
       "latitude": 139.722198,
       "altitude": 35.685741,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "2-7",
@@ -133,7 +133,7 @@
       "latitude": 139.723114,
       "altitude": 35.686989,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "2-8",
@@ -142,7 +142,7 @@
       "latitude": 139.728607,
       "altitude": 35.684166,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "3-1",
@@ -151,7 +151,7 @@
       "latitude": 139.718613,
       "altitude": 35.690075,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "3-2",
@@ -160,7 +160,7 @@
       "latitude": 139.716141,
       "altitude": 35.688969,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "3-3",
@@ -169,7 +169,7 @@
       "latitude": 139.716141,
       "altitude": 35.688969,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "3-4",
@@ -178,7 +178,7 @@
       "latitude": 139.718002,
       "altitude": 35.689213,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "3-5",
@@ -187,7 +187,7 @@
       "latitude": 139.722351,
       "altitude": 35.689621,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "3-6",
@@ -196,7 +196,7 @@
       "latitude": 139.716385,
       "altitude": 35.687962,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "3-7",
@@ -205,7 +205,7 @@
       "latitude": 139.718994,
       "altitude": 35.690434,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "3-8",
@@ -214,7 +214,7 @@
       "latitude": 139.72406,
       "altitude": 35.692051,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "3-9",
@@ -223,7 +223,7 @@
       "latitude": 139.721512,
       "altitude": 35.689781,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "4-1",
@@ -232,7 +232,7 @@
       "latitude": 139.720978,
       "altitude": 35.679428,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "4-2",
@@ -241,7 +241,7 @@
       "latitude": 139.719818,
       "altitude": 35.686466,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "4-3",
@@ -268,7 +268,7 @@
       "latitude": 139.724014,
       "altitude": 35.680649,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "4-6",
@@ -277,7 +277,7 @@
       "latitude": 139.720978,
       "altitude": 35.679428,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "4-7",
@@ -286,7 +286,7 @@
       "latitude": 139.719116,
       "altitude": 35.683605,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "4-8",
@@ -295,7 +295,7 @@
       "latitude": 139.716171,
       "altitude": 35.681942,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "5-1",
@@ -304,7 +304,7 @@
       "latitude": 139.707581,
       "altitude": 35.691776,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "5-2",
@@ -313,7 +313,7 @@
       "latitude": 139.711838,
       "altitude": 35.69067,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "5-3",
@@ -322,7 +322,7 @@
       "latitude": 139.714355,
       "altitude": 35.690292,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "5-4",
@@ -331,7 +331,7 @@
       "latitude": 139.713791,
       "altitude": 35.689201,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "5-5",
@@ -340,7 +340,7 @@
       "latitude": 139.713394,
       "altitude": 35.689007,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "5-6",
@@ -349,7 +349,7 @@
       "latitude": 139.71463,
       "altitude": 35.687523,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "5-7",
@@ -358,7 +358,7 @@
       "latitude": 139.712326,
       "altitude": 35.691177,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "5-8",
@@ -367,7 +367,7 @@
       "latitude": 139.709305,
       "altitude": 35.689816,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "5-9",
@@ -376,7 +376,7 @@
       "latitude": 139.709335,
       "altitude": 35.691521,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "6-1",
@@ -385,7 +385,7 @@
       "latitude": 139.742325,
       "altitude": 35.703087,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "6-2",
@@ -394,7 +394,7 @@
       "latitude": 139.73819,
       "altitude": 35.703842,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "6-3",
@@ -403,7 +403,7 @@
       "latitude": 139.743454,
       "altitude": 35.705814,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "6-4",
@@ -412,7 +412,7 @@
       "latitude": 139.74379,
       "altitude": 35.702187,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "6-5",
@@ -439,7 +439,7 @@
       "latitude": 139.740692,
       "altitude": 35.699364,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "6-8",
@@ -448,7 +448,7 @@
       "latitude": 139.739197,
       "altitude": 35.701447,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "6-9",
@@ -457,7 +457,7 @@
       "latitude": 139.738617,
       "altitude": 35.702156,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "6-10",
@@ -466,7 +466,7 @@
       "latitude": 139.743057,
       "altitude": 35.704205,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "7-1",
@@ -475,7 +475,7 @@
       "latitude": 139.735031,
       "altitude": 35.699951,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "7-2",
@@ -484,7 +484,7 @@
       "latitude": 139.738464,
       "altitude": 35.696659,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "7-3",
@@ -493,7 +493,7 @@
       "latitude": 139.733948,
       "altitude": 35.696831,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "7-4",
@@ -502,7 +502,7 @@
       "latitude": 139.738876,
       "altitude": 35.696373,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "8-1",
@@ -529,7 +529,7 @@
       "latitude": 139.737473,
       "altitude": 35.708336,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "8-4",
@@ -538,7 +538,7 @@
       "latitude": 139.73645,
       "altitude": 35.708263,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "8-5",
@@ -547,7 +547,7 @@
       "latitude": 139.739487,
       "altitude": 35.707802,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "8-6",
@@ -556,7 +556,7 @@
       "latitude": 139.740341,
       "altitude": 35.706715,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "8-7",
@@ -565,7 +565,7 @@
       "latitude": 139.735947,
       "altitude": 35.708523,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "8-8",
@@ -574,7 +574,7 @@
       "latitude": 139.740341,
       "altitude": 35.706715,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "9-1",
@@ -583,7 +583,7 @@
       "latitude": 139.733444,
       "altitude": 35.703735,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "9-2",
@@ -592,7 +592,7 @@
       "latitude": 139.735229,
       "altitude": 35.701912,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "9-3",
@@ -601,7 +601,7 @@
       "latitude": 139.733139,
       "altitude": 35.702099,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "9-4",
@@ -610,7 +610,7 @@
       "latitude": 139.735153,
       "altitude": 35.702415,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "9-5",
@@ -619,7 +619,7 @@
       "latitude": 139.703461,
       "altitude": 35.69389,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "9-6",
@@ -628,7 +628,7 @@
       "latitude": 139.734146,
       "altitude": 35.700962,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "9-7",
@@ -637,7 +637,7 @@
       "latitude": 139.735138,
       "altitude": 35.700382,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "10-1",
@@ -682,7 +682,7 @@
       "latitude": 139.730835,
       "altitude": 35.701118,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "10-6",
@@ -691,7 +691,7 @@
       "latitude": 139.731094,
       "altitude": 35.7033,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "11-1",
@@ -700,7 +700,7 @@
       "latitude": 139.730835,
       "altitude": 35.69825,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "11-2",
@@ -727,7 +727,7 @@
       "latitude": 139.73233,
       "altitude": 35.699532,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "11-5",
@@ -736,7 +736,7 @@
       "latitude": 139.734558,
       "altitude": 35.694099,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "11-6",
@@ -754,7 +754,7 @@
       "latitude": 139.735992,
       "altitude": 35.694088,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "11-8",
@@ -763,7 +763,7 @@
       "latitude": 139.736313,
       "altitude": 35.692921,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "11-9",
@@ -781,7 +781,7 @@
       "latitude": 139.722687,
       "altitude": 35.69627,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "12-2",
@@ -790,7 +790,7 @@
       "latitude": 139.725128,
       "altitude": 35.693604,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "12-3",
@@ -799,7 +799,7 @@
       "latitude": 139.722183,
       "altitude": 35.696484,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "12-4",
@@ -808,7 +808,7 @@
       "latitude": 139.72551,
       "altitude": 35.697803,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "12-5",
@@ -835,7 +835,7 @@
       "latitude": 139.729797,
       "altitude": 35.707939,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "13-2",
@@ -844,7 +844,7 @@
       "latitude": 139.728226,
       "altitude": 35.706856,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "13-3",
@@ -853,7 +853,7 @@
       "latitude": 139.726761,
       "altitude": 35.706383,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "13-4",
@@ -880,7 +880,7 @@
       "latitude": 139.728897,
       "altitude": 35.706223,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "13-7",
@@ -889,7 +889,7 @@
       "latitude": 139.728226,
       "altitude": 35.706856,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "13-8",
@@ -898,7 +898,7 @@
       "latitude": 139.72757,
       "altitude": 35.704617,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "14-1",
@@ -916,7 +916,7 @@
       "latitude": 139.722244,
       "altitude": 35.710083,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "14-3",
@@ -934,7 +934,7 @@
       "latitude": 139.722153,
       "altitude": 35.709843,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "14-5",
@@ -970,7 +970,7 @@
       "latitude": 139.718567,
       "altitude": 35.706734,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "15-2",
@@ -979,7 +979,7 @@
       "latitude": 139.723953,
       "altitude": 35.705238,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "15-3",
@@ -1006,7 +1006,7 @@
       "latitude": 139.721817,
       "altitude": 35.704067,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "15-6",
@@ -1015,7 +1015,7 @@
       "latitude": 139.726212,
       "altitude": 35.702175,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "16-1",
@@ -1024,7 +1024,7 @@
       "latitude": 139.717926,
       "altitude": 35.700184,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "16-2",
@@ -1033,7 +1033,7 @@
       "latitude": 139.721497,
       "altitude": 35.702766,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "16-3",
@@ -1042,7 +1042,7 @@
       "latitude": 139.722229,
       "altitude": 35.702251,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "16-4",
@@ -1051,7 +1051,7 @@
       "latitude": 139.722748,
       "altitude": 35.699772,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "16-5",
@@ -1060,7 +1060,7 @@
       "latitude": 139.724915,
       "altitude": 35.700699,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "16-6",
@@ -1069,7 +1069,7 @@
       "latitude": 139.72525,
       "altitude": 35.699635,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "16-7",
@@ -1078,7 +1078,7 @@
       "latitude": 139.722092,
       "altitude": 35.698452,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "16-8",
@@ -1087,7 +1087,7 @@
       "latitude": 139.722092,
       "altitude": 35.698452,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "16-9",
@@ -1096,7 +1096,7 @@
       "latitude": 139.720245,
       "altitude": 35.699787,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "17-1",
@@ -1105,7 +1105,7 @@
       "latitude": 139.717712,
       "altitude": 35.702885,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "17-2",
@@ -1150,7 +1150,7 @@
       "latitude": 139.717438,
       "altitude": 35.703514,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "17-7",
@@ -1159,7 +1159,7 @@
       "latitude": 139.719971,
       "altitude": 35.702209,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "18-1",
@@ -1168,7 +1168,7 @@
       "latitude": 139.716995,
       "altitude": 35.695679,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "18-2",
@@ -1177,7 +1177,7 @@
       "latitude": 139.718597,
       "altitude": 35.696899,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "18-3",
@@ -1186,7 +1186,7 @@
       "latitude": 139.720306,
       "altitude": 35.695217,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "18-4",
@@ -1195,7 +1195,7 @@
       "latitude": 139.7173,
       "altitude": 35.699707,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "18-5",
@@ -1204,7 +1204,7 @@
       "latitude": 139.716019,
       "altitude": 35.699043,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "18-6",
@@ -1213,7 +1213,7 @@
       "latitude": 139.717667,
       "altitude": 35.698982,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "18-7",
@@ -1222,7 +1222,7 @@
       "latitude": 139.716019,
       "altitude": 35.699043,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "18-8",
@@ -1231,7 +1231,7 @@
       "latitude": 139.714752,
       "altitude": 35.700733,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "18-9",
@@ -1240,7 +1240,7 @@
       "latitude": 139.716156,
       "altitude": 35.696098,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "19-1",
@@ -1267,7 +1267,7 @@
       "latitude": 139.718353,
       "altitude": 35.694427,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "19-4",
@@ -1276,7 +1276,7 @@
       "latitude": 139.720566,
       "altitude": 35.692204,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "19-5",
@@ -1285,7 +1285,7 @@
       "latitude": 139.721481,
       "altitude": 35.692772,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "19-6",
@@ -1294,7 +1294,7 @@
       "latitude": 139.722351,
       "altitude": 35.692631,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "20-1",
@@ -1312,7 +1312,7 @@
       "latitude": 139.716278,
       "altitude": 35.691196,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "20-3",
@@ -1330,7 +1330,7 @@
       "latitude": 139.714111,
       "altitude": 35.691952,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "20-5",
@@ -1357,7 +1357,7 @@
       "latitude": 139.718826,
       "altitude": 35.692169,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "20-8",
@@ -1366,7 +1366,7 @@
       "latitude": 139.714996,
       "altitude": 35.692692,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "20-9",
@@ -1375,7 +1375,7 @@
       "latitude": 139.717529,
       "altitude": 35.691204,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "21-1",
@@ -1429,7 +1429,7 @@
       "latitude": 139.715027,
       "altitude": 35.705349,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "21-7",
@@ -1438,7 +1438,7 @@
       "latitude": 139.716415,
       "altitude": 35.707893,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "21-8",
@@ -1447,7 +1447,7 @@
       "latitude": 139.710083,
       "altitude": 35.709713,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "22-1",
@@ -1456,7 +1456,7 @@
       "latitude": 139.711105,
       "altitude": 35.702381,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "22-2",
@@ -1465,7 +1465,7 @@
       "latitude": 139.708969,
       "altitude": 35.701134,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "22-3",
@@ -1483,7 +1483,7 @@
       "latitude": 139.713608,
       "altitude": 35.703316,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "22-5",
@@ -1501,7 +1501,7 @@
       "latitude": 139.711105,
       "altitude": 35.702381,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "22-7 ",
@@ -1510,7 +1510,7 @@
       "latitude": 139.712402,
       "altitude": 35.702091,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "23-1",
@@ -1519,7 +1519,7 @@
       "latitude": 139.708084,
       "altitude": 35.699207,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "23-2",
@@ -1528,7 +1528,7 @@
       "latitude": 139.708557,
       "altitude": 35.700798,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "23-3 ",
@@ -1537,7 +1537,7 @@
       "latitude": 139.709198,
       "altitude": 35.699165,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "23-4 ",
@@ -1546,7 +1546,7 @@
       "latitude": 139.709808,
       "altitude": 35.700249,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "23-5",
@@ -1555,7 +1555,7 @@
       "latitude": 139.71138,
       "altitude": 35.69931,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "23-6",
@@ -1582,7 +1582,7 @@
       "latitude": 139.708633,
       "altitude": 35.695168,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "24-2",
@@ -1591,7 +1591,7 @@
       "latitude": 139.710403,
       "altitude": 35.694801,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "24-3",
@@ -1618,7 +1618,7 @@
       "latitude": 139.707291,
       "altitude": 35.695007,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "24-6",
@@ -1627,7 +1627,7 @@
       "latitude": 139.71225,
       "altitude": 35.69355,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "24-7",
@@ -1636,7 +1636,7 @@
       "latitude": 139.710159,
       "altitude": 35.692959,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "24-8",
@@ -1645,7 +1645,7 @@
       "latitude": 139.709183,
       "altitude": 35.695522,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "24-9",
@@ -1654,7 +1654,7 @@
       "latitude": 139.71225,
       "altitude": 35.69355,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "25-1",
@@ -1663,7 +1663,7 @@
       "latitude": 139.706528,
       "altitude": 35.701565,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "25-2",
@@ -1672,7 +1672,7 @@
       "latitude": 139.707657,
       "altitude": 35.704975,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "25-3",
@@ -1717,7 +1717,7 @@
       "latitude": 139.703735,
       "altitude": 35.708603,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "25-8",
@@ -1726,7 +1726,7 @@
       "latitude": 139.707016,
       "altitude": 35.707134,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "26-1",
@@ -1744,7 +1744,7 @@
       "latitude": 139.707397,
       "altitude": 35.699154,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "26-3",
@@ -1798,7 +1798,7 @@
       "latitude": 139.70134,
       "altitude": 35.697418,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "27-2",
@@ -1816,7 +1816,7 @@
       "latitude": 139.703476,
       "altitude": 35.693535,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "27-4",
@@ -1825,7 +1825,7 @@
       "latitude": 139.704697,
       "altitude": 35.693192,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "27-5",
@@ -1843,7 +1843,7 @@
       "latitude": 139.70134,
       "altitude": 35.697418,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "28-1",
@@ -1852,7 +1852,7 @@
       "latitude": 139.703094,
       "altitude": 35.708679,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "28-2",
@@ -1861,7 +1861,7 @@
       "latitude": 139.698303,
       "altitude": 35.703304,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "28-3",
@@ -1888,7 +1888,7 @@
       "latitude": 139.702744,
       "altitude": 35.705711,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "28-6",
@@ -1897,7 +1897,7 @@
       "latitude": 139.704132,
       "altitude": 35.703823,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "28-7",
@@ -1906,7 +1906,7 @@
       "latitude": 139.702499,
       "altitude": 35.703709,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "28-8",
@@ -1915,7 +1915,7 @@
       "latitude": 139.73819,
       "altitude": 35.703842,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "29-1",
@@ -1924,7 +1924,7 @@
       "latitude": 139.701004,
       "altitude": 35.707619,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "29-2",
@@ -1951,7 +1951,7 @@
       "latitude": 139.695801,
       "altitude": 35.704708,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "29-5",
@@ -1960,7 +1960,7 @@
       "latitude": 139.699417,
       "altitude": 35.707867,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "29-6",
@@ -1969,7 +1969,7 @@
       "latitude": 139.695999,
       "altitude": 35.708477,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "29-7",
@@ -1978,7 +1978,7 @@
       "latitude": 139.698013,
       "altitude": 35.706326,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "29-8",
@@ -1987,7 +1987,7 @@
       "latitude": 139.695801,
       "altitude": 35.704601,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "30-1",
@@ -1996,7 +1996,7 @@
       "latitude": 139.720276,
       "altitude": 35.707188,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "30-2",
@@ -2005,7 +2005,7 @@
       "latitude": 139.719025,
       "altitude": 35.708836,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "30-3",
@@ -2014,7 +2014,7 @@
       "latitude": 139.71814,
       "altitude": 35.710957,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "30-4",
@@ -2023,7 +2023,7 @@
       "latitude": 139.719025,
       "altitude": 35.708836,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "30-5",
@@ -2032,7 +2032,7 @@
       "latitude": 139.717758,
       "altitude": 35.711845,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "30-6",
@@ -2041,7 +2041,7 @@
       "latitude": 139.722244,
       "altitude": 35.710083,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "30-7",
@@ -2050,7 +2050,7 @@
       "latitude": 139.718109,
       "altitude": 35.712406,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "31-1",
@@ -2059,7 +2059,7 @@
       "latitude": 139.712112,
       "altitude": 35.711052,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "31-2",
@@ -2086,7 +2086,7 @@
       "latitude": 139.71405,
       "altitude": 35.711853,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "31-5",
@@ -2113,7 +2113,7 @@
       "latitude": 139.713791,
       "altitude": 35.712086,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "32-1",
@@ -2122,7 +2122,7 @@
       "latitude": 139.70639,
       "altitude": 35.710617,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "32-2",
@@ -2131,7 +2131,7 @@
       "latitude": 139.705246,
       "altitude": 35.712921,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "32-3",
@@ -2158,7 +2158,7 @@
       "latitude": 139.703827,
       "altitude": 35.711273,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "32-6",
@@ -2167,7 +2167,7 @@
       "latitude": 139.705963,
       "altitude": 35.709244,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "32-7",
@@ -2176,7 +2176,7 @@
       "latitude": 139.70755,
       "altitude": 35.708549,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "32-8",
@@ -2185,7 +2185,7 @@
       "latitude": 139.70755,
       "altitude": 35.713692,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "33-1",
@@ -2212,7 +2212,7 @@
       "latitude": 139.697128,
       "altitude": 35.709423,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "33-4",
@@ -2221,7 +2221,7 @@
       "latitude": 139.701065,
       "altitude": 35.711185,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "33-5",
@@ -2230,7 +2230,7 @@
       "latitude": 139.696091,
       "altitude": 35.710007,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "33-6",
@@ -2239,7 +2239,7 @@
       "latitude": 139.703354,
       "altitude": 35.712322,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "34-1",
@@ -2248,7 +2248,7 @@
       "latitude": 139.704086,
       "altitude": 35.71516,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "34-2",
@@ -2257,7 +2257,7 @@
       "latitude": 139.699997,
       "altitude": 35.715672,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "34-3",
@@ -2266,7 +2266,7 @@
       "latitude": 139.701752,
       "altitude": 35.714108,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "34-4",
@@ -2275,7 +2275,7 @@
       "latitude": 139.698456,
       "altitude": 35.712719,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "34-5",
@@ -2284,7 +2284,7 @@
       "latitude": 139.697159,
       "altitude": 35.714729,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "34-6",
@@ -2293,7 +2293,7 @@
       "latitude": 139.695099,
       "altitude": 35.713684,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "34-7",
@@ -2302,7 +2302,7 @@
       "latitude": 139.695618,
       "altitude": 35.713547,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "34-8",
@@ -2311,7 +2311,7 @@
       "latitude": 139.695129,
       "altitude": 35.71096,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "34-9",
@@ -2320,7 +2320,7 @@
       "latitude": 139.700714,
       "altitude": 35.713951,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "34-10",
@@ -2329,7 +2329,7 @@
       "latitude": 139.697556,
       "altitude": 35.716503,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "35-1",
@@ -2338,7 +2338,7 @@
       "latitude": 139.703888,
       "altitude": 35.716709,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "35-2",
@@ -2365,7 +2365,7 @@
       "latitude": 139.700638,
       "altitude": 35.722248,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "35-5",
@@ -2374,7 +2374,7 @@
       "latitude": 139.699661,
       "altitude": 35.721283,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "35-6",
@@ -2383,7 +2383,7 @@
       "latitude": 139.700821,
       "altitude": 35.718452,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "35-7",
@@ -2410,7 +2410,7 @@
       "latitude": 139.697525,
       "altitude": 35.716904,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "36-2",
@@ -2419,7 +2419,7 @@
       "latitude": 139.69133,
       "altitude": 35.720898,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "36-3",
@@ -2428,7 +2428,7 @@
       "latitude": 139.696838,
       "altitude": 35.720238,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "36-4",
@@ -2437,7 +2437,7 @@
       "latitude": 139.694839,
       "altitude": 35.71867,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "36-5",
@@ -2446,7 +2446,7 @@
       "latitude": 139.694489,
       "altitude": 35.720657,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "36-6",
@@ -2455,7 +2455,7 @@
       "latitude": 139.694168,
       "altitude": 35.718941,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "36-7",
@@ -2464,7 +2464,7 @@
       "latitude": 139.69429,
       "altitude": 35.716976,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "36-8",
@@ -2473,7 +2473,7 @@
       "latitude": 139.691437,
       "altitude": 35.719803,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "37-1",
@@ -2482,7 +2482,7 @@
       "latitude": 139.68631,
       "altitude": 35.719292,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "37-2",
@@ -2491,7 +2491,7 @@
       "latitude": 139.691833,
       "altitude": 35.722076,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "37-3",
@@ -2518,7 +2518,7 @@
       "latitude": 139.685135,
       "altitude": 35.721294,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "37-6",
@@ -2527,7 +2527,7 @@
       "latitude": 139.69046,
       "altitude": 35.720585,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "37-7",
@@ -2536,7 +2536,7 @@
       "latitude": 139.689743,
       "altitude": 35.721924,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "37-8",
@@ -2545,7 +2545,7 @@
       "latitude": 139.685806,
       "altitude": 35.72155,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "37-9",
@@ -2554,7 +2554,7 @@
       "latitude": 139.689178,
       "altitude": 35.719322,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "38-1",
@@ -2563,7 +2563,7 @@
       "latitude": 139.690567,
       "altitude": 35.716644,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "38-2",
@@ -2572,7 +2572,7 @@
       "latitude": 139.691681,
       "altitude": 35.717262,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "38-3",
@@ -2581,7 +2581,7 @@
       "latitude": 139.688858,
       "altitude": 35.718372,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "38-4",
@@ -2590,7 +2590,7 @@
       "latitude": 139.688202,
       "altitude": 35.718777,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "38-5",
@@ -2599,7 +2599,7 @@
       "latitude": 139.691498,
       "altitude": 35.716808,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "38-6",
@@ -2608,7 +2608,7 @@
       "latitude": 139.693695,
       "altitude": 35.716736,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "38-7",
@@ -2617,7 +2617,7 @@
       "latitude": 139.688171,
       "altitude": 35.715012,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "39-1",
@@ -2626,7 +2626,7 @@
       "latitude": 139.694611,
       "altitude": 35.715031,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "39-2",
@@ -2635,7 +2635,7 @@
       "latitude": 139.686249,
       "altitude": 35.7108,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "39-3",
@@ -2644,7 +2644,7 @@
       "latitude": 139.691574,
       "altitude": 35.712288,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "39-4",
@@ -2653,7 +2653,7 @@
       "latitude": 139.691223,
       "altitude": 35.712593,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "39-5",
@@ -2662,7 +2662,7 @@
       "latitude": 139.688385,
       "altitude": 35.714237,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "39-6",
@@ -2671,7 +2671,7 @@
       "latitude": 139.689255,
       "altitude": 35.712276,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "39-7",
@@ -2680,7 +2680,7 @@
       "latitude": 139.687592,
       "altitude": 35.711819,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "39-8",
@@ -2689,7 +2689,7 @@
       "latitude": 139.694611,
       "altitude": 35.715031,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "40-1",
@@ -2698,7 +2698,7 @@
       "latitude": 139.68364,
       "altitude": 35.722961,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "40-2",
@@ -2707,7 +2707,7 @@
       "latitude": 139.678635,
       "altitude": 35.725883,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "40-3",
@@ -2716,7 +2716,7 @@
       "latitude": 139.676346,
       "altitude": 35.721703,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "40-4",
@@ -2725,7 +2725,7 @@
       "latitude": 139.677902,
       "altitude": 35.7234,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "40-5",
@@ -2743,7 +2743,7 @@
       "latitude": 139.678635,
       "altitude": 35.725883,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "40-7",
@@ -2770,7 +2770,7 @@
       "latitude": 139.676666,
       "altitude": 35.720039,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "41-2",
@@ -2788,7 +2788,7 @@
       "latitude": 139.678848,
       "altitude": 35.720955,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "41-4",
@@ -2833,7 +2833,7 @@
       "latitude": 139.68364,
       "altitude": 35.711411,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "42-2",
@@ -2842,7 +2842,7 @@
       "latitude": 139.685699,
       "altitude": 35.71307,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "42-3",
@@ -2851,7 +2851,7 @@
       "latitude": 139.680008,
       "altitude": 35.714931,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "42-4",
@@ -2860,7 +2860,7 @@
       "latitude": 139.685318,
       "altitude": 35.71471,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "42-5",
@@ -2869,7 +2869,7 @@
       "latitude": 139.687286,
       "altitude": 35.717033,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "42-6",
@@ -2878,7 +2878,7 @@
       "latitude": 139.687027,
       "altitude": 35.716908,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "42-7",
@@ -2887,7 +2887,7 @@
       "latitude": 139.682068,
       "altitude": 35.715199,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "43-1",
@@ -2896,7 +2896,7 @@
       "latitude": 139.694107,
       "altitude": 35.707607,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "43-2",
@@ -2905,7 +2905,7 @@
       "latitude": 139.690613,
       "altitude": 35.708298,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "43-3",
@@ -2914,7 +2914,7 @@
       "latitude": 139.692764,
       "altitude": 35.706985,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "43-4",
@@ -2959,7 +2959,7 @@
       "latitude": 139.689209,
       "altitude": 35.702381,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "44-2",
@@ -2977,7 +2977,7 @@
       "latitude": 139.691025,
       "altitude": 35.70348,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "44-4",
@@ -2986,7 +2986,7 @@
       "latitude": 139.68988,
       "altitude": 35.70414,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "44-5",
@@ -2995,7 +2995,7 @@
       "latitude": 139.688065,
       "altitude": 35.705456,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "44-6",
@@ -3004,7 +3004,7 @@
       "latitude": 139.689209,
       "altitude": 35.702381,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "44-7",
@@ -3013,7 +3013,7 @@
       "latitude": 139.689926,
       "altitude": 35.703663,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "44-8",
@@ -3022,7 +3022,7 @@
       "latitude": 139.687607,
       "altitude": 35.701752,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "45-1",
@@ -3031,7 +3031,7 @@
       "latitude": 139.695831,
       "altitude": 35.699394,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "45-2",
@@ -3040,7 +3040,7 @@
       "latitude": 139.695358,
       "altitude": 35.701305,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "45-3",
@@ -3049,7 +3049,7 @@
       "latitude": 139.691299,
       "altitude": 35.699604,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "45-4",
@@ -3076,7 +3076,7 @@
       "latitude": 139.695831,
       "altitude": 35.699394,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "45-7",
@@ -3085,7 +3085,7 @@
       "latitude": 139.694412,
       "altitude": 35.697906,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "46-1",
@@ -3121,7 +3121,7 @@
       "latitude": 139.68985,
       "altitude": 35.698479,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "46-5",
@@ -3130,7 +3130,7 @@
       "latitude": 139.688629,
       "altitude": 35.698898,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "46-6",
@@ -3139,7 +3139,7 @@
       "latitude": 139.687119,
       "altitude": 35.696983,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "47-1",
@@ -3148,7 +3148,7 @@
       "latitude": 139.694992,
       "altitude": 35.695614,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "47-2",
@@ -3157,7 +3157,7 @@
       "latitude": 139.69693,
       "altitude": 35.695183,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "47-3",
@@ -3166,7 +3166,7 @@
       "latitude": 139.696243,
       "altitude": 35.693542,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "47-4",
@@ -3193,7 +3193,7 @@
       "latitude": 139.696732,
       "altitude": 35.697655,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "47-7",
@@ -3202,7 +3202,7 @@
       "latitude": 139.69693,
       "altitude": 35.695183,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "48-1",
@@ -3211,7 +3211,7 @@
       "latitude": 139.692978,
       "altitude": 35.689766,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "48-2",
@@ -3220,7 +3220,7 @@
       "latitude": 139.693787,
       "altitude": 35.686481,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "48-3",
@@ -3229,7 +3229,7 @@
       "latitude": 139.691772,
       "altitude": 35.689629,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "48-4",
@@ -3238,7 +3238,7 @@
       "latitude": 139.695648,
       "altitude": 35.690514,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "48-5",
@@ -3247,7 +3247,7 @@
       "latitude": 139.695587,
       "altitude": 35.689621,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "49-1",
@@ -3256,7 +3256,7 @@
       "latitude": 139.693008,
       "altitude": 35.694145,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "49-2",
@@ -3265,7 +3265,7 @@
       "latitude": 139.685379,
       "altitude": 35.693539,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "49-3",
@@ -3292,7 +3292,7 @@
       "latitude": 139.691132,
       "altitude": 35.692543,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "49-6",
@@ -3301,7 +3301,7 @@
       "latitude": 139.687256,
       "altitude": 35.694496,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "49-7",
@@ -3310,7 +3310,7 @@
       "latitude": 139.686783,
       "altitude": 35.69199,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "49-8",
@@ -3319,7 +3319,7 @@
       "latitude": 139.684158,
       "altitude": 35.692711,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "49-9",
@@ -3328,7 +3328,7 @@
       "latitude": 139.687271,
       "altitude": 35.695736,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "50-1",
@@ -3337,7 +3337,7 @@
       "latitude": 139.687698,
       "altitude": 35.691105,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "50-2",
@@ -3346,7 +3346,7 @@
       "latitude": 139.6892113,
       "altitude": 35.69153488,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "50-3",
@@ -3355,7 +3355,7 @@
       "latitude": 139.685547,
       "altitude": 35.689301,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "50-4",
@@ -3364,7 +3364,7 @@
       "latitude": 139.687897,
       "altitude": 35.686417,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "50-5",
@@ -3373,7 +3373,7 @@
       "latitude": 139.686401,
       "altitude": 35.686199,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "50-6",
@@ -3382,7 +3382,7 @@
       "latitude": 139.687607,
       "altitude": 35.683613,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "50-7",
@@ -3391,7 +3391,7 @@
       "latitude": 139.687897,
       "altitude": 35.686417,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "50-8",
@@ -3400,7 +3400,7 @@
       "latitude": 139.689697,
       "altitude": 35.687679,
       "status": false,
-      "note": NaN
+      "note": ""
     },
     {
       "id": "50-9",
@@ -3409,7 +3409,7 @@
       "latitude": 139.685699,
       "altitude": 35.688328,
       "status": false,
-      "note": NaN
+      "note": ""
     }
   ]
 }
