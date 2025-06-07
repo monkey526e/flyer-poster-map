@@ -123,6 +123,7 @@ fetch("/data/candidates_all.json")
         const isAchieved = (entry.status === true);
       
         const popupContent = `
+          <strong>番号:</strong> ${entry.id}<br>
           <strong>場所:</strong> ${entry.place}<br>
           <strong>住所:</strong> ${entry.address}<br>
           <strong>備考:</strong> ${entry.note || "なし"}
