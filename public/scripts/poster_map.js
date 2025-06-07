@@ -181,6 +181,27 @@ progressText.textContent = `達成率: ${percent.toFixed(1)}%`;
       });
     });
     
+// 報告ボタン → ダイレクトにフォームを開く
+const reportBtn = document.getElementById("reportBtn");
 
-  }
+reportBtn.addEventListener("click", () => {
+  const formBaseUrl = "https://docs.google.com/forms/d/e/1FAIpQLSfaLuC0iVd4kslpqHbqrkKYC-wDDxglMg8Cwsyc9TFBvostMA/viewform?usp=dialog";
+  window.open(formBaseUrl, "_blank");
+}
+);}
   
+document.addEventListener("DOMContentLoaded", () => {
+  const reportBtn = document.getElementById("reportBtn");
+  const targetDistricts = ["八王子市", "中央区"];
+
+  if (reportBtn) {
+    if (targetDistricts.includes(district)) {
+      reportBtn.addEventListener("click", () => {
+        const formBaseUrl = "https://forms.gle/JrCGxhqpeKhAuPv7A";
+        window.open(formBaseUrl, "_blank");
+      });
+    } else {
+      reportBtn.style.display = "none";
+    }
+  }
+});
