@@ -8,15 +8,20 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <link rel="stylesheet" href="https://unpkg.com/leaflet.locatecontrol/dist/L.Control.Locate.min.css" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css" />
   <link rel="stylesheet" href="../style.css" />
   <link rel="icon" type="image/png" href="../favicon.png">
   <style>
     </style>
 </head>
 <body>
-  <h3 id="header" style="text-align:center; margin:1rem;">ポスター掲示マップ</h3>
+  <h3 id="header" style="text-align:center; margin:1rem; margin-bottom: 2rem;">ポスター掲示マップ</h3>
 
-  <div style="margin: 1rem;">
+  <div style="position: relative; margin: 1rem;">
+    <!-- ペンギン画像 -->
+    
+    <!-- プログレスバー -->
     <div class="progress">
       <div id="progress-bar" class="progress-bar bg-purple" role="progressbar" style="width: 0%;" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
     </div>
@@ -39,6 +44,7 @@
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script src="https://unpkg.com/leaflet.locatecontrol/dist/L.Control.Locate.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
 
   <script src="../scripts/poster_map.js" defer></script>
 

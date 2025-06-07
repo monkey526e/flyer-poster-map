@@ -18,7 +18,7 @@ const osm = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 const iconAchieved = new L.Icon({
   iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-violet.png',
-  shadowUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-shadow.png',
+  shadowUrl: null,
   iconSize: [25, 41],
   iconAnchor: [12, 41],
   popupAnchor: [1, -34],
@@ -27,7 +27,7 @@ const iconAchieved = new L.Icon({
 
 const iconNotAchieved = new L.Icon({
   iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-green.png',
-  shadowUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-shadow.png',
+  shadowUrl: null,
   iconSize: [25, 41],
   iconAnchor: [12, 41],
   popupAnchor: [1, -34],
@@ -36,6 +36,8 @@ const iconNotAchieved = new L.Icon({
 
 let map; // ← global にする（エラー回避のため）！
 let allMarkers = [];
+let clusterGroup = null;
+
 
 // fetch candidates_all.json → name の更新
 fetch("/data/candidates_all.json")
@@ -74,6 +76,13 @@ fetch("/data/candidates_all.json")
         // map 初期化
         map = L.map("map").setView(mapCenter, 13);
         osm.addTo(map);
+
+        clusterGroup = L.markerClusterGroup({
+          maxClusterRadius: 60,
+          disableClusteringAtZoom: 16
+        });
+        map.addLayer(clusterGroup);
+
   
         // 現在地ボタン追加
         L.control.locate({
@@ -105,38 +114,31 @@ fetch("/data/candidates_all.json")
       let achievedCount = 0;
       let notAchievedCount = 0;
   
+      clusterGroup.clearLayers(); // 既存のマーカーをクリア
+
       districtPins.forEach(entry => {
-        if (entry.status === true) {
-          achievedCount++;
-        } else if (entry.status === false) {
-          notAchievedCount++;
-        }
-  
         const lat = entry.altitude;
         const lng = entry.latitude;
-  
+      
         const isAchieved = (entry.status === true);
-  
+      
         const popupContent = `
-          <strong>項版:</strong> ${entry.id}<br>  
           <strong>場所:</strong> ${entry.place}<br>
           <strong>住所:</strong> ${entry.address}<br>
-          <strong>備考:</strong> ${entry.note || "なし"}<br>
-          <strong>状況:</strong> 
-          <span>
-            ${entry.status ? '掲示済' : '未掲示'}
-          </span>
+          <strong>備考:</strong> ${entry.note || "なし"}
         `;
-  
+      
         const marker = L.marker([lat, lng], {
           icon: isAchieved ? iconAchieved : iconNotAchieved
         }).bindPopup(popupContent);
-        
-        marker.isAchieved = isAchieved; // ← これが超重要！
-        
-        marker.addTo(map);
+      
+        marker.isAchieved = isAchieved;
+      
+        clusterGroup.addLayer(marker); // ← ココ重要！！ map.addLayer() ではなく clusterGroup に入れる
+      
         allMarkers.push(marker);
       });
+      
   
       // プログレスバー更新
 const totalCount = achievedCount + notAchievedCount;
@@ -155,33 +157,25 @@ progressText.textContent = `達成率: ${percent.toFixed(1)}%`;
     });
 
     document.getElementById("pinBtn").addEventListener("click", function() {
-      // ボタンの active クラス切り替え
       this.classList.add("active");
       document.getElementById("polygonBtn").classList.remove("active");
-    
-      // toggle-indicator を左に
       document.querySelector(".toggle-indicator").style.transform = "translateX(0%)";
     
-      // 全マーカー表示
+      clusterGroup.clearLayers();
       allMarkers.forEach(marker => {
-        map.addLayer(marker);
+        clusterGroup.addLayer(marker);
       });
     });
     
     document.getElementById("polygonBtn").addEventListener("click", function() {
-      // ボタンの active クラス切り替え
       this.classList.add("active");
       document.getElementById("pinBtn").classList.remove("active");
-    
-      // toggle-indicator を右に
       document.querySelector(".toggle-indicator").style.transform = "translateX(100%)";
     
-      // 未掲示のみ表示
+      clusterGroup.clearLayers();
       allMarkers.forEach(marker => {
-        map.removeLayer(marker); // 一度全部消す
-    
         if (!marker.isAchieved) {
-          map.addLayer(marker);
+          clusterGroup.addLayer(marker);
         }
       });
     });
