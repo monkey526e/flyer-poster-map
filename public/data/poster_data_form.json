@@ -3545,7 +3545,7 @@
       "address": "寺町２８",
       "latitude": 139.3309528,
       "altitude": 35.65497056,
-      "status": false,
+      "status": true,
       "note": ""
     },
     {
@@ -3563,7 +3563,7 @@
       "address": "上野町１－６",
       "latitude": 139.3280037,
       "altitude": 35.6564382,
-      "status": false,
+      "status": true,
       "note": ""
     },
     {
