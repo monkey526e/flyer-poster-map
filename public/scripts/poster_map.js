@@ -112,15 +112,18 @@ fetch("/data/candidates_all.json")
       }
   
       let achievedCount = 0;
-      let notAchievedCount = 0;
-  
-      clusterGroup.clearLayers(); // 既存のマーカーをクリア
 
+      clusterGroup.clearLayers();
+      allMarkers = []; // ← 忘れずにリセット
+      
       districtPins.forEach(entry => {
         const lat = entry.altitude;
         const lng = entry.latitude;
-      
         const isAchieved = (entry.status === true);
+      
+        if (isAchieved) {
+          achievedCount++;
+        }
       
         const popupContent = `
           <strong>番号:</strong> ${entry.id}<br>
@@ -134,26 +137,26 @@ fetch("/data/candidates_all.json")
         }).bindPopup(popupContent);
       
         marker.isAchieved = isAchieved;
-      
-        clusterGroup.addLayer(marker); // ← ココ重要！！ map.addLayer() ではなく clusterGroup に入れる
-      
+        clusterGroup.addLayer(marker);
         allMarkers.push(marker);
       });
       
-  
       // プログレスバー更新
-const totalCount = achievedCount + notAchievedCount;
-const percent = totalCount > 0 ? (achievedCount / totalCount) * 100 : 0;
-
-const progressBar = document.getElementById("progress-bar");
-progressBar.style.width = `${percent.toFixed(1)}%`;
-progressBar.setAttribute("aria-valuenow", percent.toFixed(1));
-
-// 達成率テキスト更新
-const progressText = document.getElementById("progress-text");
-progressText.textContent = `達成率: ${percent.toFixed(1)}%`;
-const progressFraction = document.getElementById("progress-fraction");
-progressFraction.textContent = `${achievedCount} / ${totalCount}`;
+      const totalCount = districtPins.length;
+      const percent = totalCount > 0 ? (achievedCount / totalCount) * 100 : 0;
+      
+      const progressBar = document.getElementById("progress-bar");
+      progressBar.style.width = `${percent.toFixed(1)}%`;
+      progressBar.setAttribute("aria-valuenow", percent.toFixed(1));
+      
+      // 達成率テキスト更新
+      const progressText = document.getElementById("progress-text");
+      progressText.textContent = `達成率: ${percent.toFixed(1)}%`;
+      
+      // A / B 表示
+      const progressFraction = document.getElementById("progress-fraction");
+      progressFraction.textContent = `${achievedCount} / ${totalCount}`;
+      
     })
     .catch(err => {
       console.error("poster_data_form.json の読み込みに失敗:", err);
