@@ -3419,7 +3419,7 @@
       "address": "元横山町１－２９",
       "latitude": 139.3381378,
       "altitude": 35.66599889,
-      "status": false,
+      "status": true,
       "note": ""
     },
     {
@@ -3491,7 +3491,7 @@
       "address": "八木町７－１",
       "latitude": 139.3222878,
       "altitude": 35.66155083,
-      "status": false,
+      "status": true,
       "note": ""
     },
     {
