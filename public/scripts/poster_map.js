@@ -130,7 +130,7 @@ fetch("/data/candidates_all.json")
           <strong>番号:</strong> ${entry.id}<br>
           <strong>場所:</strong> ${entry.place}<br>
           <strong>住所:</strong> ${entry.address}<br>
-          <strong>備考:</strong> ${entry.note || "なし"}
+          <strong>備考:</strong> ${entry.note || "なし"}<br>
           <strong>報告時刻:</strong> ${entry.time}
         `;
       
@@ -199,7 +199,7 @@ reportBtn.addEventListener("click", () => {
   
 document.addEventListener("DOMContentLoaded", () => {
   const reportBtn = document.getElementById("reportBtn");
-  const targetDistricts = ["八王子市", "中央区"];
+  const targetDistricts = ["八王子市"];
 
   if (reportBtn) {
     if (targetDistricts.includes(district)) {
