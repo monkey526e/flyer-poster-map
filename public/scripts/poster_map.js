@@ -71,10 +71,11 @@ fetch("/data/candidates_all.json")
       .then(res => res.json())
       .then(districtData => {
         const center = districtData[district]?.center;
-        const mapCenter = center || [30.681236, 139.767125]; // fallback
+        const mapZoom = districtData[district]?.map_zoom || 13;
+        const mapCenter = center || [30.681236, 139.767125]; 
   
         // map 初期化
-        map = L.map("map").setView(mapCenter, 13);
+        map = L.map("map").setView(mapCenter, mapZoom);
         osm.addTo(map);
 
         clusterGroup = L.markerClusterGroup({
@@ -130,6 +131,7 @@ fetch("/data/candidates_all.json")
           <strong>場所:</strong> ${entry.place}<br>
           <strong>住所:</strong> ${entry.address}<br>
           <strong>備考:</strong> ${entry.note || "なし"}
+          <strong>報告時刻:</strong> ${entry.time}
         `;
       
         const marker = L.marker([lat, lng], {
