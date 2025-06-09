@@ -9213,5 +9213,1027 @@
       "note": "",
       "time": ""
     }
+  ],
+  "島部": [
+    {
+      "id": "M01-1",
+      "place": "町役場横駐車場",
+      "address": "大島町元町1丁目6番10号",
+      "latitude": 139.3553423,
+      "altitude": 34.7499206,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "M01-2",
+      "place": "朝日屋商店横",
+      "address": "大島町元町2丁目2番3号",
+      "latitude": 139.3545079,
+      "altitude": 34.7488363,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "M01-3",
+      "place": "伊豆大島ミュージアム「ジオシス」駐車場",
+      "address": "大島町元町神田屋敷617",
+      "latitude": 139.3586439,
+      "altitude": 34.743732,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "M01-4",
+      "place": "つばき小グランド家の上団地",
+      "address": "大島町元町字家の上",
+      "latitude": 139.3604517,
+      "altitude": 34.7490391,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "M01-5",
+      "place": "長根浜公園",
+      "address": "大島町元町字トンチ畑882番",
+      "latitude": 139.3526172,
+      "altitude": 34.7548835,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "M01-6",
+      "place": "都職員仲野住宅出入口前",
+      "address": "大島町元町字仲野256番",
+      "latitude": 139.3572753,
+      "altitude": 34.7578819,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "M01-7",
+      "place": "山田建設資材置場出入口前",
+      "address": "大島町元町字馬の背128番",
+      "latitude": 139.3601825,
+      "altitude": 34.7647593,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "M02-1",
+      "place": "旧北の山小学校プール",
+      "address": "大島町元町字佐吾右衛門野地5番3",
+      "latitude": 139.3614374,
+      "altitude": 34.7766892,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "M02-2",
+      "place": "大島町消防本部向かい",
+      "address": "大島町元町字北の山270-2",
+      "latitude": 139.3626448,
+      "altitude": 34.780671,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "M02-3",
+      "place": "旧JA北の山店前",
+      "address": "大島町元町字風待31番1",
+      "latitude": 139.3627282,
+      "altitude": 34.7738301,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "M02-4",
+      "place": "カトレア花街",
+      "address": "大島町元町字北の山108番4",
+      "latitude": 139.3713226,
+      "altitude": 34.7801947,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "M02-5",
+      "place": "富士見観音堂入口横",
+      "address": "大島町元町字上山196番",
+      "latitude": 139.3770325,
+      "altitude": 34.7725605,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "O01-1",
+      "place": "岡田港駐車場",
+      "address": "大島町岡田字横町83番3",
+      "latitude": 139.3930002,
+      "altitude": 34.7879999,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "O01-2",
+      "place": "町役場岡田出張所前",
+      "address": "大島町岡田字助田64番1",
+      "latitude": 139.390951,
+      "altitude": 34.7855503,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "O01-3",
+      "place": "朝海館駐車場",
+      "address": "大島町岡田字助田58番1",
+      "latitude": 139.3864364,
+      "altitude": 34.7828419,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "O01-4",
+      "place": "東京都教職員住宅向かい",
+      "address": "大島町岡田字沢立112番",
+      "latitude": 139.3812919,
+      "altitude": 34.7821282,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "O01-5",
+      "place": "岡田平浜地区農道入口",
+      "address": "大島町岡田字小堀58番2",
+      "latitude": 139.3758515,
+      "altitude": 34.7901061,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "I01-1",
+      "place": "泉津分団詰所前",
+      "address": "大島町泉津字川の原14番1",
+      "latitude": 139.4125076,
+      "altitude": 34.7829839,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "I01-2",
+      "place": "神泉寺横石垣前",
+      "address": "大島町泉津9番4",
+      "latitude": 139.4170995,
+      "altitude": 34.7818384,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "I01-3",
+      "place": "新都道海側",
+      "address": "大島町泉津字道下317番3",
+      "latitude": 139.4207795,
+      "altitude": 34.7802434,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "I01-4",
+      "place": "開拓入口",
+      "address": "大島町泉津字木積場153番3",
+      "latitude": 139.3975117,
+      "altitude": 34.7790956,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "N01-1",
+      "place": "旧野増小学校体育館下都道海側",
+      "address": "大島町野増字大宮214番1",
+      "latitude": 139.3563452,
+      "altitude": 34.7337504,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "N01-2",
+      "place": "大黒屋前都道下駐車場",
+      "address": "大島町野増3番地",
+      "latitude": 139.3542423,
+      "altitude": 34.7311317,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "N01-3",
+      "place": "野増公民館横駐車場北側",
+      "address": "大島町野増字41番1",
+      "latitude": 139.3536797,
+      "altitude": 34.7284609,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "N01-4",
+      "place": "王の浜入口付近",
+      "address": "大島町野増字王の上",
+      "latitude": 139.3536035,
+      "altitude": 34.7260981,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "N02-2",
+      "place": "間伏文化会館前",
+      "address": "大島町野増字間伏",
+      "latitude": 139.3867783,
+      "altitude": 34.6956017,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "N02-1",
+      "place": "砂の浜入口付近、都道沿い防火水槽横",
+      "address": "大島町野増字間伏",
+      "latitude": 139.38408,
+      "altitude": 34.697313,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "S01-1",
+      "place": "バーバーバロン横",
+      "address": "大島町差木地2番地",
+      "latitude": 139.4069923,
+      "altitude": 34.6842016,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "S01-2",
+      "place": "民宿和幸付近",
+      "address": "大島町差木地字ヤスミバ437番1",
+      "latitude": 139.4104684,
+      "altitude": 34.6863085,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "S01-3",
+      "place": "町役場差木地出張所入口左側",
+      "address": "大島町差木地1番地",
+      "latitude": 139.4144307,
+      "altitude": 34.6831859,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "S01-4",
+      "place": "元うおたつ商店前",
+      "address": "大島町差木地260番地1",
+      "latitude": 139.41413,
+      "altitude": 34.6820731,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "S01-5",
+      "place": "差木地南口バス停留所前",
+      "address": "大島町差木地4番地",
+      "latitude": 139.4192094,
+      "altitude": 34.6827086,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "S01-6",
+      "place": "差木地墓地駐車場入口",
+      "address": "大島町差木地1番地",
+      "latitude": 139.4184717,
+      "altitude": 34.6837538,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "S02-1",
+      "place": "旧南部診療所付近",
+      "address": "大島町差木地字下原",
+      "latitude": 139.4354099,
+      "altitude": 34.6816234,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "S02-2",
+      "place": "沖山商店前駐車場向かい",
+      "address": "大島町差木地字小坂1014番2",
+      "latitude": 139.4354207,
+      "altitude": 34.6834585,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "S02-3",
+      "place": "沖の根配水池前",
+      "address": "大島町差木地字沖の根",
+      "latitude": 139.4315905,
+      "altitude": 34.688196,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "H01-1",
+      "place": "上の山バス停留所横",
+      "address": "大島町波浮港字吹上1番16",
+      "latitude": 139.4397065,
+      "altitude": 34.6895545,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "H01-2",
+      "place": "波浮港船溜まり中央付近",
+      "address": "大島町波浮港1番地",
+      "latitude": 139.4368691,
+      "altitude": 34.6888929,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "H01-3",
+      "place": "波浮港出張所横",
+      "address": "大島町波浮港6番地",
+      "latitude": 139.4411281,
+      "altitude": 34.6871594,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "H01-4",
+      "place": "旧波浮港小学校プール前",
+      "address": "大島町波浮港19番1",
+      "latitude": 139.4388536,
+      "altitude": 34.690944,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-1",
+      "place": "梅田電気設備工業 南側",
+      "address": "新島村本村二丁目８番７号",
+      "latitude": 139.2550597,
+      "altitude": 34.3800407,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-2",
+      "place": "新島村役場 南側",
+      "address": "新島村本村一丁目１番４号",
+      "latitude": 139.2569212,
+      "altitude": 34.3768593,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-3",
+      "place": "新島村商工会 西側",
+      "address": "新島村本村五丁目１番１５号",
+      "latitude": 139.2548157,
+      "altitude": 34.3754956,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-4",
+      "place": "五分団器具置場 西側",
+      "address": "新島村本村六丁目４番１４号",
+      "latitude": 139.2537735,
+      "altitude": 34.3731798,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-5",
+      "place": "旧七島信用組合新島支店 東側",
+      "address": "新島村本村六丁目４番１０号",
+      "latitude": 139.2525222,
+      "altitude": 34.3739714,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-6",
+      "place": "新島勤労福祉会館 正面",
+      "address": "新島村本村五丁目６番１号",
+      "latitude": 139.2550252,
+      "altitude": 34.3729308,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-7",
+      "place": "新原住宅 西側",
+      "address": "新島村本村三丁目１４番１号",
+      "latitude": 139.2591906,
+      "altitude": 34.3710823,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-8",
+      "place": "民宿えびす屋 東側",
+      "address": "新島村本村四丁目１０番６号",
+      "latitude": 139.2564601,
+      "altitude": 34.370731,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "2-9",
+      "place": "交通安全記念碑 南側",
+      "address": "新島村式根島９３６番地",
+      "latitude": 139.21494,
+      "altitude": 34.3303716,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "2-10",
+      "place": "式根島駐在所 東側",
+      "address": "新島村式根島７３番地",
+      "latitude": 139.222436,
+      "altitude": 34.3276188,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "2-11",
+      "place": "新島村役場式根島支所 西側",
+      "address": "新島村式根島２５５番地１",
+      "latitude": 139.2160134,
+      "altitude": 34.3251007,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "2-12",
+      "place": "開島五十周年記念碑 西側",
+      "address": "新島村式根島６６１番地２",
+      "latitude": 139.2186083,
+      "altitude": 34.3238782,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "3-13",
+      "place": "若郷郵便局 北側",
+      "address": "新島村若郷１番１４号",
+      "latitude": 139.2820085,
+      "altitude": 34.4211886,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "3-14",
+      "place": "若郷駐在所 北側",
+      "address": "新島村若郷６番５号",
+      "latitude": 139.281988,
+      "altitude": 34.4201624,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "神津島1-1",
+      "place": "漁協市場前",
+      "address": "東京都神津島村40番地",
+      "latitude": 139.1330515,
+      "altitude": 34.2084749,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "神津島1-2",
+      "place": "小川八十八宅前",
+      "address": "東京都神津島村178番地",
+      "latitude": 139.1374255,
+      "altitude": 34.2084854,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "神津島1-3",
+      "place": "旧やよい荘前",
+      "address": "東京都神津島村261番地2",
+      "latitude": 139.1413796,
+      "altitude": 34.2111938,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "神津島1-4",
+      "place": "ファニー前駐車場",
+      "address": "東京都神津島村1073番地2",
+      "latitude": 139.1372109,
+      "altitude": 34.2041095,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "神津島1-5",
+      "place": "診療所前",
+      "address": "東京都神津島村1009番地1",
+      "latitude": 139.1355911,
+      "altitude": 34.2048746,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "神津島1-6",
+      "place": "キャンドゥ駐車場前",
+      "address": "東京都神津島村1646番地",
+      "latitude": 139.1364345,
+      "altitude": 34.2019714,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-1",
+      "place": "利島村診療所横",
+      "address": "利島村105番地",
+      "latitude": 139.2790423,
+      "altitude": 34.5295007,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-2",
+      "place": "堂山神社下",
+      "address": "利島村1555番地",
+      "latitude": 139.2778111,
+      "altitude": 34.5287295,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-3",
+      "place": "M宅横",
+      "address": "利島村39番地",
+      "latitude": 139.2772991,
+      "altitude": 34.5302708,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-1",
+      "place": "都道",
+      "address": "東京都御蔵島村無番地",
+      "latitude": 139.5931743,
+      "altitude": 33.8959551,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-2",
+      "place": "林道",
+      "address": "東京都御蔵島村14番地",
+      "latitude": 139.5922636,
+      "altitude": 33.8964732,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-3",
+      "place": "林道",
+      "address": "東京都御蔵島村24番地",
+      "latitude": 139.5927517,
+      "altitude": 33.8958186,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-4",
+      "place": "都道",
+      "address": "東京都御蔵島村無番地",
+      "latitude": 139.5913097,
+      "altitude": 33.892991,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "青ヶ島1-1",
+      "place": "五洋建設横",
+      "address": "青ヶ島無番地",
+      "latitude": 139.7599484,
+      "altitude": 32.4666056,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "青ヶ島1-2",
+      "place": "青ヶ島郵便局前",
+      "address": "青ヶ島無番地",
+      "latitude": 139.7604005,
+      "altitude": 32.4651235,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "青ヶ島1-3",
+      "place": "青ヶ島村役場入口",
+      "address": "青ヶ島無番地",
+      "latitude": 139.7636968,
+      "altitude": 32.4669134,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-1",
+      "place": "島下ロータリー前",
+      "address": "三宅村1419番地",
+      "latitude": 139.5541655,
+      "altitude": 34.1127228,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-2",
+      "place": "土佐林道入口前",
+      "address": "三宅村993番地9",
+      "latitude": 139.5351386,
+      "altitude": 34.1202562,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-3",
+      "place": "三宅村商工会前",
+      "address": "三宅村894番地",
+      "latitude": 139.5270605,
+      "altitude": 34.1212991,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-4",
+      "place": "三宅村神着老人福祉館前",
+      "address": "三宅村197番地1",
+      "latitude": 139.52193,
+      "altitude": 34.1203665,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "2-1",
+      "place": "三宅荘前",
+      "address": "三宅村594番地",
+      "latitude": 139.5113976,
+      "altitude": 34.1191351,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "2-2",
+      "place": "みやけ保育園前バス停横",
+      "address": "三宅村515番地14",
+      "latitude": 139.5094423,
+      "altitude": 34.1179338,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "2-3",
+      "place": "伊豆消防団詰所横",
+      "address": "三宅村415番地3",
+      "latitude": 139.5010824,
+      "altitude": 34.1155307,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "3-1",
+      "place": "元加藤商店前",
+      "address": "三宅村479番地",
+      "latitude": 139.4945773,
+      "altitude": 34.0989483,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "3-2",
+      "place": "元(有)長谷川徳吉商店横",
+      "address": "三宅村246番地2",
+      "latitude": 139.4921114,
+      "altitude": 34.0992565,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "3-3",
+      "place": "第一下原橋横",
+      "address": "三宅村280番地1",
+      "latitude": 139.4910601,
+      "altitude": 34.0991285,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "4-1",
+      "place": "夕景浜バス停前",
+      "address": "三宅村34番地1",
+      "latitude": 139.4823167,
+      "altitude": 34.0825711,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "4-2",
+      "place": "岡堀団地入口（鉄砲場交差点）",
+      "address": "三宅村2419番地2",
+      "latitude": 139.484356,
+      "altitude": 34.0789941,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "4-3",
+      "place": "二島団地入口（株)北川電気設備倉庫横）",
+      "address": "三宅村568番地34",
+      "latitude": 139.4793138,
+      "altitude": 34.0740734,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "4-4",
+      "place": "都港湾局事務所横",
+      "address": "三宅村672番地1",
+      "latitude": 139.4809181,
+      "altitude": 34.0714534,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "4-5",
+      "place": "粟辺バス停前",
+      "address": "三宅村960番地6",
+      "latitude": 139.4923858,
+      "altitude": 34.054292,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "5-1",
+      "place": "木村モータース前",
+      "address": "三宅村4946番地1",
+      "latitude": 139.5425431,
+      "altitude": 34.0587653,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "5-2",
+      "place": "文化会館都道沿い駐車場前",
+      "address": "三宅村4999番地2",
+      "latitude": 139.5448611,
+      "altitude": 34.0600747,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "5-3",
+      "place": "(株)音丸建設倉庫向かい側歩道内",
+      "address": "三宅村5024番地2",
+      "latitude": 139.5486733,
+      "altitude": 34.0623968,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "5-4",
+      "place": "沖ヶ平バス停横（三宅村役場側）",
+      "address": "三宅村1772番地3",
+      "latitude": 139.559075,
+      "altitude": 34.079437,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "5-5",
+      "place": "(株)佐久間工務店資材置き場",
+      "address": "三宅村963番地2",
+      "latitude": 139.5601561,
+      "altitude": 34.0837825,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-1",
+      "place": "郵便局前",
+      "address": "東京都小笠原村父島字東町",
+      "latitude": 142.1919586,
+      "altitude": 27.0948285,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-2",
+      "place": "大神山公園三角広場",
+      "address": "東京都小笠原村父島字東町",
+      "latitude": 142.1946395,
+      "altitude": 27.0946978,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-3",
+      "place": "二見桟橋入口",
+      "address": "東京都小笠原村父島字東町",
+      "latitude": 142.1971454,
+      "altitude": 27.0957466,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-4",
+      "place": "清瀬交差点前",
+      "address": "東京都小笠原村父島字清瀬",
+      "latitude": 142.197412,
+      "altitude": 27.0980406,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-5",
+      "place": "清瀬掲示板横",
+      "address": "東京都小笠原村父島字清瀬",
+      "latitude": 142.1974513,
+      "altitude": 27.0998773,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-6",
+      "place": "奥村橋北側",
+      "address": "東京都小笠原村父島字奥村",
+      "latitude": 142.2039665,
+      "altitude": 27.0993407,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-7",
+      "place": "村営バス宮之浜入口バス停横",
+      "address": "東京都小笠原村父島字宮之浜道",
+      "latitude": 142.194427,
+      "altitude": 27.0997362,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-8",
+      "place": "扇浦レストハウス前",
+      "address": "東京都小笠原村父島字扇浦",
+      "latitude": 142.2040721,
+      "altitude": 27.0729792,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "2-1",
+      "place": "母島村民会館前",
+      "address": "東京都小笠原村母島字元地",
+      "latitude": 142.1610747,
+      "altitude": 26.6412269,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "2-2",
+      "place": "月ヶ岡神社下",
+      "address": "東京都小笠原村母島字元地",
+      "latitude": 142.1596488,
+      "altitude": 26.6394579,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "2-3",
+      "place": "沖村配水池下",
+      "address": "東京都小笠原村母島字元地",
+      "latitude": 142.1591247,
+      "altitude": 26.6415654,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "2-4",
+      "place": "静沢入口",
+      "address": "東京都小笠原村母島字静沢",
+      "latitude": 142.1579894,
+      "altitude": 26.6388148,
+      "status": false,
+      "note": "",
+      "time": ""
+    }
   ]
 }
