@@ -46,8 +46,8 @@
       
         <!-- ビラ配布進捗マップ -->
         <div class="tab-pane fade" id="flyer-section" role="tabpanel" aria-labelledby="flyer-tab">
-          <h3 class="mb-4">準備中</h3>
-          <div id="candidate-list" class="row row-cols-2 g-3 mb-4">
+          <h3 class="mb-4">参議院議員選挙 2025</h3>
+          <div id="prefecture-list" class="row row-cols-2 g-3 mb-4">
             <!-- ビラ候補者ボタン -->
           </div>
         </div>
@@ -57,11 +57,10 @@
       
     </div>
   </div>
-
   
   <script>
     // 表示対象とする区のリスト（今後ここを編集するだけでOK）
-    const targetDistricts = ["新宿区", "八王子市", "島部"];
+    const targetDistricts = ["新宿区", "八王子市", "島部","府中市"];
   
 async function poster_loadCandidates() {
   const response = await fetch('data/candidates_all.json');
@@ -110,11 +109,48 @@ async function poster_loadCandidates() {
   });
 }
 
+async function flyer_loadPrefectures() {
+  const response = await fetch('data/prefecture.json');
+  const prefectures = await response.json();
+  const list = document.getElementById("prefecture-list");
 
+  // 表示対象 → 当面は宮城、京都だけ
+  const targetPrefectures = ["京都府", "広島県", "長野県"];
+
+  // id順にソート
+  const sortedPrefectures = Object.entries(prefectures)
+    .sort((a, b) => (a[1].id || 999) - (b[1].id || 999));
+
+  sortedPrefectures.forEach(([prefName, prefData]) => {
+    // targetPrefectures に含まれないものはスキップ
+    if (!targetPrefectures.includes(prefData.prefecture)) return;
+
+    const col = document.createElement('div');
+    col.className = 'col';
+
+    const card = document.createElement('div');
+    card.className = 'border rounded p-3 h-100 d-flex align-items-center justify-content-center bg-light shadow-sm text-center';
+    card.style.cursor = 'pointer';
+    card.textContent = `${prefData.id}. ${prefData.prefecture}`;
+
+    card.onclick = () => {
+      const url = `map/flyer_map.html?prefecture=${encodeURIComponent(prefData.prefecture)}`;
+      window.location.href = url;
+    };
+
+    col.appendChild(card);
+    list.appendChild(col);
+  });
+}
+
+
+// ビラ配布用
+poster_loadCandidates();
+// ビラ配布用のボタン読み込み
+flyer_loadPrefectures();
 
   
-    // ビラ配布用
-    poster_loadCandidates();
+
   </script>
   
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
