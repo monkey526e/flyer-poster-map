@@ -10234,6 +10234,246 @@
       "status": false,
       "note": "",
       "time": ""
+    },
+    {
+      "id": "1-1",
+      "place": "NTT東日本八丈島営業所前",
+      "address": "八丈島八丈町三根1948番地1",
+      "latitude": 139.7957297,
+      "altitude": 33.1129692,
+      "status": "",
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-2",
+      "place": "三根出張所前",
+      "address": "八丈島八丈町三根333番地1",
+      "latitude": 139.8024852,
+      "altitude": 33.1187664,
+      "status": "",
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-3",
+      "place": "神楽公染 トイレ横",
+      "address": "八丈島八丈町三根4198番地6",
+      "latitude": 139.8045129,
+      "altitude": 33.1286728,
+      "status": "",
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-4",
+      "place": "富士中前町道",
+      "address": "八丈島八丈町三根4511番地1",
+      "latitude": 139.7961826,
+      "altitude": 33.1238133,
+      "status": "",
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-5",
+      "place": "護神交差点",
+      "address": "八丈島八丈町三根1676番地2",
+      "latitude": 139.8081929,
+      "altitude": 33.1210353,
+      "status": "",
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-6",
+      "place": "富士中学校上",
+      "address": "八丈島八丈町三根4631番地22",
+      "latitude": 139.7936292,
+      "altitude": 33.1231439,
+      "status": "",
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-7",
+      "place": "八丈ストア前",
+      "address": "八丈島八丈町三根254番地8",
+      "latitude": 139.7974594,
+      "altitude": 33.1202011,
+      "status": "",
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-8",
+      "place": "ニコニコ食堂前",
+      "address": "八丈島八丈町三根1882番地2",
+      "latitude": 139.799119,
+      "altitude": 33.1148282,
+      "status": "",
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "2-1",
+      "place": "大賀郷公民館前",
+      "address": "八丈島八丈町大賀郷3060番地",
+      "latitude": 139.7839652,
+      "altitude": 33.1065416,
+      "status": "",
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "2-2",
+      "place": "中村商店前",
+      "address": "八丈島八丈町大賀郷27番地4",
+      "latitude": 139.7873448,
+      "altitude": 33.1032433,
+      "status": "",
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "2-3",
+      "place": "八丈町役場旧庁舎前",
+      "address": "八丈島八丈町大賀郷2345番地1",
+      "latitude": 139.7910141,
+      "altitude": 33.1086535,
+      "status": "",
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "2-4",
+      "place": "八丈島漁協大賀郷支所前",
+      "address": "八丈島八丈町大賀郷433番地1",
+      "latitude": 139.7771351,
+      "altitude": 33.100574,
+      "status": "",
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "2-5",
+      "place": "大里会館横",
+      "address": "八丈島八丈町大賀郷1098番地2",
+      "latitude": 139.781212,
+      "altitude": 33.0966912,
+      "status": "",
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "2-6",
+      "place": "八丈老人ホーム入口",
+      "address": "八丈島八丈町大賀郷7671番地1",
+      "latitude": 139.7712945,
+      "altitude": 33.1118078,
+      "status": "",
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "2-7",
+      "place": "スーパーあさぬま前",
+      "address": "八丈島八丈町大賀郷2466番地1",
+      "latitude": 139.7877793,
+      "altitude": 33.1086445,
+      "status": "",
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "3-1",
+      "place": "樫立駐在所横",
+      "address": "八丈島八丈町樫立378番地",
+      "latitude": 139.7951094,
+      "altitude": 33.0709766,
+      "status": "",
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "3-2",
+      "place": "富次郎商店横",
+      "address": "八丈島八丈町樫立185番地",
+      "latitude": 139.7986338,
+      "altitude": 33.0694571,
+      "status": "",
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "3-3",
+      "place": "ふれあいの湯入口",
+      "address": "八丈島八丈町樫立1812番地1",
+      "latitude": 139.7904517,
+      "altitude": 33.0744544,
+      "status": "",
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "4-1",
+      "place": "中之郷公民館",
+      "address": "八丈島八丈町中之郷2606番地",
+      "latitude": 139.8121501,
+      "altitude": 33.0661176,
+      "status": "",
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "4-2",
+      "place": "三原小学校前",
+      "address": "八丈島八丈町中之郷2511番地1",
+      "latitude": 139.8098702,
+      "altitude": 33.0665446,
+      "status": "",
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "4-3",
+      "place": "上端集ケ江線下",
+      "address": "八丈島八丈町中之郷1604番地",
+      "latitude": 139.8148859,
+      "altitude": 33.0633115,
+      "status": "",
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "5-1",
+      "place": "末吉出張所前",
+      "address": "八丈島八丈町末吉633番地",
+      "latitude": 139.8519136,
+      "altitude": 33.0817563,
+      "status": "",
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "5-2",
+      "place": "末吉公会堂上",
+      "address": "八丈島八丈町末吉2626番地1",
+      "latitude": 139.8520805,
+      "altitude": 33.0846883,
+      "status": "",
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "5-3",
+      "place": "洞輪沢地区公染 トイレ横",
+      "address": "八丈島八丈町末吉261番地1",
+      "latitude": 139.8439995,
+      "altitude": 33.0762935,
+      "status": "",
+      "note": "",
+      "time": ""
     }
   ],
   "中央区": [
