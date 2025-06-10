@@ -130,7 +130,7 @@ fetch("/data/candidates_all.json")
           <strong>番号:</strong> ${entry.id}<br>
           <strong>場所:</strong> ${entry.place}<br>
           <strong>住所:</strong> ${entry.address}<br>
-          <strong>備考:</strong> ${entry.note || "なし"}<br>
+          <strong>メモ:</strong> ${entry.note || "なし"}<br>
           <strong>報告時刻:</strong> ${entry.time}
         `;
       
@@ -191,7 +191,7 @@ fetch("/data/candidates_all.json")
 // 報告ボタン → ダイレクトにフォームを開く
 const reportBtn = document.getElementById("reportBtn");
 
-reportBtn.addEventListener("click", () => {
+reportBtn.addEventListener("click", () => {備考
   const formBaseUrl = "https://docs.google.com/forms/d/e/1FAIpQLSfaLuC0iVd4kslpqHbqrkKYC-wDDxglMg8Cwsyc9TFBvostMA/viewform?usp=dialog";
   window.open(formBaseUrl, "_blank");
 }
