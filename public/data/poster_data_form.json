@@ -11587,5 +11587,3687 @@
       "note": "",
       "time": ""
     }
+  ],
+  "府中市": [
+    {
+      "id": "1-1",
+      "place": "民間有料駐車場北側フェンス",
+      "address": "東京都府中市四谷１−２５",
+      "latitude": 139.4515322,
+      "altitude": 35.6616669,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-2",
+      "place": "服部氏宅南側塀",
+      "address": "東京都府中市四谷１−４１",
+      "latitude": 139.4512371,
+      "altitude": 35.6583021,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-3",
+      "place": "市立四谷小学校南西側金網",
+      "address": "東京都府中市四谷３−２７４０",
+      "latitude": 139.4428999,
+      "altitude": 35.6601805,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-4",
+      "place": "市立府中第八中学校北西側正門横金網",
+      "address": "東京都府中市四谷１−２８２７",
+      "latitude": 139.446235,
+      "altitude": 35.6591071,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-5",
+      "place": "市立府中第八中学校北東側金網",
+      "address": "東京都府中市四谷１−２８２７",
+      "latitude": 139.4475547,
+      "altitude": 35.6581852,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-6",
+      "place": "四谷南通幼児公園東側フェンス",
+      "address": "東京都府中市四谷３−４９",
+      "latitude": 139.4424461,
+      "altitude": 35.6622022,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-7",
+      "place": "特別養護老人ホ−ムよつや苑北側塀",
+      "address": "東京都府中市四谷３−６６",
+      "latitude": 139.446102,
+      "altitude": 35.6603858,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "1-8",
+      "place": "四谷第２地域公園東側フェンス",
+      "address": "東京都府中市四谷３−１４",
+      "latitude": 139.4471957,
+      "altitude": 35.6625758,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "2-1",
+      "place": "市川氏宅北側塀",
+      "address": "東京都府中市四谷２−４４−２",
+      "latitude": 139.4459969,
+      "altitude": 35.6657235,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "2-2",
+      "place": "都道（四谷文化センター西交差点）植込み",
+      "address": "東京都府中市四谷４−１２",
+      "latitude": 139.4437615,
+      "altitude": 35.6656335,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "2-3",
+      "place": "四谷文化センター南側倉庫脇フェンス",
+      "address": "東京都府中市四谷２−７５",
+      "latitude": 139.445374,
+      "altitude": 35.6649692,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "2-4",
+      "place": "（株）樋口建設工業管理駐車場",
+      "address": "東京都府中市四谷５−１１",
+      "latitude": 139.4405364,
+      "altitude": 35.6660534,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "2-5",
+      "place": "四谷さくら公園北側フェンス",
+      "address": "東京都府中市四谷５−４４",
+      "latitude": 139.4400229,
+      "altitude": 35.6641573,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "2-6",
+      "place": "市川氏所有地塀",
+      "address": "東京都府中市四谷２−６１",
+      "latitude": 139.448499,
+      "altitude": 35.6627048,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "2-7",
+      "place": "宮岡建設(株)塀（畑側）",
+      "address": "東京都府中市四谷２−２５−２",
+      "latitude": 139.4501117,
+      "altitude": 35.6654892,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "3-1",
+      "place": "西府町地域公園東側金網",
+      "address": "東京都府中市西府町１−４７",
+      "latitude": 139.4563305,
+      "altitude": 35.6727752,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "3-2",
+      "place": "みなみっぱら公園南側フェンス",
+      "address": "東京都府中市西府町１−４９",
+      "latitude": 139.4548714,
+      "altitude": 35.6727208,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "3-3",
+      "place": "御嶽塚公園北側フェンス",
+      "address": "東京都府中市西府町１−６０",
+      "latitude": 139.4562367,
+      "altitude": 35.6715245,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "3-4",
+      "place": "松村氏所有地（畑）塀",
+      "address": "東京都府中市本宿町１−２",
+      "latitude": 139.4620529,
+      "altitude": 35.6711411,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "3-5",
+      "place": "中村氏宅万年塀",
+      "address": "東京都府中市本宿町１−１８−１",
+      "latitude": 139.4593432,
+      "altitude": 35.6709314,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "3-6",
+      "place": "市立府中第五小学校西側正門横金網",
+      "address": "東京都府中市本宿町１−５１",
+      "latitude": 139.4587726,
+      "altitude": 35.6697444,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "3-7",
+      "place": "西府町第２公園東側",
+      "address": "東京都府中市西府町５−１１",
+      "latitude": 139.4523269,
+      "altitude": 35.6755454,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "3-8",
+      "place": "市立府中第五小学校北西側フェンス",
+      "address": "東京都府中市本宿町１−５１",
+      "latitude": 139.4576836,
+      "altitude": 35.6705158,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "4-1",
+      "place": "市立府中第七小学校北西側正門横フェンス",
+      "address": "東京都府中市北山町２−２３−１",
+      "latitude": 139.4558749,
+      "altitude": 35.6878596,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "4-2",
+      "place": "市立府中第七小学校北側フェンス",
+      "address": "東京都府中市北山町２−２３−１",
+      "latitude": 139.45665,
+      "altitude": 35.6879293,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "4-3",
+      "place": "都営北山町４丁目アパート北西側植込み",
+      "address": "東京都府中市北山町４−８",
+      "latitude": 139.4580068,
+      "altitude": 35.690928,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "4-4",
+      "place": "東京電力北山変電所鉄柵",
+      "address": "東京都府中市北山町３−２６",
+      "latitude": 139.4556626,
+      "altitude": 35.6892545,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "4-5",
+      "place": "見返り坂公園南側植込み",
+      "address": "東京都府中市北山町４−５",
+      "latitude": 139.4596108,
+      "altitude": 35.6900915,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "4-6",
+      "place": "コマキ農園フェンス",
+      "address": "東京都府中市北山町２−３２",
+      "latitude": 139.4540466,
+      "altitude": 35.6864263,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "4-7",
+      "place": "都営北山町１丁目アパート東側植込み",
+      "address": "東京都府中市北山町１−４",
+      "latitude": 139.4560746,
+      "altitude": 35.6857878,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "5-1",
+      "place": "武蔵台第２公園北側",
+      "address": "東京都府中市武蔵台３−４１",
+      "latitude": 139.4606552,
+      "altitude": 35.6979672,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "5-2",
+      "place": "根岸病院入口東側フェンス",
+      "address": "東京都府中市武蔵台２−１２−２",
+      "latitude": 139.4611249,
+      "altitude": 35.6941226,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "5-3",
+      "place": "武蔵台遺跡公園南側",
+      "address": "東京都府中市武蔵台２−２９−１",
+      "latitude": 139.4665334,
+      "altitude": 35.6931164,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "5-4",
+      "place": "千春保育園東側塀",
+      "address": "東京都府中市武蔵台３−９−４",
+      "latitude": 139.462863,
+      "altitude": 35.6949436,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "5-5",
+      "place": "さんかく公園西側",
+      "address": "東京都府中市武蔵台２−２１",
+      "latitude": 139.4646275,
+      "altitude": 35.6942386,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "5-6",
+      "place": "神山第８ビル専用駐車場フェンス西側",
+      "address": "東京都府中市武蔵台３−２３",
+      "latitude": 139.4610027,
+      "altitude": 35.6967452,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "5-7",
+      "place": "府中療育センター西側正門横植樹帯",
+      "address": "東京都府中市武蔵台２−７",
+      "latitude": 139.4601295,
+      "altitude": 35.6905267,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "6-1",
+      "place": "多摩同胞会信愛泉苑北側植栽",
+      "address": "東京都府中市武蔵台１−１０−４",
+      "latitude": 139.4643661,
+      "altitude": 35.6878424,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "6-2",
+      "place": "東京都水道局府中武蔵台ポンプ所北側フェンス",
+      "address": "東京都府中市武蔵台１−２５",
+      "latitude": 139.461044,
+      "altitude": 35.6880835,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "6-3",
+      "place": "市立武蔵台小学校南側フェンス",
+      "address": "東京都府中市武蔵台２−３−１",
+      "latitude": 139.4635949,
+      "altitude": 35.6883634,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "6-4",
+      "place": "東京都水道局府中武蔵台浄水所西側植樹帯",
+      "address": "東京都府中市武蔵台２−７",
+      "latitude": 139.45988,
+      "altitude": 35.6881826,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "6-5",
+      "place": "市立府中第七中学校南側金網",
+      "address": "東京都府中市武蔵台２−４",
+      "latitude": 139.4626132,
+      "altitude": 35.6883373,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "6-6",
+      "place": "東芝府中工場北門駐車場鉄柵",
+      "address": "東京都府中市武蔵台１−６",
+      "latitude": 139.4663159,
+      "altitude": 35.6867045,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "6-7",
+      "place": "多摩同胞会信愛泉苑南側フェンス",
+      "address": "東京都府中市武蔵台１−１０−４",
+      "latitude": 139.4644036,
+      "altitude": 35.6872575,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "7-1",
+      "place": "美好町広場西側フェンス",
+      "address": "東京都府中市美好町２−１８",
+      "latitude": 139.4671756,
+      "altitude": 35.6740065,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "7-2",
+      "place": "市立府中第四中学校南側金網",
+      "address": "東京都府中市美好町２−１３",
+      "latitude": 139.4648019,
+      "altitude": 35.6731175,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "7-3",
+      "place": "市立府中第四中学校北側フェンス",
+      "address": "東京都府中市美好町２−１３",
+      "latitude": 139.4650701,
+      "altitude": 35.6739978,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "7-4",
+      "place": "市営第１１美好町住宅内広場西側金網",
+      "address": "東京都府中市美好町２−５２",
+      "latitude": 139.4668859,
+      "altitude": 35.6787019,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "7-5",
+      "place": "本宿町第２地域公園内",
+      "address": "東京都府中市本宿町３−３０",
+      "latitude": 139.46253,
+      "altitude": 35.6748683,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "7-6",
+      "place": "都営府中美好町２丁目第５アパート１号棟東側植込",
+      "address": "東京都府中市美好町２−４０",
+      "latitude": 139.4667652,
+      "altitude": 35.6765122,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "7-7",
+      "place": "ＴＯＫＹＯ ＰＵＢＬＩＣ 美好町二丁目駐車場南西側",
+      "address": "東京都府中市美好町２−５０",
+      "latitude": 139.4668645,
+      "altitude": 35.6775558,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "7-8",
+      "place": "市立府中第四中学校南西側フェンス",
+      "address": "東京都府中市美好町２−１３",
+      "latitude": 139.4638792,
+      "altitude": 35.6730652,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "8-1",
+      "place": "自転車駐車場（かえで通り沿い）",
+      "address": "東京都府中市本町４−１５",
+      "latitude": 139.4706841,
+      "altitude": 35.6646955,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "8-2",
+      "place": "市立府中第三中学校北側フェンス",
+      "address": "東京都府中市本町４−１６−１０",
+      "latitude": 139.4695894,
+      "altitude": 35.6653791,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "8-3",
+      "place": "市立府中第三中学校南西側フェンス",
+      "address": "東京都府中市本町４−１６",
+      "latitude": 139.4683814,
+      "altitude": 35.6645277,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "8-4",
+      "place": "小川氏宅南東側農地フェンス",
+      "address": "東京都府中市分梅町３−１１−７",
+      "latitude": 139.4633717,
+      "altitude": 35.6649346,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "8-5",
+      "place": "鈴木氏宅塀",
+      "address": "東京都府中市分梅町２−３−１",
+      "latitude": 139.4666225,
+      "altitude": 35.6663518,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "8-6",
+      "place": "新田川緑道（都営分梅町４丁目アパート南側）",
+      "address": "東京都府中市分梅町４−５",
+      "latitude": 139.4628103,
+      "altitude": 35.6633193,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "8-7",
+      "place": "分梅第４公園金網",
+      "address": "東京都府中市分梅町３−４５",
+      "latitude": 139.4604916,
+      "altitude": 35.6664702,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "9-1",
+      "place": "向田公園北側フェンス",
+      "address": "東京都府中市住吉町３−８５",
+      "latitude": 139.4557596,
+      "altitude": 35.6626941,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "9-2",
+      "place": "住吉町公園南側金網",
+      "address": "東京都府中市住吉町１−６３",
+      "latitude": 139.461063,
+      "altitude": 35.6602355,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "9-3",
+      "place": "東京電力中河原変電所北東側塀",
+      "address": "東京都府中市住吉町３−３２",
+      "latitude": 139.4575392,
+      "altitude": 35.6626178,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "9-4",
+      "place": "澤井氏宅前塀",
+      "address": "東京都府中市住吉町３−１８−６",
+      "latitude": 139.4558657,
+      "altitude": 35.6640648,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "9-5",
+      "place": "加藤氏宅西側塀",
+      "address": "東京都府中市住吉町４−３１−１",
+      "latitude": 139.4539623,
+      "altitude": 35.6622352,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "9-6",
+      "place": "住吉町第２公園内北側",
+      "address": "東京都府中市住吉町４−１６",
+      "latitude": 139.4556081,
+      "altitude": 35.660162,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "9-7",
+      "place": "分梅第２公園南側柵",
+      "address": "東京都府中市分梅町５−１２",
+      "latitude": 139.4634956,
+      "altitude": 35.6618177,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "9-8",
+      "place": "コーポ沢北側柵",
+      "address": "東京都府中市住吉町１−２２",
+      "latitude": 139.4593893,
+      "altitude": 35.6620442,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "10-1",
+      "place": "市立住吉小学校北側正門横金網",
+      "address": "東京都府中市住吉町２−３０",
+      "latitude": 139.4596873,
+      "altitude": 35.6561279,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "10-2",
+      "place": "中河原公園北側",
+      "address": "東京都府中市住吉町２−３０",
+      "latitude": 139.4568307,
+      "altitude": 35.6565812,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "10-3",
+      "place": "市立住吉小学校北東側フェンス",
+      "address": "東京都府中市住吉町２−３０",
+      "latitude": 139.4610606,
+      "altitude": 35.655461,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "10-4",
+      "place": "住吉町第３幼児公園",
+      "address": "東京都府中市住吉町２−１９",
+      "latitude": 139.4577357,
+      "altitude": 35.6578957,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "10-5",
+      "place": "民間有料駐車場南西側植樹帯",
+      "address": "東京都府中市住吉町５−３",
+      "latitude": 139.4565765,
+      "altitude": 35.6584812,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "10-6",
+      "place": "都営アパート内公園隣接フェンス（下河原通り沿い）",
+      "address": "東京都府中市住吉町２−４０",
+      "latitude": 139.4601728,
+      "altitude": 35.6572699,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "10-7",
+      "place": "中島公園北側植込み",
+      "address": "東京都府中市南町４−４３",
+      "latitude": 139.4629243,
+      "altitude": 35.6564941,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "10-8",
+      "place": "第３都市遊歩道（住吉町第５広場前）",
+      "address": "東京都府中市住吉町５−２１",
+      "latitude": 139.4539613,
+      "altitude": 35.6569252,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "11-1",
+      "place": "南町第２公園金網",
+      "address": "東京都府中市南町１−６",
+      "latitude": 139.4712797,
+      "altitude": 35.6614055,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "11-2",
+      "place": "東京都水道局府中南町浄水所南側フェンス",
+      "address": "東京都府中市南町１−５０",
+      "latitude": 139.4705207,
+      "altitude": 35.6582717,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "11-3",
+      "place": "南町かえで通り公園西側",
+      "address": "東京都府中市南町１−３６",
+      "latitude": 139.4706575,
+      "altitude": 35.6595019,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "11-4",
+      "place": "府中へら鮒センタ−前",
+      "address": "東京都府中市南町２−１９",
+      "latitude": 139.4667654,
+      "altitude": 35.6596062,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "11-5",
+      "place": "新田川緑道（南町１丁目交差点脇）",
+      "address": "東京都府中市南町２−９",
+      "latitude": 139.4704682,
+      "altitude": 35.6609867,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "11-6",
+      "place": "市立南町小学校南側正門横金網",
+      "address": "東京都府中市南町３−６",
+      "latitude": 139.467881,
+      "altitude": 35.6618674,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "11-7",
+      "place": "あかしあの森公園北西側",
+      "address": "東京都府中市南町３−４５",
+      "latitude": 139.4629873,
+      "altitude": 35.6598974,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "12-1",
+      "place": "分倍河原駅南側ロータリー東側植樹帯",
+      "address": "東京都府中市片町３−２６",
+      "latitude": 139.4700902,
+      "altitude": 35.668431,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "12-2",
+      "place": "市立府中第三小学校西側校門際",
+      "address": "東京都府中市片町３−５",
+      "latitude": 139.4714434,
+      "altitude": 35.6675202,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "12-3",
+      "place": "分倍河原駅南側ロータリー西側植込み",
+      "address": "東京都府中市片町３−３０",
+      "latitude": 139.4691675,
+      "altitude": 35.6679996,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "12-4",
+      "place": "市立府中第三小学校南側正門東側フェンス",
+      "address": "東京都府中市片町３−５",
+      "latitude": 139.4724988,
+      "altitude": 35.6669253,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "12-5",
+      "place": "第２都市遊歩道（広場内北側植込み）",
+      "address": "東京都府中市本町２−２１−４３他",
+      "latitude": 139.476639,
+      "altitude": 35.6659422,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "12-6",
+      "place": "第２都市遊歩道（プラウドシティ府中南側）",
+      "address": "東京都府中市本町２−１６",
+      "latitude": 139.4748772,
+      "altitude": 35.6657234,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "12-7",
+      "place": "東京農工大学本町農場東側フェンス",
+      "address": "東京都府中市本町３−１２",
+      "latitude": 139.4726828,
+      "altitude": 35.665125,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "13-1",
+      "place": "美好町公園北側金網",
+      "address": "東京都府中市美好町１−２７",
+      "latitude": 139.4685357,
+      "altitude": 35.6722232,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "13-2",
+      "place": "美好町公園南東側金網",
+      "address": "東京都府中市美好町１−２７",
+      "latitude": 139.4691526,
+      "altitude": 35.6716284,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "13-3",
+      "place": "すずかけ公園内広場東寄り",
+      "address": "東京都府中市日鋼町１",
+      "latitude": 139.4703191,
+      "altitude": 35.6754484,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "13-4",
+      "place": "すずかけ公園北西側フェンス",
+      "address": "東京都府中市日鋼町１",
+      "latitude": 139.469383,
+      "altitude": 35.6755987,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "13-5",
+      "place": "日鋼団地４号棟東側鉄柵",
+      "address": "東京都府中市日鋼町１−３",
+      "latitude": 139.4694013,
+      "altitude": 35.6745438,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "13-6",
+      "place": "日鋼団地１３号棟西側鉄柵",
+      "address": "東京都府中市日鋼町１−３",
+      "latitude": 139.4679556,
+      "altitude": 35.6757444,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "13-7",
+      "place": "日鋼団地２６号棟西側鉄柵",
+      "address": "東京都府中市日鋼町１−３",
+      "latitude": 139.4675452,
+      "altitude": 35.6778687,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "14-1",
+      "place": "府中刑務所職員宿舎Ｅ号棟南側壁",
+      "address": "東京都府中市晴見町４−６",
+      "latitude": 139.4772425,
+      "altitude": 35.6820997,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "14-2",
+      "place": "府中刑務所作業製品倉庫西側フェンス",
+      "address": "東京都府中市晴見町４−３２",
+      "latitude": 139.4718875,
+      "altitude": 35.6818216,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "14-3",
+      "place": "市立府中第九小学校南西側フェンス",
+      "address": "東京都府中市栄町３−７",
+      "latitude": 139.4714396,
+      "altitude": 35.6859865,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "14-4",
+      "place": "市立府中第九小学校北側フェンス",
+      "address": "東京都府中市栄町３−７",
+      "latitude": 139.4716045,
+      "altitude": 35.6871749,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "14-5",
+      "place": "明星学苑所有地柵（府中街道沿い）",
+      "address": "東京都府中市栄町３−１０",
+      "latitude": 139.4701253,
+      "altitude": 35.6868111,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "14-6",
+      "place": "市立府中第九小学校北東側フェンス",
+      "address": "東京都府中市栄町３−７",
+      "latitude": 139.4723072,
+      "altitude": 35.6870355,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "14-7",
+      "place": "府中刑務所職員宿舎Ｃ号棟南側壁",
+      "address": "東京都府中市晴見町４−６",
+      "latitude": 139.4755339,
+      "altitude": 35.6820365,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "15-1",
+      "place": "府中グリーンハイツ１３号棟東側植込み",
+      "address": "東京都府中市晴見町１−２８",
+      "latitude": 139.4778908,
+      "altitude": 35.6783391,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "15-2",
+      "place": "府中グリーンハイツ集会所南側",
+      "address": "東京都府中市晴見町１−２８",
+      "latitude": 139.4774321,
+      "altitude": 35.6791038,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "15-3",
+      "place": "府中グリーンハイツ１１号棟東側植込み",
+      "address": "東京都府中市晴見町１−２８",
+      "latitude": 139.4780491,
+      "altitude": 35.6792433,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "15-4",
+      "place": "北府中公園北東側",
+      "address": "東京都府中市晴見町２−９",
+      "latitude": 139.4730609,
+      "altitude": 35.6808058,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "15-5",
+      "place": "都立農業高等学校演習畑東南側フェンス",
+      "address": "東京都府中市晴見町２−１−１",
+      "latitude": 139.4754208,
+      "altitude": 35.67838,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "15-6",
+      "place": "府中刑務所職員宿舎北側フェンス",
+      "address": "東京都府中市晴見町２−１４",
+      "latitude": 139.4732809,
+      "altitude": 35.6817895,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "15-7",
+      "place": "北府中公園自転車駐車場入口北側植込み",
+      "address": "東京都府中市晴見町２−９",
+      "latitude": 139.4724615,
+      "altitude": 35.6802328,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "16-1",
+      "place": "都立農業高等学校西門入口北側",
+      "address": "東京都府中市寿町１−１０",
+      "latitude": 139.4780925,
+      "altitude": 35.6762242,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "16-2",
+      "place": "市立府中第一小学校北東側体育館前フェンス",
+      "address": "東京都府中市寿町２−６",
+      "latitude": 139.4779351,
+      "altitude": 35.6744538,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "16-3",
+      "place": "市立府中第一小学校南側植込み",
+      "address": "東京都府中市寿町２−６",
+      "latitude": 139.4773558,
+      "altitude": 35.673445,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "16-4",
+      "place": "寿中央公園北側",
+      "address": "東京都府中市寿町２−１１",
+      "latitude": 139.4761407,
+      "altitude": 35.6754038,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "16-5",
+      "place": "寿町３丁目公共用地東側フェンス",
+      "address": "東京都府中市寿町３−７",
+      "latitude": 139.4744653,
+      "altitude": 35.6748658,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "16-6",
+      "place": "寿町３丁目公共用地北側フェンス",
+      "address": "東京都府中市寿町３−７",
+      "latitude": 139.4738725,
+      "altitude": 35.6750815,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "16-7",
+      "place": "市民球場南西角植込み",
+      "address": "東京都府中市寿町２−１８",
+      "latitude": 139.4744295,
+      "altitude": 35.6755803,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "16-8",
+      "place": "市民球場北西側駐車場西側フェンス",
+      "address": "東京都府中市寿町２−２８",
+      "latitude": 139.4738689,
+      "altitude": 35.6769769,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "17-1",
+      "place": "旧市役所南西側植込み",
+      "address": "東京都府中市宮西町２−２４",
+      "latitude": 139.4774431,
+      "altitude": 35.6687684,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "17-2",
+      "place": "府中駅南側府中スカイナード植込み",
+      "address": "東京都府中市宮町１−１０２（ペデストリアンデッキ）",
+      "latitude": 139.4804162,
+      "altitude": 35.6715506,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "17-3",
+      "place": "番場屋西側下河原緑道",
+      "address": "東京都府中市宮西町４−２１",
+      "latitude": 139.4738109,
+      "altitude": 35.6700715,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "17-4",
+      "place": "国司館と家康御殿史跡広場東側フェンス",
+      "address": "東京都府中市本町１−１４",
+      "latitude": 139.4779962,
+      "altitude": 35.6667757,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "17-5",
+      "place": "大國魂神社北側玉垣",
+      "address": "東京都府中市宮町３−１",
+      "latitude": 139.4793117,
+      "altitude": 35.6699287,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "17-6",
+      "place": "大國魂神社西側玉垣",
+      "address": "東京都府中市宮町３−１",
+      "latitude": 139.4785339,
+      "altitude": 35.6694253,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "17-7",
+      "place": "府中本町駅北側ＪＲ武蔵野線際植込み",
+      "address": "東京都府中市本町１−８",
+      "latitude": 139.4767061,
+      "altitude": 35.6676822,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "17-8",
+      "place": "大國魂神社東側玉垣",
+      "address": "東京都府中市宮町３−１",
+      "latitude": 139.4796765,
+      "altitude": 35.6690462,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "18-1",
+      "place": "下河原緑道公衆トイレ南側",
+      "address": "東京都府中市矢崎町２−１１",
+      "latitude": 139.4732956,
+      "altitude": 35.66,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "18-2",
+      "place": "郷土の森公園内交通遊園北側金網",
+      "address": "東京都府中市矢崎町５−５",
+      "latitude": 139.477242,
+      "altitude": 35.6569992,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "18-3",
+      "place": "交通遊園東入口前植込み",
+      "address": "東京都府中市矢崎町５−５",
+      "latitude": 139.4790712,
+      "altitude": 35.6565851,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "18-4",
+      "place": "大東京綜合卸売センタ−南門脇金網",
+      "address": "東京都府中市矢崎町４−１",
+      "latitude": 139.4779976,
+      "altitude": 35.6581546,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "18-5",
+      "place": "大東京綜合卸売センター東門脇植込み",
+      "address": "東京都府中市矢崎町４−１",
+      "latitude": 139.4797706,
+      "altitude": 35.658354,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "18-6",
+      "place": "市立矢崎小学校北側金網植込み",
+      "address": "東京都府中市矢崎町４−９",
+      "latitude": 139.476673,
+      "altitude": 35.6580962,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "18-7",
+      "place": "新田川緑道郷土の森芝生広場西側植込み",
+      "address": "東京都府中市矢崎町５−２７",
+      "latitude": 139.4746712,
+      "altitude": 35.6559381,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "19-1",
+      "place": "府中駅北口京王バス待機場東側",
+      "address": "東京都府中市府中町１−９",
+      "latitude": 139.4817286,
+      "altitude": 35.6730317,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "19-2",
+      "place": "旧教育センタ−西側植込み",
+      "address": "東京都府中市府中町１−３２",
+      "latitude": 139.4794332,
+      "altitude": 35.6765206,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "19-3",
+      "place": "府中公園南西側植込み",
+      "address": "東京都府中市府中町２−２６",
+      "latitude": 139.4820102,
+      "altitude": 35.6763416,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "19-4",
+      "place": "馬場東公園西側",
+      "address": "東京都府中市府中町１−２２",
+      "latitude": 139.4808095,
+      "altitude": 35.6750298,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "19-5",
+      "place": "ルミエ−ル府中南東側",
+      "address": "東京都府中市府中町２−２４",
+      "latitude": 139.4841123,
+      "altitude": 35.6755039,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "19-6",
+      "place": "府中公園南東側入口前",
+      "address": "東京都府中市府中町２−２６",
+      "latitude": 139.4835418,
+      "altitude": 35.676383,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "19-7",
+      "place": "市立三本木保育所西側",
+      "address": "東京都府中市府中町３−２３−１",
+      "latitude": 139.4884972,
+      "altitude": 35.677679,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "19-8",
+      "place": "桶久保公園北側",
+      "address": "東京都府中市府中町３−８",
+      "latitude": 139.4863738,
+      "altitude": 35.6766466,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "20-1",
+      "place": "市立府中第一中学校北西側体育館前フェンス",
+      "address": "東京都府中市幸町１−２２",
+      "latitude": 139.4796106,
+      "altitude": 35.6816673,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "20-2",
+      "place": "市立府中第一中学校南側フェンス",
+      "address": "東京都府中市幸町１−２２",
+      "latitude": 139.4800209,
+      "altitude": 35.6797304,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "20-3",
+      "place": "市立府中第一中学校東側フェンス",
+      "address": "東京都府中市幸町１−２２",
+      "latitude": 139.4810697,
+      "altitude": 35.680225,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "20-4",
+      "place": "幸町公園南側石垣",
+      "address": "東京都府中市幸町1−２４",
+      "latitude": 139.4815663,
+      "altitude": 35.6803574,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "20-5",
+      "place": "稲荷木公園西側",
+      "address": "東京都府中市幸町２−３",
+      "latitude": 139.4835857,
+      "altitude": 35.6788679,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "20-6",
+      "place": "東京農工大学北西側グランド北側鉄柵",
+      "address": "東京都府中市幸町３−６",
+      "latitude": 139.4800088,
+      "altitude": 35.6858397,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "20-7",
+      "place": "東京農工大学本部東南側鉄柵",
+      "address": "東京都府中市晴見町３−８−１",
+      "latitude": 139.4794243,
+      "altitude": 35.6838785,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "21-1",
+      "place": "新町第３公園南西側",
+      "address": "東京都府中市新町１−１９",
+      "latitude": 139.4865487,
+      "altitude": 35.6883501,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "21-2",
+      "place": "新町西公園内植込み",
+      "address": "東京都府中市新町１−５１",
+      "latitude": 139.4870476,
+      "altitude": 35.6868971,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "21-3",
+      "place": "都営府中新町３丁目アパート西側植込み",
+      "address": "東京都府中市新町３−１",
+      "latitude": 139.4856663,
+      "altitude": 35.6909728,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "21-4",
+      "place": "市立新町小学校グラウンド南西側",
+      "address": "東京都府中市新町１−２５",
+      "latitude": 139.4848053,
+      "altitude": 35.6859374,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "21-5",
+      "place": "市立新町小学校北西側",
+      "address": "東京都府中市新町１−２５",
+      "latitude": 139.4852586,
+      "altitude": 35.6870223,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "21-6",
+      "place": "三光幼稚園南側フェンス",
+      "address": "東京都府中市新町１−５３",
+      "latitude": 139.4867392,
+      "altitude": 35.6852806,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "21-7",
+      "place": "都営府中新町３丁目アパート集会所南側",
+      "address": "東京都府中市新町３−１",
+      "latitude": 139.4868075,
+      "altitude": 35.6904587,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "22-1",
+      "place": "府中新町幼稚園西側芝畑",
+      "address": "東京都府中市新町２−２９−１",
+      "latitude": 139.4921713,
+      "altitude": 35.688009,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "22-2",
+      "place": "新町北公園北西側",
+      "address": "東京都府中市新町３−２６",
+      "latitude": 139.4886957,
+      "altitude": 35.6914255,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "22-3",
+      "place": "市立北保育所西側フェンス",
+      "address": "東京都府中市新町１−６４",
+      "latitude": 139.4887374,
+      "altitude": 35.6868894,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "22-4",
+      "place": "市立府中第五中学校南門横",
+      "address": "東京都府中市新町２−４４",
+      "latitude": 139.4935754,
+      "altitude": 35.6853915,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "22-5",
+      "place": "市立府中第五中学校東側",
+      "address": "東京都府中市新町２−４４",
+      "latitude": 139.4940019,
+      "altitude": 35.6863871,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "22-6",
+      "place": "（株）日本ボーサイ工業フェンス（東八道路北側）",
+      "address": "東京都府中市新町１−７０−６",
+      "latitude": 139.4891853,
+      "altitude": 35.6881023,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "22-7",
+      "place": "新町公園南東側",
+      "address": "東京都府中市新町２−５７",
+      "latitude": 139.4952183,
+      "altitude": 35.6860701,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "23-1",
+      "place": "東京農工大学牛舎西側フェンス",
+      "address": "東京都府中市天神町３−２",
+      "latitude": 139.487541,
+      "altitude": 35.6829163,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "23-2",
+      "place": "天神町第２公園南西側フェンス",
+      "address": "東京都府中市天神町４−１８",
+      "latitude": 139.4941214,
+      "altitude": 35.6831787,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "23-3",
+      "place": "東京競馬場職員舎B棟北側フェンス",
+      "address": "東京都府中市天神町２−２１",
+      "latitude": 139.4912649,
+      "altitude": 35.6815329,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "23-4",
+      "place": "学園通り新宿山谷公園内",
+      "address": "東京都府中市天神町３−１２",
+      "latitude": 139.4892339,
+      "altitude": 35.6844428,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "23-5",
+      "place": "第六学童クラブ北側フェンス",
+      "address": "東京都府中市天神町４−２７",
+      "latitude": 139.4930975,
+      "altitude": 35.6847567,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "23-6",
+      "place": "市立府中第六小学校南側フェンス",
+      "address": "東京都府中市天神町４−１４",
+      "latitude": 139.4925133,
+      "altitude": 35.6836366,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "23-7",
+      "place": "市立府中第六小学校東側フェンス",
+      "address": "東京都府中市天神町４−１４",
+      "latitude": 139.4929585,
+      "altitude": 35.6842662,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "24-1",
+      "place": "市立府中第二小学校西側",
+      "address": "東京都府中市緑町１−２９",
+      "latitude": 139.4858291,
+      "altitude": 35.674583,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "24-2",
+      "place": "万蔵庵公園北側フェンス",
+      "address": "東京都府中市緑町３−２７",
+      "latitude": 139.4917836,
+      "altitude": 35.6725403,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "24-3",
+      "place": "市立府中第二小学校南側フェンス",
+      "address": "東京都府中市緑町１−２９",
+      "latitude": 139.4866419,
+      "altitude": 35.6736635,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "24-4",
+      "place": "むさし府中商工会議所駐車場南側フェンス",
+      "address": "東京都府中市緑町３−５−２",
+      "latitude": 139.4935248,
+      "altitude": 35.6696145,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "24-5",
+      "place": "三本木公園北側",
+      "address": "東京都府中市緑町２−２３",
+      "latitude": 139.4894978,
+      "altitude": 35.6745344,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "24-6",
+      "place": "旧市立みどり幼稚園北側",
+      "address": "東京都府中市緑町１−８",
+      "latitude": 139.4867009,
+      "altitude": 35.6713963,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "24-7",
+      "place": "東京都水道局府中緑町水源フェンス",
+      "address": "東京都府中市緑町１−３５",
+      "latitude": 139.4873392,
+      "altitude": 35.6748989,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "24-8",
+      "place": "緑町公園南側金網",
+      "address": "東京都府中市緑町２−６",
+      "latitude": 139.4894355,
+      "altitude": 35.6705289,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "25-1",
+      "place": "府中駅東自転車駐車場南側フェンス",
+      "address": "東京都府中市宮町１−３３",
+      "latitude": 139.4835564,
+      "altitude": 35.671507,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "25-2",
+      "place": "府中競馬場正門前駅南東側柵（踏切脇）",
+      "address": "東京都府中市八幡町２−１０",
+      "latitude": 139.4870876,
+      "altitude": 35.6682747,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "25-3",
+      "place": "宮町公会堂西側駐車場前塀",
+      "address": "東京都府中市宮町３−１７",
+      "latitude": 139.4834842,
+      "altitude": 35.6681005,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "25-4",
+      "place": "八幡町地域公園東側フェンス",
+      "address": "東京都府中市八幡町２−３３",
+      "latitude": 139.4901536,
+      "altitude": 35.6678141,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "25-5",
+      "place": "関根氏宅前東側ブロック塀",
+      "address": "東京都府中市宮町２−３１−１",
+      "latitude": 139.4834626,
+      "altitude": 35.6695866,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "25-6",
+      "place": "府中競馬場正門前駅西側塀",
+      "address": "東京都府中市八幡町１-１８",
+      "latitude": 139.4845128,
+      "altitude": 35.6685256,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "25-7",
+      "place": "田中氏宅前駐車場金網",
+      "address": "東京都府中市八幡町２−２２−２",
+      "latitude": 139.4884835,
+      "altitude": 35.6697065,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "25-8",
+      "place": "高架下府中市自転車駐車場北側フェンス",
+      "address": "東京都府中市八幡町１−２４",
+      "latitude": 139.4852719,
+      "altitude": 35.6712417,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "26-1",
+      "place": "川窪氏宅前塀",
+      "address": "東京都府中市是政３−４３−２８",
+      "latitude": 139.4842366,
+      "altitude": 35.658229,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "26-2",
+      "place": "二ケ村緑道鉄柵（株）ジャパングラフィック南側）",
+      "address": "東京都府中市是政５−３",
+      "latitude": 139.4884065,
+      "altitude": 35.6574568,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "26-3",
+      "place": "是政公会堂南側石柵",
+      "address": "東京都府中市是政３−２０",
+      "latitude": 139.4880441,
+      "altitude": 35.6591436,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "26-4",
+      "place": "是政交番東側植込み",
+      "address": "東京都府中市是政３−１５",
+      "latitude": 139.4877276,
+      "altitude": 35.6575861,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "26-5",
+      "place": "橋本氏宅向かい側二ケ村緑道鉄柵",
+      "address": "東京都府中市是政５−４−１先",
+      "latitude": 139.4898361,
+      "altitude": 35.6574754,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "26-6",
+      "place": "西武多摩川線是政駅西側フェンス",
+      "address": "東京都府中市是政５−８−２",
+      "latitude": 139.4882569,
+      "altitude": 35.6563915,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "26-7",
+      "place": "市営第５是政住宅内広場フェンス",
+      "address": "東京都府中市是政５−１５",
+      "latitude": 139.4848704,
+      "altitude": 35.6563925,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "27-1",
+      "place": "是政第３公園南側",
+      "address": "東京都府中市是政４−２−７４",
+      "latitude": 139.491159,
+      "altitude": 35.6572718,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "27-2",
+      "place": "伊藤氏宅塀",
+      "address": "東京都府中市是政１−７−６",
+      "latitude": 139.4915213,
+      "altitude": 35.6633535,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "27-3",
+      "place": "是政第２公園南東側フェンス",
+      "address": "東京都府中市是政１−４９−１９",
+      "latitude": 139.4978356,
+      "altitude": 35.6628795,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "27-4",
+      "place": "市立府中第八小学校南門西側",
+      "address": "東京都府中市是政１−３４",
+      "latitude": 139.4950862,
+      "altitude": 35.6620289,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "27-5",
+      "place": "是政文化センター正門金網",
+      "address": "東京都府中市是政２−１９",
+      "latitude": 139.4950037,
+      "altitude": 35.6608722,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "27-6",
+      "place": "小柳前田公園内植込み",
+      "address": "東京都府中市小柳町２−２０",
+      "latitude": 139.4984338,
+      "altitude": 35.6609186,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "27-7",
+      "place": "市立府中第九中学校西門北体育館前",
+      "address": "東京都府中市小柳町２−４９",
+      "latitude": 139.5034805,
+      "altitude": 35.6632423,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "27-8",
+      "place": "是政公園東側（高架下）",
+      "address": "東京都府中市是政２−１０",
+      "latitude": 139.4926769,
+      "altitude": 35.6602162,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "28-1",
+      "place": "日吉町公園等計画地（競馬場通り沿い）",
+      "address": "東京都府中市八幡町３−１５",
+      "latitude": 139.4923169,
+      "altitude": 35.6664078,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "28-2",
+      "place": "東京競馬場東府中交通整理員詰所西側金網",
+      "address": "東京都府中市清水が丘１−２−１",
+      "latitude": 139.4936797,
+      "altitude": 35.6690677,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "28-3",
+      "place": "東京競馬場八幡町舎宅東側",
+      "address": "東京都府中市八幡町３−１７",
+      "latitude": 139.4930732,
+      "altitude": 35.6682033,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "28-4",
+      "place": "東京競馬場日吉体育館・運動広場北側フェンス",
+      "address": "東京都府中市八幡町３−８",
+      "latitude": 139.4920218,
+      "altitude": 35.6681379,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "28-5",
+      "place": "清水が丘緑地西側",
+      "address": "東京都府中市清水が丘２−２３",
+      "latitude": 139.4971628,
+      "altitude": 35.6659407,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "28-6",
+      "place": "清水が丘公園東側鉄柵",
+      "address": "東京都府中市清水が丘２−４",
+      "latitude": 139.4952316,
+      "altitude": 35.6669202,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "28-7",
+      "place": "清水が丘第３公園金網",
+      "address": "東京都府中市清水が丘１−１２",
+      "latitude": 139.4963439,
+      "altitude": 35.6679386,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "29-1",
+      "place": "清水が丘東公園南側",
+      "address": "東京都府中市清水が丘３−２５",
+      "latitude": 139.5040169,
+      "altitude": 35.666017,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "29-2",
+      "place": "清水が丘三丁目公園南東側植込",
+      "address": "東京都府中市清水が丘３−１１",
+      "latitude": 139.5012596,
+      "altitude": 35.6661619,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "29-3",
+      "place": "東郷寺山門北側駐車場金網",
+      "address": "東京都府中市清水が丘３−３４",
+      "latitude": 139.5003436,
+      "altitude": 35.6643597,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "29-4",
+      "place": "馬場氏宅前壁（東郷寺通り沿い）",
+      "address": "東京都府中市小柳町１−２９−１１",
+      "latitude": 139.5010446,
+      "altitude": 35.6642341,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "29-5",
+      "place": "村野氏所有九中通り踏切南駐車場",
+      "address": "東京都府中市小柳町１−1７",
+      "latitude": 139.504105,
+      "altitude": 35.6649884,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "29-6",
+      "place": "多磨霊園駅北側",
+      "address": "東京都府中市清水が丘３−２６",
+      "latitude": 139.5024944,
+      "altitude": 35.6663975,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "29-7",
+      "place": "清水が丘ハイツ前塀",
+      "address": "東京都府中市清水が丘３−２−２０",
+      "latitude": 139.4994808,
+      "altitude": 35.6679357,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "30-1",
+      "place": "若松町広場金網",
+      "address": "東京都府中市若松町２−２３",
+      "latitude": 139.5014725,
+      "altitude": 35.6714531,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "30-2",
+      "place": "市立浅間中学校西側",
+      "address": "東京都府中市浅間町１−１",
+      "latitude": 139.4904966,
+      "altitude": 35.6733384,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "30-3",
+      "place": "関の原公園南側",
+      "address": "東京都府中市若松町２−５−１",
+      "latitude": 139.4969532,
+      "altitude": 35.6709798,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "30-4",
+      "place": "東府中下水道モニュメント南側",
+      "address": "東京都府中市若松町１−１",
+      "latitude": 139.4949583,
+      "altitude": 35.6694775,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "30-5",
+      "place": "若松小学校西側",
+      "address": "東京都府中市若松町３−１１",
+      "latitude": 139.4989213,
+      "altitude": 35.6735834,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "30-6",
+      "place": "若松町公園南東側フェンス",
+      "address": "東京都府中市若松町３−２１",
+      "latitude": 139.5035905,
+      "altitude": 35.6733509,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "30-7",
+      "place": "勅使河原氏宅アパ−ト北側畑フェンス",
+      "address": "東京都府中市若松町４−１５−１２",
+      "latitude": 139.501238,
+      "altitude": 35.6761397,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "30-8",
+      "place": "平和の森公園入口東側",
+      "address": "東京都府中市浅間町１−８",
+      "latitude": 139.4956679,
+      "altitude": 35.6786047,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "31-1",
+      "place": "田中氏宅塀",
+      "address": "東京都府中市若松町３−３１−４",
+      "latitude": 139.5036499,
+      "altitude": 35.6753654,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "31-2",
+      "place": "明ケ代東公園金網",
+      "address": "東京都府中市若松町３−４０",
+      "latitude": 139.5073654,
+      "altitude": 35.6747517,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "31-3",
+      "place": "市立府中第十小学校グラウンド西側植込み",
+      "address": "東京都府中市若松町４−３１",
+      "latitude": 139.5072061,
+      "altitude": 35.6771924,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "31-4",
+      "place": "市立府中第十小学校南側植込み",
+      "address": "東京都府中市若松町４−２９",
+      "latitude": 139.5082213,
+      "altitude": 35.676754,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "31-5",
+      "place": "河内氏所有畑北側",
+      "address": "東京都府中市若松町４−４３",
+      "latitude": 139.5036374,
+      "altitude": 35.6774931,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "31-6",
+      "place": "紅葉丘文化センタ−西側植込み",
+      "address": "東京都府中市紅葉丘２−１",
+      "latitude": 139.5089162,
+      "altitude": 35.6765662,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "31-7",
+      "place": "市営第六若松町住宅内（北）広場",
+      "address": "東京都府中市若松町４−３５",
+      "latitude": 139.5062512,
+      "altitude": 35.6774539,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "32-1",
+      "place": "武蔵野台駅北東側",
+      "address": "東京都府中市白糸台４−１８",
+      "latitude": 139.5120731,
+      "altitude": 35.6640478,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "32-2",
+      "place": "比留間氏宅前塀",
+      "address": "東京都府中市若松町１−３０−２",
+      "latitude": 139.502211,
+      "altitude": 35.6691064,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "32-3",
+      "place": "シャトレー武蔵野南西側ブロック塀",
+      "address": "東京都府中市白糸台２−６７−１",
+      "latitude": 139.5104781,
+      "altitude": 35.6655373,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "32-4",
+      "place": "吉野氏宅東側道路側フェンス",
+      "address": "東京都府中市若松町１−２４−３",
+      "latitude": 139.5046896,
+      "altitude": 35.6684809,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "32-5",
+      "place": "白糸台文化センタ−南西側金網",
+      "address": "東京都府中市白糸台１−６０",
+      "latitude": 139.5055989,
+      "altitude": 35.6668463,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "32-6",
+      "place": "市立府中第四小学校南東側正門横金網",
+      "address": "東京都府中市白糸台１−５８",
+      "latitude": 139.5078331,
+      "altitude": 35.6662699,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "32-7",
+      "place": "武蔵野台駅南西側",
+      "address": "東京都府中市白糸台４−１８",
+      "latitude": 139.5101594,
+      "altitude": 35.6643551,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "32-8",
+      "place": "市立府中第四小学校北側金網",
+      "address": "東京都府中市白糸台１−５８",
+      "latitude": 139.5086579,
+      "altitude": 35.666818,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "33-1",
+      "place": "市立府中第二中学校西側正門横金網",
+      "address": "東京都府中市紅葉丘１−２３−１３",
+      "latitude": 139.5096673,
+      "altitude": 35.6718049,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "33-2",
+      "place": "市立府中第二中学校南西側体育館南側金網",
+      "address": "東京都府中市紅葉丘１−２３−１３",
+      "latitude": 139.5084013,
+      "altitude": 35.6722123,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "33-3",
+      "place": "市立白糸台体育館自転車置場",
+      "address": "東京都府中市白糸台１−５０",
+      "latitude": 139.5091729,
+      "altitude": 35.6709472,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "33-4",
+      "place": "紅葉丘第三公園入口紅葉丘防災倉庫横",
+      "address": "東京都府中市紅葉丘１−９",
+      "latitude": 139.5085482,
+      "altitude": 35.6750836,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "33-5",
+      "place": "上染屋八幡神社北側駐車場横塀",
+      "address": "東京都府中市白糸台１−４３",
+      "latitude": 139.506032,
+      "altitude": 35.6712087,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "33-6",
+      "place": "あんず通りベンチ横",
+      "address": "東京都府中市紅葉丘１−２６",
+      "latitude": 139.5113511,
+      "altitude": 35.6719732,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "33-7",
+      "place": "白糸台北公園ゲートボール場北側フェンス",
+      "address": "東京都府中市白糸台１−５０",
+      "latitude": 139.5083226,
+      "altitude": 35.6715584,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "34-1",
+      "place": "西武多摩川線武蔵野学園西側正門前鉄柵",
+      "address": "東京都府中市多磨町１−１３−２",
+      "latitude": 139.5184224,
+      "altitude": 35.6793626,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "34-2",
+      "place": "多磨駅東口自転車駐車場北西側フェンス",
+      "address": "東京都府中市朝日町２−２６",
+      "latitude": 139.5177562,
+      "altitude": 35.6767115,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "34-3",
+      "place": "紅葉丘北公園北側植込",
+      "address": "東京都府中市紅葉丘２−２４",
+      "latitude": 139.517437,
+      "altitude": 35.6813112,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "34-4",
+      "place": "吉野氏宅西側フェンス",
+      "address": "東京都府中市多磨町２−３７−１",
+      "latitude": 139.51923,
+      "altitude": 35.6843113,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "34-5",
+      "place": "永福寺西側塀",
+      "address": "東京都府中市多磨町２−４５−１",
+      "latitude": 139.5193227,
+      "altitude": 35.6809654,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "34-6",
+      "place": "府中つくし幼稚園東側塀",
+      "address": "東京都府中市紅葉丘２−１４",
+      "latitude": 139.5175483,
+      "altitude": 35.6779124,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "34-7",
+      "place": "多磨町東公園南側",
+      "address": "東京都府中市多磨町１−２９",
+      "latitude": 139.5220943,
+      "altitude": 35.6783516,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "35-1",
+      "place": "市立白糸台小学校北東側フェンス",
+      "address": "東京都府中市白糸台２−５３−２",
+      "latitude": 139.514957,
+      "altitude": 35.6696801,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "35-2",
+      "place": "四季の杜公園北東側",
+      "address": "東京都府中市朝日町１−３０",
+      "latitude": 139.5171715,
+      "altitude": 35.6701795,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "35-3",
+      "place": "北の原公園朝日町地域公園南側金網",
+      "address": "東京都府中市朝日町１−２９",
+      "latitude": 139.5181263,
+      "altitude": 35.6698265,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "35-4",
+      "place": "鹿島氏宅前塀",
+      "address": "東京都府中市白糸台２−２−２",
+      "latitude": 139.5098881,
+      "altitude": 35.6678835,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "35-5",
+      "place": "旧朝日保育所跡",
+      "address": "東京都府中市朝日町１−３３−３４",
+      "latitude": 139.5180148,
+      "altitude": 35.6690348,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "35-6",
+      "place": "神明台公園フェンス",
+      "address": "東京都府中市白糸台３−１６",
+      "latitude": 139.5166359,
+      "altitude": 35.6660497,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "35-7",
+      "place": "比留間氏宅北側塀",
+      "address": "東京都府中市白糸台３−９−９",
+      "latitude": 139.5163429,
+      "altitude": 35.6653516,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "35-8",
+      "place": "白糸台公園南西側金網",
+      "address": "東京都府中市白糸台２−３９",
+      "latitude": 139.51121,
+      "altitude": 35.6693358,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "36-1",
+      "place": "田中氏宅前塀",
+      "address": "東京都府中市白糸台６−３−２",
+      "latitude": 139.5196581,
+      "altitude": 35.6637607,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "36-2",
+      "place": "白糸台通り側道植栽帯",
+      "address": "東京都府中市白糸台５−６",
+      "latitude": 139.5144992,
+      "altitude": 35.6642426,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "36-3",
+      "place": "南白糸台学童クラブ南側金網",
+      "address": "東京都府中市押立町２−２５",
+      "latitude": 139.5153213,
+      "altitude": 35.6581945,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "36-4",
+      "place": "田中氏所有諏訪荘西側塀",
+      "address": "東京都府中市白糸台６−４６−１",
+      "latitude": 139.5165813,
+      "altitude": 35.6623945,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "36-5",
+      "place": "小杉氏宅西側",
+      "address": "東京都府中市白糸台５−２１−３",
+      "latitude": 139.5118506,
+      "altitude": 35.6631934,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "36-6",
+      "place": "車返団地１号棟北西金網",
+      "address": "東京都府中市白糸台５−３１−１",
+      "latitude": 139.513547,
+      "altitude": 35.6618326,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "36-7",
+      "place": "市立南白糸台小学校西側正門南側金網",
+      "address": "東京都府中市白糸台６−４８",
+      "latitude": 139.5159978,
+      "altitude": 35.6605503,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "36-8",
+      "place": "スポットパークすわ",
+      "address": "東京都府中市押立町２−４",
+      "latitude": 139.5145783,
+      "altitude": 35.6596099,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "37-1",
+      "place": "府中佼成幼稚園北西側金網",
+      "address": "東京都府中市白糸台４−３９−２",
+      "latitude": 139.506565,
+      "altitude": 35.6628837,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "37-2",
+      "place": "市立押立体育館北東角フェンス",
+      "address": "東京都府中市押立町１−３７",
+      "latitude": 139.5123484,
+      "altitude": 35.6597803,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "37-3",
+      "place": "車返西住宅月極契約駐車場（Ａ）フェンス",
+      "address": "東京都府中市白糸台４−４９",
+      "latitude": 139.5097738,
+      "altitude": 35.6624415,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "37-4",
+      "place": "市立府中第六中学校北門横金網",
+      "address": "東京都府中市押立町１−２",
+      "latitude": 139.5086061,
+      "altitude": 35.660938,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "37-5",
+      "place": "市立府中第六中学校西側正門横金網",
+      "address": "東京都府中市押立町１−２",
+      "latitude": 139.5066857,
+      "altitude": 35.6607528,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "37-6",
+      "place": "押立町西公園北側鉄柵",
+      "address": "東京都府中市押立町３−９",
+      "latitude": 139.5088821,
+      "altitude": 35.6580031,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "37-7",
+      "place": "府中スポーツガーデン南西側駐車場南側",
+      "address": "東京都府中市押立町１−３３",
+      "latitude": 139.5105212,
+      "altitude": 35.6586933,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "37-8",
+      "place": "市立府中第六中学校南西側金網",
+      "address": "東京都府中市押立町１−２",
+      "latitude": 139.5091882,
+      "altitude": 35.6600336,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "38-1",
+      "place": "横田氏宅前塀",
+      "address": "東京都府中市押立町４−３４−２０",
+      "latitude": 139.5174744,
+      "altitude": 35.6546041,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "38-2",
+      "place": "中野氏宅向かい植込み（多摩川通り沿い）",
+      "address": "東京都府中市押立町５−１３−７４",
+      "latitude": 139.5192587,
+      "altitude": 35.6510355,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "38-3",
+      "place": "川崎氏宅南側塀",
+      "address": "東京都府中市押立町４−３４−１５",
+      "latitude": 139.5178435,
+      "altitude": 35.6539855,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "38-4",
+      "place": "比留間氏宅前塀",
+      "address": "東京都府中市押立町４−３９−１３",
+      "latitude": 139.5200405,
+      "altitude": 35.6527244,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "38-5",
+      "place": "押立宮の前公園西側金網",
+      "address": "東京都府中市押立町５−７",
+      "latitude": 139.5184045,
+      "altitude": 35.6525039,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "38-6",
+      "place": "押立町公園南側フェンス",
+      "address": "東京都府中市押立町４−１７",
+      "latitude": 139.5151372,
+      "altitude": 35.6548944,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "38-7",
+      "place": "押立町第２公園金網",
+      "address": "東京都府中市押立町５−１４−４７",
+      "latitude": 139.5172106,
+      "altitude": 35.6524949,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "39-1",
+      "place": "西原町中央公園北東側",
+      "address": "東京都府中市西原町３−１７",
+      "latitude": 139.4567772,
+      "altitude": 35.6837674,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "39-2",
+      "place": "三井住友銀行府中研修所跡地南西側金網",
+      "address": "東京都府中市西原町３−４",
+      "latitude": 139.455899,
+      "altitude": 35.6809362,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "39-3",
+      "place": "三井住友銀行府中研修所跡地北西側金網",
+      "address": "東京都府中市西原町３−４",
+      "latitude": 139.4559553,
+      "altitude": 35.6819057,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "39-4",
+      "place": "市川氏所有メイプルハイム東側塀",
+      "address": "東京都府中市西府町３−２７",
+      "latitude": 139.4572612,
+      "altitude": 35.6790937,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "39-5",
+      "place": "市立府中第十中学校東側正門横鉄柵",
+      "address": "東京都府中市西府町４−２１",
+      "latitude": 139.453325,
+      "altitude": 35.6784242,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "39-6",
+      "place": "西府橋北公園南西側金網",
+      "address": "東京都府中市西府町４−２",
+      "latitude": 139.4535186,
+      "altitude": 35.6763733,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "39-7",
+      "place": "荒木氏宅北側フェンス",
+      "address": "東京都府中市西原町４−８−７",
+      "latitude": 139.4525967,
+      "altitude": 35.6815265,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "40-1",
+      "place": "市営第７西府町住宅集会所北側植込み",
+      "address": "東京都府中市西府町３－１０",
+      "latitude": 139.4578108,
+      "altitude": 35.6765539,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "40-2",
+      "place": "東芝堀込第１寮南側金網",
+      "address": "東京都府中市東芝町１−１３",
+      "latitude": 139.4629658,
+      "altitude": 35.6765867,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "40-3",
+      "place": "市立本宿体育館北側植込み",
+      "address": "東京都府中市本宿町４−２３",
+      "latitude": 139.459805,
+      "altitude": 35.6800135,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "40-4",
+      "place": "西原町東公園南側",
+      "address": "東京都府中市西原町２−２６",
+      "latitude": 139.4581651,
+      "altitude": 35.6847461,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "40-5",
+      "place": "新府中街道（ちゅうバス西原町バス停脇）植込み",
+      "address": "東京都府中市西原町１−６西側",
+      "latitude": 139.459093,
+      "altitude": 35.6827343,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "40-6",
+      "place": "市立本宿小学校北側金網",
+      "address": "東京都府中市本宿町４−１９",
+      "latitude": 139.4611037,
+      "altitude": 35.6798787,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "40-7",
+      "place": "市立本宿小学校東側正門横金網",
+      "address": "東京都府中市本宿町４−１９",
+      "latitude": 139.4615422,
+      "altitude": 35.6791924,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "40-8",
+      "place": "富士見通り北側東芝側鉄柵（東芝府中南ビル北側向かい）",
+      "address": "東京都府中市東芝町１",
+      "latitude": 139.4627312,
+      "altitude": 35.6797648,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "41-1",
+      "place": "市立日新小学校西側正門横金網",
+      "address": "東京都府中市日新町５−２２",
+      "latitude": 139.4431295,
+      "altitude": 35.6688653,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "41-2",
+      "place": "市立日新小学校東側金網",
+      "address": "東京都府中市日新町５−２２",
+      "latitude": 139.4447147,
+      "altitude": 35.6686365,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "41-3",
+      "place": "松村氏宅前塀",
+      "address": "東京都府中市日新町３−６−８",
+      "latitude": 139.4496569,
+      "altitude": 35.669268,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "41-4",
+      "place": "日新駐車場塀",
+      "address": "東京都府中市日新町３−１９",
+      "latitude": 139.4476123,
+      "altitude": 35.6688985,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "41-5",
+      "place": "四谷西公園東側フェンス",
+      "address": "東京都府中市四谷６−１８",
+      "latitude": 139.4346113,
+      "altitude": 35.6698872,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "41-6",
+      "place": "大和荘南側塀",
+      "address": "東京都府中市日新町５−４４",
+      "latitude": 139.440891,
+      "altitude": 35.6700832,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "41-7",
+      "place": "日新第２庭球場",
+      "address": "東京都府中市日新町２−１４",
+      "latitude": 139.4512237,
+      "altitude": 35.670889,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "42-1",
+      "place": "都立浅間山公園西側（新小金井街道沿い）",
+      "address": "東京都府中市浅間町４−２２",
+      "latitude": 139.4989782,
+      "altitude": 35.6793596,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "42-2",
+      "place": "都営浅間町２丁目アパート２号棟東側鉄柵",
+      "address": "東京都府中市浅間町２−７",
+      "latitude": 139.4978827,
+      "altitude": 35.6834347,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "42-3",
+      "place": "慈恵院第一駐車場塀",
+      "address": "東京都府中市浅間町４−２０",
+      "latitude": 139.4981447,
+      "altitude": 35.6807058,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "42-4",
+      "place": "斎藤病院北側正門横塀",
+      "address": "東京都府中市浅間町４−１",
+      "latitude": 139.4999572,
+      "altitude": 35.6841276,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "42-5",
+      "place": "斎藤病院西側フェンス",
+      "address": "東京都府中市浅間町４−１",
+      "latitude": 139.4993644,
+      "altitude": 35.6835394,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "42-6",
+      "place": "都立浅間山公園北側入口横",
+      "address": "東京都府中市浅間町４−１６",
+      "latitude": 139.5011159,
+      "altitude": 35.681437,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "42-7",
+      "place": "浅間町３丁目公園西側",
+      "address": "東京都府中市浅間町３−１８",
+      "latitude": 139.5013822,
+      "altitude": 35.6853748,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "42-8",
+      "place": "浅間町北公園植栽",
+      "address": "東京都府中市浅間町３−２",
+      "latitude": 139.4976298,
+      "altitude": 35.6854467,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "43-1",
+      "place": "ベルテ武蔵野台Ⅱ北側フェンス",
+      "address": "東京都府中市小柳町３−７",
+      "latitude": 139.5063768,
+      "altitude": 35.662002,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "43-2",
+      "place": "市立小柳小学校南東側金網",
+      "address": "東京都府中市小柳町４−４５",
+      "latitude": 139.5045051,
+      "altitude": 35.6590983,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "43-3",
+      "place": "小柳公園西側フェンス",
+      "address": "東京都府中市小柳町６−１０",
+      "latitude": 139.5054228,
+      "altitude": 35.6566342,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "43-4",
+      "place": "市営第１８小柳町住宅北側柵",
+      "address": "東京都府中市小柳町４−１７",
+      "latitude": 139.5012248,
+      "altitude": 35.6591648,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "43-5",
+      "place": "旧市立小柳幼稚園西側植栽",
+      "address": "東京都府中市小柳町６−２３",
+      "latitude": 139.5042158,
+      "altitude": 35.6543906,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "43-6",
+      "place": "小柳町水防ステーション北側",
+      "address": "東京都府中市小柳町６−１−１",
+      "latitude": 139.5061686,
+      "altitude": 35.6576512,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "43-7",
+      "place": "小柳散歩道（西武スマイルパーク競艇場前駅北口第一駐車場そば）",
+      "address": "東京都府中市小柳町４−８",
+      "latitude": 139.4997469,
+      "altitude": 35.6576502,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "44-1",
+      "place": "矢崎町１丁目３５番地西側植込み（府中街道沿い）",
+      "address": "東京都府中市矢崎町１−３５",
+      "latitude": 139.479309,
+      "altitude": 35.6623024,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "44-2",
+      "place": "市営第２矢崎町住宅北 東側植込み",
+      "address": "東京都府中市矢崎町２−１６",
+      "latitude": 139.4769062,
+      "altitude": 35.6616376,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "44-3",
+      "place": "高野氏宅東側塀",
+      "address": "東京都府中市矢崎町２−９",
+      "latitude": 139.4751601,
+      "altitude": 35.6631848,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "44-4",
+      "place": "第２都市遊歩道（アスク府中本町保育園東側）",
+      "address": "東京都府中市本町２−３５",
+      "latitude": 139.4771329,
+      "altitude": 35.6648147,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "44-5",
+      "place": "矢崎町防災公園北東側植込",
+      "address": "東京都府中市矢崎町１−１６",
+      "latitude": 139.477574,
+      "altitude": 35.6638523,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "44-6",
+      "place": "矢崎町防災公園南側",
+      "address": "東京都府中市矢崎町１−１６",
+      "latitude": 139.4769772,
+      "altitude": 35.6631015,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "44-7",
+      "place": "田原電機製作所北西側塀",
+      "address": "東京都府中市本町２−３０",
+      "latitude": 139.4752696,
+      "altitude": 35.6639303,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "45-1",
+      "place": "心身障害者福祉センタ−南東側フェンス",
+      "address": "東京都府中市南町５−３８",
+      "latitude": 139.4671742,
+      "altitude": 35.6557682,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "45-2",
+      "place": "南町第３公園北側植込み",
+      "address": "東京都府中市南町４−３４",
+      "latitude": 139.4638469,
+      "altitude": 35.6576197,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "45-3",
+      "place": "南町南幼児公園南側フェンス",
+      "address": "東京都府中市南町５−１１",
+      "latitude": 139.4701208,
+      "altitude": 35.65595,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "45-4",
+      "place": "下河原緑道植込み",
+      "address": "東京都府中市南町４−３６",
+      "latitude": 139.4644504,
+      "altitude": 35.6573397,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "45-5",
+      "place": "市道４−２５８号植込み（府中わかば幼稚園西側先）",
+      "address": "東京都府中市南町４−２７",
+      "latitude": 139.4625005,
+      "altitude": 35.6581711,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "45-6",
+      "place": "南町交番前公園植込み",
+      "address": "東京都府中市南町４−４０",
+      "latitude": 139.4638845,
+      "altitude": 35.6569142,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "45-7",
+      "place": "府中南町４丁目駐車場北側歩道脇植込み（下河原通り沿い）",
+      "address": "東京都府中市南町４-４０",
+      "latitude": 139.4616556,
+      "altitude": 35.6573075,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "46-1",
+      "place": "生活協同組合コープみらい府中センター南側植込み",
+      "address": "東京都府中市栄町２−１８−１",
+      "latitude": 139.476991,
+      "altitude": 35.6886837,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "46-2",
+      "place": "明星学苑西側鉄柵",
+      "address": "東京都府中市栄町１−１",
+      "latitude": 139.4797246,
+      "altitude": 35.6864797,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "46-3",
+      "place": "明星学苑南側鉄柵",
+      "address": "東京都府中市栄町１−１",
+      "latitude": 139.4808739,
+      "altitude": 35.6859416,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "46-4",
+      "place": "明星学苑東側鉄柵",
+      "address": "東京都府中市栄町１−１",
+      "latitude": 139.483135,
+      "altitude": 35.6867672,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "46-5",
+      "place": "市立栄町体育館北側植込",
+      "address": "東京都府中市栄町１−１",
+      "latitude": 139.4807988,
+      "altitude": 35.6884763,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "46-6",
+      "place": "栄町北公園南西側植込",
+      "address": "東京都府中市栄町１−２０",
+      "latitude": 139.481519,
+      "altitude": 35.6893441,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "46-7",
+      "place": "あかまつ林東南角",
+      "address": "東京都府中市栄町２−６",
+      "latitude": 139.4769127,
+      "altitude": 35.6869249,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "47-1",
+      "place": "尾崎氏宅南東側ブロック塀",
+      "address": "東京都府中市美好町３−６−１",
+      "latitude": 139.4679488,
+      "altitude": 35.6698815,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "47-2",
+      "place": "高安寺西側フェンス",
+      "address": "東京都府中市片町２−２５",
+      "latitude": 139.4709349,
+      "altitude": 35.6694175,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "47-3",
+      "place": "片町文化センター西側向かい京王線鉄柵",
+      "address": "東京都府中市片町２−１７",
+      "latitude": 139.4691539,
+      "altitude": 35.6704525,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "47-4",
+      "place": "片町文化センター南側植栽",
+      "address": "東京都府中市片町２−１７",
+      "latitude": 139.46928,
+      "altitude": 35.6701899,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "47-5",
+      "place": "片町第４公園入口西側植込み",
+      "address": "東京都府中市片町１−２",
+      "latitude": 139.472499,
+      "altitude": 35.6719473,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "47-6",
+      "place": "桑田氏宅東側塀",
+      "address": "東京都府中市片町２−１３",
+      "latitude": 139.4704167,
+      "altitude": 35.6704117,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "47-7",
+      "place": "片町第２公園北側金網",
+      "address": "東京都府中市片町１−１０−９",
+      "latitude": 139.4735099,
+      "altitude": 35.6717334,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "48-1",
+      "place": "第２都市遊歩道植込み",
+      "address": "東京都府中市美好町３−５７先",
+      "latitude": 139.4604431,
+      "altitude": 35.66815,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "48-2",
+      "place": "第２都市遊歩道（分梅町第３広場府中崖線分梅町緑地先）",
+      "address": "東京都府中市分梅町１−２６",
+      "latitude": 139.4642319,
+      "altitude": 35.6667622,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "48-3",
+      "place": "美好町３丁目公会堂前",
+      "address": "東京都府中市美好町３−４１",
+      "latitude": 139.4652511,
+      "altitude": 35.6694019,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "48-4",
+      "place": "美好町３丁目公会堂北側",
+      "address": "東京都府中市美好町３−４１",
+      "latitude": 139.4649266,
+      "altitude": 35.6696242,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "48-5",
+      "place": "美好町第１仲よし広場フェンス",
+      "address": "東京都府中市美好町３−４４",
+      "latitude": 139.464198,
+      "altitude": 35.6690451,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "48-6",
+      "place": "八雲神社東側",
+      "address": "東京都府中市分梅町１−１８",
+      "latitude": 139.4648864,
+      "altitude": 35.6680566,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "48-7",
+      "place": "第２都市遊歩道植込み",
+      "address": "東京都府中市分梅町１−２４",
+      "latitude": 139.4617589,
+      "altitude": 35.6676655,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "49-1",
+      "place": "芝辻氏所有駐車場フェンス",
+      "address": "東京都府中市天神町１−２−３３",
+      "latitude": 139.4857251,
+      "altitude": 35.6777481,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "49-2",
+      "place": "都営天神町１丁目アパート南側フェンス",
+      "address": "東京都府中市天神町１−３",
+      "latitude": 139.4864198,
+      "altitude": 35.6786392,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "49-3",
+      "place": "スポットパークいっぽんぎ東南側",
+      "address": "東京都府中市天神町２−１１−２３",
+      "latitude": 139.4905369,
+      "altitude": 35.6798823,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "49-4",
+      "place": "都立府中の森公園西側植込み",
+      "address": "東京都府中市天神町２−３４",
+      "latitude": 139.4902819,
+      "altitude": 35.6780797,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "49-5",
+      "place": "府中天神町幼稚園南西側フェンス",
+      "address": "東京都府中市天神町１−２０",
+      "latitude": 139.4884958,
+      "altitude": 35.6804323,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "49-6",
+      "place": "天神町第３公園北側フェンス",
+      "address": "東京都府中市天神町１−１２",
+      "latitude": 139.4870259,
+      "altitude": 35.6806611,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "49-7",
+      "place": "天神町公園北側フェンス",
+      "address": "東京都府中市天神町１−１２",
+      "latitude": 139.4876053,
+      "altitude": 35.681672,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "50-1",
+      "place": "都営府中朝日町２丁目アパート１号棟南側公園",
+      "address": "東京都府中市朝日町２−３",
+      "latitude": 139.5172372,
+      "altitude": 35.6736394,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "50-2",
+      "place": "都営府中朝日町２丁目アパート西側広場南植込み（朝日町通り沿い）",
+      "address": "東京都府中市朝日町２−１４",
+      "latitude": 139.5185418,
+      "altitude": 35.6742093,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "50-3",
+      "place": "朝日町公園内植込",
+      "address": "東京都府中市朝日町２−２０",
+      "latitude": 139.5169328,
+      "altitude": 35.6729334,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "50-4",
+      "place": "都営府中朝日町２丁目アパート９号棟西側自転車置場前植込み",
+      "address": "東京都府中市朝日町２−２３",
+      "latitude": 139.517378,
+      "altitude": 35.6760078,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "50-5",
+      "place": "都営府中紅葉丘３丁目アパート北西側広場北側金網",
+      "address": "東京都府中市紅葉丘３−２２",
+      "latitude": 139.513787,
+      "altitude": 35.6744481,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "50-6",
+      "place": "都営府中紅葉丘３丁目アパート南東側植込み",
+      "address": "東京都府中市紅葉丘３−２２",
+      "latitude": 139.5144925,
+      "altitude": 35.6735024,
+      "status": false,
+      "note": "",
+      "time": ""
+    },
+    {
+      "id": "50-7",
+      "place": "紅葉丘第２地域公園西側フェンス",
+      "address": "東京都府中市紅葉丘３−２７",
+      "latitude": 139.5137552,
+      "altitude": 35.675398,
+      "status": false,
+      "note": "",
+      "time": ""
+    }
   ]
 }
