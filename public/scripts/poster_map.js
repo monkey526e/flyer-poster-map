@@ -80,7 +80,7 @@ fetch("/data/candidates_all.json")
 
         clusterGroup = L.markerClusterGroup({
           maxClusterRadius: 60,
-          disableClusteringAtZoom: 15
+          disableClusteringAtZoom: 13
         });
         map.addLayer(clusterGroup);
 
