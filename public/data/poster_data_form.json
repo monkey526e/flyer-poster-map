@@ -10983,9 +10983,9 @@
       "address": "東京都中央区日本橋蛎殻町２丁目１０番２３号",
       "latitude": 139.7875141,
       "altitude": 35.6837867,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/06/13 10:50:40"
     },
     {
       "id": "11-2",
@@ -11543,9 +11543,9 @@
       "address": "東京都中央区晴海３丁目３番３号",
       "latitude": 139.7801959,
       "altitude": 35.6547335,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/06/13 10:50:40"
     },
     {
       "id": "21-1",
