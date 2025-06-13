@@ -11253,9 +11253,9 @@
       "address": "東京都中央区月島１丁目１４番１３号",
       "latitude": 139.7817939,
       "altitude": 35.6653294,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/06/13 11:57:33"
     },
     {
       "id": "15-3",
