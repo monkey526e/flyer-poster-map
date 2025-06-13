@@ -10833,9 +10833,9 @@
       "address": "東京都中央区新川２丁目２５番１１号",
       "latitude": 139.7833214,
       "altitude": 35.6748386,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/06/13 9:55:07"
     },
     {
       "id": "8-1",
@@ -11233,9 +11233,9 @@
       "address": "東京都中央区佃３丁目１１番４号先",
       "latitude": 139.7873713,
       "altitude": 35.6644855,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/06/13 9:55:36"
     },
     {
       "id": "15-1",
