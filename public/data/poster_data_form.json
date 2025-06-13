@@ -10483,9 +10483,9 @@
       "address": "東京都中央区京橋１丁目１９番１３号先",
       "latitude": 139.7745661,
       "altitude": 35.6776521,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/06/13 12:38:25"
     },
     {
       "id": "1-2",
@@ -10493,9 +10493,9 @@
       "address": "東京都中央区京橋２丁目１８番１号先",
       "latitude": 139.7726719,
       "altitude": 35.6750678,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/06/13 12:38:53"
     },
     {
       "id": "1-3",
@@ -11133,9 +11133,9 @@
       "address": "東京都中央区日本橋２丁目３番４号",
       "latitude": 139.7723803,
       "altitude": 35.6815723,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/06/13 12:38:09"
     },
     {
       "id": "13-4",
