@@ -10813,9 +10813,9 @@
       "address": "東京都中央区新川２丁目９番１３号",
       "latitude": 139.7804233,
       "altitude": 35.6747248,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/06/13 9:43:30"
     },
     {
       "id": "7-5",
@@ -10823,9 +10823,9 @@
       "address": "東京都中央区新川２丁目１３番４号",
       "latitude": 139.7817536,
       "altitude": 35.6755457,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/06/13 9:43:50"
     },
     {
       "id": "7-6",
