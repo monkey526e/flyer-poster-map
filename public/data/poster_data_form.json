@@ -11293,9 +11293,9 @@
       "address": "東京都中央区月島４丁目２番１号",
       "latitude": 139.782858,
       "altitude": 35.6614366,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/06/13 10:05:20"
     },
     {
       "id": "16-3",
