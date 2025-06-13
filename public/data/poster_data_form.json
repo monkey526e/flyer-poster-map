@@ -11513,9 +11513,9 @@
       "address": "東京都中央区晴海３丁目１番６号",
       "latitude": 139.7801402,
       "altitude": 35.6565583,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/06/13 10:53:31"
     },
     {
       "id": "20-2",
