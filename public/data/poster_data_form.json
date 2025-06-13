@@ -11333,9 +11333,9 @@
       "address": "東京都中央区勝どき１丁目１２番２号",
       "latitude": 139.7755056,
       "altitude": 35.6597058,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/06/13 11:45:31"
     },
     {
       "id": "17-4",
