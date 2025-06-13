@@ -11013,9 +11013,9 @@
       "address": "東京都中央区日本橋箱崎町３７番",
       "latitude": 139.788479,
       "altitude": 35.6813459,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/06/13 10:17:03"
     },
     {
       "id": "11-5",
@@ -11363,9 +11363,9 @@
       "address": "東京都中央区勝どき４丁目１２番",
       "latitude": 139.7750245,
       "altitude": 35.6567643,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/06/13 10:17:23"
     },
     {
       "id": "18-1",
