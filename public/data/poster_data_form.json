@@ -10743,9 +10743,9 @@
       "address": "東京都中央区八丁堀１丁目１４番７号",
       "latitude": 139.7788707,
       "altitude": 35.6764922,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/06/13 12:48:16"
     },
     {
       "id": "6-2",
@@ -10753,9 +10753,9 @@
       "address": "東京都中央区八丁堀３丁目１番２０号先",
       "latitude": 139.7741808,
       "altitude": 35.6764303,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/06/13 12:48:32"
     },
     {
       "id": "6-3",
@@ -10763,9 +10763,9 @@
       "address": "東京都中央区八丁堀３丁目１７番９号",
       "latitude": 139.7756628,
       "altitude": 35.6746835,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/06/13 12:48:51"
     },
     {
       "id": "6-4",
