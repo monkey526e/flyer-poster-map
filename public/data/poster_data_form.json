@@ -10693,9 +10693,9 @@
       "address": "東京都中央区入船１丁目１番",
       "latitude": 139.7778706,
       "altitude": 35.6735898,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/06/13 12:46:24"
     },
     {
       "id": "5-2",
@@ -10703,9 +10703,9 @@
       "address": "東京都中央区湊１丁目４番１号",
       "latitude": 139.7787294,
       "altitude": 35.6719315,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/06/13 12:46:55"
     },
     {
       "id": "5-3",
