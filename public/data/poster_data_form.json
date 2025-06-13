@@ -10643,9 +10643,9 @@
       "address": "東京都中央区明石町１番７号",
       "latitude": 139.7771175,
       "altitude": 35.6695364,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/06/13 12:44:25"
     },
     {
       "id": "4-2",
@@ -10653,9 +10653,9 @@
       "address": "東京都中央区明石町１番",
       "latitude": 139.7751989,
       "altitude": 35.6685818,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/06/13 12:44:44"
     },
     {
       "id": "4-3",
@@ -11153,9 +11153,9 @@
       "address": "東京都中央区日本橋兜町１１番１５号先",
       "latitude": 139.7757446,
       "altitude": 35.6794339,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/06/13 12:44:35"
     },
     {
       "id": "14-1",
