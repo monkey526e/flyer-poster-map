@@ -10713,9 +10713,9 @@
       "address": "東京都中央区湊１丁目５番１号",
       "latitude": 139.779355,
       "altitude": 35.6719391,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/06/13 12:47:17"
     },
     {
       "id": "5-4",
@@ -10723,9 +10723,9 @@
       "address": "東京都中央区湊１丁目８番１０号先",
       "latitude": 139.7809791,
       "altitude": 35.6728329,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/06/13 12:47:43"
     },
     {
       "id": "5-5",
@@ -10733,9 +10733,9 @@
       "address": "東京都中央区湊１丁目１番",
       "latitude": 139.7800748,
       "altitude": 35.6735166,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/06/13 12:47:59"
     },
     {
       "id": "6-1",
