@@ -24,9 +24,16 @@
 
       <ul class="nav nav-tabs mb-4" id="progressMapTabs" role="tablist">
         <li class="nav-item" role="presentation">
-          <button class="nav-link active" id="poster-tab" data-bs-toggle="tab" data-bs-target="#poster-section" type="button" role="tab" aria-controls="poster-section" aria-selected="true">
-            ポスター掲示
-          </button>
+          <button class="nav-link active" id="volunteer-tab" data-bs-toggle="tab" data-bs-target="#volunteer-section"
+          type="button" role="tab" aria-controls="volunteer-section" aria-selected="true">
+          ボランティア募集
+        </button>
+        </li>
+        <li class="nav-item" role="presentation">
+          <button class="nav-link" id="poster-tab" data-bs-toggle="tab" data-bs-target="#poster-section"
+          type="button" role="tab" aria-controls="poster-section" aria-selected="false">
+          ポスター掲示
+        </button>
         </li>
         <li class="nav-item" role="presentation">
           <button class="nav-link" id="flyer-tab" data-bs-toggle="tab" data-bs-target="#flyer-section" type="button" role="tab" aria-controls="flyer-section" aria-selected="false">
@@ -35,9 +42,29 @@
         </li>
       </ul>
       
+      
       <div class="tab-content" id="progressMapTabsContent">
+        <!-- ボランティア募集内容（デフォルトで表示） -->
+        <div class="tab-pane fade show active" id="volunteer-section" role="tabpanel" aria-labelledby="volunteer-tab">
+          <p>ボランティアを募集中です。下記の外部サイトよりご登録できます。</p>
+          <div class="tab-pane fade show active" id="volunteer-section" role="tabpanel" aria-labelledby="volunteer-tab">
+            <h4>東京選挙区（吉田さん）</h4>
+            <ul>
+              <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScLKciWeRATgk53cAR7cWoofdQiij-ZMOF9GyivfabxXu4OfA/viewform">チーム江戸川</a></li>
+              <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfV4gkQsSFAKwOXwN1i35e0QyUMZw8P_hsVj02eBny2KfTaWQ/viewform">チーム新宿</a></li>
+              <!-- 必要に応じてさらに追加 -->
+            </ul>
+          
+            <h4 class="mt-4">全国比例区</h4>
+            <ul>
+              <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfCKRek4XHPoXzehC3vJyaiG3oRA21Rte0bEQEvPoT2kN5Yyw/viewform">小林さん</a></li>
+              <li><a href="https://t.co/H81d52cpVC">横山さん (LINE)</a></li>
+              <!-- 必要に応じてさらに追加 -->
+            </ul>
+          </div>
+        </div>
         <!-- ポスター掲示進捗マップ -->
-        <div class="tab-pane fade show active" id="poster-section" role="tabpanel" aria-labelledby="poster-tab">
+        <div class="tab-pane fade" id="poster-section" role="tabpanel" aria-labelledby="poster-tab">
           <h3 class="mb-4">再生の道 ポスター掲示進捗マップ</h3>
           <div id="poster-candidate-list" class="row row-cols-2 g-3 mb-4">
             <!-- ポスター候補者ボタン -->
@@ -60,7 +87,7 @@
   
   <script>
     // 表示対象とする区のリスト（今後ここを編集するだけでOK）
-    const targetDistricts = ["新宿区", "島部","府中市","中央区"];
+    const targetDistricts = ["新宿区", "八王子市", "島部","府中市","中央区"];
   
 async function poster_loadCandidates() {
   const response = await fetch('data/candidates_all.json');
@@ -114,8 +141,8 @@ async function flyer_loadPrefectures() {
   const prefectures = await response.json();
   const list = document.getElementById("prefecture-list");
 
-  // 表示対象 → 当面は宮城、京都だけ
-  const targetPrefectures = ["京都府", "広島県", "長野県"];
+  // 表示対象 → 当面は宮城、京都だけ "京都府", "広島県", "長野県"
+  const targetPrefectures = [];
 
   // id順にソート
   const sortedPrefectures = Object.entries(prefectures)
