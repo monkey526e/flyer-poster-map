@@ -181,7 +181,7 @@
         </div>
         <!-- ポスター掲示進捗マップ -->
         <div class="tab-pane fade" id="poster-section" role="tabpanel" aria-labelledby="poster-tab">
-          <h3 class="mb-4">再生の道 ポスター掲示進捗マップ</h3>
+          <h3 class="mb-4">参院選2025 ポスター掲示進捗マップ</h3>
           <div id="poster-candidate-list" class="row row-cols-2 g-3 mb-4">
             <!-- ポスター候補者ボタン -->
           </div>
@@ -237,7 +237,11 @@ async function poster_loadCandidates() {
     const card = document.createElement('div');
     card.className = 'border rounded p-3 h-100 d-flex align-items-center justify-content-center bg-light shadow-sm text-center';
     card.style.cursor = 'pointer';
-    card.textContent = `${district}: ${isGroup ? '全体' : lastName}`;
+    card.textContent = `${district}`;
+    
+    //都議専用
+    //card.textContent = `${district}: ${isGroup ? '全体' : lastName}`;
+
 
     card.onclick = () => {
       const url = isGroup
