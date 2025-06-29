@@ -7,7 +7,12 @@ const group = params.get("name");
 if (group === "True") {
   name = "グループ";
 }
-document.getElementById("header").innerText = `${district} / ${name}`;
+
+// 参院専用
+document.getElementById("header").innerText = `${district}`;
+
+// 都議専用
+//document.getElementById("header").innerText = `${district} / ${name}`;
 
 
 const osm = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
