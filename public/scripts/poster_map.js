@@ -204,7 +204,8 @@ reportBtn.addEventListener("click", () => {備考
   
 document.addEventListener("DOMContentLoaded", () => {
   const reportBtn = document.getElementById("reportBtn");
-  const targetDistricts = ["八王子市"];
+  // 掲示の報告リンクを表示する市区町村を以下に追加
+  const targetDistricts = [""];
 
   if (reportBtn) {
     if (targetDistricts.includes(district)) {
