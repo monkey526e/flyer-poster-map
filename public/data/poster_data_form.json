@@ -5889,9 +5889,9 @@
       "address": "東京都中央区銀座８丁目１９番先",
       "latitude": 139.765481,
       "altitude": 35.6658899,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/02 8:44:17"
     },
     {
       "id": "2-3",
