@@ -5829,9 +5829,9 @@
       "address": "東京都中央区銀座１丁目２番",
       "latitude": 139.767044,
       "altitude": 35.6753765,
-      "status": true,
-      "note": "完了 test",
-      "time": "2025/07/01 21:24:56"
+      "status": false,
+      "note": "",
+      "time": ""
     },
     {
       "id": "1-4",
@@ -5889,9 +5889,9 @@
       "address": "東京都中央区銀座８丁目１９番先",
       "latitude": 139.765481,
       "altitude": 35.6658899,
-      "status": true,
-      "note": "完了 ",
-      "time": "2025/07/02 8:44:17"
+      "status": false,
+      "note": "",
+      "time": ""
     },
     {
       "id": "2-3",
@@ -5929,9 +5929,9 @@
       "address": "東京都中央区築地４丁目１５番１号",
       "latitude": 139.7682897,
       "altitude": 35.6664744,
-      "status": true,
-      "note": "完了 test",
-      "time": "2025/07/01 21:25:29"
+      "status": false,
+      "note": "",
+      "time": ""
     },
     {
       "id": "3-4",
