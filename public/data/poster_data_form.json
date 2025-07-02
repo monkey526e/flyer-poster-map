@@ -6,7 +6,7 @@
       "address": "元横山町１－２９",
       "latitude": 139.3381378,
       "altitude": 35.66599889,
-      "status": true,
+      "status": false,
       "note": "",
       "time": "2025/07/02 9:36:34"
     },
@@ -46,7 +46,7 @@
       "address": "元横山町２－１４－３",
       "latitude": 139.33645,
       "altitude": 35.66071139,
-      "status": true,
+      "status": false,
       "note": "",
       "time": "2025/07/01 9:58:39"
     },
@@ -146,7 +146,7 @@
       "address": "寺町２８",
       "latitude": 139.3309528,
       "altitude": 35.65497056,
-      "status": true,
+      "status": false,
       "note": "",
       "time": "2025/07/01 9:54:21"
     },
@@ -666,7 +666,7 @@
       "address": "大和田町７－２１－１",
       "latitude": 139.3407861,
       "altitude": 35.66709667,
-      "status": true,
+      "status": false,
       "note": "",
       "time": "2025/07/02 8:31:24"
     },
@@ -1286,7 +1286,7 @@
       "address": "南浅川町３０７７－３先",
       "latitude": 139.2623033,
       "altitude": 35.61976944,
-      "status": true,
+      "status": false,
       "note": "",
       "time": "2025/07/02 9:02:04"
     },
@@ -1306,7 +1306,7 @@
       "address": "裏高尾町１２１４",
       "latitude": 139.2477808,
       "altitude": 35.63956472,
-      "status": true,
+      "status": false,
       "note": "",
       "time": "2025/07/02 10:14:56"
     },
@@ -1316,7 +1316,7 @@
       "address": "裏高尾町９１５外",
       "latitude": 139.2559203,
       "altitude": 35.63872139,
-      "status": true,
+      "status": false,
       "note": "",
       "time": "2025/07/01 20:38:43"
     },
@@ -1686,7 +1686,7 @@
       "address": "堀之内２－２３－５先",
       "latitude": 139.4040706,
       "altitude": 35.63117806,
-      "status": true,
+      "status": false,
       "note": "",
       "time": "2025/07/02 15:21:28"
     },
@@ -2496,7 +2496,7 @@
       "address": "別所１－１２８",
       "latitude": 139.3850078,
       "altitude": 35.61461444,
-      "status": true,
+      "status": false,
       "note": "",
       "time": "2025/07/02 15:11:23"
     },
@@ -4276,7 +4276,7 @@
       "address": "上川町２３４７－１",
       "latitude": 139.2694075,
       "altitude": 35.69855306,
-      "status": true,
+      "status": false,
       "note": "",
       "time": "2025/07/02 9:46:08"
     },
@@ -5036,7 +5036,7 @@
       "address": "みなみ野６－１３",
       "latitude": 139.3212678,
       "altitude": 35.63160444,
-      "status": true,
+      "status": false,
       "note": "",
       "time": "2025/07/02 14:31:28"
     },
