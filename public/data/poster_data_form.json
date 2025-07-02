@@ -2496,9 +2496,9 @@
       "address": "別所１－１２８",
       "latitude": 139.3850078,
       "altitude": 35.61461444,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/02 15:11:23"
     },
     {
       "id": "067-8",
