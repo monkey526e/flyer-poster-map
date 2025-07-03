@@ -736,9 +736,9 @@
       "address": "中野山王１－６－７先",
       "latitude": 139.3283328,
       "altitude": 35.67124583,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:46:20"
     },
     {
       "id": "010-5",
@@ -1836,9 +1836,9 @@
       "address": "鹿島１９先",
       "latitude": 139.4266856,
       "altitude": 35.63482889,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:47:52"
     },
     {
       "id": "052-2",
@@ -1856,9 +1856,9 @@
       "address": "鹿島１１７先",
       "latitude": 139.4241783,
       "altitude": 35.63405444,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:46:20"
     },
     {
       "id": "052-4",
@@ -2886,9 +2886,9 @@
       "address": "散田町４－９",
       "latitude": 139.3035003,
       "altitude": 35.65112556,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:45:59"
     },
     {
       "id": "085-6",
@@ -6049,9 +6049,9 @@
       "address": "東京都中央区湊１丁目８番１０号先",
       "latitude": 139.7809791,
       "altitude": 35.6728329,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 10:46:43"
     },
     {
       "id": "5-5",
@@ -6479,9 +6479,9 @@
       "address": "東京都中央区日本橋兜町１１番１５号先",
       "latitude": 139.7757446,
       "altitude": 35.6794339,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 10:47:32"
     },
     {
       "id": "14-1",
@@ -6589,9 +6589,9 @@
       "address": "東京都中央区月島２丁目１番",
       "latitude": 139.7847818,
       "altitude": 35.6640003,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 10:47:52"
     },
     {
       "id": "15-4",
