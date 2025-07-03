@@ -796,9 +796,9 @@
       "address": "大和田町４－１９－１",
       "latitude": 139.3551433,
       "altitude": 35.66487417,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 11:56:24"
     },
     {
       "id": "011-4",
@@ -1916,9 +1916,9 @@
       "address": "別所２－５",
       "latitude": 139.4048297,
       "altitude": 35.62449361,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 11:56:52"
     },
     {
       "id": "060-2",
@@ -5839,9 +5839,9 @@
       "address": "東京都中央区銀座１丁目２５番２号",
       "latitude": 139.7711352,
       "altitude": 35.6730417,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 11:57:29"
     },
     {
       "id": "1-5",
