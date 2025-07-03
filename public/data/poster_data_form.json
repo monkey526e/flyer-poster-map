@@ -2006,7 +2006,7 @@
       "address": "松木１",
       "latitude": 139.3876808,
       "altitude": 35.62767861,
-      "status": false,
+      "status": true,
       "note": "",
       "time": ""
     },
@@ -2166,7 +2166,7 @@
       "address": "南大沢５－５",
       "latitude": 139.3745108,
       "altitude": 35.6131975,
-      "status": false,
+      "status": true,
       "note": "",
       "time": ""
     },
