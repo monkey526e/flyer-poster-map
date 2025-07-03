@@ -2256,9 +2256,9 @@
       "address": "鑓水２－８１",
       "latitude": 139.3667817,
       "altitude": 35.6130725,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 15:12:06"
     },
     {
       "id": "064-4",
@@ -3106,9 +3106,9 @@
       "address": "館町７４",
       "latitude": 139.3043453,
       "altitude": 35.63437972,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 15:12:21"
     },
     {
       "id": "101-1",
