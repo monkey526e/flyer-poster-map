@@ -1046,9 +1046,9 @@
       "address": "元本郷町３－１４－１",
       "latitude": 139.3170042,
       "altitude": 35.66483889,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:18:51"
     },
     {
       "id": "014-7",
@@ -2946,9 +2946,9 @@
       "address": "城山手１－４",
       "latitude": 139.2876781,
       "altitude": 35.65558667,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:19:31"
     },
     {
       "id": "086-6",
