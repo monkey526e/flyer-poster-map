@@ -486,9 +486,9 @@
       "address": "台町４－４０－１２",
       "latitude": 139.3163306,
       "altitude": 35.65650389,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:14:32"
     },
     {
       "id": "007-4",
@@ -1746,9 +1746,9 @@
       "address": "東中野１３４７先",
       "latitude": 139.40794,
       "altitude": 35.63376972,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:14:48"
     },
     {
       "id": "050-8",
@@ -5989,9 +5989,9 @@
       "address": "東京都中央区明石町４番６号先",
       "latitude": 139.7783861,
       "altitude": 35.6683437,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 10:15:53"
     },
     {
       "id": "4-4",
@@ -6459,9 +6459,9 @@
       "address": "東京都中央区日本橋２丁目３番４号",
       "latitude": 139.7723803,
       "altitude": 35.6815723,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 10:14:22"
     },
     {
       "id": "13-4",
@@ -6499,9 +6499,9 @@
       "address": "東京都中央区佃１丁目１１番１号",
       "latitude": 139.7849817,
       "altitude": 35.668912,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 しわ少し",
+      "time": "2025/07/03 10:14:13"
     },
     {
       "id": "14-3",
@@ -6519,9 +6519,9 @@
       "address": "東京都中央区佃２丁目３番２号",
       "latitude": 139.7853437,
       "altitude": 35.6679443,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 10:14:42"
     },
     {
       "id": "14-5",
