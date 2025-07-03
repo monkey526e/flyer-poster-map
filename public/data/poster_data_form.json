@@ -6,9 +6,9 @@
       "address": "元横山町１－２９",
       "latitude": 139.3381378,
       "altitude": 35.66599889,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 15:49:41"
     },
     {
       "id": "001-2",
@@ -2316,9 +2316,9 @@
       "address": "鑓水１０２７－１",
       "latitude": 139.3546258,
       "altitude": 35.61730917,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 15:48:02"
     },
     {
       "id": "065-3",
@@ -2326,9 +2326,9 @@
       "address": "鑓水１０４２先",
       "latitude": 139.3552381,
       "altitude": 35.61637889,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 15:48:38"
     },
     {
       "id": "065-4",
@@ -3706,9 +3706,9 @@
       "address": "大楽寺町５６６",
       "latitude": 139.3005431,
       "altitude": 35.66920694,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 15:49:39"
     },
     {
       "id": "114-3",
