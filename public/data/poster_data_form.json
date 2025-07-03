@@ -936,9 +936,9 @@
       "address": "みつい台１－１４",
       "latitude": 139.3301111,
       "altitude": 35.68168222,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 11:17:13"
     },
     {
       "id": "013-4",
@@ -1446,9 +1446,9 @@
       "address": "東浅川町５５３－９",
       "latitude": 139.2944564,
       "altitude": 35.64478917,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 11:17:24"
     },
     {
       "id": "035-6",
@@ -5736,9 +5736,9 @@
       "address": "高倉町４２",
       "latitude": 139.3682322,
       "altitude": 35.66654222,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 11:17:13"
     },
     {
       "id": "183-2",
@@ -6099,9 +6099,9 @@
       "address": "東京都中央区八丁堀４丁目５番１４号",
       "latitude": 139.7763514,
       "altitude": 35.6738981,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 11:16:11"
     },
     {
       "id": "7-1",
