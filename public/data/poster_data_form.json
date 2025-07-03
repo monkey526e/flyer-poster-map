@@ -5546,9 +5546,9 @@
       "address": "石川町１８３８",
       "latitude": 139.3572633,
       "altitude": 35.67287056,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:25:47"
     },
     {
       "id": "180-6",
@@ -5899,9 +5899,9 @@
       "address": "東京都中央区銀座８丁目１９番１５号",
       "latitude": 139.7645766,
       "altitude": 35.6657319,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 12:25:26"
     },
     {
       "id": "3-1",
