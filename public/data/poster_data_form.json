@@ -1816,9 +1816,9 @@
       "address": "松が谷１４０－１４０",
       "latitude": 139.4203042,
       "altitude": 35.63375778,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:54:29"
     },
     {
       "id": "051-6",
@@ -6019,9 +6019,9 @@
       "address": "東京都中央区入船１丁目１番",
       "latitude": 139.7778706,
       "altitude": 35.6735898,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 10:54:13"
     },
     {
       "id": "5-2",
@@ -6619,9 +6619,9 @@
       "address": "東京都中央区月島４丁目２番１号",
       "latitude": 139.782858,
       "altitude": 35.6614366,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 10:54:48"
     },
     {
       "id": "16-3",
