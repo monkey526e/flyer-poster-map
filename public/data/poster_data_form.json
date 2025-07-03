@@ -3376,9 +3376,9 @@
       "address": "椚田町１２２０－２",
       "latitude": 139.3007703,
       "altitude": 35.6386125,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 14:03:42"
     },
     {
       "id": "104-8",
@@ -4596,9 +4596,9 @@
       "address": "加住町２－３９先",
       "latitude": 139.3218428,
       "altitude": 35.69295889,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 14:03:34"
     },
     {
       "id": "150-6",
