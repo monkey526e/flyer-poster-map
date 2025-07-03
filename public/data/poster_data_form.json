@@ -1946,9 +1946,9 @@
       "address": "別所２－３３－２",
       "latitude": 139.3994928,
       "altitude": 35.61775944,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:07:58"
     },
     {
       "id": "060-5",
@@ -6879,9 +6879,9 @@
       "address": "東京都中央区晴海５丁目５番６号",
       "latitude": 139.7726358,
       "altitude": 35.6516303,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 12:06:17"
     },
     {
       "id": "21-2",
