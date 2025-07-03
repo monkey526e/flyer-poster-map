@@ -696,9 +696,9 @@
       "address": "暁町３－１－１",
       "latitude": 139.3388747,
       "altitude": 35.6753975,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 15:36:54"
     },
     {
       "id": "010-1",
@@ -3186,9 +3186,9 @@
       "address": "寺田町１４５５－３",
       "latitude": 139.3011594,
       "altitude": 35.61990472,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 15:36:43"
     },
     {
       "id": "102-1",
@@ -3716,9 +3716,9 @@
       "address": "叶谷町１５２１",
       "latitude": 139.3043206,
       "altitude": 35.66974278,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 15:36:02"
     },
     {
       "id": "114-4",
