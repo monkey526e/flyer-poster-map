@@ -1066,9 +1066,9 @@
       "address": "緑町２２２",
       "latitude": 139.3244303,
       "altitude": 35.64955,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 17:10:27"
     },
     {
       "id": "015-2",
@@ -2486,9 +2486,9 @@
       "address": "別所１－４０",
       "latitude": 139.3870967,
       "altitude": 35.61646833,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 17:11:52"
     },
     {
       "id": "067-7",
@@ -3526,9 +3526,9 @@
       "address": "弐分方町４６８－８",
       "latitude": 139.2856808,
       "altitude": 35.67186722,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 17:11:43"
     },
     {
       "id": "111-8",
