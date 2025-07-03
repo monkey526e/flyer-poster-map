@@ -4406,9 +4406,9 @@
       "address": "美山町２１６１－３先",
       "latitude": 139.2393942,
       "altitude": 35.69718944,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:42:13"
     },
     {
       "id": "144-1",
@@ -6029,9 +6029,9 @@
       "address": "東京都中央区湊１丁目４番１号",
       "latitude": 139.7787294,
       "altitude": 35.6719315,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 10:43:30"
     },
     {
       "id": "5-3",
@@ -6039,9 +6039,9 @@
       "address": "東京都中央区湊１丁目５番１号",
       "latitude": 139.779355,
       "altitude": 35.6719391,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 10:43:51"
     },
     {
       "id": "5-4",
@@ -6449,9 +6449,9 @@
       "address": "東京都中央区日本橋１丁目１６番",
       "latitude": 139.7763887,
       "altitude": 35.6823566,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 10:42:36"
     },
     {
       "id": "13-3",
@@ -6579,9 +6579,9 @@
       "address": "東京都中央区月島１丁目１４番１３号",
       "latitude": 139.7817939,
       "altitude": 35.6653294,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 10:42:26"
     },
     {
       "id": "15-3",
