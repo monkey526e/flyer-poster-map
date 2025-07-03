@@ -966,9 +966,9 @@
       "address": "中野町２６６５－１",
       "latitude": 139.3176086,
       "altitude": 35.68267806,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 11:30:25"
     },
     {
       "id": "013-7",
@@ -1466,9 +1466,9 @@
       "address": "狭間町１４９１－１",
       "latitude": 139.2896653,
       "altitude": 35.64084611,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 11:30:49"
     },
     {
       "id": "035-8",
@@ -4166,9 +4166,9 @@
       "address": "川口町２６９１－４先",
       "latitude": 139.2813294,
       "altitude": 35.69433778,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 11:30:13"
     },
     {
       "id": "140-5",
@@ -5819,9 +5819,9 @@
       "address": "東京都中央区京橋２丁目１８番１号先",
       "latitude": 139.7726719,
       "altitude": 35.6750678,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 11:30:31"
     },
     {
       "id": "1-3",
