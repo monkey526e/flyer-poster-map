@@ -4486,9 +4486,9 @@
       "address": "楢原町３１１－１先",
       "latitude": 139.3086697,
       "altitude": 35.67808583,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:23:30"
     },
     {
       "id": "145-1",
@@ -4506,9 +4506,9 @@
       "address": "川口町３８３８",
       "latitude": 139.2986497,
       "altitude": 35.68582167,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:23:49"
     },
     {
       "id": "145-3",
@@ -5576,9 +5576,9 @@
       "address": "石川町１９２４－５先",
       "latitude": 139.3600564,
       "altitude": 35.67359972,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:22:24"
     },
     {
       "id": "181-1",
@@ -6429,9 +6429,9 @@
       "address": "東京都中央区日本橋浜町２丁目５９番１号",
       "latitude": 139.7899239,
       "altitude": 35.6871133,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 12:23:26"
     },
     {
       "id": "13-1",
