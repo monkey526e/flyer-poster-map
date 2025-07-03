@@ -526,9 +526,9 @@
       "address": "台町４－２－１",
       "latitude": 139.3242947,
       "altitude": 35.65650667,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:05:53"
     },
     {
       "id": "007-8",
@@ -666,9 +666,9 @@
       "address": "大和田町７－２１－１",
       "latitude": 139.3407861,
       "altitude": 35.66709667,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:05:46"
     },
     {
       "id": "009-7",
@@ -1766,9 +1766,9 @@
       "address": "東中野２４４－７",
       "latitude": 139.4127722,
       "altitude": 35.63951361,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:04:29"
     },
     {
       "id": "051-1",
@@ -6269,9 +6269,9 @@
       "address": "東京都中央区日本橋小網町９番１号先",
       "latitude": 139.78003,
       "altitude": 35.6838257,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 10:04:46"
     },
     {
       "id": "10-4",
