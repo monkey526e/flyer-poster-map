@@ -1426,9 +1426,9 @@
       "address": "東浅川町５５９",
       "latitude": 139.2962342,
       "altitude": 35.64739111,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 11:11:24"
     },
     {
       "id": "035-4",
@@ -1806,9 +1806,9 @@
       "address": "松が谷１２先",
       "latitude": 139.4144247,
       "altitude": 35.62737639,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 11:10:26"
     },
     {
       "id": "051-5",
@@ -4396,9 +4396,9 @@
       "address": "美山町１３７２－３先",
       "latitude": 139.2549661,
       "altitude": 35.68452639,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 11:10:14"
     },
     {
       "id": "143-7",
@@ -6689,9 +6689,9 @@
       "address": "東京都中央区勝どき４丁目１２番",
       "latitude": 139.7750245,
       "altitude": 35.6567643,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 11:11:37"
     },
     {
       "id": "18-1",
