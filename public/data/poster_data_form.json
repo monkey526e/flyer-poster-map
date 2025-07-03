@@ -4086,9 +4086,9 @@
       "address": "西寺方町１０６１－８",
       "latitude": 139.2702311,
       "altitude": 35.68279889,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 19:54:16"
     },
     {
       "id": "133-3",
@@ -5616,9 +5616,9 @@
       "address": "小宮町８７６－１",
       "latitude": 139.37014,
       "altitude": 35.68774611,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 19:55:38"
     },
     {
       "id": "181-5",
