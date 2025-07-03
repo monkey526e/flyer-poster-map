@@ -2666,9 +2666,9 @@
       "address": "山田町１５５３",
       "latitude": 139.3136908,
       "altitude": 35.64598278,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:46:27"
     },
     {
       "id": "082-4",
@@ -3856,9 +3856,9 @@
       "address": "川町２９１先",
       "latitude": 139.2661481,
       "altitude": 35.66785472,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:46:08"
     },
     {
       "id": "116-3",
@@ -4836,9 +4836,9 @@
       "address": "小比企町３５０６－３先",
       "latitude": 139.3193242,
       "altitude": 35.63254444,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:46:29"
     },
     {
       "id": "160-3",
@@ -4856,9 +4856,9 @@
       "address": "小比企町１２０１",
       "latitude": 139.3280406,
       "altitude": 35.64287139,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:46:54"
     },
     {
       "id": "160-5",
@@ -4866,9 +4866,9 @@
       "address": "小比企町１１４０－１",
       "latitude": 139.3293694,
       "altitude": 35.64329694,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:47:14"
     },
     {
       "id": "161-1",
@@ -4876,9 +4876,9 @@
       "address": "片倉町１１９－４",
       "latitude": 139.3333281,
       "altitude": 35.64344056,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:47:30"
     },
     {
       "id": "161-2",
@@ -4886,9 +4886,9 @@
       "address": "片倉町４４９",
       "latitude": 139.3433319,
       "altitude": 35.64284611,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:47:53"
     },
     {
       "id": "161-3",
