@@ -1016,9 +1016,9 @@
       "address": "平岡町３１",
       "latitude": 139.3263175,
       "altitude": 35.66457222,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 15:58:58"
     },
     {
       "id": "014-4",
@@ -2346,9 +2346,9 @@
       "address": "鑓水１６０９先",
       "latitude": 139.3482733,
       "altitude": 35.61351778,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 15:58:23"
     },
     {
       "id": "065-6",
@@ -3236,9 +3236,9 @@
       "address": "大船町１５６－１２",
       "latitude": 139.3142347,
       "altitude": 35.626405,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 15:59:02"
     },
     {
       "id": "103-1",
