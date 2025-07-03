@@ -2196,9 +2196,9 @@
       "address": "南大沢５－１０",
       "latitude": 139.3709122,
       "altitude": 35.61098,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 15:02:24"
     },
     {
       "id": "063-6",
@@ -3726,9 +3726,9 @@
       "address": "泉町６８２－１",
       "latitude": 139.2988575,
       "altitude": 35.67666167,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 15:02:54"
     },
     {
       "id": "114-5",
@@ -4716,9 +4716,9 @@
       "address": "谷野町３１８－１先",
       "latitude": 139.3251625,
       "altitude": 35.68695056,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 15:02:54"
     },
     {
       "id": "152-5",
