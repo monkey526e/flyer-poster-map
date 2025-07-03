@@ -2676,9 +2676,9 @@
       "address": "山田町１９５４－１先",
       "latitude": 139.3146197,
       "altitude": 35.643995,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:31:16"
     },
     {
       "id": "082-5",
@@ -3676,9 +3676,9 @@
       "address": "元八王子町３－２１５３－５１先",
       "latitude": 139.2744497,
       "altitude": 35.65211667,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:30:48"
     },
     {
       "id": "113-8",
