@@ -6419,9 +6419,9 @@
       "address": "東京都中央区日本橋浜町２丁目３０番先",
       "latitude": 139.7877424,
       "altitude": 35.6877286,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 12:28:35"
     },
     {
       "id": "12-6",
