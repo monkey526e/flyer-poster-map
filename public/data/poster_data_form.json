@@ -4196,9 +4196,9 @@
       "address": "川口町１９８４",
       "latitude": 139.2884286,
       "altitude": 35.691365,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 11:47:29"
     },
     {
       "id": "140-8",
@@ -5869,9 +5869,9 @@
       "address": "東京都中央区新富２丁目１番先",
       "latitude": 139.7722627,
       "altitude": 35.6723746,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 11:47:39"
     },
     {
       "id": "2-1",
