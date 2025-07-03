@@ -1776,9 +1776,9 @@
       "address": "松が谷６６先",
       "latitude": 139.4173314,
       "altitude": 35.6327625,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:58:13"
     },
     {
       "id": "051-2",
@@ -5776,9 +5776,9 @@
       "address": "高倉町６９",
       "latitude": 139.3627219,
       "altitude": 35.66142694,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:59:39"
     },
     {
       "id": "183-6",
@@ -6129,9 +6129,9 @@
       "address": "東京都中央区新川１丁目３１番４号",
       "latitude": 139.7860654,
       "altitude": 35.6756916,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 10:59:17"
     },
     {
       "id": "7-4",
