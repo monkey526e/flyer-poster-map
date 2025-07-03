@@ -1976,9 +1976,9 @@
       "address": "別所２－３３－２",
       "latitude": 139.3996247,
       "altitude": 35.61534972,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:11:27"
     },
     {
       "id": "060-8",
@@ -4536,9 +4536,9 @@
       "address": "川口町１６７４－６先",
       "latitude": 139.29293,
       "altitude": 35.68881028,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:10:03"
     },
     {
       "id": "145-6",
@@ -6899,9 +6899,9 @@
       "address": "東京都中央区晴海５丁目２番２号",
       "latitude": 139.7756323,
       "altitude": 35.6513897,
-      "status": false,
-      "note": "21-2/21-3：近隣に複数あり",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 12:11:56"
     },
     {
       "id": "21-4",
