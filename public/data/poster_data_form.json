@@ -2476,9 +2476,9 @@
       "address": "別所１－４８－１",
       "latitude": 139.3881147,
       "altitude": 35.60850333,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:38:12"
     },
     {
       "id": "067-6",
@@ -4546,9 +4546,9 @@
       "address": "川口町１８１１",
       "latitude": 139.3004147,
       "altitude": 35.69022583,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:38:56"
     },
     {
       "id": "150-1",
@@ -5566,9 +5566,9 @@
       "address": "石川町２９７３－１",
       "latitude": 139.3707397,
       "altitude": 35.67524056,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:40:00"
     },
     {
       "id": "180-8",
@@ -5889,9 +5889,9 @@
       "address": "東京都中央区銀座８丁目１９番先",
       "latitude": 139.765481,
       "altitude": 35.6658899,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 12:38:56"
     },
     {
       "id": "2-3",
@@ -6789,9 +6789,9 @@
       "address": "東京都中央区晴海２丁目１番",
       "latitude": 139.7848336,
       "altitude": 35.6571254,
-      "status": false,
-      "note": "19-3/19-5/19-6：近隣に複数あり",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 12:39:57"
     },
     {
       "id": "19-4",
