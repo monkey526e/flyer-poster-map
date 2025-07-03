@@ -1346,9 +1346,9 @@
       "address": "初沢町１３３５",
       "latitude": 139.2826356,
       "altitude": 35.64029306,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 11:50:17"
     },
     {
       "id": "034-3",
@@ -5849,9 +5849,9 @@
       "address": "東京都中央区銀座１丁目１６番３号先",
       "latitude": 139.7708054,
       "altitude": 35.6741382,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 11:51:25"
     },
     {
       "id": "1-6",
@@ -6869,9 +6869,9 @@
       "address": "東京都中央区晴海３丁目３番３号",
       "latitude": 139.7801959,
       "altitude": 35.6547335,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 11:50:55"
     },
     {
       "id": "21-1",
