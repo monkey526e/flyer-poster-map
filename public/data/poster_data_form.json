@@ -806,9 +806,9 @@
       "address": "大和田町４－３２－８",
       "latitude": 139.3563683,
       "altitude": 35.66819361,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:15:24"
     },
     {
       "id": "011-5",
@@ -1266,9 +1266,9 @@
       "address": "高尾町２３５８先",
       "latitude": 139.2688583,
       "altitude": 35.62877472,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:15:53"
     },
     {
       "id": "032-2",
@@ -1538,7 +1538,7 @@
       "altitude": 35.62878222,
       "status": false,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:15:07"
     },
     {
       "id": "040-7",
@@ -1966,9 +1966,9 @@
       "address": "別所２－４４",
       "latitude": 139.3956169,
       "altitude": 35.61497278,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:15:22"
     },
     {
       "id": "060-7",
@@ -6889,9 +6889,9 @@
       "address": "東京都中央区晴海５丁目２番２号",
       "latitude": 139.7767816,
       "altitude": 35.6521798,
-      "status": false,
-      "note": "21-2/21-3：近隣に複数あり",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 12:14:58"
     },
     {
       "id": "21-3",
