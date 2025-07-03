@@ -3496,9 +3496,9 @@
       "address": "弐分方町３８４－１",
       "latitude": 139.2857392,
       "altitude": 35.67328694,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 17:30:14"
     },
     {
       "id": "111-5",
@@ -3826,9 +3826,9 @@
       "address": "横川町３６４",
       "latitude": 139.3043031,
       "altitude": 35.66808806,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 17:30:55"
     },
     {
       "id": "115-7",
