@@ -6409,9 +6409,9 @@
       "address": "東京都中央区日本橋久松町７番２号",
       "latitude": 139.7842842,
       "altitude": 35.6890868,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 12:35:15"
     },
     {
       "id": "12-5",
@@ -6769,9 +6769,9 @@
       "address": "東京都中央区晴海１丁目５番３号",
       "latitude": 139.7853789,
       "altitude": 35.6596613,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 12:35:28"
     },
     {
       "id": "19-2",
