@@ -2376,9 +2376,9 @@
       "address": "南大沢４－１８",
       "latitude": 139.37455,
       "altitude": 35.6074325,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 13:03:22"
     },
     {
       "id": "066-3",
@@ -3046,9 +3046,9 @@
       "address": "館町２４３５－１",
       "latitude": 139.2945831,
       "altitude": 35.62774556,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 13:02:09"
     },
     {
       "id": "100-3",
@@ -5646,9 +5646,9 @@
       "address": "石川町７５９先",
       "latitude": 139.3706231,
       "altitude": 35.682255,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 13:03:44"
     },
     {
       "id": "181-8",
