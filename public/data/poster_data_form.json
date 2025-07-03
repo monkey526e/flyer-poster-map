@@ -1386,9 +1386,9 @@
       "address": "狭間町１８００－５０",
       "latitude": 139.2853178,
       "altitude": 35.63507389,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 13:41:38"
     },
     {
       "id": "034-7",
@@ -5626,9 +5626,9 @@
       "address": "小宮町１１９６－５先",
       "latitude": 139.3649352,
       "altitude": 35.6857823,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 13:41:27"
     },
     {
       "id": "181-6",
