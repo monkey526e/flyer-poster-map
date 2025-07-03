@@ -2456,9 +2456,9 @@
       "address": "別所１－５６－２",
       "latitude": 139.3912708,
       "altitude": 35.61226444,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:26:39"
     },
     {
       "id": "067-4",
@@ -3306,9 +3306,9 @@
       "address": "館町１１６３先",
       "latitude": 139.2867019,
       "altitude": 35.63150167,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:26:27"
     },
     {
       "id": "104-1",
@@ -6779,9 +6779,9 @@
       "address": "東京都中央区晴海１丁目８番７号",
       "latitude": 139.7835897,
       "altitude": 35.6568652,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 12:26:58"
     },
     {
       "id": "19-3",
