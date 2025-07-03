@@ -2436,9 +2436,9 @@
       "address": "別所１－５５",
       "latitude": 139.3879025,
       "altitude": 35.60989278,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:36:32"
     },
     {
       "id": "067-2",
