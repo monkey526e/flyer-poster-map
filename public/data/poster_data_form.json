@@ -1646,7 +1646,7 @@
       "address": "南陽台３－４－３先",
       "latitude": 139.3741669,
       "altitude": 35.63650778,
-      "status": false,
+      "status": true,
       "note": "",
       "time": ""
     },
@@ -1666,7 +1666,7 @@
       "address": "南陽台２－９－１４",
       "latitude": 139.3772817,
       "altitude": 35.63191833,
-      "status": false,
+      "status": true,
       "note": "",
       "time": ""
     },
@@ -3476,9 +3476,9 @@
       "address": "弐分方町７４４－４",
       "latitude": 139.2902642,
       "altitude": 35.67059333,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 22:09:25"
     },
     {
       "id": "111-3",
