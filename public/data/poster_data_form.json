@@ -2186,9 +2186,9 @@
       "address": "上柚木３－１３先",
       "latitude": 139.3696631,
       "altitude": 35.61314611,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 15:05:35"
     },
     {
       "id": "063-5",
@@ -3036,9 +3036,9 @@
       "address": "館町２３００－１６８",
       "latitude": 139.3013507,
       "altitude": 35.6274836,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 15:05:58"
     },
     {
       "id": "100-2",
