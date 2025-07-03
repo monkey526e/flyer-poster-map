@@ -1436,9 +1436,9 @@
       "address": "東浅川町５５０－２２",
       "latitude": 139.2862092,
       "altitude": 35.64231556,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 11:24:31"
     },
     {
       "id": "035-5",
@@ -5809,9 +5809,9 @@
       "address": "東京都中央区京橋１丁目１９番１３号先",
       "latitude": 139.7745661,
       "altitude": 35.6776521,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 11:25:21"
     },
     {
       "id": "1-2",
