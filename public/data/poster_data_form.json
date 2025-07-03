@@ -116,9 +116,9 @@
       "address": "元本郷町１－１",
       "latitude": 139.3225211,
       "altitude": 35.6630171,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:28:57"
     },
     {
       "id": "002-5",
@@ -2646,9 +2646,9 @@
       "address": "山田町１６７７－１先",
       "latitude": 139.3152811,
       "altitude": 35.64364639,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:28:48"
     },
     {
       "id": "082-2",
