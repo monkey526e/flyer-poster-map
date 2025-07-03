@@ -1896,9 +1896,9 @@
       "address": "大塚５８－７０",
       "latitude": 139.4144064,
       "altitude": 35.63906611,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:01:07"
     },
     {
       "id": "052-8",
@@ -6009,9 +6009,9 @@
       "address": "東京都中央区明石町１２番１号",
       "latitude": 139.7776154,
       "altitude": 35.6665539,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 10:00:38"
     },
     {
       "id": "5-1",
