@@ -3176,9 +3176,9 @@
       "address": "寺田町１１０７",
       "latitude": 139.3006672,
       "altitude": 35.62247389,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 15:29:16"
     },
     {
       "id": "101-8",
@@ -3696,9 +3696,9 @@
       "address": "叶谷町１５２１",
       "latitude": 139.3035636,
       "altitude": 35.67139861,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 15:28:55"
     },
     {
       "id": "114-2",
