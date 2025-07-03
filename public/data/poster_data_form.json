@@ -726,9 +726,9 @@
       "address": "中野山王３－２５－１",
       "latitude": 139.3205408,
       "altitude": 35.67592167,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:56:03"
     },
     {
       "id": "010-4",
@@ -2866,9 +2866,9 @@
       "address": "散田町５－２３－１",
       "latitude": 139.3024578,
       "altitude": 35.64768806,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:57:47"
     },
     {
       "id": "085-4",
@@ -6599,9 +6599,9 @@
       "address": "東京都中央区月島２丁目８番１１号",
       "latitude": 139.7849351,
       "altitude": 35.6629255,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 10:57:54"
     },
     {
       "id": "16-1",
