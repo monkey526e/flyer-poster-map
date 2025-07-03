@@ -1846,9 +1846,9 @@
       "address": "鹿島１３先",
       "latitude": 139.425935,
       "altitude": 35.63316167,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:50:22"
     },
     {
       "id": "052-3",
@@ -2896,9 +2896,9 @@
       "address": "散田町５－２２－３６",
       "latitude": 139.3029378,
       "altitude": 35.64920278,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:51:25"
     },
     {
       "id": "086-1",
@@ -6609,9 +6609,9 @@
       "address": "東京都中央区月島４丁目１番１号",
       "latitude": 139.7820253,
       "altitude": 35.6621443,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 10:50:50"
     },
     {
       "id": "16-2",
