@@ -2086,9 +2086,9 @@
       "address": "南大沢３－３",
       "latitude": 139.382375,
       "altitude": 35.60974083,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 13:09:17"
     },
     {
       "id": "062-3",
@@ -6639,9 +6639,9 @@
       "address": "東京都中央区勝どき１丁目５番１号",
       "latitude": 139.7776999,
       "altitude": 35.6603296,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 13:08:39"
     },
     {
       "id": "17-2",
