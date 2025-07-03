@@ -2066,9 +2066,9 @@
       "address": "松木８０先",
       "latitude": 139.3863167,
       "altitude": 35.62471528,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:42:20"
     },
     {
       "id": "062-1",
@@ -2656,9 +2656,9 @@
       "address": "山田町１５７７",
       "latitude": 139.3166778,
       "altitude": 35.64573306,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:43:20"
     },
     {
       "id": "082-3",
