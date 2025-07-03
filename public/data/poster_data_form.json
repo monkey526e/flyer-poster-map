@@ -676,9 +676,9 @@
       "address": "富士見町４－８",
       "latitude": 139.3509561,
       "altitude": 35.66822222,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:33:02"
     },
     {
       "id": "009-8",
@@ -2596,9 +2596,9 @@
       "address": "散田町３－１先",
       "latitude": 139.3115381,
       "altitude": 35.65591417,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:32:43"
     },
     {
       "id": "081-4",
@@ -6179,9 +6179,9 @@
       "address": "東京都中央区日本橋本町４丁目５番１１号",
       "latitude": 139.774784,
       "altitude": 35.6906077,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 10:33:44"
     },
     {
       "id": "8-3",
@@ -6559,9 +6559,9 @@
       "address": "東京都中央区佃３丁目１１番４号先",
       "latitude": 139.7873713,
       "altitude": 35.6644855,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 10:32:07"
     },
     {
       "id": "15-1",
