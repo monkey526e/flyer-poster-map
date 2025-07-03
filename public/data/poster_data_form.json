@@ -1116,9 +1116,9 @@
       "address": "台町１－１２",
       "latitude": 139.3279097,
       "altitude": 35.65012333,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 17:23:15"
     },
     {
       "id": "015-7",
@@ -3466,9 +3466,9 @@
       "address": "大楽寺町４１９－１",
       "latitude": 139.2933311,
       "altitude": 35.67119556,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 17:23:16"
     },
     {
       "id": "111-2",
