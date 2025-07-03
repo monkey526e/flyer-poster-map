@@ -466,9 +466,9 @@
       "address": "上野町３２－１",
       "latitude": 139.3260694,
       "altitude": 35.65549139,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 9:57:05"
     },
     {
       "id": "007-2",
@@ -1866,9 +1866,9 @@
       "address": "鹿島１１２",
       "latitude": 139.4203122,
       "altitude": 35.63453167,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 9:57:30"
     },
     {
       "id": "052-5",
@@ -6279,9 +6279,9 @@
       "address": "東京都中央区日本橋蛎殻町１丁目７番７号",
       "latitude": 139.7819107,
       "altitude": 35.6826791,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 9:57:03"
     },
     {
       "id": "10-5",
