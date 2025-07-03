@@ -4576,9 +4576,9 @@
       "address": "加住町１－３３８",
       "latitude": 139.3235867,
       "altitude": 35.69950611,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 13:23:30"
     },
     {
       "id": "150-4",
@@ -5606,9 +5606,9 @@
       "address": "小宮町８４４－２先",
       "latitude": 139.3712258,
       "altitude": 35.68624139,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 13:22:03"
     },
     {
       "id": "181-4",
