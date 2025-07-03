@@ -516,9 +516,9 @@
       "address": "台町４－２－１",
       "latitude": 139.3233103,
       "altitude": 35.65720639,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:08:38"
     },
     {
       "id": "007-7",
@@ -606,9 +606,9 @@
       "address": "中野上町４－１０－１５",
       "latitude": 139.3200839,
       "altitude": 35.66954639,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:09:03"
     },
     {
       "id": "009-1",
@@ -626,9 +626,9 @@
       "address": "大和田町７－５－１",
       "latitude": 139.3442158,
       "altitude": 35.66620444,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:09:36"
     },
     {
       "id": "009-3",
@@ -4276,9 +4276,9 @@
       "address": "上川町２３４７－１",
       "latitude": 139.2694075,
       "altitude": 35.69855306,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:08:28"
     },
     {
       "id": "142-2",
@@ -4326,9 +4326,9 @@
       "address": "上川町３４６１－１先",
       "latitude": 139.2545006,
       "altitude": 35.70373167,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:08:58"
     },
     {
       "id": "142-7",
@@ -4336,9 +4336,9 @@
       "address": "上川町１７７５先",
       "latitude": 139.2597611,
       "altitude": 35.70191139,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:09:23"
     },
     {
       "id": "143-1",
