@@ -4156,9 +4156,9 @@
       "address": "川口町１１８４",
       "latitude": 139.2871525,
       "altitude": 35.68869556,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 11:38:45"
     },
     {
       "id": "140-4",
@@ -5756,9 +5756,9 @@
       "address": "高倉町２３－３９先",
       "latitude": 139.370415,
       "altitude": 35.66970667,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 11:38:01"
     },
     {
       "id": "183-4",
@@ -5829,9 +5829,9 @@
       "address": "東京都中央区銀座１丁目２番",
       "latitude": 139.767044,
       "altitude": 35.6753765,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 11:39:50"
     },
     {
       "id": "1-4",
@@ -6719,9 +6719,9 @@
       "address": "東京都中央区勝どき５丁目１２番４号",
       "latitude": 139.771217,
       "altitude": 35.6551708,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 11:38:11"
     },
     {
       "id": "18-4",
