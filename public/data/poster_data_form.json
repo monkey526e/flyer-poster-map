@@ -646,9 +646,9 @@
       "address": "富士見町２１",
       "latitude": 139.3461817,
       "altitude": 35.668735,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:28:17"
     },
     {
       "id": "009-5",
@@ -2586,9 +2586,9 @@
       "address": "散田町３－１０－１",
       "latitude": 139.3129519,
       "altitude": 35.65513528,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:28:59"
     },
     {
       "id": "081-3",
@@ -5909,9 +5909,9 @@
       "address": "東京都中央区築地１丁目１番１号",
       "latitude": 139.7721825,
       "altitude": 35.6703412,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 10:29:01"
     },
     {
       "id": "3-2",
