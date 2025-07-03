@@ -3276,9 +3276,9 @@
       "address": "館町１０９７",
       "latitude": 139.2850836,
       "altitude": 35.62769056,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 13:20:42"
     },
     {
       "id": "103-5",
@@ -6219,9 +6219,9 @@
       "address": "東京都中央区日本橋堀留町１丁目１番１６号",
       "latitude": 139.7792626,
       "altitude": 35.6864972,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 13:21:03"
     },
     {
       "id": "9-3",
