@@ -1096,9 +1096,9 @@
       "address": "上野町２７",
       "latitude": 139.3277931,
       "altitude": 35.65350472,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 17:39:37"
     },
     {
       "id": "015-5",
@@ -3776,9 +3776,9 @@
       "address": "横川町３０５",
       "latitude": 139.3081056,
       "altitude": 35.66755222,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 17:38:22"
     },
     {
       "id": "115-2",
@@ -3926,9 +3926,9 @@
       "address": "西寺方町２６０－４",
       "latitude": 139.2684764,
       "altitude": 35.6741275,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 17:39:04"
     },
     {
       "id": "130-3",
