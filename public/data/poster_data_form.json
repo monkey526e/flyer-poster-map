@@ -2076,9 +2076,9 @@
       "address": "南大沢２－２７先",
       "latitude": 139.380095,
       "altitude": 35.61271806,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 14:42:17"
     },
     {
       "id": "062-2",
@@ -3316,9 +3316,9 @@
       "address": "椚田町５１７－１",
       "latitude": 139.3135056,
       "altitude": 35.63602556,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 14:42:20"
     },
     {
       "id": "104-2",
