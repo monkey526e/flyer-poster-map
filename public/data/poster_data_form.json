@@ -3386,9 +3386,9 @@
       "address": "狭間町１４５３",
       "latitude": 139.2930258,
       "altitude": 35.63938556,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 14:14:50"
     },
     {
       "id": "110-1",
@@ -4786,9 +4786,9 @@
       "address": "戸吹町４８０先",
       "latitude": 139.2868608,
       "altitude": 35.71090361,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 14:14:26"
     },
     {
       "id": "154-1",
