@@ -1416,9 +1416,9 @@
       "address": "東浅川町５５９",
       "latitude": 139.29507,
       "altitude": 35.64659361,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 11:13:51"
     },
     {
       "id": "035-3",
@@ -5796,9 +5796,9 @@
       "address": "高倉町６７",
       "latitude": 139.366115,
       "altitude": 35.66233694,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 11:12:05"
     }
   ],
   "島部": [],
