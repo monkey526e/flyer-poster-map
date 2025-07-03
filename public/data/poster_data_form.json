@@ -816,9 +816,9 @@
       "address": "大和田町５－４０",
       "latitude": 139.3526306,
       "altitude": 35.66838083,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:35:17"
     },
     {
       "id": "011-6",
@@ -4386,9 +4386,9 @@
       "address": "美山町１８９２",
       "latitude": 139.2479244,
       "altitude": 35.69020639,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:35:55"
     },
     {
       "id": "143-6",
@@ -5919,9 +5919,9 @@
       "address": "東京都中央区築地２丁目１３番１号",
       "latitude": 139.7715648,
       "altitude": 35.6674301,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 10:35:15"
     },
     {
       "id": "3-3",
