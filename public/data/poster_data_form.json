@@ -136,9 +136,9 @@
       "address": "八木町７－１",
       "latitude": 139.3229728,
       "altitude": 35.6620099,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:10:03"
     },
     {
       "id": "003-1",
@@ -1606,9 +1606,9 @@
       "address": "上柚木３１２－２先",
       "latitude": 139.3654625,
       "altitude": 35.62090083,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:11:54"
     },
     {
       "id": "041-5",
