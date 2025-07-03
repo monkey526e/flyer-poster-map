@@ -66,9 +66,9 @@
       "address": "元横山町２－１４－３",
       "latitude": 139.3359611,
       "altitude": 35.66142389,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 18:52:39"
     },
     {
       "id": "001-8",
@@ -3956,9 +3956,9 @@
       "address": "下恩方町１３６９",
       "latitude": 139.2534917,
       "altitude": 35.66898194,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 18:52:24"
     },
     {
       "id": "130-6",
