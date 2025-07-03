@@ -4136,9 +4136,9 @@
       "address": "川口町９１９－４先",
       "latitude": 139.2795331,
       "altitude": 35.69363528,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 11:22:20"
     },
     {
       "id": "140-2",
@@ -5786,9 +5786,9 @@
       "address": "大和田町１－１－１",
       "latitude": 139.3622978,
       "altitude": 35.66518778,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 11:23:30"
     },
     {
       "id": "183-7",
