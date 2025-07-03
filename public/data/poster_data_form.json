@@ -1286,9 +1286,9 @@
       "address": "南浅川町３０７７－３先",
       "latitude": 139.2623033,
       "altitude": 35.61976944,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:21:00"
     },
     {
       "id": "032-4",
@@ -4496,9 +4496,9 @@
       "address": "川口町１５１５－１２",
       "latitude": 139.2953767,
       "altitude": 35.685265,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:20:41"
     },
     {
       "id": "145-2",
