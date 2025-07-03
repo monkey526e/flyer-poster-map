@@ -2116,9 +2116,9 @@
       "address": "南大沢２－２８先",
       "latitude": 139.3779075,
       "altitude": 35.61300778,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 17:49:19"
     },
     {
       "id": "062-6",
@@ -4096,9 +4096,9 @@
       "address": "下恩方町６１８先",
       "latitude": 139.2681606,
       "altitude": 35.67958944,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 17:48:05"
     },
     {
       "id": "133-4",
