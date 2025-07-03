@@ -226,9 +226,9 @@
       "address": "新町５",
       "latitude": 139.3418064,
       "altitude": 35.66248556,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 20:30:04"
     },
     {
       "id": "004-2",
