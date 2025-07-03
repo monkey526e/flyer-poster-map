@@ -616,9 +616,9 @@
       "address": "暁町１－３０",
       "latitude": 139.3341353,
       "altitude": 35.6694391,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 15:45:22"
     },
     {
       "id": "009-2",
@@ -2306,9 +2306,9 @@
       "address": "鑓水４２先",
       "latitude": 139.3619656,
       "altitude": 35.61568167,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 15:44:31"
     },
     {
       "id": "065-2",
