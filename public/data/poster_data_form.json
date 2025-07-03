@@ -2576,9 +2576,9 @@
       "address": "散田町１－１６",
       "latitude": 139.3165636,
       "altitude": 35.65288722,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:21:54"
     },
     {
       "id": "081-2",
@@ -5556,9 +5556,9 @@
       "address": "大谷町７６８－７先",
       "latitude": 139.3458903,
       "altitude": 35.67063222,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:21:14"
     },
     {
       "id": "180-7",
