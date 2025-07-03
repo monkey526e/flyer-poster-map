@@ -1876,9 +1876,9 @@
       "address": "鹿島１０４－１",
       "latitude": 139.4229675,
       "altitude": 35.63081861,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:36:53"
     },
     {
       "id": "052-6",
@@ -2616,9 +2616,9 @@
       "address": "散田町３－１４－２０",
       "latitude": 139.3088856,
       "altitude": 35.65235111,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:37:31"
     },
     {
       "id": "081-6",
@@ -6549,9 +6549,9 @@
       "address": "東京都中央区佃３丁目６番１８号先",
       "latitude": 139.7853303,
       "altitude": 35.6645053,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 10:36:54"
     },
     {
       "id": "14-8",
