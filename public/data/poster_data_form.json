@@ -3326,9 +3326,9 @@
       "address": "椚田町５００－２",
       "latitude": 139.3155572,
       "altitude": 35.63873778,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 14:35:37"
     },
     {
       "id": "104-3",
@@ -4666,9 +4666,9 @@
       "address": "尾崎町６８先",
       "latitude": 139.3445006,
       "altitude": 35.68011417,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 14:34:59"
     },
     {
       "id": "151-5",
@@ -4796,9 +4796,9 @@
       "address": "高月町２２２先",
       "latitude": 139.3209553,
       "altitude": 35.71346722,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 14:35:20"
     },
     {
       "id": "154-2",
