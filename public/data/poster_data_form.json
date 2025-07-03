@@ -236,9 +236,9 @@
       "address": "東町５－６",
       "latitude": 139.3399673,
       "altitude": 35.6587465,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 20:34:07"
     },
     {
       "id": "004-3",
@@ -3896,9 +3896,9 @@
       "address": "川町１７５",
       "latitude": 139.2774931,
       "altitude": 35.67122306,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 20:35:48"
     },
     {
       "id": "116-7",
