@@ -896,9 +896,9 @@
       "address": "散田町２－６０－１２",
       "latitude": 139.3136819,
       "altitude": 35.64791472,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:52:29"
     },
     {
       "id": "012-7",
@@ -2016,9 +2016,9 @@
       "address": "松木２２",
       "latitude": 139.3889972,
       "altitude": 35.62118528,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:53:52"
     },
     {
       "id": "061-4",
@@ -4996,9 +4996,9 @@
       "address": "みなみ野２－９",
       "latitude": 139.3276614,
       "altitude": 35.62893472,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:52:04"
     },
     {
       "id": "162-6",
@@ -5006,9 +5006,9 @@
       "address": "みなみ野５－２９",
       "latitude": 139.3185453,
       "altitude": 35.62922861,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:52:18"
     },
     {
       "id": "162-7",
@@ -5016,9 +5016,9 @@
       "address": "みなみ野４－３－１",
       "latitude": 139.3258536,
       "altitude": 35.62734778,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:52:36"
     },
     {
       "id": "162-8",
@@ -5026,9 +5026,9 @@
       "address": "みなみ野３－１３",
       "latitude": 139.3246853,
       "altitude": 35.62922583,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:52:55"
     },
     {
       "id": "162-9",
@@ -5036,9 +5036,9 @@
       "address": "みなみ野６－１３",
       "latitude": 139.3212678,
       "altitude": 35.63160444,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:53:14"
     },
     {
       "id": "163-1",
@@ -5046,9 +5046,9 @@
       "address": "片倉町１２２１－１７先",
       "latitude": 139.3472572,
       "altitude": 35.63290222,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:53:32"
     },
     {
       "id": "163-2",
@@ -5056,9 +5056,9 @@
       "address": "片倉町１３１８",
       "latitude": 139.3466114,
       "altitude": 35.63173083,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:53:51"
     },
     {
       "id": "163-3",
