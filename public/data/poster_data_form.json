@@ -3096,9 +3096,9 @@
       "address": "館町７０１",
       "latitude": 139.2873128,
       "altitude": 35.63374389,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 13:46:26"
     },
     {
       "id": "100-8",
@@ -5666,9 +5666,9 @@
       "address": "久保山町２－４４",
       "latitude": 139.3585461,
       "altitude": 35.68870639,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 13:47:06"
     },
     {
       "id": "182-2",
