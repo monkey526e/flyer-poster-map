@@ -1756,9 +1756,9 @@
       "address": "東中野１３４７先",
       "latitude": 139.4088606,
       "altitude": 35.63296667,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 11:19:37"
     },
     {
       "id": "050-9",
@@ -6139,9 +6139,9 @@
       "address": "東京都中央区新川２丁目９番１３号",
       "latitude": 139.7804233,
       "altitude": 35.6747248,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 11:19:40"
     },
     {
       "id": "7-5",
