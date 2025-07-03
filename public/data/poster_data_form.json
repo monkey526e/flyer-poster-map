@@ -496,9 +496,9 @@
       "address": "台町３－７",
       "latitude": 139.3235469,
       "altitude": 35.6545675,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:03:04"
     },
     {
       "id": "007-5",
@@ -596,9 +596,9 @@
       "address": "中野上町２－３１",
       "latitude": 139.3173714,
       "altitude": 35.6713517,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:03:50"
     },
     {
       "id": "008-7",
