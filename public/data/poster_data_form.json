@@ -1156,9 +1156,9 @@
       "address": "長房町１２８９－２８",
       "latitude": 139.2860039,
       "altitude": 35.65170139,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 20:48:25"
     },
     {
       "id": "030-4",
@@ -2966,9 +2966,9 @@
       "address": "城山手１－２２",
       "latitude": 139.2860276,
       "altitude": 35.6521644,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 20:49:09"
     },
     {
       "id": "087-1",
