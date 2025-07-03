@@ -3546,9 +3546,9 @@
       "address": "横川町５４０－１",
       "latitude": 139.3038319,
       "altitude": 35.66663583,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 17:42:59"
     },
     {
       "id": "112-2",
@@ -4126,9 +4126,9 @@
       "address": "西寺方町５０８－１",
       "latitude": 139.2689481,
       "altitude": 35.67645417,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 17:43:37"
     },
     {
       "id": "140-1",
