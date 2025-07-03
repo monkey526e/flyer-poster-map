@@ -2266,9 +2266,9 @@
       "address": "南大沢５－１４－８",
       "latitude": 139.3682458,
       "altitude": 35.61288,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 15:09:34"
     },
     {
       "id": "064-5",
@@ -3746,9 +3746,9 @@
       "address": "泉町１９１１－１３９",
       "latitude": 139.2997619,
       "altitude": 35.67713306,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 15:08:17"
     },
     {
       "id": "114-7",
