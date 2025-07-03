@@ -86,9 +86,9 @@
       "address": "八木町７－１",
       "latitude": 139.3222878,
       "altitude": 35.66155083,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:04:41"
     },
     {
       "id": "002-2",
@@ -2356,9 +2356,9 @@
       "address": "鑓水１３９８",
       "latitude": 139.3437178,
       "altitude": 35.61387139,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:04:45"
     },
     {
       "id": "066-1",
@@ -3226,9 +3226,9 @@
       "address": "大船町１３５－６",
       "latitude": 139.3121481,
       "altitude": 35.6264552,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:04:29"
     },
     {
       "id": "102-5",
