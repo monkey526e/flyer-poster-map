@@ -3886,9 +3886,9 @@
       "address": "川町１２８－１６０先",
       "latitude": 139.2707592,
       "altitude": 35.67068778,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:54:11"
     },
     {
       "id": "116-6",
@@ -5066,9 +5066,9 @@
       "address": "片倉町１６４３",
       "latitude": 139.3412617,
       "altitude": 35.63036444,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:54:14"
     },
     {
       "id": "163-4",
@@ -5076,9 +5076,9 @@
       "address": "片倉町９３７－１０４",
       "latitude": 139.3464419,
       "altitude": 35.63514806,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:54:30"
     },
     {
       "id": "163-5",
@@ -5086,9 +5086,9 @@
       "address": "片倉町１３３３－６１",
       "latitude": 139.3477617,
       "altitude": 35.62918806,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:54:47"
     },
     {
       "id": "163-6",
@@ -5096,9 +5096,9 @@
       "address": "片倉町１３９４－６１",
       "latitude": 139.3459036,
       "altitude": 35.62803417,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:55:03"
     },
     {
       "id": "163-7",
@@ -5106,9 +5106,9 @@
       "address": "打越町８８８－１２２",
       "latitude": 139.3448367,
       "altitude": 35.63978306,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:55:19"
     },
     {
       "id": "164-1",
@@ -5116,9 +5116,9 @@
       "address": "七国３－５０－１先",
       "latitude": 139.3245956,
       "altitude": 35.61644278,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:55:36"
     },
     {
       "id": "164-2",
