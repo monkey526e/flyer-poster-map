@@ -2096,9 +2096,9 @@
       "address": "南大沢３－１３先",
       "latitude": 139.3811561,
       "altitude": 35.60560417,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 13:12:55"
     },
     {
       "id": "062-4",
@@ -6239,9 +6239,9 @@
       "address": "東京都中央区日本橋小伝馬町６番１０号先",
       "latitude": 139.7774275,
       "altitude": 35.6918309,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 13:12:26"
     },
     {
       "id": "10-1",
