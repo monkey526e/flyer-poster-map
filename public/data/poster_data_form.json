@@ -1356,9 +1356,9 @@
       "address": "狭間町１９９４－１５６",
       "latitude": 139.2793808,
       "altitude": 35.63252083,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 13:37:55"
     },
     {
       "id": "034-4",
@@ -4566,9 +4566,9 @@
       "address": "宮下町１０８－７",
       "latitude": 139.31346,
       "altitude": 35.70393694,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 13:37:57"
     },
     {
       "id": "150-3",
