@@ -3446,9 +3446,9 @@
       "address": "諏訪町１１０－２",
       "latitude": 139.2937669,
       "altitude": 35.67546806,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 14:47:00"
     },
     {
       "id": "110-7",
@@ -4726,9 +4726,9 @@
       "address": "谷野町１２０７先",
       "latitude": 139.3347083,
       "altitude": 35.68119361,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 14:47:46"
     },
     {
       "id": "152-6",
