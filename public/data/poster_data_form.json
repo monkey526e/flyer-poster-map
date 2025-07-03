@@ -3366,9 +3366,9 @@
       "address": "椚田町１２２０－２",
       "latitude": 139.2952761,
       "altitude": 35.63854083,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 14:00:34"
     },
     {
       "id": "104-7",
@@ -5706,9 +5706,9 @@
       "address": "久保山町２－１８",
       "latitude": 139.3539858,
       "altitude": 35.68717861,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 14:00:36"
     },
     {
       "id": "182-6",
