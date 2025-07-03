@@ -906,9 +906,9 @@
       "address": "散田町２－６８－８先",
       "latitude": 139.3105967,
       "altitude": 35.64809194,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:50:10"
     },
     {
       "id": "013-1",
@@ -1036,9 +1036,9 @@
       "address": "元本郷町４－１１－１",
       "latitude": 139.31446,
       "altitude": 35.66419056,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:50:12"
     },
     {
       "id": "014-6",
@@ -3906,9 +3906,9 @@
       "address": "川町２４４－３６先",
       "latitude": 139.2680597,
       "altitude": 35.67082083,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:50:42"
     },
     {
       "id": "130-1",
@@ -4936,9 +4936,9 @@
       "address": "片倉町３５０６",
       "latitude": 139.3298,
       "altitude": 35.63724222,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:50:10"
     },
     {
       "id": "161-8",
@@ -4946,9 +4946,9 @@
       "address": "片倉町７０２",
       "latitude": 139.3407078,
       "altitude": 35.64135139,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:50:35"
     },
     {
       "id": "162-1",
@@ -4956,9 +4956,9 @@
       "address": "みなみ野６－１４－１",
       "latitude": 139.3230831,
       "altitude": 35.63245056,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:50:51"
     },
     {
       "id": "162-2",
@@ -4966,9 +4966,9 @@
       "address": "みなみ野１－６先",
       "latitude": 139.3281464,
       "altitude": 35.63377056,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:51:16"
     },
     {
       "id": "162-3",
@@ -4976,9 +4976,9 @@
       "address": "兵衛１－８",
       "latitude": 139.3302781,
       "altitude": 35.62807972,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:51:32"
     },
     {
       "id": "162-4",
@@ -4986,9 +4986,9 @@
       "address": "みなみ野４－２６",
       "latitude": 139.3202681,
       "altitude": 35.62796194,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:51:47"
     },
     {
       "id": "162-5",
