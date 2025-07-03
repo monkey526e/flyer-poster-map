@@ -2816,9 +2816,9 @@
       "address": "めじろ台３－４３",
       "latitude": 139.3068897,
       "altitude": 35.63998722,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 14:08:54"
     },
     {
       "id": "084-6",
@@ -3416,9 +3416,9 @@
       "address": "上壱分方町７４７－１",
       "latitude": 139.2860564,
       "altitude": 35.68305667,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 14:09:30"
     },
     {
       "id": "110-4",
@@ -5726,9 +5726,9 @@
       "address": "久保山町２－５５",
       "latitude": 139.3576461,
       "altitude": 35.68392056,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 14:09:11"
     },
     {
       "id": "183-1",
