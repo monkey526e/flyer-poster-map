@@ -506,9 +506,9 @@
       "address": "台町３－２５－１",
       "latitude": 139.3163764,
       "altitude": 35.65460472,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:17:25"
     },
     {
       "id": "007-6",
@@ -1686,9 +1686,9 @@
       "address": "堀之内２－２３－５先",
       "latitude": 139.4040706,
       "altitude": 35.63117806,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:17:27"
     },
     {
       "id": "050-2",
@@ -4316,9 +4316,9 @@
       "address": "上川町５９６",
       "latitude": 139.2360992,
       "altitude": 35.7112525,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:17:26"
     },
     {
       "id": "142-6",
@@ -5536,9 +5536,9 @@
       "address": "暁町２－４１",
       "latitude": 139.3440608,
       "altitude": 35.67127472,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:17:51"
     },
     {
       "id": "180-5",
