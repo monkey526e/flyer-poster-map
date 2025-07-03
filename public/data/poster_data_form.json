@@ -2496,9 +2496,9 @@
       "address": "別所１－１２８",
       "latitude": 139.3850078,
       "altitude": 35.61461444,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 17:25:40"
     },
     {
       "id": "067-8",
@@ -3786,9 +3786,9 @@
       "address": "横川町３０５",
       "latitude": 139.3068194,
       "altitude": 35.66722944,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 17:24:47"
     },
     {
       "id": "115-3",
