@@ -4896,9 +4896,9 @@
       "address": "片倉町７１８",
       "latitude": 139.3413139,
       "altitude": 35.63982889,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:48:16"
     },
     {
       "id": "161-4",
@@ -4906,9 +4906,9 @@
       "address": "片倉町１１７５－１",
       "latitude": 139.3432639,
       "altitude": 35.63616333,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:48:59"
     },
     {
       "id": "161-5",
@@ -4916,9 +4916,9 @@
       "address": "片倉町７０２－１",
       "latitude": 139.3400156,
       "altitude": 35.64102083,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:49:30"
     },
     {
       "id": "161-6",
@@ -4926,9 +4926,9 @@
       "address": "西片倉町１－１４－１",
       "latitude": 139.3372964,
       "altitude": 35.63660917,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:49:54"
     },
     {
       "id": "161-7",
