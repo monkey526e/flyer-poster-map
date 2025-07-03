@@ -706,9 +706,9 @@
       "address": "暁町２－１３",
       "latitude": 139.3336328,
       "altitude": 35.67435028,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:40:00"
     },
     {
       "id": "010-2",
@@ -2636,9 +2636,9 @@
       "address": "散田町３－２４",
       "latitude": 139.3101139,
       "altitude": 35.65160111,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:40:18"
     },
     {
       "id": "082-1",
@@ -6569,9 +6569,9 @@
       "address": "東京都中央区月島１丁目９番２号",
       "latitude": 139.7830807,
       "altitude": 35.6652568,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 10:40:04"
     },
     {
       "id": "15-2",
