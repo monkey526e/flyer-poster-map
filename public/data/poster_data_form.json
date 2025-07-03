@@ -1276,9 +1276,9 @@
       "address": "高尾町１７９８先",
       "latitude": 139.2706333,
       "altitude": 35.63426333,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:08:39"
     },
     {
       "id": "032-3",
@@ -4446,9 +4446,9 @@
       "address": "清川町３２",
       "latitude": 139.3089958,
       "altitude": 35.67153528,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:08:21"
     },
     {
       "id": "144-5",
@@ -5506,9 +5506,9 @@
       "address": "石川町２１０３－３先",
       "latitude": 139.3587953,
       "altitude": 35.66801111,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:08:03"
     },
     {
       "id": "180-2",
@@ -6359,9 +6359,9 @@
       "address": "東京都中央区日本橋中洲３番先",
       "latitude": 139.7893839,
       "altitude": 35.6828245,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 12:08:06"
     },
     {
       "id": "11-7",
