@@ -2426,9 +2426,9 @@
       "address": "南大沢４－１８",
       "latitude": 139.3748972,
       "altitude": 35.609145,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 14:55:36"
     },
     {
       "id": "067-1",
@@ -3516,9 +3516,9 @@
       "address": "四谷町５５５",
       "latitude": 139.2969242,
       "altitude": 35.677645,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 14:55:20"
     },
     {
       "id": "111-7",
