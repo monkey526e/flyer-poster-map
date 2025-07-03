@@ -5516,9 +5516,9 @@
       "address": "石川町２０６５",
       "latitude": 139.3611083,
       "altitude": 35.67138722,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:19:24"
     },
     {
       "id": "180-3",
@@ -6849,9 +6849,9 @@
       "address": "東京都中央区晴海４丁目８番１号",
       "latitude": 139.7795679,
       "altitude": 35.6514382,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 12:19:47"
     },
     {
       "id": "20-3",
