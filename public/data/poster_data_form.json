@@ -1716,9 +1716,9 @@
       "address": "東中野２１２－１",
       "latitude": 139.4117311,
       "altitude": 35.64178889,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 13:55:30"
     },
     {
       "id": "050-5",
@@ -1906,9 +1906,9 @@
       "address": "大塚６７０－８先",
       "latitude": 139.4194275,
       "altitude": 35.63630611,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 13:55:41"
     },
     {
       "id": "060-1",
@@ -5696,9 +5696,9 @@
       "address": "丸山町１２－５先",
       "latitude": 139.3516175,
       "altitude": 35.69075472,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 13:54:22"
     },
     {
       "id": "182-5",
