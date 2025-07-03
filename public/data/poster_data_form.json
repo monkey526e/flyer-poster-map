@@ -2706,9 +2706,9 @@
       "address": "小比企町４６９－４先",
       "latitude": 139.3185139,
       "altitude": 35.64348944,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:23:04"
     },
     {
       "id": "083-1",
@@ -2956,9 +2956,9 @@
       "address": "城山手１－４",
       "latitude": 139.2850908,
       "altitude": 35.65659917,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:22:55"
     },
     {
       "id": "086-7",
