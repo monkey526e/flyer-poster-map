@@ -916,9 +916,9 @@
       "address": "みつい台２－４７",
       "latitude": 139.3212597,
       "altitude": 35.68478278,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 11:14:09"
     },
     {
       "id": "013-2",
@@ -1826,9 +1826,9 @@
       "address": "松が谷１６８",
       "latitude": 139.4115114,
       "altitude": 35.62858139,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 11:14:16"
     },
     {
       "id": "052-1",
@@ -6159,9 +6159,9 @@
       "address": "東京都中央区新川２丁目２５番１１号",
       "latitude": 139.7833214,
       "altitude": 35.6748386,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 11:14:31"
     },
     {
       "id": "8-1",
@@ -6679,9 +6679,9 @@
       "address": "東京都中央区勝どき４丁目３番９号",
       "latitude": 139.7766588,
       "altitude": 35.6571284,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 11:14:16"
     },
     {
       "id": "17-6",
