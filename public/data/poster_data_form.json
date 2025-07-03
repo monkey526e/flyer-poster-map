@@ -776,9 +776,9 @@
       "address": "大和田町４－２５",
       "latitude": 139.3551003,
       "altitude": 35.66765056,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:12:33"
     },
     {
       "id": "011-2",
@@ -1296,9 +1296,9 @@
       "address": "高尾町２２４１先",
       "latitude": 139.2696647,
       "altitude": 35.63177944,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:12:37"
     },
     {
       "id": "033-1",
@@ -4456,9 +4456,9 @@
       "address": "楢原町３１０－３先",
       "latitude": 139.3092667,
       "altitude": 35.67740611,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:12:43"
     },
     {
       "id": "144-6",
@@ -6349,9 +6349,9 @@
       "address": "東京都中央区日本橋浜町３丁目３７番１号",
       "latitude": 139.7914723,
       "altitude": 35.6852387,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 12:13:22"
     },
     {
       "id": "11-6",
