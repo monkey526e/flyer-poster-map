@@ -4256,9 +4256,9 @@
       "address": "犬目町９６５－３先",
       "latitude": 139.3025006,
       "altitude": 35.68933778,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:44:30"
     },
     {
       "id": "141-6",
@@ -6089,9 +6089,9 @@
       "address": "東京都中央区八丁堀３丁目１７番９号",
       "latitude": 139.7756628,
       "altitude": 35.6746835,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 12:45:25"
     },
     {
       "id": "6-4",
