@@ -476,9 +476,9 @@
       "address": "上野町３９－２",
       "latitude": 139.3271706,
       "altitude": 35.65655,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 9:52:40"
     },
     {
       "id": "007-3",
@@ -546,9 +546,9 @@
       "address": "中野上町５－１０－５",
       "latitude": 139.3161525,
       "altitude": 35.67432222,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 9:52:00"
     },
     {
       "id": "008-2",
@@ -1736,9 +1736,9 @@
       "address": "東中野２９３－５",
       "latitude": 139.4118036,
       "altitude": 35.64327417,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 9:53:05"
     },
     {
       "id": "050-7",
@@ -4636,9 +4636,9 @@
       "address": "滝山町１－５９２－２",
       "latitude": 139.3410197,
       "altitude": 35.68617444,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 9:53:33"
     },
     {
       "id": "151-2",
