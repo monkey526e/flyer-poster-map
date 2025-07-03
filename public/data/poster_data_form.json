@@ -3336,9 +3336,9 @@
       "address": "椚田町５８２－９",
       "latitude": 139.3033017,
       "altitude": 35.6389325,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 14:06:17"
     },
     {
       "id": "104-4",
@@ -5716,9 +5716,9 @@
       "address": "久保山町２－４８",
       "latitude": 139.356545,
       "altitude": 35.68471806,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 14:06:47"
     },
     {
       "id": "182-7",
