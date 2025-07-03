@@ -1786,9 +1786,9 @@
       "address": "松が谷１４０",
       "latitude": 139.4207201,
       "altitude": 35.6324672,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 11:00:57"
     },
     {
       "id": "051-3",
@@ -2876,9 +2876,9 @@
       "address": "散田町５－２８",
       "latitude": 139.3003567,
       "altitude": 35.64580889,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 11:00:18"
     },
     {
       "id": "085-5",
@@ -3986,9 +3986,9 @@
       "address": "下恩方町２８１－１",
       "latitude": 139.2568919,
       "altitude": 35.67812389,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 11:00:28"
     },
     {
       "id": "131-1",
@@ -6069,9 +6069,9 @@
       "address": "東京都中央区八丁堀１丁目１４番７号",
       "latitude": 139.7788707,
       "altitude": 35.6764922,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 11:00:44"
     },
     {
       "id": "6-2",
