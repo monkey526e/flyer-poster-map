@@ -2446,9 +2446,9 @@
       "address": "別所１－５６－２",
       "latitude": 139.3894344,
       "altitude": 35.611995,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:30:49"
     },
     {
       "id": "067-3",
@@ -4476,9 +4476,9 @@
       "address": "楢原町１４４３－１先",
       "latitude": 139.3022867,
       "altitude": 35.68160556,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:31:08"
     },
     {
       "id": "144-8",
@@ -4516,9 +4516,9 @@
       "address": "楢原町６０１－１３",
       "latitude": 139.3008983,
       "altitude": 35.68477028,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:30:01"
     },
     {
       "id": "145-4",
@@ -5526,9 +5526,9 @@
       "address": "石川町２９５３－１先",
       "latitude": 139.3628864,
       "altitude": 35.6696875,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:31:43"
     },
     {
       "id": "180-4",
@@ -6299,9 +6299,9 @@
       "address": "東京都中央区日本橋人形町２丁目３７番",
       "latitude": 139.7858971,
       "altitude": 35.6866947,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 12:30:50"
     },
     {
       "id": "11-1",
@@ -6829,9 +6829,9 @@
       "address": "東京都中央区晴海１丁目３番29号",
       "latitude": 139.787905,
       "altitude": 35.6589189,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 12:30:14"
     },
     {
       "id": "20-1",
