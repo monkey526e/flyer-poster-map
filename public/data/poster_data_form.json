@@ -1396,9 +1396,9 @@
       "address": "初沢町１４２９－３０８先",
       "latitude": 139.2757567,
       "altitude": 35.63861444,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 11:58:51"
     },
     {
       "id": "035-1",
@@ -4206,9 +4206,9 @@
       "address": "川口町１８９０－２３",
       "latitude": 139.2915789,
       "altitude": 35.69090028,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 11:58:47"
     },
     {
       "id": "141-1",
@@ -4426,9 +4426,9 @@
       "address": "楢原町２７８先",
       "latitude": 139.3091436,
       "altitude": 35.6758575,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 11:58:40"
     },
     {
       "id": "144-3",
@@ -6839,9 +6839,9 @@
       "address": "東京都中央区晴海３丁目１番６号",
       "latitude": 139.7801402,
       "altitude": 35.6565583,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 11:59:26"
     },
     {
       "id": "20-2",
