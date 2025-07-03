@@ -2216,9 +2216,9 @@
       "address": "上柚木２－４０－１",
       "latitude": 139.3717358,
       "altitude": 35.61911639,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:27:37"
     },
     {
       "id": "063-8",
@@ -2226,9 +2226,9 @@
       "address": "上柚木２－４０－１",
       "latitude": 139.3667719,
       "altitude": 35.61752972,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:27:52"
     },
     {
       "id": "064-1",
@@ -2696,9 +2696,9 @@
       "address": "山田町１６８１－２先",
       "latitude": 139.3168006,
       "altitude": 35.64230528,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:26:10"
     },
     {
       "id": "082-7",
