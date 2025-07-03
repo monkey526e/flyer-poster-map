@@ -346,9 +346,9 @@
       "address": "千人町３－７－７",
       "latitude": 139.3079089,
       "altitude": 35.65840917,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 18:07:19"
     },
     {
       "id": "005-6",
@@ -2176,9 +2176,9 @@
       "address": "上柚木３－５－９",
       "latitude": 139.3730625,
       "altitude": 35.61545083,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 18:07:16"
     },
     {
       "id": "063-4",
