@@ -1926,9 +1926,9 @@
       "address": "別所２－１",
       "latitude": 139.4019017,
       "altitude": 35.62390917,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:02:03"
     },
     {
       "id": "060-3",
@@ -4436,9 +4436,9 @@
       "address": "清川町６",
       "latitude": 139.3116567,
       "altitude": 35.67135083,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:03:57"
     },
     {
       "id": "144-4",
@@ -6309,9 +6309,9 @@
       "address": "東京都中央区日本橋蛎殻町２丁目１０番２３号",
       "latitude": 139.7875141,
       "altitude": 35.6837867,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 12:03:53"
     },
     {
       "id": "11-2",
@@ -6909,9 +6909,9 @@
       "address": "東京都中央区晴海５丁目",
       "latitude": 139.7767287,
       "altitude": 35.6535734,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 12:03:17"
     }
   ],
   "府中市": []
