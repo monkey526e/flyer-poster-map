@@ -1026,9 +1026,9 @@
       "address": "元本郷町２－１２",
       "latitude": 139.3196558,
       "altitude": 35.66458278,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:14:52"
     },
     {
       "id": "014-5",
@@ -1616,9 +1616,9 @@
       "address": "上柚木３２５－８先",
       "latitude": 139.3650808,
       "altitude": 35.61987278,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:15:26"
     },
     {
       "id": "041-6",
@@ -4846,9 +4846,9 @@
       "address": "小比企町５４１－７先",
       "latitude": 139.3173328,
       "altitude": 35.63976778,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:14:34"
     },
     {
       "id": "160-4",
