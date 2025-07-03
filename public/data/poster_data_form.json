@@ -2786,9 +2786,9 @@
       "address": "めじろ台４－４０",
       "latitude": 139.3000328,
       "altitude": 35.64325306,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 11:05:44"
     },
     {
       "id": "084-3",
@@ -4356,9 +4356,9 @@
       "address": "美山町１３１１先",
       "latitude": 139.255815,
       "altitude": 35.68069306,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 11:04:23"
     },
     {
       "id": "143-3",
@@ -5859,9 +5859,9 @@
       "address": "東京都中央区新富１丁目２番６号",
       "latitude": 139.7741243,
       "altitude": 35.6737466,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 11:06:02"
     },
     {
       "id": "1-7",
