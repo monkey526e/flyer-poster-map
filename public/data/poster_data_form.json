@@ -3056,9 +3056,9 @@
       "address": "椚田町１７２",
       "latitude": 139.3098119,
       "altitude": 35.63422083,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 15:19:11"
     },
     {
       "id": "100-4",
@@ -4656,9 +4656,9 @@
       "address": "滝山町１－４１２先",
       "latitude": 139.3431364,
       "altitude": 35.68783583,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 15:19:34"
     },
     {
       "id": "151-4",
