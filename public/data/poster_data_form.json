@@ -4556,9 +4556,9 @@
       "address": "宮下町１４５先",
       "latitude": 139.3159822,
       "altitude": 35.7030425,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 13:34:41"
     },
     {
       "id": "150-2",
@@ -5656,9 +5656,9 @@
       "address": "小宮町６３８先",
       "latitude": 139.36389,
       "altitude": 35.69064194,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 13:35:11"
     },
     {
       "id": "182-1",
