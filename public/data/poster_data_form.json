@@ -986,9 +986,9 @@
       "address": "中野町２６３４－１１先",
       "latitude": 139.3208078,
       "altitude": 35.68167806,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 11:39:59"
     },
     {
       "id": "014-1",
@@ -6289,9 +6289,9 @@
       "address": "東京都中央区日本橋蛎殻町１丁目２２番",
       "latitude": 139.7841354,
       "altitude": 35.6808534,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 11:41:56"
     },
     {
       "id": "10-6",
@@ -6709,9 +6709,9 @@
       "address": "東京都中央区勝どき５丁目６番",
       "latitude": 139.7705147,
       "altitude": 35.6577245,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 11:41:35"
     },
     {
       "id": "18-3",
