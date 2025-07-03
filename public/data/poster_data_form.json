@@ -876,9 +876,9 @@
       "address": "散田町２－３７－１",
       "latitude": 139.3198681,
       "altitude": 35.64946861,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:59:41"
     },
     {
       "id": "012-5",
@@ -3846,9 +3846,9 @@
       "address": "川町１２８",
       "latitude": 139.2737297,
       "altitude": 35.67305333,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 16:58:01"
     },
     {
       "id": "116-2",
