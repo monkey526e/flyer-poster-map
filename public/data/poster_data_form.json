@@ -3356,9 +3356,9 @@
       "address": "椚田町５７１－２",
       "latitude": 139.3009669,
       "altitude": 35.63730472,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 14:52:13"
     },
     {
       "id": "104-6",
@@ -4706,9 +4706,9 @@
       "address": "谷野町６４６",
       "latitude": 139.3315114,
       "altitude": 35.68336639,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 14:52:48"
     },
     {
       "id": "152-4",
