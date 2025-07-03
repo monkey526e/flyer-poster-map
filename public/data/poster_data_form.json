@@ -6799,9 +6799,9 @@
       "address": "東京都中央区晴海２丁目４番２７号",
       "latitude": 139.7832629,
       "altitude": 35.6545714,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 12:46:01"
     },
     {
       "id": "19-5",
