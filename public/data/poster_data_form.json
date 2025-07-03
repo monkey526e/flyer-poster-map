@@ -946,9 +946,9 @@
       "address": "みつい台２－８",
       "latitude": 139.3254036,
       "altitude": 35.68170639,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 11:21:02"
     },
     {
       "id": "013-5",
@@ -1476,9 +1476,9 @@
       "address": "東浅川町５５３－９",
       "latitude": 139.292405,
       "altitude": 35.64570444,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 11:20:36"
     },
     {
       "id": "040-1",
@@ -6079,9 +6079,9 @@
       "address": "東京都中央区八丁堀３丁目１番２０号先",
       "latitude": 139.7741808,
       "altitude": 35.6764303,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 11:21:31"
     },
     {
       "id": "6-3",
@@ -6149,9 +6149,9 @@
       "address": "東京都中央区新川２丁目１３番４号",
       "latitude": 139.7817536,
       "altitude": 35.6755457,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 11:21:55"
     },
     {
       "id": "7-6",
@@ -6729,9 +6729,9 @@
       "address": "東京都中央区勝どき６丁目６番１号",
       "latitude": 139.7734721,
       "altitude": 35.6547999,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 11:21:21"
     },
     {
       "id": "18-5",
