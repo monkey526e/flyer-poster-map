@@ -1886,9 +1886,9 @@
       "address": "大塚２７２－３",
       "latitude": 139.4134856,
       "altitude": 35.64340972,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 9:50:50"
     },
     {
       "id": "052-7",
@@ -6259,9 +6259,9 @@
       "address": "東京都中央区日本橋小網町８番５号先",
       "latitude": 139.7809344,
       "altitude": 35.6816587,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 9:51:57"
     },
     {
       "id": "10-3",
