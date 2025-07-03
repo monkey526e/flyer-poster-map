@@ -1006,9 +1006,9 @@
       "address": "大横町１１－１",
       "latitude": 139.3287983,
       "altitude": 35.66435778,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 15:56:34"
     },
     {
       "id": "014-3",
@@ -3206,9 +3206,9 @@
       "address": "大船町２５２－６先",
       "latitude": 139.3155206,
       "altitude": 35.6257975,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 15:57:09"
     },
     {
       "id": "102-3",
