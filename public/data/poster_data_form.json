@@ -306,9 +306,9 @@
       "address": "長房町４６先",
       "latitude": 139.3063214,
       "altitude": 35.66037528,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 17:50:04"
     },
     {
       "id": "005-2",
@@ -3116,9 +3116,9 @@
       "address": "寺田町８３０－１",
       "latitude": 139.3080156,
       "altitude": 35.6284625,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 17:50:04"
     },
     {
       "id": "101-2",
@@ -3216,9 +3216,9 @@
       "address": "大船町１０９先",
       "latitude": 139.3138069,
       "altitude": 35.62858139,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 17:50:56"
     },
     {
       "id": "102-4",
