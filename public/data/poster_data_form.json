@@ -566,9 +566,9 @@
       "address": "中野上町２－１４－１",
       "latitude": 139.3246836,
       "altitude": 35.6703146,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:23:23"
     },
     {
       "id": "008-4",
@@ -1696,9 +1696,9 @@
       "address": "堀之内２－２５－１",
       "latitude": 139.4062022,
       "altitude": 35.63089861,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:23:25"
     },
     {
       "id": "050-3",
@@ -6489,9 +6489,9 @@
       "address": "東京都中央区佃１丁目３番先",
       "latitude": 139.7820087,
       "altitude": 35.6673032,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 10:22:27"
     },
     {
       "id": "14-2",
