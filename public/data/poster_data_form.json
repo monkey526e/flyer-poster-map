@@ -1996,9 +1996,9 @@
       "address": "別所１－３４－１",
       "latitude": 139.3921442,
       "altitude": 35.61771444,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 17:05:52"
     },
     {
       "id": "061-2",
@@ -2626,9 +2626,9 @@
       "address": "散田町２－６－１",
       "latitude": 139.3146078,
       "altitude": 35.65158306,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 17:04:22"
     },
     {
       "id": "081-7",
