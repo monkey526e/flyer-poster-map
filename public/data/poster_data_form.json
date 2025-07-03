@@ -3296,9 +3296,9 @@
       "address": "館町１０９７－３０先",
       "latitude": 139.2886144,
       "altitude": 35.62484417,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 13:11:22"
     },
     {
       "id": "103-7",
@@ -4686,9 +4686,9 @@
       "address": "谷野町３１１先",
       "latitude": 139.3248917,
       "altitude": 35.68784167,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 13:10:46"
     },
     {
       "id": "152-2",
@@ -6229,9 +6229,9 @@
       "address": "東京都中央区日本橋小伝馬町５番１号",
       "latitude": 139.777254,
       "altitude": 35.6906124,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 13:10:15"
     },
     {
       "id": "9-4",
