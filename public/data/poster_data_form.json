@@ -3406,9 +3406,9 @@
       "address": "上壱分方町３０６－１",
       "latitude": 139.2892556,
       "altitude": 35.68064417,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 14:23:25"
     },
     {
       "id": "110-3",
@@ -4756,9 +4756,9 @@
       "address": "戸吹町１６８－５",
       "latitude": 139.2962828,
       "altitude": 35.70804028,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 14:23:35"
     },
     {
       "id": "153-3",
