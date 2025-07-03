@@ -4216,9 +4216,9 @@
       "address": "楢原町１８１２",
       "latitude": 139.3086178,
       "altitude": 35.68647417,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 13:04:08"
     },
     {
       "id": "141-2",
@@ -6209,9 +6209,9 @@
       "address": "東京都中央区日本橋堀留町１丁目１０番２号",
       "latitude": 139.7796093,
       "altitude": 35.6882146,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 13:04:32"
     },
     {
       "id": "9-2",
@@ -6659,9 +6659,9 @@
       "address": "東京都中央区勝どき１丁目１２番２号",
       "latitude": 139.7755056,
       "altitude": 35.6597058,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 13:05:18"
     },
     {
       "id": "17-4",
