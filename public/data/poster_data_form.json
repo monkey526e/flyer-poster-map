@@ -576,9 +576,9 @@
       "address": "中野上町２－１４－１",
       "latitude": 139.3237017,
       "altitude": 35.67089222,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:30:06"
     },
     {
       "id": "008-5",
@@ -6169,9 +6169,9 @@
       "address": "東京都中央区日本橋本石町３丁目１番先",
       "latitude": 139.7697936,
       "altitude": 35.6875182,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 10:30:03"
     },
     {
       "id": "8-2",
@@ -6189,9 +6189,9 @@
       "address": "東京都中央区日本橋本石町４丁目４番２６号",
       "latitude": 139.7709724,
       "altitude": 35.688028,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 10:30:20"
     },
     {
       "id": "8-4",
