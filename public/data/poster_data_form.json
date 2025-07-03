@@ -1706,9 +1706,9 @@
       "address": "堀之内２－１８－１",
       "latitude": 139.4032681,
       "altitude": 35.62994444,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 10:19:23"
     },
     {
       "id": "050-4",
@@ -5969,9 +5969,9 @@
       "address": "東京都中央区明石町１番７号",
       "latitude": 139.7771175,
       "altitude": 35.6695364,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 10:18:03"
     },
     {
       "id": "4-2",
@@ -5979,9 +5979,9 @@
       "address": "東京都中央区明石町１番",
       "latitude": 139.7751989,
       "altitude": 35.6685818,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 10:19:55"
     },
     {
       "id": "4-3",
@@ -6439,9 +6439,9 @@
       "address": "東京都中央区八重洲１丁目１番先",
       "latitude": 139.7730082,
       "altitude": 35.6839949,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 10:19:39"
     },
     {
       "id": "13-2",
@@ -6529,9 +6529,9 @@
       "address": "東京都中央区佃１丁目１０番",
       "latitude": 139.7836089,
       "altitude": 35.6674976,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 10:19:43"
     },
     {
       "id": "14-6",
