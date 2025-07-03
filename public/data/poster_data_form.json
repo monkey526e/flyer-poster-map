@@ -866,9 +866,9 @@
       "address": "台町２－２",
       "latitude": 139.3209508,
       "altitude": 35.65211944,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 17:19:13"
     },
     {
       "id": "012-4",
@@ -3806,9 +3806,9 @@
       "address": "横川町１０８",
       "latitude": 139.3096897,
       "altitude": 35.667765,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 17:19:03"
     },
     {
       "id": "115-5",
