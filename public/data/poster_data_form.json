@@ -1656,9 +1656,9 @@
       "address": "南陽台３－６",
       "latitude": 139.3749528,
       "altitude": 35.63557278,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 19:27:17"
     },
     {
       "id": "042-4",
@@ -1676,9 +1676,9 @@
       "address": "南陽台３－１３－１７先",
       "latitude": 139.3771214,
       "altitude": 35.63434222,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 19:26:51"
     },
     {
       "id": "050-1",
@@ -4106,9 +4106,9 @@
       "address": "下恩方町８３５－４",
       "latitude": 139.2634939,
       "altitude": 35.68070194,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 19:26:53"
     },
     {
       "id": "133-5",
