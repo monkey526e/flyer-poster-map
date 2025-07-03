@@ -3396,9 +3396,9 @@
       "address": "諏訪町７",
       "latitude": 139.2903203,
       "altitude": 35.67775778,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 14:28:53"
     },
     {
       "id": "110-2",
@@ -5676,9 +5676,9 @@
       "address": "宇津木町５７先",
       "latitude": 139.3496206,
       "altitude": 35.68110056,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 14:28:03"
     },
     {
       "id": "182-3",
