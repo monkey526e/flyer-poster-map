@@ -2386,9 +2386,9 @@
       "address": "南大沢４－４７－９先",
       "latitude": 139.3751897,
       "altitude": 35.60588944,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:54:57"
     },
     {
       "id": "066-4",
@@ -3086,9 +3086,9 @@
       "address": "館町１１６３",
       "latitude": 139.2901244,
       "altitude": 35.63101639,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:54:55"
     },
     {
       "id": "100-7",
@@ -4236,9 +4236,9 @@
       "address": "犬目町５６",
       "latitude": 139.3077178,
       "altitude": 35.68861528,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:55:08"
     },
     {
       "id": "141-4",
@@ -5586,9 +5586,9 @@
       "address": "石川町４３８",
       "latitude": 139.3646453,
       "altitude": 35.68028056,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/03 12:55:58"
     },
     {
       "id": "181-2",
@@ -6379,9 +6379,9 @@
       "address": "東京都中央区東日本橋１丁目１０番１号",
       "latitude": 139.7868016,
       "altitude": 35.6921312,
-      "status": false,
-      "note": "",
-      "time": ""
+      "status": true,
+      "note": "完了 ",
+      "time": "2025/07/03 12:55:10"
     },
     {
       "id": "12-2",
