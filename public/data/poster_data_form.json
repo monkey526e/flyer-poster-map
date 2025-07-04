@@ -426,9 +426,9 @@
       "address": "子安町１－４１－３１先",
       "latitude": 139.3467003,
       "altitude": 35.65053083,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/04 11:42:26"
     },
     {
       "id": "006-7",
@@ -436,9 +436,9 @@
       "address": "子安町２－２２",
       "latitude": 139.3407281,
       "altitude": 35.64923944,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/04 11:42:47"
     },
     {
       "id": "006-8",
@@ -446,9 +446,9 @@
       "address": "子安町２－６－１",
       "latitude": 139.3444317,
       "altitude": 35.650905,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/04 11:43:04"
     },
     {
       "id": "006-9",
@@ -456,9 +456,9 @@
       "address": "子安町２－２２",
       "latitude": 139.3414567,
       "altitude": 35.64862472,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/04 11:43:19"
     },
     {
       "id": "007-1",
