@@ -1256,9 +1256,9 @@
       "address": "廿里町１１－１",
       "latitude": 139.2822964,
       "altitude": 35.64550167,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/04 15:24:01"
     },
     {
       "id": "032-1",
