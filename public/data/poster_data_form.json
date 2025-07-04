@@ -376,9 +376,9 @@
       "address": "子安町１－２２－２５",
       "latitude": 139.3441028,
       "altitude": 35.65236889,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/04 11:40:38"
     },
     {
       "id": "006-2",
@@ -386,9 +386,9 @@
       "address": "子安町２－２－１１",
       "latitude": 139.3403547,
       "altitude": 35.65116278,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/04 11:40:55"
     },
     {
       "id": "006-3",
@@ -396,9 +396,9 @@
       "address": "子安町２－１８－１",
       "latitude": 139.341165,
       "altitude": 35.65032667,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/04 11:41:16"
     },
     {
       "id": "006-4",
@@ -406,9 +406,9 @@
       "address": "子安町１－１２－８",
       "latitude": 139.3408933,
       "altitude": 35.65384139,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/04 11:41:33"
     },
     {
       "id": "006-5",
@@ -416,9 +416,9 @@
       "address": "片倉町５３３",
       "latitude": 139.3393294,
       "altitude": 35.64449833,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/04 11:41:49"
     },
     {
       "id": "006-6",
@@ -1596,9 +1596,9 @@
       "address": "上柚木１１７８先",
       "latitude": 139.3708242,
       "altitude": 35.62213389,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/04 11:39:59"
     },
     {
       "id": "041-4",
