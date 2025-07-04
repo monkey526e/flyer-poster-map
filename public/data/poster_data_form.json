@@ -186,9 +186,9 @@
       "address": "中町９－１１",
       "latitude": 139.3354092,
       "altitude": 35.65894611,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/04 9:32:05"
     },
     {
       "id": "003-6",
@@ -196,9 +196,9 @@
       "address": "子安町４－１３",
       "latitude": 139.3365131,
       "altitude": 35.65353944,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/04 9:32:19"
     },
     {
       "id": "003-7",
@@ -206,9 +206,9 @@
       "address": "寺町２９－１５",
       "latitude": 139.3320158,
       "altitude": 35.65575972,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/04 9:32:39"
     },
     {
       "id": "003-8",
@@ -216,9 +216,9 @@
       "address": "子安町４－３１",
       "latitude": 139.3350583,
       "altitude": 35.65216028,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/04 9:32:58"
     },
     {
       "id": "004-1",
