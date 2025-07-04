@@ -5246,9 +5246,9 @@
       "address": "北野町５６９－９先",
       "latitude": 139.3537722,
       "altitude": 35.64921861,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/04 13:14:17"
     },
     {
       "id": "170-7",
@@ -5256,9 +5256,9 @@
       "address": "北野町５９１－２",
       "latitude": 139.3540306,
       "altitude": 35.65294583,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/04 13:14:36"
     },
     {
       "id": "170-8",
