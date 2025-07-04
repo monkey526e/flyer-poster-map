@@ -1486,9 +1486,9 @@
       "address": "越野１３",
       "latitude": 139.3904819,
       "altitude": 35.62906944,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/04 11:26:27"
     },
     {
       "id": "040-2",
