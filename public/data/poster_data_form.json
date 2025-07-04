@@ -3626,9 +3626,9 @@
       "address": "元八王子町２－３３５５－４",
       "latitude": 139.2774178,
       "altitude": 35.66389889,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/04 13:07:52"
     },
     {
       "id": "113-3",
@@ -3636,9 +3636,9 @@
       "address": "元八王子町２－３３４４－４",
       "latitude": 139.2749983,
       "altitude": 35.66264722,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/04 13:07:41"
     },
     {
       "id": "113-4",
