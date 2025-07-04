@@ -2516,7 +2516,7 @@
       "address": "並木町１５－１５",
       "latitude": 139.300195,
       "altitude": 35.65126306,
-      "status": false,
+      "status": true,
       "note": "",
       "time": ""
     },
@@ -2526,7 +2526,7 @@
       "address": "並木町９－２７",
       "latitude": 139.3041047,
       "altitude": 35.65280583,
-      "status": false,
+      "status": true,
       "note": "",
       "time": ""
     },
@@ -2536,7 +2536,7 @@
       "address": "並木町３７－１８先",
       "latitude": 139.3059872,
       "altitude": 35.65526194,
-      "status": false,
+      "status": true,
       "note": "",
       "time": ""
     },
@@ -2546,7 +2546,7 @@
       "address": "長房町４２０－２",
       "latitude": 139.3023392,
       "altitude": 35.65626778,
-      "status": false,
+      "status": true,
       "note": "",
       "time": ""
     },
@@ -2556,7 +2556,7 @@
       "address": "並木町２４－１７",
       "latitude": 139.3005519,
       "altitude": 35.65295,
-      "status": false,
+      "status": true,
       "note": "",
       "time": ""
     },
@@ -2566,7 +2566,7 @@
       "address": "長房町５０６－２",
       "latitude": 139.2953408,
       "altitude": 35.65023,
-      "status": false,
+      "status": true,
       "note": "",
       "time": ""
     },
@@ -2736,7 +2736,7 @@
       "address": "長房町３０５－３先",
       "latitude": 139.2976703,
       "altitude": 35.65778306,
-      "status": false,
+      "status": true,
       "note": "",
       "time": ""
     },
@@ -2766,7 +2766,7 @@
       "address": "長房町７１３",
       "latitude": 139.2961567,
       "altitude": 35.65759833,
-      "status": false,
+      "status": true,
       "note": "",
       "time": ""
     },
