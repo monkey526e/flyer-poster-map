@@ -5196,9 +5196,9 @@
       "address": "北野町５８５－１",
       "latitude": 139.3583647,
       "altitude": 35.64950083,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/04 13:12:46"
     },
     {
       "id": "170-2",
@@ -5206,9 +5206,9 @@
       "address": "打越町３４８－１",
       "latitude": 139.3558933,
       "altitude": 35.64597917,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/04 13:13:03"
     },
     {
       "id": "170-3",
@@ -5216,9 +5216,9 @@
       "address": "打越町２０１２",
       "latitude": 139.3506097,
       "altitude": 35.64452778,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/04 13:13:24"
     },
     {
       "id": "170-4",
@@ -5226,9 +5226,9 @@
       "address": "北野町５４９－５",
       "latitude": 139.3530894,
       "altitude": 35.64596583,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/04 13:13:41"
     },
     {
       "id": "170-5",
@@ -5236,9 +5236,9 @@
       "address": "打越町３４９－１",
       "latitude": 139.3573778,
       "altitude": 35.64457667,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/04 13:14:00"
     },
     {
       "id": "170-6",
