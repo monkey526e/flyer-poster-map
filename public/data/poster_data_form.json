@@ -4056,9 +4056,9 @@
       "address": "小津町１３５",
       "latitude": 139.2466133,
       "altitude": 35.67689861,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/04 12:37:45"
     },
     {
       "id": "132-2",
@@ -4066,9 +4066,9 @@
       "address": "小津町５６０",
       "latitude": 139.2353608,
       "altitude": 35.67894944,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/04 12:37:57"
     },
     {
       "id": "133-1",
@@ -5406,9 +5406,9 @@
       "address": "北野台１－１",
       "latitude": 139.3564544,
       "altitude": 35.63535139,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/04 12:38:15"
     },
     {
       "id": "172-7",
