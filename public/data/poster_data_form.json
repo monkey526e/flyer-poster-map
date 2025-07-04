@@ -2976,9 +2976,9 @@
       "address": "長房町５８８",
       "latitude": 139.2949075,
       "altitude": 35.65581417,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/04 15:59:30"
     },
     {
       "id": "087-2",
@@ -2986,9 +2986,9 @@
       "address": "長房町５８８",
       "latitude": 139.2916944,
       "altitude": 35.65362667,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/04 15:59:44"
     },
     {
       "id": "087-3",
@@ -2996,9 +2996,9 @@
       "address": "長房町５８８",
       "latitude": 139.2920711,
       "altitude": 35.65279917,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/04 15:59:57"
     },
     {
       "id": "087-4",
