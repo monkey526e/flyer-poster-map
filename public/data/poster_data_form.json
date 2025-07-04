@@ -5266,7 +5266,7 @@
       "address": "北野町５１３－２２先",
       "latitude": 139.3497056,
       "altitude": 35.65186917,
-      "status": false,
+      "status": true,
       "note": "",
       "time": ""
     },
@@ -5306,7 +5306,7 @@
       "address": "長沼町８１０先",
       "latitude": 139.3613408,
       "altitude": 35.64416139,
-      "status": false,
+      "status": true,
       "note": "",
       "time": ""
     },
