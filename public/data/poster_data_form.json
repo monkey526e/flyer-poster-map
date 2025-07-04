@@ -1496,9 +1496,9 @@
       "address": "越野４",
       "latitude": 139.3864308,
       "altitude": 35.62920556,
-      "status": false,
+      "status": true,
       "note": "",
-      "time": ""
+      "time": "2025/07/04 11:33:03"
     },
     {
       "id": "040-3",
