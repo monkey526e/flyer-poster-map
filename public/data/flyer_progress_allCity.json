@@ -1,12 +1,12 @@
 {
   "東京都": {
     "全市区町村": {
-      "flyer_count": 10000,
+      "flyer_count": 0,
       "households": 6608273,
-      "flyer_progress": 0.02
+      "flyer_progress": 0.0
     },
     "中野区": {
-      "flyer_count": 208093,
+      "flyer_count": 0,
       "households": 208093,
       "flyer_progress": 0.0
     },
@@ -133,7 +133,7 @@
     "武蔵野市": {
       "flyer_count": 0,
       "households": 78054,
-      "flyer_progress": 0.0
+      "flyer_progress": 0
     },
     "三鷹市": {
       "flyer_count": 0,
@@ -181,9 +181,9 @@
       "flyer_progress": 0
     },
     "東村山市": {
-      "flyer_count": 200,
+      "flyer_count": 0,
       "households": 68478,
-      "flyer_progress": 0.00292
+      "flyer_progress": 0
     },
     "国分寺市": {
       "flyer_count": 0,
@@ -295,7 +295,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 2476846,
-      "flyer_progress": 0.02
+      "flyer_progress": 0.0
     },
     "札幌市中央区": {
       "flyer_count": 0,
@@ -2335,7 +2335,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 3238301,
-      "flyer_progress": 0.007
+      "flyer_progress": 0
     },
     "名古屋市千種区": {
       "flyer_count": 0,
@@ -2468,9 +2468,9 @@
       "flyer_progress": 0
     },
     "豊田市": {
-      "flyer_count": 100,
+      "flyer_count": 0,
       "households": 176840,
-      "flyer_progress": 0.00057
+      "flyer_progress": 0
     },
     "安城市": {
       "flyer_count": 0,
@@ -2588,9 +2588,9 @@
       "flyer_progress": 0
     },
     "みよし市": {
-      "flyer_count": 300,
+      "flyer_count": 0,
       "households": 24129,
-      "flyer_progress": 0.01243
+      "flyer_progress": 0
     },
     "あま市": {
       "flyer_count": 0,
@@ -2680,6 +2680,857 @@
     "豊根村": {
       "flyer_count": 0,
       "households": 437,
+      "flyer_progress": 0
+    }
+  },
+  "京都": {
+    "全市区町村": {
+      "flyer_count": 0,
+      "households": 1190527,
+      "flyer_progress": 0
+    },
+    "京都市北区": {
+      "flyer_count": 0,
+      "households": 57187,
+      "flyer_progress": 0
+    },
+    "京都市上京区": {
+      "flyer_count": 0,
+      "households": 48004,
+      "flyer_progress": 0
+    },
+    "京都市左京区": {
+      "flyer_count": 0,
+      "households": 85726,
+      "flyer_progress": 0
+    },
+    "京都市中京区": {
+      "flyer_count": 0,
+      "households": 60634,
+      "flyer_progress": 0
+    },
+    "京都市東山区": {
+      "flyer_count": 0,
+      "households": 20562,
+      "flyer_progress": 0
+    },
+    "京都市下京区": {
+      "flyer_count": 0,
+      "households": 48309,
+      "flyer_progress": 0
+    },
+    "京都市南区": {
+      "flyer_count": 0,
+      "households": 50485,
+      "flyer_progress": 0
+    },
+    "京都市右京区": {
+      "flyer_count": 0,
+      "households": 97849,
+      "flyer_progress": 0
+    },
+    "京都市伏見区": {
+      "flyer_count": 0,
+      "households": 131284,
+      "flyer_progress": 0
+    },
+    "京都市山科区": {
+      "flyer_count": 0,
+      "households": 64402,
+      "flyer_progress": 0
+    },
+    "京都市西京区": {
+      "flyer_count": 0,
+      "households": 65082,
+      "flyer_progress": 0
+    },
+    "福知山市": {
+      "flyer_count": 0,
+      "households": 33632,
+      "flyer_progress": 0
+    },
+    "舞鶴市": {
+      "flyer_count": 0,
+      "households": 35188,
+      "flyer_progress": 0
+    },
+    "綾部市": {
+      "flyer_count": 0,
+      "households": 13735,
+      "flyer_progress": 0
+    },
+    "宇治市": {
+      "flyer_count": 0,
+      "households": 73595,
+      "flyer_progress": 0
+    },
+    "宮津市": {
+      "flyer_count": 0,
+      "households": 7292,
+      "flyer_progress": 0
+    },
+    "亀岡市": {
+      "flyer_count": 0,
+      "households": 34431,
+      "flyer_progress": 0
+    },
+    "城陽市": {
+      "flyer_count": 0,
+      "households": 30484,
+      "flyer_progress": 0
+    },
+    "向日市": {
+      "flyer_count": 0,
+      "households": 23525,
+      "flyer_progress": 0
+    },
+    "長岡京市": {
+      "flyer_count": 0,
+      "households": 33728,
+      "flyer_progress": 0
+    },
+    "八幡市": {
+      "flyer_count": 0,
+      "households": 30554,
+      "flyer_progress": 0
+    },
+    "京田辺市": {
+      "flyer_count": 0,
+      "households": 31693,
+      "flyer_progress": 0
+    },
+    "京丹後市": {
+      "flyer_count": 0,
+      "households": 20138,
+      "flyer_progress": 0
+    },
+    "南丹市": {
+      "flyer_count": 0,
+      "households": 13195,
+      "flyer_progress": 0
+    },
+    "木津川市": {
+      "flyer_count": 0,
+      "households": 29802,
+      "flyer_progress": 0
+    },
+    "大山崎町": {
+      "flyer_count": 0,
+      "households": 6549,
+      "flyer_progress": 0
+    },
+    "久御山町": {
+      "flyer_count": 0,
+      "households": 6322,
+      "flyer_progress": 0
+    },
+    "井手町": {
+      "flyer_count": 0,
+      "households": 3161,
+      "flyer_progress": 0
+    },
+    "宇治田原町": {
+      "flyer_count": 0,
+      "households": 3421,
+      "flyer_progress": 0
+    },
+    "笠置町": {
+      "flyer_count": 0,
+      "households": 522,
+      "flyer_progress": 0
+    },
+    "和束町": {
+      "flyer_count": 0,
+      "households": 1379,
+      "flyer_progress": 0
+    },
+    "精華町": {
+      "flyer_count": 0,
+      "households": 13530,
+      "flyer_progress": 0
+    },
+    "南山城村": {
+      "flyer_count": 0,
+      "households": 1023,
+      "flyer_progress": 0
+    },
+    "京丹波町": {
+      "flyer_count": 0,
+      "households": 5217,
+      "flyer_progress": 0
+    },
+    "伊根町": {
+      "flyer_count": 0,
+      "households": 849,
+      "flyer_progress": 0
+    },
+    "与謝野町": {
+      "flyer_count": 0,
+      "households": 8038,
+      "flyer_progress": 0
+    }
+  },
+  "埼玉": {
+    "全市区町村": {
+      "flyer_count": 0,
+      "households": 3162743,
+      "flyer_progress": 0
+    },
+    "さいたま市西区": {
+      "flyer_count": 0,
+      "households": 38197,
+      "flyer_progress": 0
+    },
+    "さいたま市北区": {
+      "flyer_count": 0,
+      "households": 66563,
+      "flyer_progress": 0
+    },
+    "さいたま市大宮区": {
+      "flyer_count": 0,
+      "households": 55188,
+      "flyer_progress": 0
+    },
+    "さいたま市見沼区": {
+      "flyer_count": 0,
+      "households": 70603,
+      "flyer_progress": 0
+    },
+    "さいたま市中央区": {
+      "flyer_count": 0,
+      "households": 47770,
+      "flyer_progress": 0
+    },
+    "さいたま市桜区": {
+      "flyer_count": 0,
+      "households": 46374,
+      "flyer_progress": 0
+    },
+    "さいたま市浦和区": {
+      "flyer_count": 0,
+      "households": 74499,
+      "flyer_progress": 0
+    },
+    "さいたま市南区": {
+      "flyer_count": 0,
+      "households": 86081,
+      "flyer_progress": 0
+    },
+    "さいたま市緑区": {
+      "flyer_count": 0,
+      "households": 50836,
+      "flyer_progress": 0
+    },
+    "さいたま市岩槻区": {
+      "flyer_count": 0,
+      "households": 46364,
+      "flyer_progress": 0
+    },
+    "川越市": {
+      "flyer_count": 0,
+      "households": 153376,
+      "flyer_progress": 0
+    },
+    "熊谷市": {
+      "flyer_count": 0,
+      "households": 80153,
+      "flyer_progress": 0
+    },
+    "川口市": {
+      "flyer_count": 0,
+      "households": 267141,
+      "flyer_progress": 0
+    },
+    "行田市": {
+      "flyer_count": 0,
+      "households": 31876,
+      "flyer_progress": 0
+    },
+    "秩父市": {
+      "flyer_count": 0,
+      "households": 23922,
+      "flyer_progress": 0
+    },
+    "所沢市": {
+      "flyer_count": 0,
+      "households": 152652,
+      "flyer_progress": 0
+    },
+    "飯能市": {
+      "flyer_count": 0,
+      "households": 33563,
+      "flyer_progress": 0
+    },
+    "加須市": {
+      "flyer_count": 0,
+      "households": 44295,
+      "flyer_progress": 0
+    },
+    "本庄市": {
+      "flyer_count": 0,
+      "households": 33033,
+      "flyer_progress": 0
+    },
+    "東松山市": {
+      "flyer_count": 0,
+      "households": 39797,
+      "flyer_progress": 0
+    },
+    "春日部市": {
+      "flyer_count": 0,
+      "households": 97638,
+      "flyer_progress": 0
+    },
+    "狭山市": {
+      "flyer_count": 0,
+      "households": 63776,
+      "flyer_progress": 0
+    },
+    "羽生市": {
+      "flyer_count": 0,
+      "households": 21159,
+      "flyer_progress": 0
+    },
+    "鴻巣市": {
+      "flyer_count": 0,
+      "households": 47499,
+      "flyer_progress": 0
+    },
+    "深谷市": {
+      "flyer_count": 0,
+      "households": 55854,
+      "flyer_progress": 0
+    },
+    "上尾市": {
+      "flyer_count": 0,
+      "households": 96559,
+      "flyer_progress": 0
+    },
+    "草加市": {
+      "flyer_count": 0,
+      "households": 111923,
+      "flyer_progress": 0
+    },
+    "越谷市": {
+      "flyer_count": 0,
+      "households": 142774,
+      "flyer_progress": 0
+    },
+    "蕨市": {
+      "flyer_count": 0,
+      "households": 36827,
+      "flyer_progress": 0
+    },
+    "戸田市": {
+      "flyer_count": 0,
+      "households": 64319,
+      "flyer_progress": 0
+    },
+    "入間市": {
+      "flyer_count": 0,
+      "households": 61222,
+      "flyer_progress": 0
+    },
+    "朝霞市": {
+      "flyer_count": 0,
+      "households": 62663,
+      "flyer_progress": 0
+    },
+    "志木市": {
+      "flyer_count": 0,
+      "households": 32730,
+      "flyer_progress": 0
+    },
+    "和光市": {
+      "flyer_count": 0,
+      "households": 39889,
+      "flyer_progress": 0
+    },
+    "新座市": {
+      "flyer_count": 0,
+      "households": 73686,
+      "flyer_progress": 0
+    },
+    "桶川市": {
+      "flyer_count": 0,
+      "households": 30918,
+      "flyer_progress": 0
+    },
+    "久喜市": {
+      "flyer_count": 0,
+      "households": 62578,
+      "flyer_progress": 0
+    },
+    "北本市": {
+      "flyer_count": 0,
+      "households": 27403,
+      "flyer_progress": 0
+    },
+    "八潮市": {
+      "flyer_count": 0,
+      "households": 42183,
+      "flyer_progress": 0
+    },
+    "富士見市": {
+      "flyer_count": 0,
+      "households": 50979,
+      "flyer_progress": 0
+    },
+    "三郷市": {
+      "flyer_count": 0,
+      "households": 60829,
+      "flyer_progress": 0
+    },
+    "蓮田市": {
+      "flyer_count": 0,
+      "households": 25474,
+      "flyer_progress": 0
+    },
+    "坂戸市": {
+      "flyer_count": 0,
+      "households": 44555,
+      "flyer_progress": 0
+    },
+    "幸手市": {
+      "flyer_count": 0,
+      "households": 20851,
+      "flyer_progress": 0
+    },
+    "鶴ヶ島市": {
+      "flyer_count": 0,
+      "households": 30537,
+      "flyer_progress": 0
+    },
+    "日高市": {
+      "flyer_count": 0,
+      "households": 22379,
+      "flyer_progress": 0
+    },
+    "吉川市": {
+      "flyer_count": 0,
+      "households": 27901,
+      "flyer_progress": 0
+    },
+    "ふじみ野市": {
+      "flyer_count": 0,
+      "households": 49395,
+      "flyer_progress": 0
+    },
+    "白岡市": {
+      "flyer_count": 0,
+      "households": 20513,
+      "flyer_progress": 0
+    },
+    "伊奈町": {
+      "flyer_count": 0,
+      "households": 17812,
+      "flyer_progress": 0
+    },
+    "三芳町": {
+      "flyer_count": 0,
+      "households": 15035,
+      "flyer_progress": 0
+    },
+    "毛呂山町": {
+      "flyer_count": 0,
+      "households": 15764,
+      "flyer_progress": 0
+    },
+    "越生町": {
+      "flyer_count": 0,
+      "households": 4587,
+      "flyer_progress": 0
+    },
+    "滑川町": {
+      "flyer_count": 0,
+      "households": 7650,
+      "flyer_progress": 0
+    },
+    "嵐山町": {
+      "flyer_count": 0,
+      "households": 7421,
+      "flyer_progress": 0
+    },
+    "小川町": {
+      "flyer_count": 0,
+      "households": 11781,
+      "flyer_progress": 0
+    },
+    "川島町": {
+      "flyer_count": 0,
+      "households": 7269,
+      "flyer_progress": 0
+    },
+    "吉見町": {
+      "flyer_count": 0,
+      "households": 6864,
+      "flyer_progress": 0
+    },
+    "鳩山町": {
+      "flyer_count": 0,
+      "households": 5399,
+      "flyer_progress": 0
+    },
+    "ときがわ町": {
+      "flyer_count": 0,
+      "households": 4201,
+      "flyer_progress": 0
+    },
+    "横瀬町": {
+      "flyer_count": 0,
+      "households": 3080,
+      "flyer_progress": 0
+    },
+    "皆野町": {
+      "flyer_count": 0,
+      "households": 3584,
+      "flyer_progress": 0
+    },
+    "長瀞町": {
+      "flyer_count": 0,
+      "households": 2605,
+      "flyer_progress": 0
+    },
+    "小鹿野町": {
+      "flyer_count": 0,
+      "households": 4170,
+      "flyer_progress": 0
+    },
+    "東秩父村": {
+      "flyer_count": 0,
+      "households": 990,
+      "flyer_progress": 0
+    },
+    "美里町": {
+      "flyer_count": 0,
+      "households": 3854,
+      "flyer_progress": 0
+    },
+    "神川町": {
+      "flyer_count": 0,
+      "households": 5220,
+      "flyer_progress": 0
+    },
+    "上里町": {
+      "flyer_count": 0,
+      "households": 11856,
+      "flyer_progress": 0
+    },
+    "寄居町": {
+      "flyer_count": 0,
+      "households": 13287,
+      "flyer_progress": 0
+    },
+    "宮代町": {
+      "flyer_count": 0,
+      "households": 14572,
+      "flyer_progress": 0
+    },
+    "杉戸町": {
+      "flyer_count": 0,
+      "households": 17706,
+      "flyer_progress": 0
+    },
+    "松伏町": {
+      "flyer_count": 0,
+      "households": 10740,
+      "flyer_progress": 0
+    }
+  },
+  "神奈川": {
+    "全市区町村": {
+      "flyer_count": 0,
+      "households": 4223706,
+      "flyer_progress": 0
+    },
+    "横浜市鶴見区": {
+      "flyer_count": 0,
+      "households": 145586,
+      "flyer_progress": 0
+    },
+    "横浜市神奈川区": {
+      "flyer_count": 0,
+      "households": 129183,
+      "flyer_progress": 0
+    },
+    "横浜市西区": {
+      "flyer_count": 0,
+      "households": 57054,
+      "flyer_progress": 0
+    },
+    "横浜市中区": {
+      "flyer_count": 0,
+      "households": 85108,
+      "flyer_progress": 0
+    },
+    "横浜市南区": {
+      "flyer_count": 0,
+      "households": 103719,
+      "flyer_progress": 0
+    },
+    "横浜市保土ケ谷区": {
+      "flyer_count": 0,
+      "households": 99126,
+      "flyer_progress": 0
+    },
+    "横浜市磯子区": {
+      "flyer_count": 0,
+      "households": 78731,
+      "flyer_progress": 0
+    },
+    "横浜市金沢区": {
+      "flyer_count": 0,
+      "households": 89869,
+      "flyer_progress": 0
+    },
+    "横浜市港北区": {
+      "flyer_count": 0,
+      "households": 175521,
+      "flyer_progress": 0
+    },
+    "横浜市戸塚区": {
+      "flyer_count": 0,
+      "households": 122053,
+      "flyer_progress": 0
+    },
+    "横浜市港南区": {
+      "flyer_count": 0,
+      "households": 95526,
+      "flyer_progress": 0
+    },
+    "横浜市旭区": {
+      "flyer_count": 0,
+      "households": 107049,
+      "flyer_progress": 0
+    },
+    "横浜市緑区": {
+      "flyer_count": 0,
+      "households": 79411,
+      "flyer_progress": 0
+    },
+    "横浜市瀬谷区": {
+      "flyer_count": 0,
+      "households": 52414,
+      "flyer_progress": 0
+    },
+    "横浜市栄区": {
+      "flyer_count": 0,
+      "households": 52592,
+      "flyer_progress": 0
+    },
+    "横浜市泉区": {
+      "flyer_count": 0,
+      "households": 62847,
+      "flyer_progress": 0
+    },
+    "横浜市青葉区": {
+      "flyer_count": 0,
+      "households": 132819,
+      "flyer_progress": 0
+    },
+    "横浜市都筑区": {
+      "flyer_count": 0,
+      "households": 84473,
+      "flyer_progress": 0
+    },
+    "川崎市川崎区": {
+      "flyer_count": 0,
+      "households": 123515,
+      "flyer_progress": 0
+    },
+    "川崎市幸区": {
+      "flyer_count": 0,
+      "households": 80088,
+      "flyer_progress": 0
+    },
+    "川崎市中原区": {
+      "flyer_count": 0,
+      "households": 134763,
+      "flyer_progress": 0
+    },
+    "川崎市高津区": {
+      "flyer_count": 0,
+      "households": 113791,
+      "flyer_progress": 0
+    },
+    "川崎市多摩区": {
+      "flyer_count": 0,
+      "households": 113583,
+      "flyer_progress": 0
+    },
+    "川崎市宮前区": {
+      "flyer_count": 0,
+      "households": 102317,
+      "flyer_progress": 0
+    },
+    "川崎市麻生区": {
+      "flyer_count": 0,
+      "households": 79395,
+      "flyer_progress": 0
+    },
+    "相模原市緑区": {
+      "flyer_count": 0,
+      "households": 74962,
+      "flyer_progress": 0
+    },
+    "相模原市中央区": {
+      "flyer_count": 0,
+      "households": 124877,
+      "flyer_progress": 0
+    },
+    "相模原市南区": {
+      "flyer_count": 0,
+      "households": 132931,
+      "flyer_progress": 0
+    },
+    "横須賀市": {
+      "flyer_count": 0,
+      "households": 165473,
+      "flyer_progress": 0
+    },
+    "平塚市": {
+      "flyer_count": 0,
+      "households": 112191,
+      "flyer_progress": 0
+    },
+    "鎌倉市": {
+      "flyer_count": 0,
+      "households": 75722,
+      "flyer_progress": 0
+    },
+    "藤沢市": {
+      "flyer_count": 0,
+      "households": 193204,
+      "flyer_progress": 0
+    },
+    "小田原市": {
+      "flyer_count": 0,
+      "households": 81864,
+      "flyer_progress": 0
+    },
+    "茅ヶ崎市": {
+      "flyer_count": 0,
+      "households": 102532,
+      "flyer_progress": 0
+    },
+    "逗子市": {
+      "flyer_count": 0,
+      "households": 24869,
+      "flyer_progress": 0
+    },
+    "三浦市": {
+      "flyer_count": 0,
+      "households": 17210,
+      "flyer_progress": 0
+    },
+    "秦野市": {
+      "flyer_count": 0,
+      "households": 70478,
+      "flyer_progress": 0
+    },
+    "厚木市": {
+      "flyer_count": 0,
+      "households": 100360,
+      "flyer_progress": 0
+    },
+    "大和市": {
+      "flyer_count": 0,
+      "households": 110519,
+      "flyer_progress": 0
+    },
+    "伊勢原市": {
+      "flyer_count": 0,
+      "households": 45361,
+      "flyer_progress": 0
+    },
+    "海老名市": {
+      "flyer_count": 0,
+      "households": 58339,
+      "flyer_progress": 0
+    },
+    "座間市": {
+      "flyer_count": 0,
+      "households": 60257,
+      "flyer_progress": 0
+    },
+    "南足柄市": {
+      "flyer_count": 0,
+      "households": 16285,
+      "flyer_progress": 0
+    },
+    "綾瀬市": {
+      "flyer_count": 0,
+      "households": 34879,
+      "flyer_progress": 0
+    },
+    "葉山町": {
+      "flyer_count": 0,
+      "households": 12932,
+      "flyer_progress": 0
+    },
+    "寒川町": {
+      "flyer_count": 0,
+      "households": 19862,
+      "flyer_progress": 0
+    },
+    "大磯町": {
+      "flyer_count": 0,
+      "households": 12706,
+      "flyer_progress": 0
+    },
+    "二宮町": {
+      "flyer_count": 0,
+      "households": 11552,
+      "flyer_progress": 0
+    },
+    "中井町": {
+      "flyer_count": 0,
+      "households": 3436,
+      "flyer_progress": 0
+    },
+    "大井町": {
+      "flyer_count": 0,
+      "households": 6683,
+      "flyer_progress": 0
+    },
+    "松田町": {
+      "flyer_count": 0,
+      "households": 4572,
+      "flyer_progress": 0
+    },
+    "山北町": {
+      "flyer_count": 0,
+      "households": 3936,
+      "flyer_progress": 0
+    },
+    "開成町": {
+      "flyer_count": 0,
+      "households": 6936,
+      "flyer_progress": 0
+    },
+    "箱根町": {
+      "flyer_count": 0,
+      "households": 6360,
+      "flyer_progress": 0
+    },
+    "真鶴町": {
+      "flyer_count": 0,
+      "households": 2963,
+      "flyer_progress": 0
+    },
+    "湯河原町": {
+      "flyer_count": 0,
+      "households": 10696,
+      "flyer_progress": 0
+    },
+    "愛川町": {
+      "flyer_count": 0,
+      "households": 17099,
+      "flyer_progress": 0
+    },
+    "清川村": {
+      "flyer_count": 0,
+      "households": 1127,
       "flyer_progress": 0
     }
   }
