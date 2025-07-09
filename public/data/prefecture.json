@@ -3,10 +3,12 @@
     "prefecture": "北海道",
     "center": [
       43.06417,
-      141.34694
+      142.34694
     ],
-    "map_zoom": 13,
-    "id": 1
+    "map_zoom": 6,
+    "id": 1,
+    "population": 5093983,
+    "households": 2809828
   },
   "青森県": {
     "prefecture": "青森県",
@@ -14,8 +16,10 @@
       40.82444,
       140.74
     ],
-    "map_zoom": 13,
-    "id": 2
+    "map_zoom": 8,
+    "id": 2,
+    "population": 1205578,
+    "households": 593591
   },
   "岩手県": {
     "prefecture": "岩手県",
@@ -23,8 +27,10 @@
       39.70361,
       141.1525
     ],
-    "map_zoom": 13,
-    "id": 3
+    "map_zoom": 8,
+    "id": 3,
+    "population": 1172349,
+    "households": 534717
   },
   "宮城県": {
     "prefecture": "宮城県",
@@ -33,7 +39,9 @@
       140.8725
     ],
     "map_zoom": 8,
-    "id": 4
+    "id": 4,
+    "population": 2242389,
+    "households": 1044637
   },
   "秋田県": {
     "prefecture": "秋田県",
@@ -41,8 +49,10 @@
       39.71861,
       140.1025
     ],
-    "map_zoom": 13,
-    "id": 5
+    "map_zoom": 8,
+    "id": 5,
+    "population": 924620,
+    "households": 424568
   },
   "山形県": {
     "prefecture": "山形県",
@@ -50,8 +60,10 @@
       38.24056,
       140.36333
     ],
-    "map_zoom": 13,
-    "id": 6
+    "map_zoom": 8,
+    "id": 6,
+    "population": 1027509,
+    "households": 422118
   },
   "福島県": {
     "prefecture": "福島県",
@@ -59,8 +71,10 @@
       37.75,
       140.46778
     ],
-    "map_zoom": 13,
-    "id": 7
+    "map_zoom": 8,
+    "id": 7,
+    "population": 1795219,
+    "households": 798738
   },
   "茨城県": {
     "prefecture": "茨城県",
@@ -68,8 +82,10 @@
       36.34139,
       140.44667
     ],
-    "map_zoom": 13,
-    "id": 8
+    "map_zoom": 8,
+    "id": 8,
+    "population": 2865690,
+    "households": 1314563
   },
   "栃木県": {
     "prefecture": "栃木県",
@@ -77,8 +93,10 @@
       36.56583,
       139.88361
     ],
-    "map_zoom": 13,
-    "id": 9
+    "map_zoom": 8,
+    "id": 9,
+    "population": 1916787,
+    "households": 868242
   },
   "群馬県": {
     "prefecture": "群馬県",
@@ -86,8 +104,10 @@
       36.39111,
       139.06083
     ],
-    "map_zoom": 13,
-    "id": 10
+    "map_zoom": 8,
+    "id": 10,
+    "population": 1919232,
+    "households": 881107
   },
   "埼玉県": {
     "prefecture": "埼玉県",
@@ -95,8 +115,10 @@
       35.85694,
       139.64889
     ],
-    "map_zoom": 13,
-    "id": 11
+    "map_zoom": 8,
+    "id": 11,
+    "population": 7378639,
+    "households": 3511768
   },
   "千葉県": {
     "prefecture": "千葉県",
@@ -104,17 +126,21 @@
       35.60472,
       140.12333
     ],
-    "map_zoom": 13,
-    "id": 12
+    "map_zoom": 8,
+    "id": 12,
+    "population": 6310158,
+    "households": 3061704
   },
   "東京都": {
     "prefecture": "東京都",
     "center": [
-      35.68944,
-      139.69167
+      35.689,
+      139.481
     ],
-    "map_zoom": 13,
-    "id": 13
+    "map_zoom": 9,
+    "id": 13,
+    "population": 13911902,
+    "households": 7563383
   },
   "神奈川県": {
     "prefecture": "神奈川県",
@@ -122,8 +148,10 @@
       35.44778,
       139.6425
     ],
-    "map_zoom": 13,
-    "id": 14
+    "map_zoom": 8,
+    "id": 14,
+    "population": 9208688,
+    "households": 4557670
   },
   "新潟県": {
     "prefecture": "新潟県",
@@ -131,8 +159,10 @@
       37.90222,
       139.02361
     ],
-    "map_zoom": 13,
-    "id": 15
+    "map_zoom": 8,
+    "id": 15,
+    "population": 2137672,
+    "households": 917654
   },
   "富山県": {
     "prefecture": "富山県",
@@ -140,8 +170,10 @@
       36.69528,
       137.21139
     ],
-    "map_zoom": 13,
-    "id": 16
+    "map_zoom": 8,
+    "id": 16,
+    "population": 1019004,
+    "households": 433664
   },
   "石川県": {
     "prefecture": "石川県",
@@ -149,8 +181,10 @@
       36.59444,
       136.62556
     ],
-    "map_zoom": 13,
-    "id": 17
+    "map_zoom": 8,
+    "id": 17,
+    "population": 1109226,
+    "households": 500194
   },
   "福井県": {
     "prefecture": "福井県",
@@ -158,8 +192,10 @@
       36.06528,
       136.22194
     ],
-    "map_zoom": 13,
-    "id": 18
+    "map_zoom": 8,
+    "id": 18,
+    "population": 752390,
+    "households": 303705
   },
   "山梨県": {
     "prefecture": "山梨県",
@@ -167,8 +203,10 @@
       35.66389,
       138.56833
     ],
-    "map_zoom": 13,
-    "id": 19
+    "map_zoom": 8,
+    "id": 19,
+    "population": 806369,
+    "households": 374238
   },
   "長野県": {
     "prefecture": "長野県",
@@ -176,8 +214,10 @@
       36.65139,
       138.18111
     ],
-    "map_zoom": 13,
-    "id": 20
+    "map_zoom": 8,
+    "id": 20,
+    "population": 2028135,
+    "households": 897360
   },
   "岐阜県": {
     "prefecture": "岐阜県",
@@ -185,8 +225,10 @@
       35.39111,
       136.72222
     ],
-    "map_zoom": 13,
-    "id": 21
+    "map_zoom": 8,
+    "id": 21,
+    "population": 1967862,
+    "households": 853904
   },
   "静岡県": {
     "prefecture": "静岡県",
@@ -194,17 +236,21 @@
       34.97694,
       138.38306
     ],
-    "map_zoom": 13,
-    "id": 22
+    "map_zoom": 8,
+    "id": 22,
+    "population": 3606469,
+    "households": 1644355
   },
   "愛知県": {
     "prefecture": "愛知県",
     "center": [
-      35.18028,
-      136.90667
+      35.08028,
+      137.20667
     ],
-    "map_zoom": 13,
-    "id": 23
+    "map_zoom": 9,
+    "id": 23,
+    "population": 7500882,
+    "households": 3461470
   },
   "三重県": {
     "prefecture": "三重県",
@@ -212,8 +258,10 @@
       34.73028,
       136.50861
     ],
-    "map_zoom": 13,
-    "id": 24
+    "map_zoom": 8,
+    "id": 24,
+    "population": 1757527,
+    "households": 817486
   },
   "滋賀県": {
     "prefecture": "滋賀県",
@@ -221,8 +269,10 @@
       35.00444,
       135.86833
     ],
-    "map_zoom": 13,
-    "id": 25
+    "map_zoom": 8,
+    "id": 25,
+    "population": 1410534,
+    "households": 617522
   },
   "京都府": {
     "prefecture": "京都府",
@@ -230,8 +280,10 @@
       35.02139,
       135.75556
     ],
-    "map_zoom": 13,
-    "id": 26
+    "map_zoom": 8,
+    "id": 26,
+    "population": 2488075,
+    "households": 1255136
   },
   "大阪府": {
     "prefecture": "大阪府",
@@ -239,8 +291,10 @@
       34.68639,
       135.52
     ],
-    "map_zoom": 13,
-    "id": 27
+    "map_zoom": 9,
+    "id": 27,
+    "population": 8775708,
+    "households": 4512354
   },
   "兵庫県": {
     "prefecture": "兵庫県",
@@ -248,8 +302,10 @@
       34.69139,
       135.18306
     ],
-    "map_zoom": 13,
-    "id": 28
+    "map_zoom": 8,
+    "id": 28,
+    "population": 5426863,
+    "households": 2615161
   },
   "奈良県": {
     "prefecture": "奈良県",
@@ -257,8 +313,10 @@
       34.68528,
       135.83278
     ],
-    "map_zoom": 13,
-    "id": 29
+    "map_zoom": 8,
+    "id": 29,
+    "population": 1315207,
+    "households": 610533
   },
   "和歌山県": {
     "prefecture": "和歌山県",
@@ -266,8 +324,10 @@
       34.22611,
       135.1675
     ],
-    "map_zoom": 13,
-    "id": 30
+    "map_zoom": 8,
+    "id": 30,
+    "population": 913297,
+    "households": 443513
   },
   "鳥取県": {
     "prefecture": "鳥取県",
@@ -275,8 +335,10 @@
       35.50361,
       134.23833
     ],
-    "map_zoom": 13,
-    "id": 31
+    "map_zoom": 8,
+    "id": 31,
+    "population": 540207,
+    "households": 241006
   },
   "島根県": {
     "prefecture": "島根県",
@@ -284,8 +346,10 @@
       35.47222,
       133.05056
     ],
-    "map_zoom": 13,
-    "id": 32
+    "map_zoom": 8,
+    "id": 32,
+    "population": 650624,
+    "households": 293776
   },
   "岡山県": {
     "prefecture": "岡山県",
@@ -293,8 +357,10 @@
       34.66167,
       133.935
     ],
-    "map_zoom": 13,
-    "id": 33
+    "map_zoom": 8,
+    "id": 33,
+    "population": 1851125,
+    "households": 870444
   },
   "広島県": {
     "prefecture": "広島県",
@@ -302,8 +368,10 @@
       34.39639,
       132.45944
     ],
-    "map_zoom": 13,
-    "id": 34
+    "map_zoom": 8,
+    "id": 34,
+    "population": 2750540,
+    "households": 1340297
   },
   "山口県": {
     "prefecture": "山口県",
@@ -311,8 +379,10 @@
       34.18583,
       131.47139
     ],
-    "map_zoom": 13,
-    "id": 35
+    "map_zoom": 8,
+    "id": 35,
+    "population": 1310109,
+    "households": 658901
   },
   "徳島県": {
     "prefecture": "徳島県",
@@ -320,8 +390,10 @@
       34.06583,
       134.55944
     ],
-    "map_zoom": 13,
-    "id": 36
+    "map_zoom": 8,
+    "id": 36,
+    "population": 710012,
+    "households": 338837
   },
   "香川県": {
     "prefecture": "香川県",
@@ -329,8 +401,10 @@
       34.34028,
       134.04333
     ],
-    "map_zoom": 13,
-    "id": 37
+    "map_zoom": 8,
+    "id": 37,
+    "population": 948585,
+    "households": 450133
   },
   "愛媛県": {
     "prefecture": "愛媛県",
@@ -338,8 +412,10 @@
       33.84167,
       132.76611
     ],
-    "map_zoom": 13,
-    "id": 38
+    "map_zoom": 8,
+    "id": 38,
+    "population": 1312298,
+    "households": 657416
   },
   "高知県": {
     "prefecture": "高知県",
@@ -347,17 +423,21 @@
       33.55972,
       133.53111
     ],
-    "map_zoom": 13,
-    "id": 39
+    "map_zoom": 8,
+    "id": 39,
+    "population": 675623,
+    "households": 349119
   },
   "福岡県": {
     "prefecture": "福岡県",
     "center": [
       33.60639,
-      130.41806
+      130.71806
     ],
-    "map_zoom": 13,
-    "id": 40
+    "map_zoom": 9,
+    "id": 40,
+    "population": 5095379,
+    "households": 2544108
   },
   "佐賀県": {
     "prefecture": "佐賀県",
@@ -365,8 +445,10 @@
       33.24944,
       130.29889
     ],
-    "map_zoom": 13,
-    "id": 41
+    "map_zoom": 8,
+    "id": 41,
+    "population": 801051,
+    "households": 346110
   },
   "長崎県": {
     "prefecture": "長崎県",
@@ -374,8 +456,10 @@
       32.74472,
       129.87361
     ],
-    "map_zoom": 13,
-    "id": 42
+    "map_zoom": 8,
+    "id": 42,
+    "population": 1289994,
+    "households": 634183
   },
   "熊本県": {
     "prefecture": "熊本県",
@@ -383,8 +467,10 @@
       32.78972,
       130.74167
     ],
-    "map_zoom": 13,
-    "id": 43
+    "map_zoom": 8,
+    "id": 43,
+    "population": 1728098,
+    "households": 810872
   },
   "大分県": {
     "prefecture": "大分県",
@@ -392,8 +478,10 @@
       33.23806,
       131.6125
     ],
-    "map_zoom": 13,
-    "id": 44
+    "map_zoom": 8,
+    "id": 44,
+    "population": 1112827,
+    "households": 548601
   },
   "宮崎県": {
     "prefecture": "宮崎県",
@@ -401,8 +489,10 @@
       31.91111,
       131.42389
     ],
-    "map_zoom": 13,
-    "id": 45
+    "map_zoom": 8,
+    "id": 45,
+    "population": 1058710,
+    "households": 533052
   },
   "鹿児島県": {
     "prefecture": "鹿児島県",
@@ -410,8 +500,10 @@
       31.56028,
       130.55806
     ],
-    "map_zoom": 13,
-    "id": 46
+    "map_zoom": 8,
+    "id": 46,
+    "population": 1576361,
+    "households": 813110
   },
   "沖縄県": {
     "prefecture": "沖縄県",
@@ -419,7 +511,9 @@
       26.2125,
       127.68111
     ],
-    "map_zoom": 13,
-    "id": 47
+    "map_zoom": 8,
+    "id": 47,
+    "population": 1485669,
+    "households": 704293
   }
 }
