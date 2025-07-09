@@ -2588,9 +2588,9 @@
       "flyer_progress": 0
     },
     "みよし市": {
-      "flyer_count": 0,
+      "flyer_count": 300,
       "households": 24129,
-      "flyer_progress": 0
+      "flyer_progress": 0.01243
     },
     "あま市": {
       "flyer_count": 0,
