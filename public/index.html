@@ -197,9 +197,9 @@
             登録がお済みの方は、各県のページから配布報告できます。<br>
             登録がお済みでない方は <a href="https://forms.gle/zaCGpxD3v2oA34LY6" target="_blank">こちらをクリック</a>
           </p>
-          <div id="prefecture-list" class="row row-cols-2 g-3 mb-4">
-            <!-- ビラ候補者ボタン -->
-          </div>
+        <div class="accordion" id="flyerAccordion">
+          <!-- 各地方のアコーディオンをJSで生成 -->
+        </div>
         </div>
       </div>
       
@@ -226,6 +226,7 @@ async function poster_loadCandidates() {
     const lastName = name.split(' ')[0];
     const isGroup = candidate.group === "True";
 
+    // 以下のif文で表示する選挙区ボタンを制限
     if (!targetDistricts.includes(district)) return;
 
     // 重複防止キーの作り方変更
@@ -269,18 +270,48 @@ async function flyer_loadPrefectures() {
     fetch('data/flyer_progress_allCity.json')
   ]);
 
+  const regionMap = {
+  "北海道・東北地方": ["北海道", "青森県", "岩手県", "宮城県", "秋田県", "山形県", "福島県"],
+  "関東地方": ["茨城県", "栃木県", "群馬県", "埼玉県", "千葉県", "東京都", "神奈川県"],
+  "中部地方": ["新潟県", "富山県", "石川県", "福井県", "山梨県", "長野県", "岐阜県", "静岡県", "愛知県"],
+  "近畿地方": ["三重県", "滋賀県", "京都府", "大阪府", "兵庫県", "奈良県", "和歌山県"],
+  "中国地方": ["鳥取県", "島根県", "岡山県", "広島県", "山口県"],
+  "四国地方": ["徳島県", "香川県", "愛媛県", "高知県"],
+  "九州・沖縄地方": ["福岡県", "佐賀県", "長崎県", "熊本県", "大分県", "宮崎県", "鹿児島県", "沖縄県"]
+};
+
+
   const prefectures = await prefResponse.json();
   const progressData = await progressResponse.json();
 
-  const list = document.getElementById("prefecture-list");
-  const targetPrefectures = ["北海道", "埼玉県", "東京都","神奈川県", "愛知県","京都府", "大阪府", "広島県", "福岡県"]; // 必要に応じて追加
+  const list = document.getElementById("flyerAccordion");
 
-  const sortedPrefectures = Object.entries(prefectures)
-    .sort((a, b) => (a[1].id || 999) - (b[1].id || 999));
+for (const [regionName, prefList] of Object.entries(regionMap)) {
+  const accordionId = `region-${regionName.replace(/[^\u3040-\u30FF\u4E00-\u9FFF\w]/g, '')}`;
 
-  sortedPrefectures.forEach(([prefName, prefData]) => {
-    if (!targetPrefectures.includes(prefData.prefecture)) return;
 
+  // アコーディオン構造作成
+  const item = document.createElement('div');
+  item.className = 'accordion-item';
+  item.innerHTML = `
+    <h2 class="accordion-header" id="heading-${accordionId}">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-${accordionId}">
+        ${regionName}
+      </button>
+    </h2>
+    <div id="collapse-${accordionId}" class="accordion-collapse collapse">
+      <div class="accordion-body">
+        <div class="row row-cols-2 row-cols-md-3 g-3" id="area-${accordionId}"></div>
+      </div>
+    </div>`;
+  list.appendChild(item);
+
+  // 都道府県カード追加（prefListの中から一致するデータを探して）
+  prefList.forEach(pref => {
+    const prefData = Object.values(prefectures).find(p => p.prefecture === pref);
+    if (!prefData) return;
+
+    const area = document.getElementById(`area-${accordionId}`);
     const col = document.createElement('div');
     col.className = 'col';
 
@@ -289,10 +320,10 @@ async function flyer_loadPrefectures() {
     card.style.cursor = 'pointer';
 
     const cardBody = document.createElement('div');
-    cardBody.className = 'card-body text-center';
+    cardBody.className = 'card-body';
 
     const title = document.createElement('h5');
-    title.className = 'card-title mb-0';
+    title.className = 'card-title text-center mb-0';
     title.textContent = `${prefData.id}. ${prefData.prefecture}`;
     cardBody.appendChild(title);
 
@@ -300,9 +331,8 @@ async function flyer_loadPrefectures() {
     const progressEntry = progressData[prefData.prefecture]?.["全市区町村"];
     const progress = progressEntry?.["flyer_progress"]*100 || 0;
     //console.log(`${prefData.prefecture}`)
-    // ▲▲▲ 進捗率（0〜100%）を算出 ▲▲▲
 
-    // ---------- プログレスバー描画 ----------
+    // 進捗バー
     const progressWrapper = document.createElement('div');
     progressWrapper.className = 'position-relative w-100 mt-3 rounded';
     progressWrapper.style.height = '8px';
@@ -322,18 +352,17 @@ async function flyer_loadPrefectures() {
     });
 
     cardBody.appendChild(progressWrapper);
-    // -----------------------------------------
-
     card.appendChild(cardBody);
+    col.appendChild(card);
+    area.appendChild(col);
 
     card.onclick = () => {
       const url = `map/flyer_map.html?prefecture=${encodeURIComponent(prefData.prefecture)}`;
       window.location.href = url;
     };
-
-    col.appendChild(card);
-    list.appendChild(col);
   });
+}
+
 }
 
 // 進捗バーの4段階分割処理
