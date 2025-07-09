@@ -273,7 +273,7 @@ async function flyer_loadPrefectures() {
   const progressData = await progressResponse.json();
 
   const list = document.getElementById("prefecture-list");
-  const targetPrefectures = ["北海道", "東京都", "愛知県", "大阪府", "広島県", "福岡県"]; // 必要に応じて追加
+  const targetPrefectures = ["北海道", "埼玉県", "東京都","神奈川県", "愛知県","京都府", "大阪府", "広島県", "福岡県"]; // 必要に応じて追加
 
   const sortedPrefectures = Object.entries(prefectures)
     .sort((a, b) => (a[1].id || 999) - (b[1].id || 999));
