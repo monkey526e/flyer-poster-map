@@ -399,10 +399,11 @@ const data = flyerProgressData[prefecture]["全市区町村"];
 const flyerCount = data.flyer_count;
 const householdCount = data.households;
 const totalProgress = data.flyer_progress;
+const totalProgressPercent = totalProgress * 100;
+const progressText = Number(totalProgressPercent.toPrecision(2));
 
-document.getElementById("progress-bar").style.width = `${totalProgress * 100}%`;
-document.getElementById("progress-bar").setAttribute("aria-valuenow", totalProgress * 100);
-document.getElementById("progress-text").textContent = `達成率: ${(totalProgress * 100).toFixed(1)}%`;
+renderMultiStageProgressBar(totalProgressPercent);
+document.getElementById("progress-text").textContent = `達成率: ${progressText}%`;
 document.getElementById("progress-fraction").textContent = `(配布数) ${flyerCount} / (世帯数) ${householdCount}`;
 
   // 平均進捗を total として算出
@@ -586,6 +587,43 @@ async function loadVoteVenuePins(layer) {
   });
 }
 */
+
+function renderMultiStageProgressBar(progressPercent) {
+  const stages = [0.1, 1, 10, 100];
+  const baseColor = { r: 112, g: 21, b: 112 };
+  const alphas = [0.17, 0.34, 0.51, 1.0];
+  const wrapper = document.getElementById("progress-bar-wrapper");
+
+  wrapper.innerHTML = ""; // 既存レイヤーをクリア
+
+  let previousMax = 0;
+
+  for (let i = 0; i < stages.length; i++) {
+    const min = previousMax;
+    const max = stages[i];
+    const range = max - min;
+    const alpha = alphas[i];
+    const color = `rgba(${baseColor.r}, ${baseColor.g}, ${baseColor.b}, ${alpha})`;
+
+    let widthPercent = 0;
+    if (progressPercent >= max) {
+      widthPercent = 100;
+    } else if (progressPercent > min) {
+      widthPercent = ((progressPercent - min) / range) * 100;
+    }
+
+    const bar = document.createElement("div");
+    bar.style.position = "absolute";
+    bar.style.left = 0;
+    bar.style.top = 0;
+    bar.style.height = "100%";
+    bar.style.width = `${widthPercent}%`;
+    bar.style.backgroundColor = color;
+
+    wrapper.appendChild(bar);
+    previousMax = max;
+  }
+}
 
 
 function progressBox(progressValue, position){
