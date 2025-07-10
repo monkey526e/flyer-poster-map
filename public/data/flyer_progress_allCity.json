@@ -1843,9 +1843,9 @@
   },
   "福島県": {
     "全市区町村": {
-      "flyer_count": 450,
+      "flyer_count": 600,
       "households": 742911,
-      "flyer_progress": 0.00061
+      "flyer_progress": 0.00081
     },
     "福島市": {
       "flyer_count": 0,
@@ -1908,9 +1908,9 @@
       "flyer_progress": 0
     },
     "本宮市": {
-      "flyer_count": 0,
+      "flyer_count": 150,
       "households": 10571,
-      "flyer_progress": 0
+      "flyer_progress": 0.01419
     },
     "桑折町": {
       "flyer_count": 0,
