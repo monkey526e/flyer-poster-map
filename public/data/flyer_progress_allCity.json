@@ -3,7 +3,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 2476846,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "札幌市中央区": {
       "flyer_count": 0,
@@ -950,7 +950,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 511526,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "青森市": {
       "flyer_count": 0,
@@ -1157,7 +1157,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 492436,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "盛岡市": {
       "flyer_count": 0,
@@ -1329,7 +1329,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 982523,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "仙台市青葉区": {
       "flyer_count": 0,
@@ -1531,7 +1531,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 385187,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "秋田市": {
       "flyer_count": 0,
@@ -1663,7 +1663,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 398015,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "山形市": {
       "flyer_count": 0,
@@ -1843,9 +1843,9 @@
   },
   "福島県": {
     "全市区町村": {
-      "flyer_count": 0,
+      "flyer_count": 450,
       "households": 742911,
-      "flyer_progress": 0
+      "flyer_progress": 0.00061
     },
     "福島市": {
       "flyer_count": 0,
@@ -2142,7 +2142,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 1184133,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "水戸市": {
       "flyer_count": 0,
@@ -2369,7 +2369,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 796923,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "宇都宮市": {
       "flyer_count": 0,
@@ -2501,7 +2501,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 805252,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "前橋市": {
       "flyer_count": 0,
@@ -2683,7 +2683,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 3162743,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "さいたま市西区": {
       "flyer_count": 0,
@@ -3050,7 +3050,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 2773840,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "千葉市中央区": {
       "flyer_count": 0,
@@ -3352,7 +3352,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 7227180,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "千代田区": {
       "flyer_count": 0,
@@ -3669,7 +3669,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 4223706,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "横浜市鶴見区": {
       "flyer_count": 0,
@@ -3966,7 +3966,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 864750,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "新潟市北区": {
       "flyer_count": 0,
@@ -4158,7 +4158,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 403989,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "富山市": {
       "flyer_count": 0,
@@ -4240,7 +4240,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 469910,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "金沢市": {
       "flyer_count": 0,
@@ -4342,7 +4342,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 291662,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "福井市": {
       "flyer_count": 0,
@@ -4434,7 +4434,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 338853,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "甲府市": {
       "flyer_count": 0,
@@ -4576,7 +4576,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 832097,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "長野市": {
       "flyer_count": 0,
@@ -4968,7 +4968,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 780730,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "岐阜市": {
       "flyer_count": 0,
@@ -5185,7 +5185,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 1483472,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "静岡市葵区": {
       "flyer_count": 0,
@@ -5407,7 +5407,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 3238301,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "名古屋市千種区": {
       "flyer_count": 0,
@@ -5759,7 +5759,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 742598,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "津市": {
       "flyer_count": 0,
@@ -5911,7 +5911,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 571374,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "大津市": {
       "flyer_count": 0,
@@ -6013,7 +6013,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 1190527,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "京都市北区": {
       "flyer_count": 0,
@@ -6200,7 +6200,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 4135879,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "大阪市都島区": {
       "flyer_count": 0,
@@ -6567,7 +6567,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 2402484,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "神戸市東灘区": {
       "flyer_count": 0,
@@ -6819,7 +6819,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 544981,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "奈良市": {
       "flyer_count": 0,
@@ -7021,7 +7021,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 394483,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "和歌山市": {
       "flyer_count": 0,
@@ -7178,7 +7178,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 219742,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "鳥取市": {
       "flyer_count": 0,
@@ -7280,7 +7280,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 269892,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "松江市": {
       "flyer_count": 0,
@@ -7382,7 +7382,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 801409,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "岡山市北区": {
       "flyer_count": 0,
@@ -7539,7 +7539,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 1243527,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "広島市中区": {
       "flyer_count": 0,
@@ -7696,7 +7696,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 598824,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "下関市": {
       "flyer_count": 0,
@@ -7798,7 +7798,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 308210,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "徳島市": {
       "flyer_count": 0,
@@ -7925,7 +7925,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 406985,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "高松市": {
       "flyer_count": 0,
@@ -8017,7 +8017,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 601402,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "松山市": {
       "flyer_count": 0,
@@ -8124,7 +8124,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 315272,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "高知市": {
       "flyer_count": 0,
@@ -8301,7 +8301,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 2323325,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "北九州市門司区": {
       "flyer_count": 0,
@@ -8668,7 +8668,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 312680,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "佐賀市": {
       "flyer_count": 0,
@@ -8775,7 +8775,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 558230,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "長崎市": {
       "flyer_count": 0,
@@ -8887,7 +8887,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 719154,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "熊本市中央区": {
       "flyer_count": 0,
@@ -9139,7 +9139,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 489249,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "大分市": {
       "flyer_count": 0,
@@ -9236,7 +9236,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 470055,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "宮崎市": {
       "flyer_count": 0,
@@ -9373,7 +9373,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 728179,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "鹿児島市": {
       "flyer_count": 0,
@@ -9595,7 +9595,7 @@
     "全市区町村": {
       "flyer_count": 0,
       "households": 614708,
-      "flyer_progress": 0
+      "flyer_progress": 0.0
     },
     "那覇市": {
       "flyer_count": 0,
