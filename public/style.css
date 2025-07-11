@@ -1,13 +1,100 @@
 body {
-    margin: 0;
-    padding: 0;
-    --theme-color: #701570;
+  font-family: 'Noto Sans JP', sans-serif;
+  margin: 0;
+  padding: 0;
+  --theme-color: #701570;
 }
 
 h3 {
   text-align: center;
   font-weight: bold;
 }
+
+/* --- nav bar --- */
+/* 常に下線あり、色付き */
+.navbar-nav .nav-link {
+  color: white;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+
+
+/* --- 基本コンテナ調整 --- */
+.container-md {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (min-width: 768px) {
+  .container-md {
+    max-width: 720px;
+  }
+}
+
+
+/* --- テキスト中央寄せ（スマホ）→ 左寄せ（PC） --- */
+@media (max-width: 720px) {
+  .text-responsive {
+    text-align: center;
+  }
+}
+
+@media (min-width: 768px) {
+  .text-responsive {
+    text-align: left;
+  }
+}
+
+
+/* --- タブ --- */
+.nav-tabs .nav-link {
+  color: #5e3a87; /* 通常の文字色（紫系） */
+  font-weight: 500;
+  padding: 0.5rem 1rem;
+  border: 1px solid transparent;
+  border-bottom: 2px solid transparent;
+  transition: all 0.2s ease-in-out;
+}
+
+.nav-tabs .nav-link:hover {
+  background-color: rgba(138, 109, 255, 0.1);
+  border-radius: 0.25rem 0.25rem 0 0;
+}
+
+.nav-tabs .nav-link.active {
+  background-color: #f5f0ff;
+  border-color: #8a6dff #8a6dff transparent;
+  border-bottom: 2px solid #8a6dff;
+  color: #4b3a7d;
+  font-weight: 600;
+}
+
+
+
+/* --- index.html --- */
+/* --- アコーディオンヘッダ調整 --- */
+.accordion-button {
+  font-size: 1rem;
+}
+
+@media (min-width: 768px) {
+  .accordion-button {
+    font-size: 1.2rem;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
 .list-group-item {
   border-radius: 0.75rem;
   margin-bottom: 0.5rem;
@@ -92,29 +179,29 @@ h3 {
 }
 
 .mode-toggle {
-  position: relative;
   display: flex;
-  border: 2px solid var(--theme-color);
-  border-radius: 8px;
+  border: 1.5px solid var(--theme-color);
+  border-radius: 6px;
   overflow: hidden;
-  width: 100%;
-  height: 40px;
+  width: auto;
+  height: 28px;
 }
 
 .toggle-button {
-  flex: 1;
   background: none;
-  border: 1px solid var(--theme-color);
-  font-size: 0.95rem;
-  z-index: 1;
+  border: none;
+  font-size: 0.8rem;
+  padding: 0 0.8rem;
   color: var(--theme-color);
-  transition: color 0.3s ease;
+  transition: color 0.3s ease, background 0.3s ease;
 }
 
 .toggle-button.active {
   background-color: var(--theme-color);
   color: #fff;
 }
+
+
 
 .toggle-indicator {
   position: absolute;
@@ -125,6 +212,20 @@ h3 {
   transition: transform 0.3s ease;
   z-index: 0;
 }
+
+.stat-card {
+  background-color: #f6f1fc;
+  border-radius: 1rem;
+  width: 130px;
+  flex: 0 0 auto;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.04);
+}
+
+.text-purple {
+  color: #8a6dff;
+}
+
+
 
 .mode-left .toggle-indicator {
   transform: translateX(0%);
@@ -149,4 +250,4 @@ h3 {
 
 .bg-purple {
   background-color: #800080 !important; /* 紫色 */
-}
+}　
