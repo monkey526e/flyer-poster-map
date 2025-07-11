@@ -1,6 +1,6 @@
 // ボタンなどの変数
-const pinBtn = document.getElementById("pinBtn");
-const polygonBtn = document.getElementById("polygonBtn");
+const polygonBtn = document.getElementById("polygonOnBtn");
+const pinBtn = document.getElementById("polygonOffBtn");
 const toggleContainer = document.getElementById("toggleContainer");
 const reportBtn = document.getElementById("reportBtn");
 const addressDisplay = document.getElementById("currentAddress");
