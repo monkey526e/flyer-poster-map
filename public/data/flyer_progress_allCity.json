@@ -8299,9 +8299,9 @@
   },
   "福岡県": {
     "全市区町村": {
-      "flyer_count": 100,
+      "flyer_count": 200,
       "households": 2323325,
-      "flyer_progress": 4e-05
+      "flyer_progress": 9e-05
     },
     "北九州市門司区": {
       "flyer_count": 0,
@@ -8369,9 +8369,9 @@
       "flyer_progress": 0
     },
     "福岡市早良区": {
-      "flyer_count": 0,
+      "flyer_count": 100,
       "households": 100635,
-      "flyer_progress": 0
+      "flyer_progress": 0.00099
     },
     "大牟田市": {
       "flyer_count": 0,
