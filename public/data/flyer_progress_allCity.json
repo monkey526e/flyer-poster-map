@@ -8299,9 +8299,9 @@
   },
   "福岡県": {
     "全市区町村": {
-      "flyer_count": 0,
+      "flyer_count": 100,
       "households": 2323325,
-      "flyer_progress": 0.0
+      "flyer_progress": 4e-05
     },
     "北九州市門司区": {
       "flyer_count": 0,
@@ -8339,9 +8339,9 @@
       "flyer_progress": 0
     },
     "福岡市東区": {
-      "flyer_count": 0,
+      "flyer_count": 100,
       "households": 156362,
-      "flyer_progress": 0
+      "flyer_progress": 0.00064
     },
     "福岡市博多区": {
       "flyer_count": 0,
