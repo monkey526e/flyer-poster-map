@@ -16,6 +16,32 @@
     </style>
 </head>
 <body>
+  <div class="container-md px-0">
+    <div class="col-lg-12 px-0">
+        <nav class="navbar navbar-expand-lg shadow-sm mb-4 px-3" style="background-color: #5e3a87;">
+        <div class="container-fluid">
+          <a class="navbar-brand fw-semibold text-white" href="#">
+            再生の道 非公式ツール
+          </a>
+
+          <!-- ハンバーガーボタン -->
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMenu"
+            aria-controls="navbarMenu" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <!-- 折りたたまれるメニュー本体 -->
+          <div class="collapse navbar-collapse" id="navbarMenu">
+            <ul class="navbar-nav ms-auto">
+              <li class="nav-item">
+                <a href="about.html" class="nav-link text-white">当サイトについて</a>
+              </li>
+              <!-- 必要に応じて他のメニューも追加可 -->
+            </ul>
+          </div>
+        </div>
+      </nav>
+
   <h3 id="header" style="text-align:center; margin:1rem; margin-bottom: 2rem;">ポスター掲示マップ</h3>
 
   <div style="position: relative; margin: 1rem;">
@@ -30,11 +56,7 @@
   </div>
 
 
-  <div class="mode-toggle mb-2" id="toggleContainer">
-    <div class="toggle-indicator"></div>
-    <button id="pinBtn" class="toggle-button active">全ての場所</button>
-    <button id="polygonBtn" class="toggle-button">未掲示のみ</button>
-  </div>
+
 
   <div style="text-align:center; margin:1rem;">
     <button class="btn btn-warning" id="reportBtn">
@@ -42,6 +64,13 @@
       <span>掲示のご報告はコチラ</span>
       <i class="fa-solid fa-arrow-right"></i>
     </button>
+
+            <div class="d-flex align-items-center mt-2 gap-2">
+          <div class="mode-toggle" id="toggleContainer">
+            <button id="pinBtn" class="toggle-button active">全ての場所</button>
+            <button id="polygonBtn" class="toggle-button">未掲示のみ</button>
+          </div>
+        </div>
   </div>
   
   <div id="map" style="height:60vh;"></div>
@@ -59,5 +88,8 @@
 
 
 
+
+        </div>
+                </div>
 </body>
 </html>
