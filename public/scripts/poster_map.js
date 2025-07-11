@@ -101,6 +101,33 @@ fetch("/data/candidates_all.json")
   
         // poster_data_form.json 読み込み・ピン描画はここから呼ぶ
         loadPins();
+
+        // ✅ 地図初期化後に呼び出される関数内に追加（たとえば initializeMapAndPins の直後など）
+
+        document.getElementById("pinBtn").addEventListener("click", function () {
+          this.classList.add("active");
+          document.getElementById("polygonBtn").classList.remove("active");
+
+          clusterGroup.clearLayers();
+          allMarkers.forEach(marker => {
+            clusterGroup.addLayer(marker);
+          });
+        });
+
+        document.getElementById("polygonBtn").addEventListener("click", function () {
+          this.classList.add("active");
+          document.getElementById("pinBtn").classList.remove("active");
+
+          clusterGroup.clearLayers();
+          allMarkers.forEach(marker => {
+            if (!marker.isAchieved) {
+              clusterGroup.addLayer(marker);
+            }
+          });
+        });
+
+
+
       })
       .catch(err => {
         console.error("district_cityname.json の読み込みに失敗:", err);
@@ -169,30 +196,7 @@ fetch("/data/candidates_all.json")
       console.error("poster_data_form.json の読み込みに失敗:", err);
     });
 
-    document.getElementById("pinBtn").addEventListener("click", function() {
-      this.classList.add("active");
-      document.getElementById("polygonBtn").classList.remove("active");
-      document.querySelector(".toggle-indicator").style.transform = "translateX(0%)";
-    
-      clusterGroup.clearLayers();
-      allMarkers.forEach(marker => {
-        clusterGroup.addLayer(marker);
-      });
-    });
-    
-    document.getElementById("polygonBtn").addEventListener("click", function() {
-      this.classList.add("active");
-      document.getElementById("pinBtn").classList.remove("active");
-      document.querySelector(".toggle-indicator").style.transform = "translateX(100%)";
-    
-      clusterGroup.clearLayers();
-      allMarkers.forEach(marker => {
-        if (!marker.isAchieved) {
-          clusterGroup.addLayer(marker);
-        }
-      });
-    });
-    
+  
 // 報告ボタン → ダイレクトにフォームを開く
 const reportBtn = document.getElementById("reportBtn");
 
