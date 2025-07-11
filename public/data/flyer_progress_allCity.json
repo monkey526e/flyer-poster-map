@@ -1327,9 +1327,9 @@
   },
   "宮城県": {
     "全市区町村": {
-      "flyer_count": 0,
+      "flyer_count": 500,
       "households": 982523,
-      "flyer_progress": 0.0
+      "flyer_progress": 0.00051
     },
     "仙台市青葉区": {
       "flyer_count": 0,
@@ -1352,9 +1352,9 @@
       "flyer_progress": 0
     },
     "仙台市泉区": {
-      "flyer_count": 0,
+      "flyer_count": 500,
       "households": 92973,
-      "flyer_progress": 0
+      "flyer_progress": 0.00538
     },
     "石巻市": {
       "flyer_count": 0,
