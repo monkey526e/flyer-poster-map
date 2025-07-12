@@ -424,9 +424,64 @@ progressMap[normalizedPrefecture] = flyerProgressData.flyer_progress;
   // ポリゴンの描画処理
 async function loadPolygonsInBatches(prefecture, batchSize = 3) {
   const flyerProgressPref = flyerProgressData?.[prefecture] || {};
+
+  const localGeojsonUrl = `../data/geojson/${prefecture}_polygon.geojson`;
+
+  // ローカルGeoJSONファイルが存在するか確認
+try {
+  const headRes = await fetch(localGeojsonUrl, { method: "HEAD" });
+  if (headRes.ok) {
+    console.log(`ローカルGeoJSON使用: ${localGeojsonUrl}`);
+    const res = await fetch(localGeojsonUrl);
+    const data = await res.json();
+
+for (const feature of data.features) {
+  const name = feature.properties?.name_ja || "地域名不明";
+  if (typeof rawName === "object") {
+    name = rawName.ja || "地域名不明";
+  } else if (typeof rawName === "string") {
+    name = rawName.trim();
+  }
+
+  const progress = flyerProgressPref[name]?.flyer_progress || 0;
+
+  const polygon = L.geoJSON(feature, {
+    style: (feature) => {
+  const name = feature.properties?.name_ja || "地域名不明";
+  const progress = flyerProgressPref[name]?.flyer_progress || 0;
+  return getGeoJsonStyle(progress);
+},
+
+    onEachFeature: (feature, layer) => {
+  const name = feature.properties?.name_ja || "地域名不明";
+  const progress = flyerProgressPref[name]?.flyer_progress || 0;
+  layer.bindPopup(`<b>${name}</b><br>進捗: ${(progress * 100).toFixed(1)}%`);
+}
+
+  });
+
+  if (currentMode === "polygon") {
+    polygon.addTo(map);
+  }
+  polygonProgressLayers.push(polygon);
+}
+
+
+
+    return; // ← forループ内で完了したので exit
+  }
+} catch (err) {
+  console.warn("ローカルGeoJSON読み込み失敗:", err);
+}
+
+
+  // === それ以外の県は従来通り ===
   const cityEntries = Object.entries(flyerProgressPref).filter(
-  ([cityName]) => cityName !== "全市区町村"
-);
+    ([cityName]) => cityName !== "全市区町村"
+  );
+
+  polygonProgressLayers.forEach(layer => map.removeLayer(layer));
+  polygonProgressLayers = [];
 
   for (let i = 0; i < cityEntries.length; i += batchSize) {
     const batch = cityEntries.slice(i, i + batchSize);
@@ -455,9 +510,10 @@ async function loadPolygonsInBatches(prefecture, batchSize = 3) {
       }
     });
 
-    await Promise.all(fetchTasks); // このバッチが終わるまで待機
+    await Promise.all(fetchTasks);
   }
 }
+
 
 // 呼び出し
 loadPolygonsInBatches(prefecture, 10);
