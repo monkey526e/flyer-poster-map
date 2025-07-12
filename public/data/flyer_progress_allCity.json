@@ -1327,9 +1327,9 @@
   },
   "宮城県": {
     "全市区町村": {
-      "flyer_count": 500,
+      "flyer_count": 1000,
       "households": 982523,
-      "flyer_progress": 0.00051
+      "flyer_progress": 0.00102
     },
     "仙台市青葉区": {
       "flyer_count": 0,
@@ -1337,9 +1337,9 @@
       "flyer_progress": 0
     },
     "仙台市宮城野区": {
-      "flyer_count": 0,
+      "flyer_count": 500,
       "households": 95772,
-      "flyer_progress": 0
+      "flyer_progress": 0.00522
     },
     "仙台市若林区": {
       "flyer_count": 0,
