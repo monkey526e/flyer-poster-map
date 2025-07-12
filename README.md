@@ -25,7 +25,7 @@
 - [Bootstrap](https://getbootstrap.jp/)
     - トップページのメニューに使用 (CSSのみ)
 - [Linked Open Addresses Japan](https://uedayou.net/loa/)
-    - `/summary`ページで進捗を可視化する際に、各市区町村のポリゴンを利用
+    - 各市区町村のポリゴンに利用(geojsonとして改変)
 - [OpenStreetMap](https://www.openstreetmap.org/copyright), [国土地理院地図](https://maps.gsi.go.jp/development/ichiran.html), [Google Map](https://www.google.com/maps)
     - ベースマップとして利用
 
