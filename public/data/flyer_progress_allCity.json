@@ -3667,9 +3667,9 @@
   },
   "神奈川県": {
     "全市区町村": {
-      "flyer_count": 0,
+      "flyer_count": 150,
       "households": 4223706,
-      "flyer_progress": 0.0
+      "flyer_progress": 4e-05
     },
     "横浜市鶴見区": {
       "flyer_count": 0,
@@ -3817,9 +3817,9 @@
       "flyer_progress": 0
     },
     "平塚市": {
-      "flyer_count": 0,
+      "flyer_count": 150,
       "households": 112191,
-      "flyer_progress": 0
+      "flyer_progress": 0.00134
     },
     "鎌倉市": {
       "flyer_count": 0,
