@@ -6011,9 +6011,9 @@
   },
   "京都府": {
     "全市区町村": {
-      "flyer_count": 0,
+      "flyer_count": 520,
       "households": 1190527,
-      "flyer_progress": 0.0
+      "flyer_progress": 0.00044
     },
     "京都市北区": {
       "flyer_count": 0,
@@ -6026,9 +6026,9 @@
       "flyer_progress": 0
     },
     "京都市左京区": {
-      "flyer_count": 0,
+      "flyer_count": 520,
       "households": 85726,
-      "flyer_progress": 0
+      "flyer_progress": 0.00607
     },
     "京都市中京区": {
       "flyer_count": 0,
