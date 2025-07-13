@@ -6011,14 +6011,14 @@
   },
   "京都府": {
     "全市区町村": {
-      "flyer_count": 520,
+      "flyer_count": 1000,
       "households": 1190527,
-      "flyer_progress": 0.00044
+      "flyer_progress": 0.00084
     },
     "京都市北区": {
-      "flyer_count": 0,
+      "flyer_count": 450,
       "households": 57187,
-      "flyer_progress": 0
+      "flyer_progress": 0.00787
     },
     "京都市上京区": {
       "flyer_count": 0,
@@ -6031,9 +6031,9 @@
       "flyer_progress": 0.00607
     },
     "京都市中京区": {
-      "flyer_count": 0,
+      "flyer_count": 30,
       "households": 60634,
-      "flyer_progress": 0
+      "flyer_progress": 0.00049
     },
     "京都市東山区": {
       "flyer_count": 0,
