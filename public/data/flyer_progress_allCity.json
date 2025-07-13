@@ -1,19 +1,19 @@
 {
   "北海道": {
     "全市区町村": {
-      "flyer_count": 2340,
+      "flyer_count": 3510,
       "households": 2476846,
-      "flyer_progress": 0.00094
+      "flyer_progress": 0.00142
     },
     "札幌市中央区": {
-      "flyer_count": 80,
+      "flyer_count": 120,
       "households": 141429,
-      "flyer_progress": 0.00057
+      "flyer_progress": 0.00085
     },
     "札幌市北区": {
-      "flyer_count": 1800,
+      "flyer_count": 2700,
       "households": 139675,
-      "flyer_progress": 0.01289
+      "flyer_progress": 0.01933
     },
     "札幌市東区": {
       "flyer_count": 0,
@@ -21,9 +21,9 @@
       "flyer_progress": 0
     },
     "札幌市白石区": {
-      "flyer_count": 160,
+      "flyer_count": 240,
       "households": 108233,
-      "flyer_progress": 0.00148
+      "flyer_progress": 0.00222
     },
     "札幌市豊平区": {
       "flyer_count": 0,
@@ -31,19 +31,19 @@
       "flyer_progress": 0
     },
     "札幌市南区": {
-      "flyer_count": 40,
+      "flyer_count": 60,
       "households": 62134,
-      "flyer_progress": 0.00064
+      "flyer_progress": 0.00097
     },
     "札幌市西区": {
-      "flyer_count": 160,
+      "flyer_count": 240,
       "households": 103849,
-      "flyer_progress": 0.00154
+      "flyer_progress": 0.00231
     },
     "札幌市厚別区": {
-      "flyer_count": 60,
+      "flyer_count": 90,
       "households": 57289,
-      "flyer_progress": 0.00105
+      "flyer_progress": 0.00157
     },
     "札幌市手稲区": {
       "flyer_count": 0,
@@ -51,9 +51,9 @@
       "flyer_progress": 0
     },
     "札幌市清田区": {
-      "flyer_count": 40,
+      "flyer_count": 60,
       "households": 45634,
-      "flyer_progress": 0.00088
+      "flyer_progress": 0.00131
     },
     "函館市": {
       "flyer_count": 0,
@@ -1327,9 +1327,9 @@
   },
   "宮城県": {
     "全市区町村": {
-      "flyer_count": 2000,
+      "flyer_count": 3000,
       "households": 982523,
-      "flyer_progress": 0.00204
+      "flyer_progress": 0.00305
     },
     "仙台市青葉区": {
       "flyer_count": 0,
@@ -1337,9 +1337,9 @@
       "flyer_progress": 0
     },
     "仙台市宮城野区": {
-      "flyer_count": 1000,
+      "flyer_count": 1500,
       "households": 95772,
-      "flyer_progress": 0.01044
+      "flyer_progress": 0.01566
     },
     "仙台市若林区": {
       "flyer_count": 0,
@@ -1352,9 +1352,9 @@
       "flyer_progress": 0
     },
     "仙台市泉区": {
-      "flyer_count": 1000,
+      "flyer_count": 1500,
       "households": 92973,
-      "flyer_progress": 0.01076
+      "flyer_progress": 0.01613
     },
     "石巻市": {
       "flyer_count": 0,
@@ -1843,9 +1843,9 @@
   },
   "福島県": {
     "全市区町村": {
-      "flyer_count": 850,
+      "flyer_count": 1450,
       "households": 742911,
-      "flyer_progress": 0.00114
+      "flyer_progress": 0.00195
     },
     "福島市": {
       "flyer_count": 0,
@@ -1888,9 +1888,9 @@
       "flyer_progress": 0
     },
     "二本松市": {
-      "flyer_count": 550,
+      "flyer_count": 1000,
       "households": 19384,
-      "flyer_progress": 0.02837
+      "flyer_progress": 0.05159
     },
     "田村市": {
       "flyer_count": 0,
@@ -1908,9 +1908,9 @@
       "flyer_progress": 0
     },
     "本宮市": {
-      "flyer_count": 300,
+      "flyer_count": 450,
       "households": 10571,
-      "flyer_progress": 0.02838
+      "flyer_progress": 0.04257
     },
     "桑折町": {
       "flyer_count": 0,
@@ -2681,14 +2681,14 @@
   },
   "埼玉県": {
     "全市区町村": {
-      "flyer_count": 315,
+      "flyer_count": 480,
       "households": 3162743,
-      "flyer_progress": 0.0001
+      "flyer_progress": 0.00015
     },
     "さいたま市西区": {
-      "flyer_count": 315,
+      "flyer_count": 480,
       "households": 38197,
-      "flyer_progress": 0.00825
+      "flyer_progress": 0.01257
     },
     "さいたま市北区": {
       "flyer_count": 0,
@@ -3667,9 +3667,9 @@
   },
   "神奈川県": {
     "全市区町村": {
-      "flyer_count": 1850,
+      "flyer_count": 2850,
       "households": 4223706,
-      "flyer_progress": 0.00044
+      "flyer_progress": 0.00067
     },
     "横浜市鶴見区": {
       "flyer_count": 0,
@@ -3817,9 +3817,9 @@
       "flyer_progress": 0
     },
     "平塚市": {
-      "flyer_count": 590,
+      "flyer_count": 960,
       "households": 112191,
-      "flyer_progress": 0.00526
+      "flyer_progress": 0.00856
     },
     "鎌倉市": {
       "flyer_count": 0,
@@ -3872,9 +3872,9 @@
       "flyer_progress": 0
     },
     "海老名市": {
-      "flyer_count": 1260,
+      "flyer_count": 1890,
       "households": 58339,
-      "flyer_progress": 0.0216
+      "flyer_progress": 0.0324
     },
     "座間市": {
       "flyer_count": 0,
@@ -6011,14 +6011,14 @@
   },
   "京都府": {
     "全市区町村": {
-      "flyer_count": 2000,
+      "flyer_count": 3000,
       "households": 1190527,
-      "flyer_progress": 0.00168
+      "flyer_progress": 0.00252
     },
     "京都市北区": {
-      "flyer_count": 900,
+      "flyer_count": 1350,
       "households": 57187,
-      "flyer_progress": 0.01574
+      "flyer_progress": 0.02361
     },
     "京都市上京区": {
       "flyer_count": 0,
@@ -6026,14 +6026,14 @@
       "flyer_progress": 0
     },
     "京都市左京区": {
-      "flyer_count": 1040,
+      "flyer_count": 1560,
       "households": 85726,
-      "flyer_progress": 0.01213
+      "flyer_progress": 0.0182
     },
     "京都市中京区": {
-      "flyer_count": 60,
+      "flyer_count": 90,
       "households": 60634,
-      "flyer_progress": 0.00099
+      "flyer_progress": 0.00148
     },
     "京都市東山区": {
       "flyer_count": 0,
@@ -8299,9 +8299,9 @@
   },
   "福岡県": {
     "全市区町村": {
-      "flyer_count": 1100,
+      "flyer_count": 2000,
       "households": 2323325,
-      "flyer_progress": 0.00047
+      "flyer_progress": 0.00086
     },
     "北九州市門司区": {
       "flyer_count": 0,
@@ -8339,9 +8339,9 @@
       "flyer_progress": 0
     },
     "福岡市東区": {
-      "flyer_count": 900,
+      "flyer_count": 1700,
       "households": 156362,
-      "flyer_progress": 0.00576
+      "flyer_progress": 0.01087
     },
     "福岡市博多区": {
       "flyer_count": 0,
@@ -8369,9 +8369,9 @@
       "flyer_progress": 0
     },
     "福岡市早良区": {
-      "flyer_count": 200,
+      "flyer_count": 300,
       "households": 100635,
-      "flyer_progress": 0.00199
+      "flyer_progress": 0.00298
     },
     "大牟田市": {
       "flyer_count": 0,
