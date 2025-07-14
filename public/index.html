@@ -9,6 +9,7 @@
   <title>メニュー | 再生の道 進捗マップ</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
   <link rel="icon" type="image/png" href="/favicon.png">
   <link rel="stylesheet" href="style.css" />
 </head>
@@ -220,7 +221,7 @@
 
                 <div class="stat-card text-center p-2">
                   <div class="text-purple fs-4 mb-1">
-                    <i class="bi bi-bar-chart-line-fill"></i>
+                    <i class="fas fa-chart-line"></i>
                   </div>
                   <div class="text-muted small">累計配布数</div>
                   <h4 id="flyer-total" class="fw-bold mt-2 mb-2">0</h4>
@@ -228,7 +229,7 @@
 
                 <div class="stat-card text-center p-2">
                   <div class="text-purple fs-4 mb-1">
-                    <i class="bi bi-calendar-week-fill"></i>
+                    <i class="fas fa-calendar-week"></i>
                   </div>
                   <div class="text-muted small">過去7日間</div>
                   <h6 id="flyer-last7" class="fw-bold mb-1">0</h6>
@@ -236,6 +237,16 @@
                     前週比 <span id="flyer-change" class="text-success">+0%</span>
                   </small>
                 </div>
+
+
+                <div class="stat-card text-center p-2">
+                  <div class="text-purple fs-4 mb-1">
+                    <i class="fas fa-users"></i>
+                  </div>
+                  <div class="text-muted small">参加人数</div>
+                  <h4 id="registered-people" class="fw-bold mt-2 mb-2">0</h4>
+                </div>
+
 
               </div>
             </div>
