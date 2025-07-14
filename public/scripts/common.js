@@ -9,6 +9,7 @@ async function loadFlyerStatistics() {
   const totalElem = document.getElementById("flyer-total");
   const last7Elem = document.getElementById("flyer-last7");
   const changeElem = document.getElementById("flyer-change");
+  const registeredElem = document.getElementById("registered-people"); // ← 追加
 
   if (totalElem && last7Elem && changeElem) {
     totalElem.textContent = stats.total_flyers.toLocaleString();
@@ -17,6 +18,10 @@ async function loadFlyerStatistics() {
     changeElem.textContent = `${change >= 0 ? '+' : ''}${change}%`;
     changeElem.classList.toggle("text-success", change >= 0);
     changeElem.classList.toggle("text-danger", change < 0);
+
+    if (registeredElem) {
+      registeredElem.textContent = stats.registered_people.toLocaleString();
+    }
   } else {
     console.warn("一部の統計表示要素が見つかりません");
   }
