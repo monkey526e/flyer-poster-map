@@ -219,6 +219,10 @@ reportBtn.addEventListener("click", () => {
 
 // 現在地から報告
 reportFromGPSBtn.addEventListener("click", () => {
+    gtag('event', 'click_gps_report', {
+    'event_category': 'report_modal',
+    'event_label': '現在地から報告'
+  });
   isManualReportingMode = false;
   // モーダルを閉じる
   const modalEl = document.getElementById("reportModal");
@@ -266,6 +270,10 @@ reportFromGPSBtn.addEventListener("click", () => {
 });
 
 reportFromManualBtn.addEventListener("click", () => {
+    gtag('event', 'click_manual_report', {
+    'event_category': 'report_modal',
+    'event_label': '地図から選択'
+  });
   isManualReportingMode = true;
   // モーダルを閉じる
   const modalEl = document.getElementById("reportModal");
