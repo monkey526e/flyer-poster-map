@@ -3048,9 +3048,9 @@
   },
   "千葉県": {
     "全市区町村": {
-      "flyer_count": 0,
+      "flyer_count": 400,
       "households": 2773840,
-      "flyer_progress": 0.0
+      "flyer_progress": 0.00014
     },
     "千葉市中央区": {
       "flyer_count": 0,
@@ -3143,9 +3143,9 @@
       "flyer_progress": 0.0
     },
     "習志野市": {
-      "flyer_count": 0,
+      "flyer_count": 400,
       "households": 79423,
-      "flyer_progress": 0.0
+      "flyer_progress": 0.00504
     },
     "柏市": {
       "flyer_count": 0,
