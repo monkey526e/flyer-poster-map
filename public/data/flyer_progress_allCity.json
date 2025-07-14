@@ -6011,14 +6011,14 @@
   },
   "京都府": {
     "全市区町村": {
-      "flyer_count": 2400,
+      "flyer_count": 3800,
       "households": 1190527,
-      "flyer_progress": 0.00202
+      "flyer_progress": 0.00319
     },
     "京都市北区": {
-      "flyer_count": 450,
+      "flyer_count": 750,
       "households": 57187,
-      "flyer_progress": 0.00787
+      "flyer_progress": 0.01311
     },
     "京都市上京区": {
       "flyer_count": 0,
@@ -6111,9 +6111,9 @@
       "flyer_progress": 0.0
     },
     "長岡京市": {
-      "flyer_count": 0,
+      "flyer_count": 1100,
       "households": 33728,
-      "flyer_progress": 0.0
+      "flyer_progress": 0.03261
     },
     "八幡市": {
       "flyer_count": 0,
@@ -6198,9 +6198,9 @@
   },
   "大阪府": {
     "全市区町村": {
-      "flyer_count": 0,
+      "flyer_count": 400,
       "households": 4135879,
-      "flyer_progress": 0.0
+      "flyer_progress": 0.0001
     },
     "大阪市都島区": {
       "flyer_count": 0,
@@ -6383,9 +6383,9 @@
       "flyer_progress": 0.0
     },
     "高槻市": {
-      "flyer_count": 0,
+      "flyer_count": 400,
       "households": 152869,
-      "flyer_progress": 0.0
+      "flyer_progress": 0.00262
     },
     "貝塚市": {
       "flyer_count": 0,
@@ -6565,9 +6565,9 @@
   },
   "兵庫県": {
     "全市区町村": {
-      "flyer_count": 0,
+      "flyer_count": 300,
       "households": 2402484,
-      "flyer_progress": 0.0
+      "flyer_progress": 0.00012
     },
     "神戸市東灘区": {
       "flyer_count": 0,
@@ -6675,9 +6675,9 @@
       "flyer_progress": 0.0
     },
     "宝塚市": {
-      "flyer_count": 0,
+      "flyer_count": 300,
       "households": 95465,
-      "flyer_progress": 0.0
+      "flyer_progress": 0.00314
     },
     "三木市": {
       "flyer_count": 0,
