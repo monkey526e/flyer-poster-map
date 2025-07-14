@@ -7537,9 +7537,9 @@
   },
   "広島県": {
     "全市区町村": {
-      "flyer_count": 0,
+      "flyer_count": 300,
       "households": 1243527,
-      "flyer_progress": 0.0
+      "flyer_progress": 0.00024
     },
     "広島市中区": {
       "flyer_count": 0,
@@ -7632,9 +7632,9 @@
       "flyer_progress": 0.0
     },
     "廿日市市": {
-      "flyer_count": 0,
+      "flyer_count": 300,
       "households": 47821,
-      "flyer_progress": 0.0
+      "flyer_progress": 0.00627
     },
     "安芸高田市": {
       "flyer_count": 0,
