@@ -6011,9 +6011,9 @@
   },
   "京都府": {
     "全市区町村": {
-      "flyer_count": 3800,
+      "flyer_count": 5100,
       "households": 1190527,
-      "flyer_progress": 0.00319
+      "flyer_progress": 0.00428
     },
     "京都市北区": {
       "flyer_count": 750,
@@ -6031,9 +6031,9 @@
       "flyer_progress": 0.00607
     },
     "京都市中京区": {
-      "flyer_count": 30,
+      "flyer_count": 330,
       "households": 60634,
-      "flyer_progress": 0.00049
+      "flyer_progress": 0.00544
     },
     "京都市東山区": {
       "flyer_count": 0,
@@ -6041,9 +6041,9 @@
       "flyer_progress": 0.0
     },
     "京都市下京区": {
-      "flyer_count": 0,
+      "flyer_count": 1000,
       "households": 48309,
-      "flyer_progress": 0.0
+      "flyer_progress": 0.0207
     },
     "京都市南区": {
       "flyer_count": 0,
@@ -6198,9 +6198,9 @@
   },
   "大阪府": {
     "全市区町村": {
-      "flyer_count": 400,
+      "flyer_count": 550,
       "households": 4135879,
-      "flyer_progress": 0.0001
+      "flyer_progress": 0.00013
     },
     "大阪市都島区": {
       "flyer_count": 0,
@@ -6213,9 +6213,9 @@
       "flyer_progress": 0.0
     },
     "大阪市此花区": {
-      "flyer_count": 0,
+      "flyer_count": 100,
       "households": 32318,
-      "flyer_progress": 0.0
+      "flyer_progress": 0.00309
     },
     "大阪市西区": {
       "flyer_count": 0,
@@ -6283,9 +6283,9 @@
       "flyer_progress": 0.0
     },
     "大阪市東住吉区": {
-      "flyer_count": 0,
+      "flyer_count": 50,
       "households": 62025,
-      "flyer_progress": 0.0
+      "flyer_progress": 0.00081
     },
     "大阪市西成区": {
       "flyer_count": 0,
