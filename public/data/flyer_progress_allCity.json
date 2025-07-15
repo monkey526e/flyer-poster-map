@@ -6198,9 +6198,9 @@
   },
   "大阪府": {
     "全市区町村": {
-      "flyer_count": 550,
+      "flyer_count": 830,
       "households": 4135879,
-      "flyer_progress": 0.00013
+      "flyer_progress": 0.0002
     },
     "大阪市都島区": {
       "flyer_count": 0,
@@ -6273,9 +6273,9 @@
       "flyer_progress": 0.0
     },
     "大阪市阿倍野区": {
-      "flyer_count": 0,
+      "flyer_count": 280,
       "households": 53649,
-      "flyer_progress": 0.0
+      "flyer_progress": 0.00522
     },
     "大阪市住吉区": {
       "flyer_count": 0,
