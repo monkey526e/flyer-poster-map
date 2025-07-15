@@ -3048,9 +3048,9 @@
   },
   "千葉県": {
     "全市区町村": {
-      "flyer_count": 400,
+      "flyer_count": 1400,
       "households": 2773840,
-      "flyer_progress": 0.00014
+      "flyer_progress": 0.0005
     },
     "千葉市中央区": {
       "flyer_count": 0,
@@ -3183,9 +3183,9 @@
       "flyer_progress": 0.0
     },
     "鎌ケ谷市": {
-      "flyer_count": 0,
+      "flyer_count": 1000,
       "households": 47146,
-      "flyer_progress": 0.0
+      "flyer_progress": 0.02121
     },
     "君津市": {
       "flyer_count": 0,
