@@ -3667,9 +3667,9 @@
   },
   "神奈川県": {
     "全市区町村": {
-      "flyer_count": 1940,
+      "flyer_count": 2000,
       "households": 4223706,
-      "flyer_progress": 0.00046
+      "flyer_progress": 0.00047
     },
     "横浜市鶴見区": {
       "flyer_count": 0,
@@ -3842,9 +3842,9 @@
       "flyer_progress": 0.0
     },
     "逗子市": {
-      "flyer_count": 940,
+      "flyer_count": 1000,
       "households": 24869,
-      "flyer_progress": 0.0378
+      "flyer_progress": 0.04021
     },
     "三浦市": {
       "flyer_count": 0,
