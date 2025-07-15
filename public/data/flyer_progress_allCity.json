@@ -2681,7 +2681,7 @@
   },
   "埼玉県": {
     "全市区町村": {
-      "flyer_count": 500,
+      "flyer_count": 509,
       "households": 3162743,
       "flyer_progress": 0.00016
     },
@@ -2691,9 +2691,9 @@
       "flyer_progress": 0.00919
     },
     "さいたま市北区": {
-      "flyer_count": 57,
+      "flyer_count": 66,
       "households": 66563,
-      "flyer_progress": 0.00086
+      "flyer_progress": 0.00099
     },
     "さいたま市大宮区": {
       "flyer_count": 0,
