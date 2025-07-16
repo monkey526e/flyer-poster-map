@@ -3350,9 +3350,9 @@
   },
   "東京都": {
     "全市区町村": {
-      "flyer_count": 5000,
+      "flyer_count": 6000,
       "households": 7227180,
-      "flyer_progress": 0.00069
+      "flyer_progress": 0.00083
     },
     "千代田区": {
       "flyer_count": 0,
@@ -3395,9 +3395,9 @@
       "flyer_progress": 0.0
     },
     "品川区": {
-      "flyer_count": 5000,
+      "flyer_count": 6000,
       "households": 237641,
-      "flyer_progress": 0.02104
+      "flyer_progress": 0.02525
     },
     "目黒区": {
       "flyer_count": 0,
