@@ -2681,14 +2681,14 @@
   },
   "埼玉県": {
     "全市区町村": {
-      "flyer_count": 1658,
+      "flyer_count": 1845,
       "households": 3162743,
-      "flyer_progress": 0.00052
+      "flyer_progress": 0.00058
     },
     "さいたま市西区": {
-      "flyer_count": 720,
+      "flyer_count": 907,
       "households": 38197,
-      "flyer_progress": 0.01885
+      "flyer_progress": 0.02375
     },
     "さいたま市北区": {
       "flyer_count": 846,
