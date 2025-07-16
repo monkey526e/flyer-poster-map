@@ -1,9 +1,9 @@
 {
   "北海道": {
     "全市区町村": {
-      "flyer_count": 3080,
+      "flyer_count": 3120,
       "households": 2476846,
-      "flyer_progress": 0.00124
+      "flyer_progress": 0.00126
     },
     "札幌市中央区": {
       "flyer_count": 100,
@@ -131,9 +131,9 @@
       "flyer_progress": 0.0
     },
     "江別市": {
-      "flyer_count": 150,
+      "flyer_count": 190,
       "households": 53977,
-      "flyer_progress": 0.00278
+      "flyer_progress": 0.00352
     },
     "赤平市": {
       "flyer_count": 0,
@@ -2681,14 +2681,14 @@
   },
   "埼玉県": {
     "全市区町村": {
-      "flyer_count": 1481,
+      "flyer_count": 1500,
       "households": 3162743,
       "flyer_progress": 0.00047
     },
     "さいたま市西区": {
-      "flyer_count": 543,
+      "flyer_count": 562,
       "households": 38197,
-      "flyer_progress": 0.01422
+      "flyer_progress": 0.01471
     },
     "さいたま市北区": {
       "flyer_count": 846,
