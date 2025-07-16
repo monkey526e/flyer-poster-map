@@ -1,9 +1,9 @@
 {
   "北海道": {
     "全市区町村": {
-      "flyer_count": 2980,
+      "flyer_count": 3080,
       "households": 2476846,
-      "flyer_progress": 0.0012
+      "flyer_progress": 0.00124
     },
     "札幌市中央区": {
       "flyer_count": 100,
@@ -21,9 +21,9 @@
       "flyer_progress": 0.0
     },
     "札幌市白石区": {
-      "flyer_count": 390,
+      "flyer_count": 490,
       "households": 108233,
-      "flyer_progress": 0.0036
+      "flyer_progress": 0.00453
     },
     "札幌市豊平区": {
       "flyer_count": 0,
@@ -2681,9 +2681,9 @@
   },
   "埼玉県": {
     "全市区町村": {
-      "flyer_count": 1332,
+      "flyer_count": 1350,
       "households": 3162743,
-      "flyer_progress": 0.00042
+      "flyer_progress": 0.00043
     },
     "さいたま市西区": {
       "flyer_count": 437,
@@ -2691,9 +2691,9 @@
       "flyer_progress": 0.01144
     },
     "さいたま市北区": {
-      "flyer_count": 803,
+      "flyer_count": 821,
       "households": 66563,
-      "flyer_progress": 0.01206
+      "flyer_progress": 0.01233
     },
     "さいたま市大宮区": {
       "flyer_count": 0,
