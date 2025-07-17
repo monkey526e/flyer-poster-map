@@ -1,9 +1,9 @@
 {
   "北海道": {
     "全市区町村": {
-      "flyer_count": 7670,
+      "flyer_count": 7950,
       "households": 2476846,
-      "flyer_progress": 0.0031
+      "flyer_progress": 0.00321
     },
     "札幌市中央区": {
       "flyer_count": 1210,
@@ -36,9 +36,9 @@
       "flyer_progress": 0.00032
     },
     "札幌市西区": {
-      "flyer_count": 2370,
+      "flyer_count": 2650,
       "households": 103849,
-      "flyer_progress": 0.02282
+      "flyer_progress": 0.02552
     },
     "札幌市厚別区": {
       "flyer_count": 30,
