@@ -6565,9 +6565,9 @@
   },
   "兵庫県": {
     "全市区町村": {
-      "flyer_count": 300,
+      "flyer_count": 1300,
       "households": 2402484,
-      "flyer_progress": 0.00012
+      "flyer_progress": 0.00054
     },
     "神戸市東灘区": {
       "flyer_count": 0,
@@ -6690,9 +6690,9 @@
       "flyer_progress": 0.0
     },
     "川西市": {
-      "flyer_count": 0,
+      "flyer_count": 1000,
       "households": 63331,
-      "flyer_progress": 0.0
+      "flyer_progress": 0.01579
     },
     "小野市": {
       "flyer_count": 0,
