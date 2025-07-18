@@ -2681,9 +2681,9 @@
   },
   "埼玉県": {
     "全市区町村": {
-      "flyer_count": 2400,
+      "flyer_count": 2500,
       "households": 3162743,
-      "flyer_progress": 0.00076
+      "flyer_progress": 0.00079
     },
     "さいたま市西区": {
       "flyer_count": 1097,
@@ -2811,9 +2811,9 @@
       "flyer_progress": 0.0
     },
     "上尾市": {
-      "flyer_count": 160,
+      "flyer_count": 260,
       "households": 96559,
-      "flyer_progress": 0.00166
+      "flyer_progress": 0.00269
     },
     "草加市": {
       "flyer_count": 0,
