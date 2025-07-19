@@ -1843,9 +1843,9 @@
   },
   "福島県": {
     "全市区町村": {
-      "flyer_count": 600,
+      "flyer_count": 900,
       "households": 742911,
-      "flyer_progress": 0.00081
+      "flyer_progress": 0.00121
     },
     "福島市": {
       "flyer_count": 0,
@@ -1858,9 +1858,9 @@
       "flyer_progress": 0.0
     },
     "郡山市": {
-      "flyer_count": 0,
+      "flyer_count": 300,
       "households": 140441,
-      "flyer_progress": 0.0
+      "flyer_progress": 0.00214
     },
     "いわき市": {
       "flyer_count": 0,
